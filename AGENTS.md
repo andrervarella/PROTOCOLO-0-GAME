@@ -17,3 +17,6 @@ Leia `README.md`, `docs/00_RESUMO_DE_CONTINUIDADE.md`, `docs/DECISOES.md`, `docs
 
 ## Adendo de continuidade 17/11/2026
 Leia também `docs/07_DIRECAO_CRIATIVA_E_TRAMA_17_11_2026.md` e `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md`. Preserve os objetivos explicitamente indicados pelo dono, mas não trate como aprovados os exemplos de história, falas e sistemas propostos pelo assistente. Os três itens por chefe, escolhas dramáticas aos ~30% e meio do jogo, quatro finais e estilo de diálogo acessível ainda exigem detalhamento.
+
+## Continuidade — referência Gundam 00 e energia (17/11/2026)
+Consultar `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md` para orientar geopolítica e recursos. O nome citado oralmente como “Gundam Switch” é **provavelmente Mobile Suit Gundam 00**, cuja premissa de blocos econômicos e energia solar foi identificada; **inspirar-se no tema, sem copiar elevadores orbitais, mechas, blocos, entidades, personagens ou conflitos específicos**. Diferenciar sempre diretriz do dono, hipótese e proposta. Atualização do combate no doc 08: dois momentos/animações variantes para ataques especiais, cutscenes curtas de até cerca de 5 s, sujeito à viabilidade técnica.

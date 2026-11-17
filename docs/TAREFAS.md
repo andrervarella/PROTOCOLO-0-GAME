@@ -27,3 +27,11 @@ Tarefa de conteúdo ≠ build realizado. Fechamento técnico exige implementaç�
 - **ABERTA:** estruturar em roteiro as escolhas ~30% + metade **mais 4–5 decisões adicionais depois de ~50–60%**, com consequências acumuladas para ~4 finais; cerca de 6–7 grandes escolhas no total, condicionadas ao ajuste de ritmo.
 - **Critérios:** decisões fáceis de entender e difíceis emocionalmente, pesos/flags testáveis e consequências causais; apresentar opções de escrita ao proprietário para aprovação antes de fechar cenas. Sem narrativa infantilizada, sem barreiras artificiais.
 - **Revisão/testes:** documentação requer revisão independente; diagrama e lógica do jogo ainda NÃO construídos.
+
+## Adendo de tarefas — referência energética e animação (17/11/2026)
+| ID | Situação | Escopo | Critério |
+|---|---|---|---|
+| PZ-T-013 | ABERTA | Projetar matriz energética original, rotas de distribuição, poder político e dependências de HELION/NEXUS/ATLAS, inspiradas por questões de Gundam 00 sem copiar elevadores/mechas | Mapa político/econômico e conflitos aprovados |
+| PZ-T-014 | ABERTA | Orçar e testar duas variações de microcutscenes de até ~5 s para ataques principais, somente após aprovação do sistema de combate e das ferramentas | Decisão de custo e protótipo audiovisual avaliado; nenhum vídeo gerado agora |
+
+Atualização de docs é etapa FAZER documental; revisão independente e testes NÃO executados.

@@ -36,3 +36,11 @@ Ler `docs/07_DIRECAO_CRIATIVA_E_TRAMA_17_11_2026.md` e `docs/08_ESCOLHAS_PROGRES
 | PZ-DEC-020 | DIRETRIZ DO DONO | **Além** dos marcos dramáticos de ~30% e metade, incluir **mais 4–5 escolhas emocionalmente difíceis a partir de ~50–60%**, com efeito cumulativo sobre ~4 finais. Linguagem das escolhas simples o bastante para criança de ~5 anos entender, preservando a maturidade temática. | Distribuição final, dilemas concretos, personagens atingidos, variáveis narrativas e gatilhos dos finais |
 
 **Prevalência:** PZ-DEC-020 amplia PZ-DEC-015. Se arquivos mais antigos mencionarem somente duas escolhas obrigatórias, usar esta atualização. Não canonizar exemplos ilustrativos sem aprovação.
+
+## PZ-DEC-021 — complemento do dono (17/11/2026)
+| ID | Estado | Diretriz | Pendente |
+|---|---|---|---|
+| PZ-DEC-021 | DIRETRIZ DO DONO | Inspirar-se em **Mobile Suit Gundam 00** (identificação provável do anime mencionado como “Gundam Switch”) para a política da transição energética: fósseis, eletricidade, solar, nuclear e renováveis; potências/territórios econômica e tecnologicamente diferentes, regiões pobres e reviravoltas políticas. **Não copiar a torre/elevador orbital**, nem o universo de Gundam ou mechas. Robôs pontuais são possíveis. | Modelo original da rede energética, política, distribuição, governantes, tipos de robôs |
+| PZ-DEC-022 | DIRETRIZ DO DONO, IMPLEMENTAÇÃO PENDENTE | Ataques especiais/principais em combate estilo Epic Seven com pelo menos **duas animações cinematográficas breves por ataque principal**, cada uma de até cerca de 5 s, respeitando ritmo de jogo. | Planejamento de habilidades, orçamento e formato real dos vídeos |
+
+Detalhes, modelos de conflito e sugestões de infraestrutura **não aprovados** em `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md`. O combate híbrido com RPG para chefes ainda está **EM ESTUDO**, não escolhido.

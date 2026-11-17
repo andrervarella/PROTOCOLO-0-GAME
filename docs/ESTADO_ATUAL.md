@@ -23,3 +23,9 @@
 - **Diálogo/UI:** dilemas profundamente emocionais, porém compreensíveis até por criança de ~5 anos, sem transformar narrativa adulta em infantil.
 - **Prevalência:** ler `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md` seção de atualização mais recente e `docs/DECISOES.md` PZ-DEC-020; trechos antigos sobre apenas duas escolhas foram ampliados.
 - **Status:** apenas planejamento narrativo; nenhuma cena, cutscene ou código implementado.
+
+## Adendo mais recente — 17/11/2026
+- **Briefing ampliado:** influência temática provável de **Mobile Suit Gundam 00** para transição energética, recursos, geopolítica, riqueza/desigualdade e surpresas políticas. NÃO copiar elevadores/torres solares e NÃO adotar mechas como identidade; robôs são opção pontual.
+- **Sistema energético ainda NÃO definido:** avaliar papel de fósseis, solar, nuclear, armazenamento, transporte/distribuição, conflitos por materiais/energia nas três potências. Ver `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md`.
+- **Preferência de apresentação dos golpes:** ataques especiais/principais com ~2 animações/cutscenes variantes de no máximo ~5 s, sujeito à definição técnica. Roteiro, cenas e combate híbrido ainda em estudo.
+- **Status:** atualização documental apenas; nenhum código, vídeo, imagem ou teste produzido.

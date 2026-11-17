@@ -36,3 +36,6 @@ Seguir `andrervarella/PROMPT-MESTRE-CRIACAO-DE-GAMES-GAMES`, versão V4.5 ou a m
 - [Recompensas de chefes, personalização, escolhas e múltiplos finais](docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md)
 - [Registro atualizado de decisões](docs/DECISOES.md) e [handoff para Cláudio](docs/HANDOFF.md).
 **IMPORTANTE:** ideias e hipóteses não são cenas ou regras canônicas. Branch `dev` é fonte de trabalho no PR #1 ainda aberto. Nenhuma nova arte ou build foi publicada.
+
+## Nova referência narrativa: transição energética (17/11/2026)
+Ler [`docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md`](docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md): inspiração política e energética de **Mobile Suit Gundam 00** (provável anime lembrado pelo proprietário), sem usar a torre/elevador orbital nem adotar mechas como identidade. A relação original entre HELION, NEXUS e ATLAS, os tipos de energia e os robôs possíveis seguem em desenvolvimento. A preferência por **microcutscenes de até ~5 segundos, com pelo menos duas variações animadas por ataque especial principal**, está em `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md`; é meta criativa, não asset ou mecânica concluída.

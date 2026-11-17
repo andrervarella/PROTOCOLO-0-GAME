@@ -23,3 +23,6 @@
 - `01_ASSETS_EM_PRODUCAO/PZ-ALT-005_comparativo_dos_dois_games.png`.
 
 **As imagens são concepts/posters, não spritesheets para uso imediato.** Criar fichas de produção e sprites finais somente depois da validação da identidade e de um piloto de animação.
+
+## Nova restrição de referência (17/11/2026)
+A influência de **Mobile Suit Gundam 00** é **geopolítica e narrativa**, não uma mudança de identidade visual. **Sem elevador/torre solar inspirada em Gundam; sem importar mechas como núcleo do jogo.** O dono aceita considerar robôs como NPCs/inimigos/máquinas de trabalho, sempre subordinados à estética 2D anime adulta dark e ao mundo de PROTOCOLO ZERO. Tecnologias energéticas podem afetar cenários de forma original: redes elétricas, reservatórios de energia, pequenas instalações, transporte e infraestrutura industrial. Não gerar concept art sem autorização. Ver `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md`.
