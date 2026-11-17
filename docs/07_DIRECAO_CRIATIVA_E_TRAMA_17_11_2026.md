@@ -1,0 +1,45 @@
+
+# PROTOCOLO ZERO — DIREÇÃO CRIATIVA E TRAMA EM DESENVOLVIMENTO
+**Registro de conversa de 17/11/2026.** Esta é uma síntese para continuidade entre ChatGPT, Claude e Codex. **NÃO é a bíblia narrativa aprovada.**
+Ler junto a `DECISOES.md`, `02_HISTORIA_E_UNIVERSO.md`, `05_DIRECAO_DE_ARTE.md` e `08_ESCOLHAS_PROGRESSAO_E_FINAIS.md`.
+
+## Visão expressa pelo proprietário — diretrizes de exploração criativa
+- Construir um jogo **original** que integre referências, sem copiar universo, personagens, estruturas, cenas, visuais específicos, símbolos ou narrativas protegidas.
+- **O Conde de Monte Cristo**: usar a ideia dramática de homem traído/encarcerado, aprendizado com mentor sábio e retorno transformado. O proprietário quer que **Silas tenha uma vida e história anteriores ao cárcere**; ele ainda não selecionou o grau de culpa do protagonista.
+- **Elysium**: tecnologia funcional, exoesqueletos/implantes utilitários, assimetria entre luxo e precariedade, vigilância e unidades armadas de perseguição.
+- **Distrito 9**: bairros pobres/improvisados dentro ou sob infraestrutura avançada, desigualdade visível, militares/paramilitares e governantes com interesses próprios. Favela tecnológica não deve ser somente cenário hostil: população civil, economia e vida real.
+- **Duna**: monumentalidade, austeridade e poder territorial; possibilidade especial de região árida com linguagem arquitetônica inspirada pelo Oriente Médio, **sem copiar Arrakis, Fremen, roupas/símbolos nem fundir culturas distintas em caricatura**.
+- **Cyberpunk 2077**: tecnologia e cidade complexas, armas trocáveis, roupas/skins, implantes e inventário; **escopo reduzido**, apropriado a 2D de equipe pequena e não replicado mecanicamente.
+- **Vampire Hunter + The King of Fighters + Castlevania/Mega Man**: anime adulto dark, silhuetas/poses e ação/exploração legíveis, sem copiar sprites ou personagens. Neon comedido.
+- **Death Note (construção de suspense, não sobrenatural)**: planos e contraplano, armadilhas, revelações motivadas por pistas anteriores, jogos de informação e reinterpretações de acontecimentos. Evitar reviravolta arbitrária ou personagens oniscientes.
+- **Mensagem temática desejada pelo dono:** humanos tentam culpar a IA LIMIAR por tragédias cujas causas e manipulações são humanas. Revelação importante perto do final, com pistas plantadas antes. Não fechar desde já LIMIAR como impecável, onisciente ou inocente de toda consequência.
+- **Cenas cinematográficas (cutscenes):** desejo de produzir vídeos com ferramenta externa e ajuda de Claude; ferramenta mencionada como “Riggsfield” (nome/integração a confirmar). Planejar cenas de virada, transformações, golpes importantes e ataques especiais, mas evitar interrupções frequentes, repetitivas, longas ou serviços pagos não aprovados.
+
+## Três potências — propostas de diferenciação, NÃO geografia final
+- **HELION — energia/orbital:** arquitetura monumental mais clara, elite protegida, energia/infraestrutura e contraste entre área privilegiada e assentamentos excluídos. Referência funcional: contraste social de Elysium. **Proposta** de cor: branco queimado, aço, dourado contido.
+- **NEXUS — neurotecnologia/biomedicina:** cidade vertical escura, laboratórios, implantes, clínicas formais e clandestinas, vigilância e densidade urbana chuvosa. **Proposta** de cor: grafite, azul frio, vermelho técnico.
+- **ATLAS — recursos, abastecimento, transporte:** complexo industrial e rotas, reservatórios, minerais, logística, áreas áridas de inspiração regional médio-oriental; grandes silos e infraestrutura pesada. **Proposta** de cor: ocre, ferrugem, bronze, sombra.
+- **PENDENTE:** localização das três regiões, nomes de cidades, clima exato, governos, líderes, fronteiras, relações comerciais/políticas, condições do cidadão comum e como se viaja entre elas.
+- A desigualdade pode atravessar **todas** as potências; não reservar pobreza apenas a NEXUS.
+
+## Força humana que persegue Silas — diretriz desejada / design proposto
+O dono quer **equipes paramilitares treinadas, recorrentes e ligadas a autoridades/governantes**, inspiradas na pressão presente em Elysium e Distrito 9. Proposta: unidade oficial antiterrorismo tecnológico que caça Silas; oficiais treinados, armamentos e equipamentos de contenção, comandantes e contramedidas progressivas. **Nome, liderança, governante, lealdades e presença por fase não aprovados**. Comandante recorrente não deve ser automaticamente contado entre os seis chefes fixos.
+
+## Silas, mentor e conspiração — proposta de roteiro, NÃO cânone fechado
+- **Origem em estudo:** Silas ex-agente de segurança/infiltração, envolvido em operação contra instalação supostamente ligada a LIMIAR; ação termina em tragédia, provas alteradas e Silas responsabilizado/encarcerado em instalação de testes ÉREBO.
+- **Mentor em estudo:** sábio prisioneiro com conhecimento político e tecnológico, possivelmente participante culpado de sistemas de manipulação. Ele educa Silas, guarda segredos, talvez o ajude a escapar. Identidade, destino, relação com NEX e real função do mentor **pendentes**.
+- **Três origens analisadas, sem decisão do usuário:** A) íntegro totalmente traído; B) executou ordens questionáveis e enfrenta culpa/redenção (preferência editorial do assistente, **não escolha do dono**); C) passado parcialmente apagado.
+- **Mecanismo de suspense em estudo:** ataques atribuídos à IA aparentemente beneficiam grupos humanos; registros contraditórios e jogos políticos gradualmente revelam manipulação humana. Não formalizar detalhes como evento histórico sem nova aprovação.
+- **Subtramas ilustrativas, NÃO aprovadas:** roubo de comboio usado como distração para forçar medida estatal e criar registro comprometedor; perseguidor que deixa Silas fugir para usá-lo como caminho até informação sigilosa. Esses são exemplos do *tipo* de reviravolta, não missões obrigatórias.
+- Alianças, pessoas amadas, governantes, líderes de potência, mentor, comandante, episódios e roteiro de 3 atos ainda exigem escrita e aprovação.
+
+## Os seis chefes são fixos como nomes/eixos, NÃO como fichas
+HÉLIX (magnetismo); MAESTRO (fios/filamentos); ROOK (impactos/barreiras); SEPHRA (duplicatas/ilusões/identidade); KHEIRON (eletricidade); ORÁCULO (ligado à LIMIAR/combinação de técnicas).
+**Não confirmar** design, função política, ordem, arenas, falas, recompensas específicas ou que ORÁCULO seja o único desfecho. Novos designs passam por aprovação do dono.
+
+## Próxima sessão criativa
+1. Resolver a origem moral de Silas (A/B/C ou híbrido escolhido pelo dono) e o motivo da queda; evitar obrigá-lo a repetir decisões já preservadas.
+2. Definir mentor e relação de Silas com a tecnologia/forças humanas; conectar o prólogo às três potências.
+3. Desenvolver a verdade secreta, pistas e contraplano sobre LIMIAR antes de especificar os grandes momentos.
+4. Definir governantes, comandante paramilitar, geografia e culturas próprias; depois os seis chefes e mecânicas.
+5. Planejar visual e cutscenes somente após a base narrativa, sem gerar imagens nem consumir créditos sem autorização.
