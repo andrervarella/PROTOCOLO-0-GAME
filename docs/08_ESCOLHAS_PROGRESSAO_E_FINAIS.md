@@ -44,3 +44,11 @@
 ## Portões de aprovação
 **Já solicitado:** pluralidade de opções de evolução; escolhas difíceis nos dois marcos; quatro finais; pouca quantidade de itens.
 **Não decidido:** mecanismos de implementação, árvore de finais, personagens sacrificados, quando se consegue cada recompensa, números, limite de itens, se a progressão é irreversível e como funcionará o sistema híbrido.
+
+## Complemento de recompensa e dilema (pedido explícito, 17/11/2026)
+- **Cada chefe deve apresentar uma escolha entre três itens.** O dono mencionou armas e tecnologias como possíveis prêmios. Entre as três opções deve haver pelo menos **um implante cibernético interno** e **um equipamento mecânico externo/acoplável não implantado**, como um exobraço robótico removível.
+- O terceiro tipo foi descrito oralmente de maneira ambígua, incluindo uma referência a “outro tipo de coisa que é implantado”. **NÃO fixar a terceira categoria ainda.** Pode ser outro implante, arma ou ferramenta, mas exige decisão do dono.
+- A escolha por implante deve exibir aviso claro: o uso crescente pode fazer Silas sentir-se/ficar **cada vez menos humano** e criar dilema com repercussão narrativa. **Não presumir que prótese/ciborguização torne alguém moralmente mau.** Mecânicas, limiares, reversão, consequências e integração com finais ainda em aberto.
+- O conceito antigo “poder fixo + equipamento exclusivo” precisa ser reconciliado com as três escolhas. Não implementar simultaneamente as duas regras sem validação.
+- O dono quer **escolhas difíceis por volta de 30% e de metade do jogo**, com cerca de **quatro finais de tons diferentes**. Não escolher por ele a pessoa amada, o sacrifício ou os gatilhos de final.
+- **Interface e escrita:** alertas e explicações breves, com termos comuns e consequências compreensíveis.

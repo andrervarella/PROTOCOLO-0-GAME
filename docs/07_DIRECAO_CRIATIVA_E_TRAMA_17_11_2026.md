@@ -43,3 +43,10 @@ HÉLIX (magnetismo); MAESTRO (fios/filamentos); ROOK (impactos/barreiras); SEPHR
 3. Desenvolver a verdade secreta, pistas e contraplano sobre LIMIAR antes de especificar os grandes momentos.
 4. Definir governantes, comandante paramilitar, geografia e culturas próprias; depois os seis chefes e mecânicas.
 5. Planejar visual e cutscenes somente após a base narrativa, sem gerar imagens nem consumir créditos sem autorização.
+
+## Diretriz do dono para diálogos e voz (17/11/2026)
+- Diálogos **inteligentes, com reflexões sobre humanidade, sociedade e tecnologia, mas muito claros**, compreensíveis até para uma criança de cerca de seis anos em termos de vocabulário e frases. A temática permanece adulta.
+- Português brasileiro atual e natural, sem gírias em excesso. Um personagem mais jovem **poderia** usar mais gírias como traço de personalidade, mas ainda não existe personagem aprovado.
+- Falas curtas, com subtexto e conflitos que emergem de ações. Evitar palestras, jargão técnico e explicações incompreensíveis.
+- **Exemplos de tom, não falas aprovadas:** “Se a máquina fez isso, quem mandou nela?” / “Uma mão de metal não escolhe o que você faz com ela.”
+- Personagens precisam ter vozes distintas, sem perder a clareza. Subtramas e reviravoltas devem ser explicadas visualmente e por consequências, não discursos.

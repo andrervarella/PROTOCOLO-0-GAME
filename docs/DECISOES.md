@@ -13,3 +13,19 @@
 | PZ-DEC-009 | PENDENTE | Detalhes de poderes, escolha de equipamentos, finais, fases, boss patterns e aparências individuais ainda exigem confirmação. | Lacunas do resgate |
 
 **Nota:** IDs PZ-DEC criados como índice de preservação em 17/11/2026; não reproduzem IDs existentes de uma fonte anterior.
+
+## Diretrizes de 17/11/2026 (identificar objetivo versus proposta)
+| ID | Estado | Orientação | Em aberto |
+|---|---|---|---|
+| PZ-DEC-010 | DIRETRIZ DO DONO | Estética original cruzando Elysium, Distrito 9, Duna, Cyberpunk 2077 e anime adulto dark; desigualdade, favelas tecnológicas, governos e paramilitares. | Cenários, design e política detalhados |
+| PZ-DEC-011 | DIRETRIZ DO DONO | Influência estrutural de O Conde de Monte Cristo no passado de Silas, mentor e traição; reviravoltas inteligentes de Death Note sem sobrenatural. | Eventos/mentor, origem moral do protagonista |
+| PZ-DEC-012 | DIRETRIZ DO DONO | Revelar no fim o papel humano em crises atribuídas a LIMIAR. | Autorias e pistas |
+| PZ-DEC-013 | DIRETRIZ DO DONO | Poucas armas/skins; **três opções de item após cada chefe**, incluindo implante interno e equipamento mecânico externo não implantado. | Terceira categoria e poder garantido |
+| PZ-DEC-014 | DIRETRIZ DO DONO | Corpo progressivamente cibernético é caminho opcional; implantes devem provocar dilema de perda de humanidade. | Consequências sem equivaler a perda moral |
+| PZ-DEC-015 | DIRETRIZ DO DONO | Escolhas difíceis em ~30% e no meio da campanha, afetando aproximadamente quatro finais. | Árvore de resultados, personagens |
+| PZ-DEC-016 | EM CONSIDERAÇÃO | Combate de ação 2D para comuns + RPG estratégico para chefes com até ~8 possíveis aliados e 2 escolhidos. | Validar viabilidade/decidir |
+| PZ-DEC-017 | EM CONSIDERAÇÃO | Cutscenes externas em ataques/eventos e mecânicas interessantes para vídeos comerciais. | Custos, frequência, produção |
+| PZ-DEC-018 | DIRETRIZ DO DONO | Diálogo reflexivo, inteligente, simples e atual, compreensível em vocabulário para criança pequena; pouco uso de gírias. | Personagens e vozes; jovem com gírias é sugestão |
+| PZ-DEC-019 | PROPOSTAS NÃO APROVADAS | Silas moralmente culpado, mentor com culpa, comandante paramilitar específico, exemplos de reviravolta, paletas por região e poderes novos específicos. | Aprovação individual |
+
+Ler `docs/07_DIRECAO_CRIATIVA_E_TRAMA_17_11_2026.md` e `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md`. Orientações do dono preservadas; **detalhes inventados pelo assistente NÃO se tornam cânone**.

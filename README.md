@@ -30,3 +30,9 @@
 Seguir `andrervarella/PROMPT-MESTRE-CRIACAO-DE-GAMES-GAMES`, versão V4.5 ou a mais recente confirmada. O dono é o diretor criativo; propostas técnicas alternativas são bem-vindas, especialmente quando uma regra dificulta concluir o jogo com qualidade, mas decisões criativas aprovadas, gastos, publicação e privacidade exigem autorização.
 
 **Aviso:** este repositório é **público**. Não publicar fotos privadas, novas imagens inéditas, arquivos-fonte privados ou links do Drive sem decisão informada do proprietário.
+
+## Continuidade criativa mais recente (17/11/2026)
+- [Direção de trama, referências artísticas, regiões e diálogo](docs/07_DIRECAO_CRIATIVA_E_TRAMA_17_11_2026.md)
+- [Recompensas de chefes, personalização, escolhas e múltiplos finais](docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md)
+- [Registro atualizado de decisões](docs/DECISOES.md) e [handoff para Cláudio](docs/HANDOFF.md).
+**IMPORTANTE:** ideias e hipóteses não são cenas ou regras canônicas. Branch `dev` é fonte de trabalho no PR #1 ainda aberto. Nenhuma nova arte ou build foi publicada.

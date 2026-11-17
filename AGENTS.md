@@ -14,3 +14,6 @@ Leia `README.md`, `docs/00_RESUMO_DE_CONTINUIDADE.md`, `docs/DECISOES.md`, `docs
 - **Drive:** originais, artes em produção e arquivos grandes (`GAMES_IA/PROTOCOLO ZERO/`). **GitHub:** código, docs, manifestos e assets finais de runtime necessários para rodar. Este repo é público; não subir referências inéditas sem aviso e decisão do dono. Não publicar links do Drive.
 - Não apagar ou substituir arte aprovada. Custos, publicação, mudança radical de engine/identidade, visibilidade do repositório e novas decisões narrativas significativas exigem aprovação do dono.
 - Se o protocolo causar bloqueio, informe a barreira, explique alternativas e recomende o caminho mais viável para concluir o jogo com excelência. O método serve à produção, não a interrompe.
+
+## Adendo de continuidade 17/11/2026
+Leia também `docs/07_DIRECAO_CRIATIVA_E_TRAMA_17_11_2026.md` e `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md`. Preserve os objetivos explicitamente indicados pelo dono, mas não trate como aprovados os exemplos de história, falas e sistemas propostos pelo assistente. Os três itens por chefe, escolhas dramáticas aos ~30% e meio do jogo, quatro finais e estilo de diálogo acessível ainda exigem detalhamento.
