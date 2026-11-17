@@ -35,3 +35,6 @@
 - **Novos documentos**: `docs/10_IA_CHIPS_MINERAIS_E_RITMO_NARRATIVO.md` e `docs/11_MECANICAS_E_TRAILERS_CONCEITOS.md`.
 - O roteiro consolidado, 6–7 escolhas, ~4 finais, sistema híbrido e cenas ainda NÃO foram aprovados como design final. Permanece **pré-produção**; não há jogo executável, vídeos ou imagens novos.
 - Próxima decisão narrativa com dono: origem moral de **Silas Venn**, protagonista oficial (o nome “Rem” foi dito na conversa, mas NÃO é autorização para renomear Silas). Depois definir mentor e queda, antes de fixar a conspiração.
+
+## Marco narrativo aprovado — 17/11/2026
+**PZ-DEC-026, APROVADO:** Silas cumpriu ordens injustas sem saber toda a verdade, acreditando estar fazendo o certo. Ao compreender as consequências, tentou corrigir os erros e foi traído. A origem moral **não está mais pendente**; os eventos específicos, personagens e mecanismos da traição continuam em desenvolvimento. Próximo passo: definir o principal vínculo emocional de Silas antes da queda, uma pergunta por vez; depois operação, autor e motivo da traição. Material documental apenas, sem mídia/build.

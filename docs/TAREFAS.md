@@ -44,3 +44,6 @@ Atualização de docs é etapa FAZER documental; revisão independente e testes 
 | PZ-T-017 | ABERTA | Selecionar 2–3 mecânicas de alto impacto **jogável**, orçar protótipo e conectar a momentos promocionais honestos | Avaliação técnica, protótipo e aprovação criativa |
 
 O trabalho desta atualização é só documentação, não construção nem teste.
+
+## Atualização PZ-T-008 — opção B escolhida (17/11/2026)
+**PARCIALMENTE AVANÇADA:** origem moral de Silas foi aprovada: agente cumpriu ordens erradas, acreditou estar certo, tentou reparação e foi traído (PZ-DEC-026). **Permanecem ABERTOS:** vínculo emocional e passado anterior, quem deu ordens, o que foi feito, a descoberta do erro, a traição, mentor, prisão, conspiração e desfecho. Não marcar PZ-T-008 como concluída até o dono aprovar os detalhes.

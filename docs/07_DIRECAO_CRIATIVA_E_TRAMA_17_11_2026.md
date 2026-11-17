@@ -53,3 +53,7 @@ HÉLIX (magnetismo); MAESTRO (fios/filamentos); ROOK (impactos/barreiras); SEPHR
 
 ## Ganchos, tensão e clareza (17/11/2026)
 Diretriz do dono: desenvolver filosofia inteligível (até no vocabulário de criança de cinco anos), suspense e reviravoltas que prendam pelo interesse real da história e das decisões, sem interromper a jogabilidade constantemente. **Proposta não canônica de estrutura:** ação e objetivo claros → suspeita → descoberta contraditória → consequência humana → nova pergunta. Alternar trechos de exploração com decisões/tensão, preservar respiros e pistas que permitam entender as reviravoltas. Exemplos de crise mineral, apagão, mina, refino e traição só viram acontecimentos após aprovação. Ver docs 10 e 11.
+
+## Decisão expressa após as opções A/B/C — 17/11/2026
+O proprietário respondeu: **“Escolho B: Silas cumpriu ordens erradas acreditando estar fazendo o certo, depois tentou corrigir seus erros e foi traído.”**
+**STATUS: APROVADO** como base da origem moral do protagonista. A lista anterior A/B/C permanece apenas histórico de alternativas. Não voltar a perguntar qual opção ele prefere. A opção B dá espaço a culpa, reparação e reflexões humanas. Não inventar automaticamente vítimas, pessoa amada, agente traidor, ordem concreta, local de prisão ou mentor como fatos canônicos. **Próxima decisão criativa:** identificar vínculo emocional de Silas antes da queda (uma questão por vez), depois revelar natureza da missão e da traição.

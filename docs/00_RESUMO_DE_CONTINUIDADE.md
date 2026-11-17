@@ -41,3 +41,6 @@ Ideia de obter **1 poder** e fazer **1 escolha de equipamento exclusivo** ao ven
 ## Próxima ação
 
 Usar o acervo como base e **aprofundar com o dono a história, os protagonistas, os seis chefes, cidades, diálogos e novos concept arts**, sem refazer o que já foi aprovado e sem inventar aprovações. Mostrar propostas claramente para validação antes de canonizá-las.
+
+## Decisão mais recente do dono — Silas Venn (17/11/2026)
+**PZ-DEC-026 APROVADO:** Silas cumpriu ordens erradas acreditando estar fazendo o certo. Depois tentou corrigir seus erros e foi traído. A opção **B foi escolhida**; A e C não são a origem vigente. Quem ele amava, o que fez, quem foi prejudicado, quem o traiu e por quê ainda serão desenvolvidos com uma pergunta por vez. Não confundir com os exemplos narrativos não aprovados em docs 07/10.

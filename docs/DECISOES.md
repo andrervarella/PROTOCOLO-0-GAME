@@ -53,3 +53,10 @@ Detalhes, modelos de conflito e sugestões de infraestrutura **não aprovados** 
 | PZ-DEC-025 | DIRETRIZ DO DONO | Propor mecânicas e cenas memoráveis que o jogador realmente vivencie, aproveitáveis em cortes de Instagram e trailers da Steam para despertar interesse e venda; a experiência divertida tem prioridade sobre monetização. | Seleção de mecânicas, prototipagem, vídeos e orçamento |
 
 **Modelos propostos por assistente NÃO aprovados:** “apagão deliberado”, “roubo de núcleo/industrial”, “parry de ÉREBO”, “batalha com mudança de regra”, layouts de teaser. Ler docs 10/11. **Sem vídeo, imagem, demo ou marketing gerado.**
+
+## Decisão nova — 17/11/2026
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-026 | **APROVADO PELO DONO** | Origem moral de **Silas Venn = opção B**: cumpriu ordens erradas acreditando que fazia o certo; descobriu o erro, tentou corrigi-lo e **foi traído**. A história deve tratar culpa, responsabilidade e reparação, sem absolvê-lo automaticamente. | Quem emitiu ordens, vítimas, ligação afetiva, missão, mecanismo da descoberta, autor da traição e motivo do cárcere |
+
+**Prevalência:** esta escolha SUPERA a redação anterior em PZ-DEC-019 e nos docs 07/HANDOFF/ESTADO_ATUAL que indicavam “Silas moralmente culpado” como mera proposta ou a opção moral ainda pendente. Apenas a estrutura descrita em PZ-DEC-026 foi aprovada; exemplos específicos anteriores não foram aprovados. Não perguntar novamente A/B/C.
