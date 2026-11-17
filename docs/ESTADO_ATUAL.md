@@ -17,3 +17,9 @@
 - **Referências essenciais:** `docs/07_DIRECAO_CRIATIVA_E_TRAMA_17_11_2026.md` e `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md`, `docs/DECISOES.md`.
 - **Acervo:** 8 PNGs presentes no Drive; hashes locais comparados com manifesto, todos coincidentes. Nenhum novo asset/serviço pago.
 - **Revisão independente:** pendente. `dev` alimenta PR #1 aberto; evitar merge automático.
+
+## Última orientação narrativa (17/11/2026)
+- **Decisões ramificadas:** duas escolhas importantes já previstas (~30% e metade) **mais 4–5 novas escolhas difíceis desde ~50–60%**, aproximadamente 6–7 escolhas no total; suas consequências deverão se somar para gerar ~4 finais. Ainda falta escrever e aprovar eventos, personagens, estrutura de variáveis e final de cada rota.
+- **Diálogo/UI:** dilemas profundamente emocionais, porém compreensíveis até por criança de ~5 anos, sem transformar narrativa adulta em infantil.
+- **Prevalência:** ler `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md` seção de atualização mais recente e `docs/DECISOES.md` PZ-DEC-020; trechos antigos sobre apenas duas escolhas foram ampliados.
+- **Status:** apenas planejamento narrativo; nenhuma cena, cutscene ou código implementado.

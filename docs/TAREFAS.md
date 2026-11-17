@@ -22,3 +22,8 @@ Tarefa de conteúdo ≠ build realizado. Fechamento técnico exige implementaç�
 | PZ-T-012 | ABERTA | Desenvolver governantes, paramilitares, regiões, chefes e vozes distintas de diálogos | Fichas e cenas aprovadas |
 
 **Nenhum teste de gameplay realizado.** Revisão cruzada da documentação pendente.
+
+## PZ-T-010 — ampliação do escopo narrativo (17/11/2026)
+- **ABERTA:** estruturar em roteiro as escolhas ~30% + metade **mais 4–5 decisões adicionais depois de ~50–60%**, com consequências acumuladas para ~4 finais; cerca de 6–7 grandes escolhas no total, condicionadas ao ajuste de ritmo.
+- **Critérios:** decisões fáceis de entender e difíceis emocionalmente, pesos/flags testáveis e consequências causais; apresentar opções de escrita ao proprietário para aprovação antes de fechar cenas. Sem narrativa infantilizada, sem barreiras artificiais.
+- **Revisão/testes:** documentação requer revisão independente; diagrama e lógica do jogo ainda NÃO construídos.

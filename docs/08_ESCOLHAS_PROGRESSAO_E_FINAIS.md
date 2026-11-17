@@ -52,3 +52,20 @@
 - O conceito antigo “poder fixo + equipamento exclusivo” precisa ser reconciliado com as três escolhas. Não implementar simultaneamente as duas regras sem validação.
 - O dono quer **escolhas difíceis por volta de 30% e de metade do jogo**, com cerca de **quatro finais de tons diferentes**. Não escolher por ele a pessoa amada, o sacrifício ou os gatilhos de final.
 - **Interface e escrita:** alertas e explicações breves, com termos comuns e consequências compreensíveis.
+
+## ATUALIZAÇÃO DO DONO — 17/11/2026, escolhas adicionais a partir de 50–60%
+O dono explicitou que **ALÉM das duas escolhas difíceis anteriormente mencionadas (~30% e meio do jogo)**, deseja **mais quatro ou cinco escolhas emocionalmente difíceis concentradas a partir de aproximadamente 50–60% da campanha**, todas com consequências acumuladas sobre **cerca de quatro finais**. Isto pode totalizar **seis ou sete decisões grandes**, a depender da posição exata da escolha de meio de jogo. A contagem e distribuição final serão reconciliadas na bíblia narrativa, sem excluir escolhas anteriores.
+
+**Regra narrativa declarada pelo dono:**
+- Dilemas difíceis **emocionalmente**, porém muito simples de entender. Mesmo uma criança de cerca de cinco anos precisa compreender a pergunta, quem será afetado e o custo básico de cada alternativa. **Não infantilizar** a história adulta, apenas simplificar as frases, opções e explicações.
+- As escolhas têm efeito **cumulativo**; um final não deve ser determinado isoladamente pela última resposta. Quatro encerramentos de tons diferentes continuam como objetivo, mas gatilhos, cenas e desfechos concretos **não foram aprovados**.
+- Evitar escolhas falsas, consequências imprevisíveis sem pista e um sistema que reduza todos os dilemas a “bom/mau” ou “mais implante = vilão”.
+- Respeitar o dilema prévio sobre implantes e humanidade, mas separá-lo das decisões éticas: modificação do corpo não torna automaticamente uma pessoa menos bondosa.
+
+**Proposta para roteiro (não aprovado como cânone):** estruturar marcos em ~30%, ~50%, ~60%, ~70%, ~80%, ~90% e, se houver sétima, ~95%; ajustar o ritmo para que as decisões não pareçam obrigatórias nem comprimidas no final. Distribuir dilemas por eixos de **lealdade, confiança, proteção de inocentes, verdade e responsabilidade**, com personagens recorrentes que o jogador conheça antes do momento da decisão. Não definir pessoa amada ou morte de alguém sem aprovação.
+
+**Solução técnica sugerida, não aprovada:** pequeno conjunto de estados/flags que registra: o que Silas escolheu, quem foi salvo ou perdido, quais promessas quebrou/cumpriu, aliados que confiam nele, quem sabe a verdade e consequências de escolhas tecnológicas. Regras de convergência desses estados em **quatro finais principais**, com variações curtas de epílogo, em vez de dezenas de finais produzidos separadamente. Não projetar números nem condições secretas definitivas antes de fechar a história.
+
+**Critério de escrita e UX:** cada pergunta ao jogador em linguagem natural e curta, com no máximo 1–2 frases para entender alternativas. Mostrar custo imediato quando Silas pode sabê-lo; repercussões ocultas só quando coerentes e preparadas por pistas. O jogador precisa compreender *o que escolheu*, mesmo sem prever todas as consequências distantes.
+
+**IMPORTANTE:** a redação anterior do documento que dizia que só duas escolhas eram obrigatórias está **superada por esta instrução posterior**. As duas escolhas iniciais ficam preservadas e são somadas às quatro ou cinco adicionais.

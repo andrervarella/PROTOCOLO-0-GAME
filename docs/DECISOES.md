@@ -29,3 +29,10 @@
 | PZ-DEC-019 | PROPOSTAS NÃO APROVADAS | Silas moralmente culpado, mentor com culpa, comandante paramilitar específico, exemplos de reviravolta, paletas por região e poderes novos específicos. | Aprovação individual |
 
 Ler `docs/07_DIRECAO_CRIATIVA_E_TRAMA_17_11_2026.md` e `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md`. Orientações do dono preservadas; **detalhes inventados pelo assistente NÃO se tornam cânone**.
+
+## Atualização posterior — PZ-DEC-020 (17/11/2026)
+| ID | Estado | Decisão | Pendente |
+|---|---|---|---|
+| PZ-DEC-020 | DIRETRIZ DO DONO | **Além** dos marcos dramáticos de ~30% e metade, incluir **mais 4–5 escolhas emocionalmente difíceis a partir de ~50–60%**, com efeito cumulativo sobre ~4 finais. Linguagem das escolhas simples o bastante para criança de ~5 anos entender, preservando a maturidade temática. | Distribuição final, dilemas concretos, personagens atingidos, variáveis narrativas e gatilhos dos finais |
+
+**Prevalência:** PZ-DEC-020 amplia PZ-DEC-015. Se arquivos mais antigos mencionarem somente duas escolhas obrigatórias, usar esta atualização. Não canonizar exemplos ilustrativos sem aprovação.
