@@ -29,3 +29,9 @@
 - **Sistema energético ainda NÃO definido:** avaliar papel de fósseis, solar, nuclear, armazenamento, transporte/distribuição, conflitos por materiais/energia nas três potências. Ver `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md`.
 - **Preferência de apresentação dos golpes:** ataques especiais/principais com ~2 animações/cutscenes variantes de no máximo ~5 s, sujeito à definição técnica. Roteiro, cenas e combate híbrido ainda em estudo.
 - **Status:** atualização documental apenas; nenhum código, vídeo, imagem ou teste produzido.
+
+## Última atualização documental — 17/11/2026
+- O briefing agora inclui conflitos por **chips de IA, terras raras, outros minerais, refino, fábricas e eletricidade**, com identificação correta de papéis industriais. O dono quer filosofia simples, **ganchos e tensão com flow**, além de mecânicas demonstráveis que possam render bons vídeos de divulgação.
+- **Novos documentos**: `docs/10_IA_CHIPS_MINERAIS_E_RITMO_NARRATIVO.md` e `docs/11_MECANICAS_E_TRAILERS_CONCEITOS.md`.
+- O roteiro consolidado, 6–7 escolhas, ~4 finais, sistema híbrido e cenas ainda NÃO foram aprovados como design final. Permanece **pré-produção**; não há jogo executável, vídeos ou imagens novos.
+- Próxima decisão narrativa com dono: origem moral de **Silas Venn**, protagonista oficial (o nome “Rem” foi dito na conversa, mas NÃO é autorização para renomear Silas). Depois definir mentor e queda, antes de fixar a conspiração.

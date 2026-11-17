@@ -35,3 +35,12 @@ Tarefa de conteúdo ≠ build realizado. Fechamento técnico exige implementaç�
 | PZ-T-014 | ABERTA | Orçar e testar duas variações de microcutscenes de até ~5 s para ataques principais, somente após aprovação do sistema de combate e das ferramentas | Decisão de custo e protótipo audiovisual avaliado; nenhum vídeo gerado agora |
 
 Atualização de docs é etapa FAZER documental; revisão independente e testes NÃO executados.
+
+## Tarefas adicionais — recursos para IA, ritmo e trailers (17/11/2026)
+| ID | Estado | Objetivo | Critério |
+|---|---|---|---|
+| PZ-T-015 | ABERTA | Definir economia de recursos em 2054: mina, refino, chips, energia, transporte e dependências entre potências | Premissas críveis e roteiro aprovados pelo dono |
+| PZ-T-016 | ABERTA | Projetar ganchos de capítulo, tensão, clareza emocional e respiros sem prejudicar o fluxo do jogo | Outline e revisão editorial, teste futuro |
+| PZ-T-017 | ABERTA | Selecionar 2–3 mecânicas de alto impacto **jogável**, orçar protótipo e conectar a momentos promocionais honestos | Avaliação técnica, protótipo e aprovação criativa |
+
+O trabalho desta atualização é só documentação, não construção nem teste.

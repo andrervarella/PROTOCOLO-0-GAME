@@ -37,3 +37,7 @@ O usuário chamou o anime de “Gundam Switch” e lembrou de uma torre de energ
 
 ## Limites de produção
 Atualização somente de documentação. Nenhuma imagem, jogo, sprites, vídeo, áudio, cutscene ou serviço pago foi produzido; nenhuma definição narrativa nova foi canonizada. Propostas requerem aprovação antes de implementação.
+
+## Encadeamento adicional — chips de IA e minerais (17/11/2026)
+O mundo deve refletir que o poder depende de **jazida + processamento/refino + fábricas de semicondutores + conhecimento/equipamentos + eletricidade e distribuição**. Terras raras têm funções importantes sobretudo em ímãs e outros componentes, **não se deve afirmar que são a base de todos os processadores de IA**; silício é material central, enquanto gálio e germânio têm aplicações específicas e não são terras raras. As três potências podem usar contratos, tarifas e escassez contra umas às outras. **Distribuição exata é PROPOSTA, não cânone.**
+Fontes atuais para consulta: IEA 2026 `https://www.iea.org/reports/global-critical-minerals-outlook-2026/executive-summary`; IEA 2026 `https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary`; SIA `https://www.semiconductors.org/semiconductors-101/how-have-semiconductors-evolved-over-time/`. Ver doc 10.

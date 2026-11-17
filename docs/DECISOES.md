@@ -44,3 +44,12 @@ Ler `docs/07_DIRECAO_CRIATIVA_E_TRAMA_17_11_2026.md` e `docs/08_ESCOLHAS_PROGRES
 | PZ-DEC-022 | DIRETRIZ DO DONO, IMPLEMENTAÇÃO PENDENTE | Ataques especiais/principais em combate estilo Epic Seven com pelo menos **duas animações cinematográficas breves por ataque principal**, cada uma de até cerca de 5 s, respeitando ritmo de jogo. | Planejamento de habilidades, orçamento e formato real dos vídeos |
 
 Detalhes, modelos de conflito e sugestões de infraestrutura **não aprovados** em `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md`. O combate híbrido com RPG para chefes ainda está **EM ESTUDO**, não escolhido.
+
+## Complemento de 17/11/2026 — PZ-DEC-023 a PZ-DEC-025
+| ID | Estado | Registro | Pendente |
+|---|---|---|---|
+| PZ-DEC-023 | DIRETRIZ DO DONO | Disputas por chips de IA, terras raras, minerais estratégicos, refino e tecnologia como pano de fundo das potências; usar paralelos plausíveis do mundo real em 2054. | Quem domina cada etapa, contratos, políticos, sabotagens e fatos de roteiro |
+| PZ-DEC-024 | DIRETRIZ DO DONO | Diálogos filosóficos simples e diretos; ganchos inteligentes, tensão, fluidez e surpresas merecidas, sempre com consequência humana e preservação de ritmo de gameplay. | Estrutura de capítulos, pontos de tensão, linhas de diálogo |
+| PZ-DEC-025 | DIRETRIZ DO DONO | Propor mecânicas e cenas memoráveis que o jogador realmente vivencie, aproveitáveis em cortes de Instagram e trailers da Steam para despertar interesse e venda; a experiência divertida tem prioridade sobre monetização. | Seleção de mecânicas, prototipagem, vídeos e orçamento |
+
+**Modelos propostos por assistente NÃO aprovados:** “apagão deliberado”, “roubo de núcleo/industrial”, “parry de ÉREBO”, “batalha com mudança de regra”, layouts de teaser. Ler docs 10/11. **Sem vídeo, imagem, demo ou marketing gerado.**

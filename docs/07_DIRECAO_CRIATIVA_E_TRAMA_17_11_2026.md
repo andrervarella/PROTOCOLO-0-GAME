@@ -50,3 +50,6 @@ HÉLIX (magnetismo); MAESTRO (fios/filamentos); ROOK (impactos/barreiras); SEPHR
 - Falas curtas, com subtexto e conflitos que emergem de ações. Evitar palestras, jargão técnico e explicações incompreensíveis.
 - **Exemplos de tom, não falas aprovadas:** “Se a máquina fez isso, quem mandou nela?” / “Uma mão de metal não escolhe o que você faz com ela.”
 - Personagens precisam ter vozes distintas, sem perder a clareza. Subtramas e reviravoltas devem ser explicadas visualmente e por consequências, não discursos.
+
+## Ganchos, tensão e clareza (17/11/2026)
+Diretriz do dono: desenvolver filosofia inteligível (até no vocabulário de criança de cinco anos), suspense e reviravoltas que prendam pelo interesse real da história e das decisões, sem interromper a jogabilidade constantemente. **Proposta não canônica de estrutura:** ação e objetivo claros → suspeita → descoberta contraditória → consequência humana → nova pergunta. Alternar trechos de exploração com decisões/tensão, preservar respiros e pistas que permitam entender as reviravoltas. Exemplos de crise mineral, apagão, mina, refino e traição só viram acontecimentos após aprovação. Ver docs 10 e 11.

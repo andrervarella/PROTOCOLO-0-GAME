@@ -39,3 +39,8 @@ Seguir `andrervarella/PROMPT-MESTRE-CRIACAO-DE-GAMES-GAMES`, versão V4.5 ou a m
 
 ## Nova referência narrativa: transição energética (17/11/2026)
 Ler [`docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md`](docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md): inspiração política e energética de **Mobile Suit Gundam 00** (provável anime lembrado pelo proprietário), sem usar a torre/elevador orbital nem adotar mechas como identidade. A relação original entre HELION, NEXUS e ATLAS, os tipos de energia e os robôs possíveis seguem em desenvolvimento. A preferência por **microcutscenes de até ~5 segundos, com pelo menos duas variações animadas por ataque especial principal**, está em `docs/08_ESCOLHAS_PROGRESSAO_E_FINAIS.md`; é meta criativa, não asset ou mecânica concluída.
+
+## Novos documentos de planejamento (17/11/2026)
+- [IA, chips, minerais e ritmo narrativo](docs/10_IA_CHIPS_MINERAIS_E_RITMO_NARRATIVO.md): fatos de 2026 vs projeções ficcionais de 2054, encadeamento da conspiração, dilemas e ganchos.
+- [Mecânicas, cenas demonstráveis e trailers](docs/11_MECANICAS_E_TRAILERS_CONCEITOS.md): experiências de gameplay e propostas de material promocional, níveis de custo e critérios de protótipo.
+Todos são **briefing e propostas**, não roteiro canônico nem produção audiovisual concluída. Resumo de entrega ao Cláudio em [HANDOFF](docs/HANDOFF.md).
