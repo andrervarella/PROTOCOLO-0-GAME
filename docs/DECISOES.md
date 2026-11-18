@@ -152,3 +152,10 @@ A duração está decidida. O ano preciso da prisão/fuga decorre da hipótese d
 |---|---|---|---|
 | PZ-DEC-039 | **APROVADO PELO DONO — VIGENTE** | **Silas ficou preso durante três anos.** Substitui expressamente os cinco anos de PZ-DEC-038. Cronologia de trabalho ~2051–2054, mantendo 2054 como referência principal. | Datas exatas, cronologia de treinamento e reencontro, estrutura da abertura |
 A resposta textual prevalece sobre a letra A; não equivale a escolher o começo do jogo antes da traição. **PZ-DEC-038 fica SUPERADA quanto à duração e à cronologia 2049–2054.** Todos os demais marcos aprovados continuam vigentes. Não perguntar novamente sobre a duração; retomar a abertura.
+
+
+## PZ-DEC-040 — abertura não linear (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-040 | **APROVADO PELO DONO** | Abertura D: começar com a fuga em 2054, cortar no auge da tensão e retornar três anos no tempo para uma missão jogável em 2051. | Conteúdo da missão, ação e controle iniciais, ponto de corte, retorno ao presente, cenas e tutorial |
+Não repetir a pergunta sobre a estrutura da abertura. Três anos de prisão continuam vigentes (039); não usar 2049. Não tratar cenas ou mecânicas específicas como aprovadas. Preservar a revelação gradual da responsabilidade humana pela conspiração.

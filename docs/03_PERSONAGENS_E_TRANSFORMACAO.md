@@ -72,3 +72,7 @@ O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉRE
 
 ## Correção de cronologia — PZ-DEC-039
 **VIGENTE: três anos de prisão**, substituindo cinco anos de PZ-DEC-038. Adequar a evolução física/intelectual/estratégica/emocional de Silas e a reconstrução da vida da médica ao novo intervalo, preservando os marcos já aprovados. Cronologia de trabalho ~2051–2054. Idades, etapas do treinamento e datas precisas não definidas.
+
+
+## Apresentação de Silas ao jogador — PZ-DEC-040
+A abertura aprovada apresenta Silas durante a fuga em 2054, depois retorna três anos à missão jogável de 2051. Esse contraste permite mostrar quem era antes e depois do cárcere. Preservar cabelo preto curto e identidade já aprovada. Ainda não fixar aparência da versão de 2051, armas iniciais, momento de ativação de ÉREBO nem habilidades disponíveis em cada época.

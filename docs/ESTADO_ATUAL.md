@@ -84,3 +84,7 @@
 
 ## Correção mais recente — 17/11/2026 (Brasília)
 **PZ-DEC-039 vigente:** três anos de prisão (não cinco); cronologia de trabalho ~2051–2054. PZ-DEC-038 superada nessa matéria. Os demais marcos 026–037 continuam aprovados. A estrutura da abertura permanece pendente: próxima pergunta ao dono. Nenhuma cena, asset ou implementação nova.
+
+
+## Abertura aprovada — 18/11/2026 (Brasília)
+**PZ-DEC-040:** fuga em 2054 seguida de flashback três anos antes, com missão jogável em 2051. Marcos 026–040 aprovados, com 038 superada por 039 quanto à duração do cárcere. Próxima decisão: conteúdo e objetivo aparente da missão de 2051. Ponto de corte e tutorial ainda em desenvolvimento; nenhuma implementação, vídeo ou conceito visual novo.

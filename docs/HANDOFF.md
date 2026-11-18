@@ -84,3 +84,7 @@ O dono escolheu B na décima terceira pergunta: **Silas ficou preso por cinco an
 
 ## Atualização prioritária para Cláudio — PZ-DEC-039 (17/11/2026, Brasília)
 O dono corrigiu a duração: **“Escolho A: Silas ficou preso durante três anos.”** Usar três anos como cânone vigente e tratar os cinco anos de PZ-DEC-038 e referências a 2049–2054 como histórico superado. Cronologia de trabalho: queda ~2051, fuga 2054. Preservar mentor, morte, legado de NEX, profissão, investigação e novo relacionamento da médica. Não interpretar a letra A como aprovação da abertura antes da traição. **Próxima pergunta:** estrutura da abertura, com opções ajustadas a três anos. Sem mídia, gastos ou implementação.
+
+
+## Atualização prioritária para Cláudio — PZ-DEC-040 (18/11/2026, Brasília)
+O dono escolheu a abertura D: **começar com a fuga em 2054 e retornar três anos no tempo para uma missão jogável em 2051**. A estrutura não linear está aprovada. Não reabrir a escolha da abertura nem a duração da prisão. Preservar marcos 026–040, exceto duração de 038 superada por 039. Ainda não fixar ponto de corte, objetivo da missão, quais controles aparecem antes/depois do flashback, duração, tutorial específico, participação de personagens ou cenas. Próxima pergunta: operação inicial de 2051 e seu propósito aparente. Proteger os mistérios de LIMIAR e do comandante. Sem mídia, gastos ou implementação.

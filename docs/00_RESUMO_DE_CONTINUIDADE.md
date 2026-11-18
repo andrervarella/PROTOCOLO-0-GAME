@@ -90,3 +90,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Correção mais recente — PZ-DEC-039 (17/11/2026)
 **VIGENTE: Silas ficou preso durante três anos.** Supera PZ-DEC-038 (cinco anos). Cronologia de trabalho ~2051–2054, não 2049–2054. Demais escolhas aprovadas preservadas. A resposta não aprova a opção A da abertura; próxima pergunta: como começar o jogo?
+
+
+## Abertura aprovada — PZ-DEC-040 (18/11/2026)
+**VIGENTE:** o jogo começa com a fuga em 2054 e retorna três anos no tempo para uma missão jogável em 2051. PZ-DEC-039 estabelece três anos de prisão. Não repetir abertura/duração. Próxima pergunta: qual missão Silas realiza em 2051 e qual objetivo acredita cumprir? Detalhes de gameplay, cenas e revelações ainda pendentes.

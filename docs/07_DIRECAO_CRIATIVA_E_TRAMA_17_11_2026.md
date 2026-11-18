@@ -103,3 +103,7 @@ Resposta: **“Escolho B: Silas ficou preso durante cinco anos.”** PZ-DEC-038 
 
 ## Correção do dono após a décima quarta pergunta — 17/11/2026 (Brasília)
 Resposta literal: **“Escolho A: Silas ficou preso durante três anos.”** PZ-DEC-039 APROVADO como revisão da duração anteriormente escolhida. O conteúdo textual prevalece: três anos, não cinco. A opção A da pergunta imediatamente anterior sobre a abertura tinha outro conteúdo; portanto, não registrar automaticamente um prólogo antes da traição. Manter 2054 como referência principal e revisar a queda para ~2051. Retomar somente a questão da estrutura da abertura, apresentando alternativas compatíveis com três anos.
+
+
+## Décima quarta escolha do dono — 18/11/2026 (Brasília)
+Resposta: **“Escolho a abertura D: começamos com a fuga e retornamos três anos no tempo para uma missão jogável.”** PZ-DEC-040 APROVADO. A abertura cinematográfica não linear é escolha vigente. Começar em 2054, cortar no auge da tensão e retornar a 2051. O primeiro encontro com o mentor, as etapas jogáveis de treinamento, a duração de cenas e os detalhes da fuga permanecem em aberto. Sugestão de design: introduzir controles progressivamente e diferenciar com clareza os dois períodos, sem prometer a jogabilidade ou o tutorial da prisão já implementados. Próxima pergunta: qual é a missão militar de 2051 e seu objetivo aparente?

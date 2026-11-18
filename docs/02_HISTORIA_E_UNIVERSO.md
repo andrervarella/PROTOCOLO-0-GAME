@@ -85,3 +85,7 @@ Antes da queda, **a pessoa mais importante na vida de Silas era sua companheira*
 
 ## Correção da duração do cárcere — PZ-DEC-039 (17/11/2026, Brasília)
 **APROVADO E VIGENTE:** o dono corrigiu a duração da prisão de Silas para **três anos**. Esta decisão substitui os cinco anos de PZ-DEC-038. Mantendo a ambientação principal e fuga em 2054, a cronologia de trabalho passa a ser prisão ~2051 e fuga em 2054, com datas precisas ainda abertas. A formação pelo mentor, o novo relacionamento da médica, sua investigação em NEXUS e as mudanças políticas durante a ausência continuam aprovados; ajustar seu ritmo a três anos. A resposta textual não escolhe uma estrutura de abertura, embora use a letra A. Próxima decisão: estrutura do começo do jogo.
+
+
+## Abertura aprovada — PZ-DEC-040 (18/11/2026, Brasília)
+**APROVADO:** abertura não linear. O jogo começa durante a fuga de Silas em 2054; em um momento de grande tensão, retorna três anos no tempo para uma missão jogável em 2051, mostrando o começo dos acontecimentos que o levaram ao ÉREBO. Preservar PZ-DEC-039 (três anos de cárcere). A missão, o ponto de corte, o grau de controle inicial, o momento de retorno a 2054 e a duração de cada segmento ainda serão definidos. Não revelar toda a conspiração, a verdadeira intenção da companheira ou a autoria completa da traição prematuramente. Próxima decisão: qual operação jogável abre o flashback de 2051?

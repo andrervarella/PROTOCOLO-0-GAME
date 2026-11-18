@@ -93,3 +93,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — correção de cronologia (17/11/2026)
 **AVANÇO PARCIAL:** duração corrigida para três anos (039), substituindo cinco (038). Ajustar cronologia de trabalho a ~2051–2054 e revisar a distribuição narrativa dos acontecimentos. Abertura ainda pendente; não encerrar tarefa.
+
+
+## PZ-T-008 — abertura narrativa aprovada (18/11/2026)
+**AVANÇO PARCIAL:** abertura não linear aprovada (040), fuga de 2054 e retorno a missão jogável de 2051. Próximo passo: definir objetivo da missão e seu elo com as capturas de cobaias, depois elaborar o prólogo, ponto de corte, retorno à fuga e tutorial. Sem protótipo ou cenas aprovadas em detalhe. Manter tarefa aberta.
