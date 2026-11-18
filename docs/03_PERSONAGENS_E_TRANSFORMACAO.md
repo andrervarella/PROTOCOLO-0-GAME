@@ -60,3 +60,7 @@ O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉRE
 
 ## Companheira — vida durante a ausência de Silas (PZ-DEC-036)
 **APROVADO:** acreditava que Silas estava morto e reconstruiu sua vida. Permanece médica de aprimoramentos cibernéticos, trabalhando para NEXUS enquanto investiga e combate ÉREBO secretamente (027/028/035). Não definir novo romance ou família por inferência. Seu sentimento atual, eventual novo parceiro, reação à sobrevivência de Silas e forma do reencontro estão pendentes.
+
+
+## Novo companheiro da médica — PZ-DEC-037
+**APROVADO:** a médica encontrou um novo amor, um homem honesto, durante o período em que acreditava que Silas estava morto. A opção B apresentada inclui conhecimento apenas parcial da investigação dela. Trata-se de personagem próprio, não de antagonista por definição. Nome, profissão, idade, aparência, motivações, relação com Silas e participação na história permanecem pendentes. Não assumir que seja o melhor amigo, comandante ou executivo de NEXUS. Não decidir por ela sua escolha afetiva nem impor perda/morte como consequência automática.

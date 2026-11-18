@@ -78,3 +78,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Décima primeira decisão aprovada — 17/11/2026
 **PZ-DEC-036:** a companheira reconstruiu sua vida acreditando que Silas morreu. Preservar investigação clandestina em NEXUS (035). A resposta textual não confirma aparente traição ou novo romance. Próxima pergunta: a reconstrução da vida dela inclui outro relacionamento afetivo?
+
+
+## Décima segunda decisão aprovada — 17/11/2026
+**PZ-DEC-037:** a companheira encontrou um novo amor, um homem honesto, acreditando que Silas morreu. Continuam vigentes 035/036. Marcos 026–037 aprovados. Não inventar casamento, filhos, traição, morte ou final. Próxima pergunta: quanto tempo Silas permaneceu preso?

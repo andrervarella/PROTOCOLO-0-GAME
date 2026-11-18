@@ -131,3 +131,10 @@ Esta decisão resolve a atuação da companheira durante a prisão; não estabel
 |---|---|---|---|
 | PZ-DEC-036 | **APROVADO PELO DONO** | A companheira de Silas **reconstruiu sua vida acreditando que ele morreu**. | Se houve novo relacionamento, vínculos afetivos, reação à sobrevivência de Silas, circunstâncias do reencontro |
 A resposta textual prevalece sobre a letra C, que nesta pergunta poderia indicar outra alternativa. PZ-DEC-035 permanece vigente: trabalha em NEXUS e investiga/combate ÉREBO secretamente. Não canonizar aparente traição, novo parceiro ou casamento sem confirmação.
+
+
+## PZ-DEC-037 — novo amor da companheira (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-037 | **APROVADO PELO DONO** | Opção B: a companheira de Silas **encontrou um novo amor, um homem honesto**, enquanto acreditava que Silas estava morto. Na opção escolhida, ele desconhece parte da investigação clandestina dela. | Identidade, profissão, duração da prisão, reencontro, sentimentos atuais, papel do novo companheiro e desfechos |
+Esta decisão complementa 035/036. O novo companheiro não é automaticamente vilão nem o melhor amigo de Silas. Não presumir casamento, filhos, separação, morte, escolha romântica final ou cena. Não repetir a pergunta sobre a existência de um novo relacionamento.

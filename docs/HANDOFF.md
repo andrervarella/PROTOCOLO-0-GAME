@@ -72,3 +72,7 @@ O dono escolheu D na décima pergunta: **a companheira de Silas trabalha para NE
 
 ## Atualização prioritária para Cláudio — PZ-DEC-036 (17/11/2026, Brasília)
 O dono respondeu literalmente: **“Escolho C: a companheira de Silas reconstruiu sua vida acreditando que ele morreu.”** Registrar esse conteúdo, que remete à opção C da pergunta anterior sobre sua nova vida, e não assumir a alternativa C da última pergunta sobre aparente traição. Continuam aprovadas sua profissão e investigação clandestina de ÉREBO em NEXUS (028/035). Não concluir que tem outro parceiro, casamento, filhos ou que abandonou Silas deliberadamente. Próximo ponto: natureza da reconstrução afetiva e depois o reencontro. Marcos 026–036 aprovados. Sem mídia, gastos ou código.
+
+
+## Atualização prioritária para Cláudio — PZ-DEC-037 (17/11/2026, Brasília)
+O dono escolheu B na décima segunda pergunta: **ela encontrou um novo amor, um homem honesto**, acreditando na morte de Silas. A alternativa apresentada indica que o parceiro desconhece parte da investigação dela. Não reabrir existência do relacionamento, não presumir que o homem seja vilão, amigo de Silas, executivo, casado ou pai. A médica permanece em NEXUS investigando ÉREBO secretamente (035) e reconstruiu sua vida (036). Marcos 026–037 aprovados. Próxima pergunta: duração do encarceramento de Silas; depois, desenhar cronologia e reencontro sem fixar destino amoroso ou finais por inferência. Sem mídia, gastos, código ou build.

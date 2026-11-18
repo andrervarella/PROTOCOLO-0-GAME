@@ -91,3 +91,7 @@ Resposta: **“Escolho D: a companheira de Silas trabalha para NEXUS, mas secret
 
 ## Décima primeira resposta do dono — 17/11/2026 (Brasília)
 Resposta literal: **“Escolho C: a companheira de Silas reconstruiu sua vida acreditando que ele morreu.”** PZ-DEC-036 APROVADO quanto ao conteúdo textual. Embora a letra C da pergunta imediatamente anterior fosse “aparente traição”, o texto remete à alternativa C de uma nova vida oferecida anteriormente. Não atribuir automaticamente a falsa traição à escolha. A decisão anterior de investigação clandestina em NEXUS (035) permanece válida. Próximo ponto: saber se essa nova vida inclui outro relacionamento afetivo ou se ela se concentrou no trabalho e na investigação. Reencontro, reações e cenas seguem em aberto.
+
+
+## Décima segunda escolha do dono — 17/11/2026 (Brasília)
+Resposta: **“Escolho B: ela encontrou um novo amor, um homem honesto.”** PZ-DEC-037 APROVADO. A escolha reafirma que ela reconstruiu sua vida acreditando na morte de Silas; a opção B apresentada inclui um relacionamento com alguém honesto que desconhece parte de sua investigação. Preservar a agência dos três personagens e a investigação em NEXUS. Não converter a ideia de Silas aprender a respeitar o novo companheiro, um eventual triângulo amoroso ou seus efeitos nos quatro finais em cenas definitivas. Não repetir a pergunta sobre novo amor. Próxima pergunta: quanto tempo Silas ficou preso?

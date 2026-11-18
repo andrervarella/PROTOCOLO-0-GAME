@@ -81,3 +81,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — décimo primeiro marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** companheira reconstruiu a vida acreditando na morte de Silas (036), mantendo a atuação de 035. Próxima decisão: se essa nova vida inclui outro relacionamento. Reencontro, cronologia e consequências seguem abertos. Não encerrar tarefa.
+
+
+## PZ-T-008 — décimo segundo marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** companheira de Silas encontrou um novo amor honesto durante sua ausência (037). Próxima decisão: duração do cárcere. Ainda abertos nome, profissão e papel do novo companheiro, cronologia, reencontro, mecanismo de fuga, conspiração e consequências nos finais. Não encerrar tarefa.

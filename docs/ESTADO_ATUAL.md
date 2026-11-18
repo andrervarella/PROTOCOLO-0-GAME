@@ -72,3 +72,7 @@
 
 ## Décimo primeiro marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-036:** companheira acreditava que Silas morreu e reconstruiu sua vida. Preservar 035 (investigação secreta em NEXUS). A opção textual escolhida não aprova automaticamente falsa traição. Próxima pergunta: essa reconstrução inclui um novo relacionamento amoroso? Marcos 026–036 aprovados, cenas e reencontro em aberto. Atualização documental apenas.
+
+
+## Décimo segundo marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-037:** a companheira encontrou um novo amor, um homem honesto, durante a ausência de Silas. Marcos 026–037 aprovados. Preservar sua investigação clandestina em NEXUS e a crença na morte de Silas. Próxima decisão: duração do cárcere, para consolidar cronologia e preparar o reencontro. Identidades, profissão do novo parceiro, circunstâncias e desfechos seguem em aberto. Sem novos assets ou implementação.
