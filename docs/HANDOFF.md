@@ -76,3 +76,7 @@ O dono respondeu literalmente: **“Escolho C: a companheira de Silas reconstrui
 
 ## Atualização prioritária para Cláudio — PZ-DEC-037 (17/11/2026, Brasília)
 O dono escolheu B na décima segunda pergunta: **ela encontrou um novo amor, um homem honesto**, acreditando na morte de Silas. A alternativa apresentada indica que o parceiro desconhece parte da investigação dela. Não reabrir existência do relacionamento, não presumir que o homem seja vilão, amigo de Silas, executivo, casado ou pai. A médica permanece em NEXUS investigando ÉREBO secretamente (035) e reconstruiu sua vida (036). Marcos 026–037 aprovados. Próxima pergunta: duração do encarceramento de Silas; depois, desenhar cronologia e reencontro sem fixar destino amoroso ou finais por inferência. Sem mídia, gastos, código ou build.
+
+
+## Atualização prioritária para Cláudio — PZ-DEC-038 (17/11/2026, Brasília)
+O dono escolheu B na décima terceira pergunta: **Silas ficou preso por cinco anos.** Marcos 026–038 aprovados. A ambientação em 2054 oferece cronologia de trabalho prisão ~2049/fuga 2054, sem datas precisas fechadas. O tempo justifica formação com mentor e nova vida da companheira, não autoriza inventar idades, casamento, campanhas, crises ou acontecimentos. Não repetir duração. Próxima pergunta: estrutura da abertura do jogo; prólogo jogável antes da prisão e flashbacks ainda são propostas. Sem mídia, gastos ou código.

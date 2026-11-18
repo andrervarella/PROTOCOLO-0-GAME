@@ -138,3 +138,10 @@ A resposta textual prevalece sobre a letra C, que nesta pergunta poderia indicar
 |---|---|---|---|
 | PZ-DEC-037 | **APROVADO PELO DONO** | Opção B: a companheira de Silas **encontrou um novo amor, um homem honesto**, enquanto acreditava que Silas estava morto. Na opção escolhida, ele desconhece parte da investigação clandestina dela. | Identidade, profissão, duração da prisão, reencontro, sentimentos atuais, papel do novo companheiro e desfechos |
 Esta decisão complementa 035/036. O novo companheiro não é automaticamente vilão nem o melhor amigo de Silas. Não presumir casamento, filhos, separação, morte, escolha romântica final ou cena. Não repetir a pergunta sobre a existência de um novo relacionamento.
+
+
+## PZ-DEC-038 — duração do cárcere (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-038 | **APROVADO PELO DONO** | Opção B: **Silas ficou preso durante cinco anos**. A data principal de 2054 permite cronologia de trabalho 2049–2054. | Datas exatas, idades, cronologia de eventos, estrutura do prólogo, duração jogável e cenas |
+A duração está decidida. O ano preciso da prisão/fuga decorre da hipótese de manter a fuga em 2054, coerente com o universo já registrado, mas não fixa todos os eventos. Não repetir a pergunta sobre duração. Não canonizar abertura cinematográfica ou tutorial sem nova decisão.

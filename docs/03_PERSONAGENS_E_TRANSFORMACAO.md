@@ -64,3 +64,7 @@ O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉRE
 
 ## Novo companheiro da médica — PZ-DEC-037
 **APROVADO:** a médica encontrou um novo amor, um homem honesto, durante o período em que acreditava que Silas estava morto. A opção B apresentada inclui conhecimento apenas parcial da investigação dela. Trata-se de personagem próprio, não de antagonista por definição. Nome, profissão, idade, aparência, motivações, relação com Silas e participação na história permanecem pendentes. Não assumir que seja o melhor amigo, comandante ou executivo de NEXUS. Não decidir por ela sua escolha afetiva nem impor perda/morte como consequência automática.
+
+
+## Cronologia de Silas — PZ-DEC-038
+**APROVADO:** Silas permaneceu preso por cinco anos, período em que o mentor promove sua transformação completa (033) e a companheira reconstrói sua vida acreditando em sua morte (035–037). A ambientação principal em 2054 sugere prisão em 2049. Não fixar idades, datas de nascimento, tempo de relacionamento, envelhecimento visual, detalhes físicos adicionais ou duração de cada etapa de treinamento sem aprovação.

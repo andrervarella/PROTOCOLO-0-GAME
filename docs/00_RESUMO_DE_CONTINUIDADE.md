@@ -82,3 +82,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Décima segunda decisão aprovada — 17/11/2026
 **PZ-DEC-037:** a companheira encontrou um novo amor, um homem honesto, acreditando que Silas morreu. Continuam vigentes 035/036. Marcos 026–037 aprovados. Não inventar casamento, filhos, traição, morte ou final. Próxima pergunta: quanto tempo Silas permaneceu preso?
+
+
+## Décima terceira decisão aprovada — 17/11/2026
+**PZ-DEC-038:** Silas ficou preso durante cinco anos. Marcos 026–038 aprovados. Cronologia de trabalho ~2049–2054, datas precisas ainda em aberto. Próxima pergunta: como começa a experiência jogável? Não repetir escolhas anteriores; prólogo jogável ainda não aprovado.

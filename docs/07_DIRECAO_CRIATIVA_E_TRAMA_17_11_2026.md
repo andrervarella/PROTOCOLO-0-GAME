@@ -95,3 +95,7 @@ Resposta literal: **“Escolho C: a companheira de Silas reconstruiu sua vida ac
 
 ## Décima segunda escolha do dono — 17/11/2026 (Brasília)
 Resposta: **“Escolho B: ela encontrou um novo amor, um homem honesto.”** PZ-DEC-037 APROVADO. A escolha reafirma que ela reconstruiu sua vida acreditando na morte de Silas; a opção B apresentada inclui um relacionamento com alguém honesto que desconhece parte de sua investigação. Preservar a agência dos três personagens e a investigação em NEXUS. Não converter a ideia de Silas aprender a respeitar o novo companheiro, um eventual triângulo amoroso ou seus efeitos nos quatro finais em cenas definitivas. Não repetir a pergunta sobre novo amor. Próxima pergunta: quanto tempo Silas ficou preso?
+
+
+## Décima terceira escolha do dono — 17/11/2026 (Brasília)
+Resposta: **“Escolho B: Silas ficou preso durante cinco anos.”** PZ-DEC-038 APROVADO. Cinco anos permitem que sua formação, as mudanças no mundo e a reconstrução afetiva da companheira tenham verossimilhança. Cronologia de trabalho: 2049 → 2054, derivada da ambientação vigente; confirmar datas precisas depois. A sugestão de um prólogo jogável antes da prisão é **PROPOSTA**, não parte automaticamente aprovada. Não repetir a pergunta sobre duração. Próxima pergunta: como iniciar a experiência jogável, mostrando passado, traição, prisão/fuga e informações em ritmo adequado?

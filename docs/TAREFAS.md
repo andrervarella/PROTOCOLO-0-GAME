@@ -85,3 +85,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — décimo segundo marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** companheira de Silas encontrou um novo amor honesto durante sua ausência (037). Próxima decisão: duração do cárcere. Ainda abertos nome, profissão e papel do novo companheiro, cronologia, reencontro, mecanismo de fuga, conspiração e consequências nos finais. Não encerrar tarefa.
+
+
+## PZ-T-008 — décimo terceiro marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** cinco anos de cárcere aprovados (038). Cronologia de trabalho ~2049–2054. Próxima decisão: estrutura narrativa/jogável da abertura. Ainda abertos datas precisas, nomes, biografias, mecanismos da traição, fuga, reencontro, conspiração e finais. Não encerrar tarefa.

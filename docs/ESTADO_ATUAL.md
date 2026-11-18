@@ -76,3 +76,7 @@
 
 ## Décimo segundo marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-037:** a companheira encontrou um novo amor, um homem honesto, durante a ausência de Silas. Marcos 026–037 aprovados. Preservar sua investigação clandestina em NEXUS e a crença na morte de Silas. Próxima decisão: duração do cárcere, para consolidar cronologia e preparar o reencontro. Identidades, profissão do novo parceiro, circunstâncias e desfechos seguem em aberto. Sem novos assets ou implementação.
+
+
+## Décimo terceiro marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-038:** Silas ficou preso por cinco anos. Marcos 026–038 aprovados. Cronologia de trabalho: queda por volta de 2049, fuga em 2054. Próxima decisão: estrutura da abertura (prólogo do passado, início na fuga com flashbacks ou outro formato). Nomes, idades, calendário preciso, cenas, gameplay e detalhes da conspiração ainda em aberto. Documentação apenas.
