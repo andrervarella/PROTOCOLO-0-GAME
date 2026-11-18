@@ -75,3 +75,7 @@ Resposta: **“Escolho D: o comandante queria silenciar Silas e transformá-lo e
 
 ## Sétima escolha do dono — 17/11/2026 (Brasília)
 Resposta: **“Escolho D: o mentor é um dos criadores de LIMIAR e idealizador original de ÉREBO.”** PZ-DEC-032 APROVADO. A opção D estabelece o cientista no cárcere, originalmente interessado no benefício humano, cujas tecnologias caíram em mãos militares e políticas, e que sofreu repressão ao resistir. Não confundir o mentor com o comandante; não tornar automaticamente canônica a sugestão posterior de que tenha aceitado acordos moralmente questionáveis, nem seus diálogos exemplificativos ou criação de NEX. Não repetir a pergunta A/B/C/D sobre identidade. Próxima pergunta: o que o mentor ensina/faz por Silas no cárcere e como isso afeta sua transformação e sua compreensão da verdade?
+
+
+## Oitava escolha do dono — 17/11/2026 (Brasília)
+Resposta: **“Escolho D: o mentor promove uma transformação física, intelectual, estratégica e emocional completa em Silas.”** PZ-DEC-033 APROVADO. Combina as três dimensões apresentadas: ensino intelectual/filosófico, domínio de ÉREBO e preparação estratégica, acrescidas do amadurecimento emocional. A ideia adicional de integrar essa formação ao tutorial jogável é **PROPOSTA**. Preservar progressão posterior por chefes, evitar longas exposições ou ensinar tudo antes da fuga. Não canonizar a frase ilustrativa sobre aprender a obedecer/pensar. Próxima pergunta: qual é o destino do mentor durante a fuga?

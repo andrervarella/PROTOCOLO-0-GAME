@@ -44,3 +44,7 @@ A companheira de Silas Venn, seu vínculo afetivo central (PZ-DEC-027), é **mé
 
 ## Mentor do cárcere — identidade aprovada (PZ-DEC-032)
 O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉREBO**. Cientista cuja intenção original era beneficiar a humanidade, teve suas tecnologias apropriadas por interesses militares e políticos e foi encarcerado ao se opor. É personagem distinto do comandante antagonista. **PENDENTES:** nome, aparência, idade, personalidade, história detalhada, responsabilidade por concessões antigas, outros criadores de LIMIAR, grau de conhecimento sobre a conspiração, vínculo com NEX, ações na prisão, condição e destino. Nenhum visual ou diálogo definitivo aprovado.
+
+
+## Transformação de Silas no cárcere — PZ-DEC-033
+**APROVADO:** o mentor promove evolução física (domínio dos implantes ÉREBO), intelectual (compreensão das estruturas de poder e da informação), estratégica (observação, antecipação e planejamento) e emocional (autonomia, responsabilidade e amadurecimento). A evolução não altera a regra canônica do cabelo preto curto de Silas nem obriga implantes adicionais. Não definir poderes concretos, nível inicial, técnica de treinamento ou falas do mentor sem aprovação. O destino do mentor continua pendente.

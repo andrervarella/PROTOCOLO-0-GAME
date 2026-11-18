@@ -56,3 +56,7 @@
 
 ## Sétimo marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-032:** mentor do cárcere é um dos criadores de LIMIAR e idealizador original de ÉREBO, preso por resistir ao uso militar/político de suas invenções. Marcos 026–032 aprovados. Próxima decisão: o que ele ensina e como participa da transformação de Silas durante o cárcere. Nome, responsabilidade passada, conexão NEX, cena de encontro, fuga, destino da companheira e revelação da conspiração ainda não fechados. Atualização documental apenas.
+
+
+## Oitavo marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-033:** mentor promove transformação física, intelectual, estratégica e emocional completa de Silas durante o cárcere. Marcos 026–033 aprovados. Próximo passo: definir o destino do mentor durante a fuga; depois a origem de NEX e o destino da companheira, um ponto por vez. Tutorial na prisão permanece proposta, sem código, arte ou vídeo.

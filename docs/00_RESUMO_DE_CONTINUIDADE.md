@@ -62,3 +62,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Sétima decisão aprovada — 17/11/2026
 **PZ-DEC-032:** mentor de Silas na prisão é um dos criadores de LIMIAR e idealizador original de ÉREBO. Foi preso ao se opor à apropriação política/militar das tecnologias. Marcos 026–032 aprovados. Próxima pergunta: qual será o papel do mentor na formação de Silas dentro da prisão? Nome, passado detalhado, NEX, fuga e destino ainda pendentes. Não repetir decisões anteriores.
+
+
+## Oitava decisão aprovada — 17/11/2026
+**PZ-DEC-033:** o mentor promove transformação física, intelectual, estratégica e emocional completa em Silas durante o cárcere. Marcos 026–033 aprovados. Próxima pergunta: qual o destino do mentor durante a fuga? Não repetir perguntas anteriores. Tutorial na prisão é proposta; não há implementação.

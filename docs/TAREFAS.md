@@ -65,3 +65,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — sétimo marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** identidade do mentor aprovada, um dos criadores de LIMIAR e idealizador original do Projeto ÉREBO (032). Próxima decisão: como ele orienta Silas no cárcere e o que lhe ensina. Ainda abertas biografia, responsabilidades passadas, revelações, ligação com NEX, transformação, fuga, destino do mentor e conspiração. Não encerrar tarefa.
+
+
+## PZ-T-008 — oitavo marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** formação de Silas pelo mentor aprovada (033), abrangendo evolução física, intelectual, estratégica e emocional. Próxima decisão: destino do mentor durante a fuga. Em aberto: métodos, cronologia, biografia, revelações, NEX e conspiração. Tutorial da prisão é proposta aguardando validação. Não encerrar tarefa.

@@ -102,3 +102,10 @@ O antagonista acredita na necessidade da arma; a eficácia e legitimidade desse 
 | PZ-DEC-032 | **APROVADO PELO DONO** | Opção D: o mentor que Silas conhece na prisão é **um dos criadores de LIMIAR e idealizador original de ÉREBO**, cientista que desenvolveu as tecnologias com finalidade humanitária, resistiu à sua apropriação por interesses militares/políticos e foi aprisionado. | Nome, passado detalhado, eventual culpa por concessões, relação com NEX, conhecimento da conspiração, formação de Silas, fuga e destino |
 
 A decisão resolve a identidade narrativa do mentor, não todos os aspectos de sua biografia. Não canonizar a sugestão adicional sobre compromissos com corporações nem falas propostas. Não afirmar que é o criador exclusivo de LIMIAR. Não repetir a pergunta sobre sua identidade.
+
+
+## PZ-DEC-033 — formação de Silas na prisão (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-033 | **APROVADO PELO DONO** | Opção D: durante o cárcere, o mentor promove uma **transformação física, intelectual, estratégica e emocional completa** em Silas, com domínio de ÉREBO, autonomia de pensamento, leitura de manipulação/poder e preparação estratégica. | Duração, métodos, desbloqueios, cenas, fuga e destino do mentor |
+A prisão como tutorial é proposta ainda não aprovada em detalhe. Não repetir a pergunta sobre formação. Não confundir transformação narrativa com liberação imediata de todos os upgrades ou obrigatoriedade de novos implantes.
