@@ -124,3 +124,10 @@ O mentor não permanece vivo por padrão; as alternativas anteriores não preval
 |---|---|---|---|
 | PZ-DEC-035 | **APROVADO PELO DONO** | Opção D: a companheira médica trabalha para **NEXUS**, mas **secretamente investiga e combate o Projeto ÉREBO**, protegendo pacientes e reunindo provas enquanto mantém posição pública importante. | Cargo, provas, contatos, conhecimento sobre Silas, reencontro, relação futura e destino |
 Esta decisão resolve a atuação da companheira durante a prisão; não estabelece que ela conhecia o paradeiro de Silas, que acreditava em sua morte ou que ele a julgou traidora. Essas possibilidades ainda serão discutidas. Não repetir a décima pergunta.
+
+
+## PZ-DEC-036 — nova vida da companheira (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-036 | **APROVADO PELO DONO** | A companheira de Silas **reconstruiu sua vida acreditando que ele morreu**. | Se houve novo relacionamento, vínculos afetivos, reação à sobrevivência de Silas, circunstâncias do reencontro |
+A resposta textual prevalece sobre a letra C, que nesta pergunta poderia indicar outra alternativa. PZ-DEC-035 permanece vigente: trabalha em NEXUS e investiga/combate ÉREBO secretamente. Não canonizar aparente traição, novo parceiro ou casamento sem confirmação.

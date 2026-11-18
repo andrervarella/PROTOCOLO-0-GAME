@@ -68,3 +68,7 @@ O dono escolheu C na nona pergunta: **o mentor morre durante a fuga e deixa NEX 
 
 ## Atualização prioritária para Cláudio — PZ-DEC-035 (17/11/2026, Brasília)
 O dono escolheu D na décima pergunta: **a companheira de Silas trabalha para NEXUS, mas secretamente investiga e combate o Projeto ÉREBO.** Ela protege pacientes e reúne provas; o cargo concreto continua pendente. Decisões 026–035 aprovadas. Não perguntar novamente sobre sua atuação durante o cárcere. Não presumir morte, romance novo, conhecimento da prisão, falsa traição, reencontro específico ou participação em determinada rota final. A próxima decisão trata do conhecimento mútuo de Silas e da médica após a fuga. NEX permanece bípede, legado do mentor falecido (034). Preservar demais regras e propostas não aprovadas. Sem mídia, gastos, código ou build.
+
+
+## Atualização prioritária para Cláudio — PZ-DEC-036 (17/11/2026, Brasília)
+O dono respondeu literalmente: **“Escolho C: a companheira de Silas reconstruiu sua vida acreditando que ele morreu.”** Registrar esse conteúdo, que remete à opção C da pergunta anterior sobre sua nova vida, e não assumir a alternativa C da última pergunta sobre aparente traição. Continuam aprovadas sua profissão e investigação clandestina de ÉREBO em NEXUS (028/035). Não concluir que tem outro parceiro, casamento, filhos ou que abandonou Silas deliberadamente. Próximo ponto: natureza da reconstrução afetiva e depois o reencontro. Marcos 026–036 aprovados. Sem mídia, gastos ou código.

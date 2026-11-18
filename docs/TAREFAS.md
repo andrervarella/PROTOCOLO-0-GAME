@@ -77,3 +77,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — décimo marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** atuação clandestina da companheira em NEXUS aprovada (035). Próxima decisão: conhecimento mútuo de Silas e da médica na fuga e preparação do reencontro. Ainda abertos cargo/nome, provas, mecanismo da investigação, fuga, cronologia, antagonistas, conspiração e repercussões cumulativas nos finais. Não encerrar tarefa.
+
+
+## PZ-T-008 — décimo primeiro marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** companheira reconstruiu a vida acreditando na morte de Silas (036), mantendo a atuação de 035. Próxima decisão: se essa nova vida inclui outro relacionamento. Reencontro, cronologia e consequências seguem abertos. Não encerrar tarefa.

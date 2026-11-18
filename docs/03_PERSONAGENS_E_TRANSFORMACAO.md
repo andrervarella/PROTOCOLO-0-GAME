@@ -56,3 +56,7 @@ O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉRE
 
 ## Companheira de Silas — atuação em NEXUS (PZ-DEC-035)
 **APROVADO:** A companheira médica de Silas trabalha publicamente para NEXUS, mas secretamente investiga e combate o Projeto ÉREBO. Na opção D apresentada e aprovada, ocupa uma posição importante, protege pacientes e reúne provas contra os responsáveis pelos experimentos. A médica é uma personagem ativa na luta contra o projeto, não apenas alguém a ser resgatado. Preservar profissão e vínculo afetivo aprovados (027/028). Nome, design, cargo, meios da investigação, riscos, aliados, conhecimento sobre a prisão de Silas, reencontro e destino não definidos. Não transformar a hipótese de falsa traição em fato canônico.
+
+
+## Companheira — vida durante a ausência de Silas (PZ-DEC-036)
+**APROVADO:** acreditava que Silas estava morto e reconstruiu sua vida. Permanece médica de aprimoramentos cibernéticos, trabalhando para NEXUS enquanto investiga e combate ÉREBO secretamente (027/028/035). Não definir novo romance ou família por inferência. Seu sentimento atual, eventual novo parceiro, reação à sobrevivência de Silas e forma do reencontro estão pendentes.

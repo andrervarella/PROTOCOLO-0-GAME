@@ -68,3 +68,7 @@
 
 ## Décimo marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-035:** a companheira médica trabalha para NEXUS e investiga/combate ÉREBO secretamente. Marcos 026–035 aprovados. Próxima decisão: o que ela e Silas sabem um do outro quando ele escapa, preparando o reencontro. Ainda abertas identidade da médica, provas, mecanismo da fuga, circunstâncias da morte do mentor, NEX e estrutura da conspiração. Atualização documental, sem mídia ou build.
+
+
+## Décimo primeiro marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-036:** companheira acreditava que Silas morreu e reconstruiu sua vida. Preservar 035 (investigação secreta em NEXUS). A opção textual escolhida não aprova automaticamente falsa traição. Próxima pergunta: essa reconstrução inclui um novo relacionamento amoroso? Marcos 026–036 aprovados, cenas e reencontro em aberto. Atualização documental apenas.

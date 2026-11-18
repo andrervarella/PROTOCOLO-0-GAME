@@ -87,3 +87,7 @@ Resposta: **“Escolho C: o mentor morre durante a fuga e deixa NEX como seu leg
 
 ## Décima escolha do dono — 17/11/2026 (Brasília)
 Resposta: **“Escolho D: a companheira de Silas trabalha para NEXUS, mas secretamente investiga e combate o Projeto ÉREBO.”** PZ-DEC-035 APROVADO. A alternativa incluía posição pública importante, proteção de pacientes e coleta de provas. Não repetir a pergunta sobre o destino dela durante o cárcere. O reencontro com suspeita de traição é uma sugestão, não aprovação da cena. Próxima pergunta: o que cada um sabe sobre o outro no momento da fuga? Não confundir conhecimento da conspiração com conhecimento automático da sobrevivência ou localização de Silas.
+
+
+## Décima primeira resposta do dono — 17/11/2026 (Brasília)
+Resposta literal: **“Escolho C: a companheira de Silas reconstruiu sua vida acreditando que ele morreu.”** PZ-DEC-036 APROVADO quanto ao conteúdo textual. Embora a letra C da pergunta imediatamente anterior fosse “aparente traição”, o texto remete à alternativa C de uma nova vida oferecida anteriormente. Não atribuir automaticamente a falsa traição à escolha. A decisão anterior de investigação clandestina em NEXUS (035) permanece válida. Próximo ponto: saber se essa nova vida inclui outro relacionamento afetivo ou se ela se concentrou no trabalho e na investigação. Reencontro, reações e cenas seguem em aberto.

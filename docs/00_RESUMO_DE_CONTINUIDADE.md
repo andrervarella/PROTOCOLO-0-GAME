@@ -74,3 +74,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Décima decisão aprovada — 17/11/2026
 **PZ-DEC-035:** a companheira médica de Silas trabalha para NEXUS, mas secretamente investiga e combate ÉREBO. Protege pacientes e reúne provas. Marcos 026–035 aprovados. Próxima pergunta: o que cada um sabe sobre o outro quando Silas escapa? Suspeita de traição no reencontro, nomes, cargo e cenas permanecem pendentes.
+
+
+## Décima primeira decisão aprovada — 17/11/2026
+**PZ-DEC-036:** a companheira reconstruiu sua vida acreditando que Silas morreu. Preservar investigação clandestina em NEXUS (035). A resposta textual não confirma aparente traição ou novo romance. Próxima pergunta: a reconstrução da vida dela inclui outro relacionamento afetivo?
