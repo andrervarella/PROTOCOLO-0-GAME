@@ -151,3 +151,9 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## Prioridade de ritmo e jogabilidade — PZ-DEC-056 (18/11/2026, Brasília)
 **VIGENTE:** dono pediu interromper sequência maçante de microdecisões investigativas e fazer Silas **escapar e começar logo a aventura jogável**. Condensar investigação da médica em cenas curtas durante a aventura. Preservar fatos aprovados e a abertura não linear (040). Próxima resposta esperada: opção A/B/C/D da 27ª pergunta sobre a reação da médica ao executivo, caso queira concluí-la; **depois mudar imediatamente o foco para a fuga e gameplay**. Não assumir opção da pergunta 27; seguir canônico até PZ-DEC-055 e diretriz 056. Nenhum novo código, build ou asset aprovado.
+
+
+## Foco atualizado da campanha — PZ-DEC-057/058 (18/11/2026)
+**057:** meta de conclusão em aproximadamente até **2–3 horas**, com reviravoltas e perguntas objetivas; condensar investigação, acelerar fuga e introduzir gameplay.
+**058:** médica investiga **autorizações anteriores de executivo da NEXUS** para verificar possível participação na falsa morte de Silas, sem descoberta conclusiva aprovada. Pergunta 27 **respondida**.
+**Próxima escolha:** o acontecimento que dispara a fuga em 2054. Após isso, priorizar ação, mentor e NEX, primeiros cenários, combate e progressão. Três anos de prisão (039) e namoro sem casamento (050) vigentes; nenhuma implementação, material visual ou áudio novos.

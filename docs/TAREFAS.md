@@ -157,3 +157,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — cortar investigação longa e priorizar fuga/gameplay (18/11/2026)
 **NOVO FOCO PZ-DEC-056:** compactar a investigação da médica em poucos cortes e usar pistas já escolhidas; evitar novas etapas minuciosas. Após a resposta opcional à 27ª pergunta ainda aberta, **definir o clímax da fuga, introdução do NEX e gameplay das primeiras áreas**, com agência real do jogador e desenvolvimento das mecânicas. Não descartar história aprovada, mas evitar exposição e perguntas em excesso. **Sem implementação ou geração de mídia nesta atualização.**
+
+
+## PZ-T-008 — campanha compacta e resolução da pergunta 27 (18/11/2026)
+**PZ-DEC-057:** meta de campanha até aproximadamente 2–3 horas com suspense e reviravoltas, evitando investigação burocrática; priorizar capítulos jogáveis, fuga e progressão. **PZ-DEC-058:** a médica investiga autorizações anteriores do executivo NEXUS para buscar elo com a falsa morte; resultado ainda aberto. **Próximo passo:** escolher gatilho da fuga, encenar sacrifício do mentor e legar NEX, depois construir primeiro trecho principal. Não tratar minigame, cutscene, boss ou duração cronometrada como já implementados.

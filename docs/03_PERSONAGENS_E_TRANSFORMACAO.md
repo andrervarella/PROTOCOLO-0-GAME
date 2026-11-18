@@ -121,3 +121,7 @@ A companheira médica encontra registro de **transferência recente do paciente 
 
 ## NEXUS e a assinatura de alto escalão — PZ-DEC-055
 **APROVADO:** um executivo importante da NEXUS aparece como autorizador digital da transferência do paciente codificado de ÉREBO. A médica encontra a assinatura durante sua investigação sigilosa. **Não confundir assinatura com confirmação de culpa ou com prova de que o paciente é Silas.** Identidade, cargo, intenções, relação com comandante e eventuais vínculos afetivos ou hierárquicos não foram decididos. A médica continua namorando um homem honesto, não casada (050).
+
+
+## Próximo movimento da médica — PZ-DEC-058 (18/11/2026)
+**APROVADO:** depois de encontrar a assinatura digital de executivo de NEXUS na ordem de transferência (055), a médica **investiga autorizações anteriores do mesmo executivo**, tentando descobrir se ele também participou da falsa morte de Silas. Ainda não encontra prova conclusiva nem confirma culpa dele. Desenvolver a investigação em cenas breves, encaixadas na campanha de aproximadamente até 2–3 horas (057), sem atrasar a fuga e o início do gameplay. O novo homem é **namorado honesto**, não marido (050).

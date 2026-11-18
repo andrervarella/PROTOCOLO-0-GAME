@@ -285,3 +285,16 @@ Complementa 051–054 e preserva o sigilo da investigação (052). **Não é con
 | PZ-DEC-056 | **DIRETRIZ CRIATIVA APROVADA PELO DONO** | **A parte investigativa ficou longa e maçante**: condensar suas etapas, encerrar rapidamente o prólogo, retornar à fuga de Silas em 2054 e começar o jogo com **ação, exploração, combate, NEX e progressão**. A investigação da médica deve avançar em cenas curtas integradas à aventura, e não por uma cadeia extensa de perguntas/documentos. | Montagem exata do prólogo, duração de cenas, ritmo jogável da fuga, primeiros combates e detalhes da fuga/mentor/NEX |
 **Não descartar nem contradizer as decisões 041–055**: revolta na mina, infiltração, traição, falsa morte e investigação continuam canônicas; devem ser apresentadas com economia dramática, preferindo revelações futuras ao prolongamento da abertura. Estrutura de abertura não linear (040) e três anos de prisão (039) continuam.
 **A 27ª pergunta (o que a médica faz após encontrar assinatura de executivo NEXUS) ainda NÃO foi respondida.** O dono disse que responderá esta última, mas quer parar a sequência minuciosa de investigação imediatamente depois e **mudar o foco para a fuga e a experiência principal**. Não registrar A/B/C/D sem resposta textual. A partir dali, priorizar escolhas de gameplay e fuga, uma por vez, com opções que alterem ação e narrativa.
+
+
+## PZ-DEC-057 — campanha curta, viradas fortes e perguntas objetivas (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-057 | **DIRETRIZ CRIATIVA APROVADA** | **Campanha de aproximadamente 2 a 3 horas, no máximo**, com reviravoltas bem construídas e perguntas **curtas, uma escolha importante por vez**. Reduzir drasticamente a investigação consecutiva e priorizar fuga, combate, exploração, NEX e andamento do jogo. | Duração efetiva a validar em protótipo; distribuição entre prólogo, capítulos, chefes e finais. |
+Preservar PZ-DEC-056 (investigação em cenas curtas) e 040 (abertura não linear). O limite de duração é **meta de projeto**, não tempo medido.
+
+## PZ-DEC-058 — ação da médica após assinatura de NEXUS (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-058 | **APROVADO PELO DONO** | Na 27ª pergunta, opção **A**: **a médica investiga autorizações anteriores assinadas pelo executivo da NEXUS**, procurando indícios de envolvimento na falsa morte de Silas. | O que encontra, se o executivo tem culpa, momento da descoberta e consequências. |
+**Não canonizar descoberta de culpa, conexão efetiva com a morte ou arquivo específico.** Essa investigação passa a evoluir em cenas breves durante a aventura e não gera nova sequência longa de perguntas. **Próxima decisão: qual acontecimento inicia a fuga jogável de Silas em 2054?** Preservar decisão 034: o mentor morre durante a fuga e deixa NEX como legado. Três anos de prisão (039), namorado honesto sem casamento (050).

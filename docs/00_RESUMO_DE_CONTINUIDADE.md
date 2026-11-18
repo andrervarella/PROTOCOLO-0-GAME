@@ -155,3 +155,8 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Nova diretriz de ritmo — PZ-DEC-056 (18/11/2026)
 **DONO QUER RITMO MAIS RÁPIDO:** investigação longa ficou maçante. Condensar pistas da médica em poucas cenas breves e espaçadas; priorizar fuga jogável, morte do mentor, NEX, início da jornada principal, combate/exploração/evolução. Manter abertura não linear 2054 → missão 2051 → retorno rápido a 2054 (040), prisão três anos (039) e fatos 041–055. **27ª pergunta sobre ação da médica diante da assinatura do executivo segue aberta**, pois o dono disse que responderia, mas não escolheu ainda. Após essa escolha, não insistir em microperguntas investigativas: retomar ação e gameplay.
+
+
+## Mudança de foco e 27ª decisão — PZ-DEC-057/058 (18/11/2026)
+**VIGENTE:** PROTOCOLO ZERO deverá ser uma **campanha curta, aproximadamente até 2–3 horas**, com reviravoltas e perguntas narrativas **objetivas**. Investigações da médica em cortes curtos, não perguntas burocráticas em sequência. **27ª pergunta foi respondida A:** médica investiga autorizações anteriores do executivo da NEXUS por possível relação com falsa morte (058), sem resultado confirmado.
+**PRÓXIMA PERGUNTA:** o que desencadeia a fuga de Silas em 2054? Preservar 034 mentor morre na fuga, deixa NEX; 039 três anos; 040 abertura não linear; 050 namoro não casamento. Duração apenas alvo até testes.
