@@ -118,3 +118,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Vigésima decisão aprovada — PZ-DEC-046 (18/11/2026)
 **VIGENTE:** o comandante convenceu melhor amigo a encenar a morte de Silas para supostamente evitar execução por traição; o amigo pensava entregá-lo a instalação segura, mas na verdade o levou ao ÉREBO. Explica por que a companheira o considerava morto, sem fixar qual prova ou relato ela recebeu. Próxima pergunta: qual evidência a fez acreditar na morte? Nenhum asset/gameplay produzido.
+
+
+## Vigésima primeira decisão aprovada — PZ-DEC-047 (18/11/2026)
+**VIGENTE:** a companheira médica acreditou na morte de Silas por um laudo médico falsificado e exames de identificação aparentemente legítimos. Conecta-se à morte encenada (046). Não acrescentar vídeo, corpo trocado ou várias provas por inferência. Próxima pergunta: qual inconsistência no laudo poderá revelar a fraude? Momento e autor ainda pendentes.

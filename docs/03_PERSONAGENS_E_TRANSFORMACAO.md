@@ -88,3 +88,7 @@ A abertura aprovada apresenta Silas durante a fuga em 2054, depois retorna três
 
 ## Traição através de morte encenada — PZ-DEC-046
 O melhor amigo de Silas aceita o plano do comandante de **fingir a morte de Silas para salvá-lo de suposta execução por traição**; acredita que ele será levado a um esconderijo seguro, mas o entrega involuntariamente ao ÉREBO. A atitude dele tem motivação protetora, sem apagar sua responsabilidade e eventual culpa. A companheira de Silas acreditou em sua morte (036), mas como a farsa chegou até ela ainda é uma cena a decidir. Identidade, nomes, participação da médica, estado da consciência do amigo e descoberta da mentira permanecem pendentes.
+
+
+## A médica e a prova falsa da morte — PZ-DEC-047
+**APROVADO:** um laudo médico falsificado, acompanhado de exames de identificação aparentemente legítimos, convenceu a companheira médica de que Silas havia morrido. A informação era falsa: ele foi encaminhado a ÉREBO após encenação planejada pelo comandante (046). A formação médica dela ajuda a tornar uma futura descoberta técnica plausível, mas não a torna ingênua: a documentação foi preparada para parecer autêntica. A inconsistência específica, o momento em que ela a percebe e a reação dela não foram escolhidos. Não tratar qualquer revelação como já ocorrida durante sua investigação clandestina.

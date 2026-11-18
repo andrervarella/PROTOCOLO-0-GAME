@@ -121,3 +121,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — vigésimo marco aprovado (18/11/2026)
 **AVANÇO PARCIAL:** comandante manipula amigo por plano de morte encenada para supostamente salvar Silas de execução por traição (046), mas o entrega a ÉREBO. Próxima decisão: como a médica foi convencida da morte; depois como o amigo percebe a verdade, operações da prisão e reconciliações posteriores. Não implementar cenas sem validação. Manter tarefa aberta.
+
+
+## PZ-T-008 — vigésimo primeiro marco aprovado (18/11/2026)
+**AVANÇO PARCIAL:** laudo médico falsificado convence companheira da morte de Silas (047). Próximo passo: escolher detalhe clínico/tecnológico que revele fraude em algum ponto posterior da investigação, sem antecipar descoberta nem fixar o autor do laudo. Permanecem abertas cenas, identidade dos envolvidos, modo de captura, duração da investigação e reencontro. Manter tarefa aberta.

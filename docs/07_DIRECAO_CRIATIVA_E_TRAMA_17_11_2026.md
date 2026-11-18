@@ -131,3 +131,7 @@ Resposta: **“Escolho C: Silas organiza uma operação secreta e pede ajuda ao 
 
 ## Vigésima escolha do dono — 18/11/2026 (Brasília)
 Resposta literal: **“Escolho D: o comandante convence o melhor amigo a encenar a morte de Silas para supostamente salvá-lo.”** **PZ-DEC-046 APROVADO.** A opção apresentada explicava que o comandante dizia que Silas seria executado por traição, sugerindo simular sua morte e escondê-lo numa instalação segura. O amigo aceita para protegê-lo, mas o encaminha a ÉREBO. Isso justifica a crença da companheira na morte de Silas, sem escolher ainda como ela recebeu prova/notícia. Não tornar canônicas as hipóteses de caixão, exames falsos, vídeo, pronunciamento ou presença de Silas na encenação. Próxima pergunta: que evidência aparentemente confiável leva a médica a acreditar que Silas morreu?
+
+
+## Vigésima primeira escolha do dono — 18/11/2026 (Brasília)
+Resposta literal: **“Escolho A: a companheira acreditou em um laudo médico falsificado.”** **PZ-DEC-047 APROVADO.** A alternativa A previa um registro oficial de morte com exames de identificação aparentemente legítimos e a possibilidade de uma pequena inconsistência posterior. O laudo explica a crença dela na morte de Silas sem precisar confirmar corpo trocado, gravação ou mentira em múltiplas etapas. Sem escolher ainda a natureza da falha, se ela foi intencional, quando é identificada, quem forjou o documento ou quando o amigo descobre que foi enganado. Próxima pergunta: qual detalhe discreto pode contradizer o laudo?

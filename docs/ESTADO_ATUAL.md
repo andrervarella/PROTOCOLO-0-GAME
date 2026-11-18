@@ -112,3 +112,7 @@
 
 ## Vigésimo marco narrativo aprovado — 18/11/2026 (Brasília)
 **PZ-DEC-046:** o comandante convence o melhor amigo a **encenar a morte de Silas para evitar suposta execução**, prometendo escondê-lo em local seguro; entrega real a ÉREBO. Complementa 030/031/036/045. Marcos 026–046 aprovados, com a duração de 038 substituída por 039. Próxima decisão: prova da morte que a companheira recebe; mecanismo da farsa e consequências para o amigo ainda abertos. Nenhuma arte, mídia, gameplay ou teste executados.
+
+
+## Vigésimo primeiro marco narrativo aprovado — 18/11/2026 (Brasília)
+**PZ-DEC-047:** a companheira médica acreditou num laudo médico falsificado, com exames de identificação aparentemente legítimos. Explica sua crença na morte encenada de Silas (046). Marcos 026–047 aprovados, exceto duração de 038 superada por 039. Próxima decisão: tipo de inconsistência técnica que poderia revelar a falsificação, sem fixar ainda quando é descoberta. Nenhuma cena, mídia ou implementação nova.

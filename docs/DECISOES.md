@@ -206,3 +206,11 @@ A operação conecta PZ-DEC-044 (investigação conjunta) a PZ-DEC-030/031 (mani
 | PZ-DEC-046 | **APROVADO PELO DONO** | Opção D: **o comandante convence o melhor amigo de Silas a encenar sua morte para supostamente salvá-lo de uma execução**. O amigo pensa entregá-lo a uma instalação segura, mas o entrega ao Projeto ÉREBO. | Como Silas é capturado, qual prova de morte é apresentada à companheira, alcance da notícia, conhecimento posterior do amigo e como o engano será revelado |
 
 A decisão especifica a manipulação aprovada em PZ-DEC-030 e conecta-se à operação secreta (045) e à crença da médica na morte de Silas (036). **Não repetir a pergunta de qual mentira o comandante contou.** Próxima pergunta: por que a companheira acreditou concretamente na morte encenada?
+
+
+## PZ-DEC-047 — prova falsa da morte de Silas (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-047 | **APROVADO PELO DONO** | Opção A: **laudo médico falsificado**. A companheira recebeu registro oficial de morte, com exames de identificação aparentemente legítimos, e acreditou que Silas morrera. | Qual discrepância revela a fraude, origem/autor da falsificação, momento da descoberta e consequências emocionais/políticas |
+
+Complementa 046 (morte encenada) e 036/037 (companheira reconstruindo a vida). Não canonizar corpo trocado, vídeo da execução ou várias provas em etapas; outras alternativas não foram selecionadas. A inconsistência técnica específica ainda é uma decisão a tomar. Não repetir a pergunta sobre por que ela acreditou na morte. Próxima pergunta: qual pista no laudo poderá denunciar a fraude?
