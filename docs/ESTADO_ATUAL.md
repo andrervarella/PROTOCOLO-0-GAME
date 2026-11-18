@@ -116,3 +116,9 @@
 
 ## Vigésimo primeiro marco narrativo aprovado — 18/11/2026 (Brasília)
 **PZ-DEC-047:** a companheira médica acreditou num laudo médico falsificado, com exames de identificação aparentemente legítimos. Explica sua crença na morte encenada de Silas (046). Marcos 026–047 aprovados, exceto duração de 038 superada por 039. Próxima decisão: tipo de inconsistência técnica que poderia revelar a falsificação, sem fixar ainda quando é descoberta. Nenhuma cena, mídia ou implementação nova.
+
+
+## Correções mais recentes — 18/11/2026 (Brasília)
+**PZ-DEC-048:** a crença na morte foi criada por **provas falsas em etapas**, não apenas um laudo. O laudo pode integrar os registros falsos, mas 047 fica superada na exclusividade.
+**PZ-DEC-049:** a médica **CASOU-SE COM OUTRO HOMEM HONESTO** enquanto Silas estava preso; é seu **marido**, não apenas namorado. Três anos de prisão permanecem vigentes (039). A investigação secreta em NEXUS continua.
+Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 superada por 048. **Próxima decisão:** qual será a primeira pista de que a morte foi forjada? Nenhum gameplay ou material visual implementado.

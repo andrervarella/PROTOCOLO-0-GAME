@@ -214,3 +214,18 @@ A decisão especifica a manipulação aprovada em PZ-DEC-030 e conecta-se à ope
 | PZ-DEC-047 | **APROVADO PELO DONO** | Opção A: **laudo médico falsificado**. A companheira recebeu registro oficial de morte, com exames de identificação aparentemente legítimos, e acreditou que Silas morrera. | Qual discrepância revela a fraude, origem/autor da falsificação, momento da descoberta e consequências emocionais/políticas |
 
 Complementa 046 (morte encenada) e 036/037 (companheira reconstruindo a vida). Não canonizar corpo trocado, vídeo da execução ou várias provas em etapas; outras alternativas não foram selecionadas. A inconsistência técnica específica ainda é uma decisão a tomar. Não repetir a pergunta sobre por que ela acreditou na morte. Próxima pergunta: qual pista no laudo poderá denunciar a fraude?
+
+
+## PZ-DEC-048 — correção: provas falsas da morte em etapas (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-048 | **APROVADO — VIGENTE** | O dono escolheu a opção D da pergunta sobre como a médica foi convencida: recebeu **várias provas falsas da morte de Silas, construídas em etapas**. Primeiro a notícia oficial da suposta execução, depois registros médicos falsificados e objetos pessoais. A coerência aparente das evidências a convenceu. | Fabricantes, entregadores, datas, origem dos objetos, primeira pista de falsificação. |
+
+Esta decisão substitui a **exclusividade** do laudo falsificado (047); ele pode continuar entre os registros médicos falsos, mas não é a prova única. A resposta D refere-se à pergunta anterior sobre a prova da morte, não à pergunta seguinte sobre a pista médica posterior. **Não foi aprovada nenhuma pista específica da fraude.** Não supor funeral, corpo trocado ou vídeo.
+
+## PZ-DEC-049 — casamento da médica após a suposta morte de Silas (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-049 | **APROVADO — VIGENTE** | A companheira de Silas, certa de sua morte devido às provas fabricadas, **CASOU-SE COM OUTRO HOMEM**, o novo amor honesto de 037. **É um casamento, não apenas namoro.** | Nome do marido, ocupação, data do casamento dentro dos três anos, filhos, conhecimento sobre ÉREBO, reencontro e destino do casamento. |
+
+O dono afirmou: “Melhor essa pq vai justificar a certeza de que ele morreu e ela seguiu a vida casando com outro entende”, e reforçou “Casar não namorar só”. Preservar o caráter honesto do marido e a agência de todos; não inventar separação, infidelidade, morte nem final romântico. Próxima questão: qual pista começa a revelar a mentira?

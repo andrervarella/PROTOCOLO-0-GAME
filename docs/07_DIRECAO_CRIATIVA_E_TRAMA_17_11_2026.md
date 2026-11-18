@@ -135,3 +135,9 @@ Resposta literal: **“Escolho D: o comandante convence o melhor amigo a encenar
 
 ## Vigésima primeira escolha do dono — 18/11/2026 (Brasília)
 Resposta literal: **“Escolho A: a companheira acreditou em um laudo médico falsificado.”** **PZ-DEC-047 APROVADO.** A alternativa A previa um registro oficial de morte com exames de identificação aparentemente legítimos e a possibilidade de uma pequena inconsistência posterior. O laudo explica a crença dela na morte de Silas sem precisar confirmar corpo trocado, gravação ou mentira em múltiplas etapas. Sem escolher ainda a natureza da falha, se ela foi intencional, quando é identificada, quem forjou o documento ou quando o amigo descobre que foi enganado. Próxima pergunta: qual detalhe discreto pode contradizer o laudo?
+
+
+## Correção do dono — PZ-DEC-048/049 (18/11/2026, Brasília)
+Resposta: “Escolho D: a companheira recebeu várias provas falsas da morte de Silas, construídas em etapas.” Refere-se à **alternativa D da pergunta 21**, alterando a preferência anterior por um único laudo (047), **não** à pergunta 22 sobre registros clínicos posteriores.
+Complemento explícito do dono: “Melhor essa pq vai justificar a certeza de que ele morreu e ela seguiu a vida casando com outro entende” e “Casar não namorar só”. **VIGENTE: ela CASOU oficialmente com o novo homem honesto.** A história deve retratar a legitimidade desse casamento; não chamar o marido de mero namorado. Como as provas foram entregues, a primeira pista de fraude e o reencontro com Silas ainda não foram aprovados.
+Próxima pergunta: qual pista primeiro derruba a farsa? Não inventar que ela já descobriu registro de Silas após a suposta morte.

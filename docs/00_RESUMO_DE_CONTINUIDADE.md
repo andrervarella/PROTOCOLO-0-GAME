@@ -122,3 +122,8 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Vigésima primeira decisão aprovada — PZ-DEC-047 (18/11/2026)
 **VIGENTE:** a companheira médica acreditou na morte de Silas por um laudo médico falsificado e exames de identificação aparentemente legítimos. Conecta-se à morte encenada (046). Não acrescentar vídeo, corpo trocado ou várias provas por inferência. Próxima pergunta: qual inconsistência no laudo poderá revelar a fraude? Momento e autor ainda pendentes.
+
+
+## Correções aprovadas — PZ-DEC-048/049 (18/11/2026)
+**VIGENTE:** a médica acredita na morte de Silas devido a várias provas falsas em etapas: notícia da execução, registros médicos e objetos pessoais. Isso substitui a interpretação de 047 como laudo suficiente (mas o laudo pode integrar os registros falsos).
+**VIGENTE:** ela **CASOU COM OUTRO HOMEM**, um homem honesto (037), durante os três anos de prisão de Silas (039). É marido, não apenas namorado; a médica continua sua investigação em NEXUS. Não inventar filhos, separação, traição ou desfecho. Próxima pergunta: qual é a primeira pista que compromete a farsa? A alternativa D da pergunta sobre pista ainda não foi aprovada.
