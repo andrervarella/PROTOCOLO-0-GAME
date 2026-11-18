@@ -129,3 +129,7 @@ A companheira médica encontra registro de **transferência recente do paciente 
 
 ## Silas e o mentor: a decisão de fugir — PZ-DEC-059
 **VIGENTE:** Silas **quer sair e buscar justiça**; ele e o mentor preparam a fuga de ÉREBO de maneira planejada, utilizando a transformação intelectual, emocional, física e estratégica já aprovada (033). O mentor não é o único estrategista que resgata um Silas passivo: Silas toma iniciativa e participa ativamente do plano. O mentor morrerá na fuga e deixará NEX a Silas (034); se antecipou a própria morte continua **em aberto**. O desejo de justiça deve ser posto à prova, não confundido automaticamente com vingança contra qualquer pessoa associada à conspiração. Preservar aparência de Silas nas transformações.
+
+
+## Escolha derradeira do mentor — PZ-DEC-060
+**APROVADO:** durante a fuga preparada em conjunto, o mentor **escolhe conscientemente se sacrificar** para que Silas viva e consiga sair. Ambos conheciam o risco, mas não foi decidido que o mentor planejara morrer desde o início. A escolha consolida NEX como legado deixado a Silas (034), sem tornar o robô uma consciência digital do mentor. O que Silas tenta fazer, o diálogo e o mecanismo da morte ainda aguardam definição.

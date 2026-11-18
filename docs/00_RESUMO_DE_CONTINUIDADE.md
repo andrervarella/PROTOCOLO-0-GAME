@@ -164,3 +164,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 28ª pergunta respondida — PZ-DEC-059 (18/11/2026)
 **VIGENTE:** Silas, inconformado com a traição e querendo justiça, **planeja intencionalmente fugir com ajuda do mentor**, aplicando o que ele lhe ensinou, com referência dramática a *O Conde de Monte Cristo*. Silas não aguarda passivamente uma rebelião ou resgate. **Não canonizar** procedimento irreversível como gatilho. Morte do mentor e legado NEX (034) já aprovados, mecanismo e premeditação ainda abertos. Próxima pergunta objetiva: ele sabia que o plano custaria sua vida? Meta ~2–3h (057).
+
+
+## 29ª escolha: sacrifício consciente — PZ-DEC-060 (18/11/2026)
+**APROVADO:** durante a fuga planejada por Silas e mentor, os dois sabem dos riscos; no momento decisivo, o mentor escolhe dar sua vida para Silas escapar. O mentor morre e deixa NEX (034), mas **a forma da morte e o momento da entrada do robô ainda não foram definidos**. Seguir para perguntas de gameplay da fuga, sem prolongar investigação. 3 anos na prisão, campanha-alvo 2–3h, namoro da médica (não casamento).

@@ -165,3 +165,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — fuga estratégica aprovada (18/11/2026)
 **PZ-DEC-059:** Silas e mentor desenvolvem a fuga deliberadamente, com Silas motivado pela injustiça e busca de justiça. Não depender de gatilho externo puramente casual. Próximo passo: escolher se o mentor previa seu próprio sacrifício; depois consolidar um roteiro enxuto da fuga com ação/jogabilidade, morte do mentor e NEX. Meta de ~2–3h (057). Não implementar uma cena como canônica antes de aprovação específica.
+
+
+## PZ-T-008 — mentor escolhe o sacrifício (18/11/2026)
+**PZ-DEC-060 APROVADO:** mentor se sacrifica conscientemente durante fuga, salvando Silas; o plano foi construído pelos dois (059). Próximo passo: definir dinâmica jogável da fuga, ponto de ameaça crítica e entrada de NEX, com uma pergunta objetiva de cada vez. Sem código/arte/gastos nesta atualização. Manter tarefa aberta.

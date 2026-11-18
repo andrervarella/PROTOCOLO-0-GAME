@@ -161,3 +161,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 28ª decisão narrativa aprovada — PZ-DEC-059 (18/11/2026, Brasília)
 **VIGENTE:** Silas **planejou a fuga com a ajuda do mentor** durante a prisão, está inconformado com a traição e quer **justiça**. Início da fuga não depende de rebelião casual, ataque oportunista nem NEX agindo sozinho. Método da fuga e papel operacional de NEX pendentes. Mentor morre durante fuga e deixa NEX (034); se previa morrer, ainda não decidido. **Próxima decisão:** sacrifício previsto ou imprevisto do mentor. Meta de campanha de 2–3h (057), sem prolongar investigação. Sem implementação de arte/jogo.
+
+
+## 29ª escolha aprovada — PZ-DEC-060 (18/11/2026)
+**VIGENTE:** mentor e Silas planejam a fuga; **no momento crítico o mentor escolhe conscientemente morrer para salvar Silas**. Morte e legado NEX estavam fixados (034), sem mecanismo ou momento de entrada de NEX ainda decidido. Princípios de história: Silas busca justiça e tem agência (059), campanha de ~2–3h (057), ação rápida e investigação condensada (056). **Próxima pergunta:** qual deve ser a experiência jogável da fuga? Nenhuma cena, implementação ou mídia aprovada nesta decisão.
