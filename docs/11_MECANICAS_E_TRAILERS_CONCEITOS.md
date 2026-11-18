@@ -47,3 +47,7 @@ Fonte de orientação Steam: https://partner.steamgames.com/doc/store/trailer?l=
 ## 5. Critérios de seleção
 Uma mecânica só avança se (a) for divertida sem cutscene, (b) tiver controle legível e desempenho coerente, (c) for repetível sem cansar, (d) combinar com o mundo e personagens, (e) couber no escopo. Registrar custo/benefício e testes.
 Nenhuma mecânica, cena, NPC, trailer, mudança de arte, vídeo ou serviço pago foi autorizado/produzido nesta fase.
+
+
+## Fuga como tutorial orgânico, progressão de poder — PZ-DEC-061 (18/11/2026)
+Fuga cinematográfica **com sabotagem intencional, combate e perseguição** está escolhida. Silas **não possui armas/itens e não é poderoso ao começar**. Planejar tutorial que ensine movimento/defesa e depois acrescente um recurso básico obtido durante a fuga; novos equipamentos e habilidades chegam progressivamente, sem menus complicados ou cirurgias extensas. Implantes opcionais precisam ser instaláveis de modo rápido e plausível; modos de instalação são **hipóteses de implementação**, não aprovados nem programados. NEX não deve entregar ao personagem todo o arsenal de uma vez. Propor que evolução perceptível mostre ao jogador progresso até uma campanha total de 2–3h, validando tempo em protótipo. Primeiro item pendente.

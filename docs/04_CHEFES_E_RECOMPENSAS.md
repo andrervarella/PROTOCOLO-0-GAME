@@ -20,3 +20,7 @@
 ## Próximo trabalho criativo proposto
 
 Aprofundar um chefe por vez: caráter, relação com as três corporações, fase, aparência frontal/lateral, telegráficos, 2–4 golpes próprios, fraquezas contextuais, recompensa única e impacto narrativo. **Separar sugestão nova de decisão já tomada.**
+
+
+## Coerência das recompensas com começo sem itens — PZ-DEC-061 (18/11/2026)
+**APROVADO:** Silas começa sem armas/equipamentos e sem upgrades adquiridos; progressão gradual durante fuga e capítulos de campanha de ~2–3h. As recompensas dos chefes devem ter **impacto perceptível** e permitir escolhas entre alternativas já definidas (ao menos um implante e um equipamento externo entre três), sem exigir que o jogador instale implantes. Novas instalações internas devem ser rápidas e narrativamente plausíveis; não criar cirurgia demorada em combate. **A regra de três opções e a terceira categoria ainda pendente permanecem**; não alterar de forma implícita. A progressão não deve entregar todos os poderes de início.

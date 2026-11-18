@@ -133,3 +133,7 @@ A companheira médica encontra registro de **transferência recente do paciente 
 
 ## Escolha derradeira do mentor — PZ-DEC-060
 **APROVADO:** durante a fuga preparada em conjunto, o mentor **escolhe conscientemente se sacrificar** para que Silas viva e consiga sair. Ambos conheciam o risco, mas não foi decidido que o mentor planejara morrer desde o início. A escolha consolida NEX como legado deixado a Silas (034), sem tornar o robô uma consciência digital do mentor. O que Silas tenta fazer, o diálogo e o mecanismo da morte ainda aguardam definição.
+
+
+## Começo vulnerável e ascensão gradual — PZ-DEC-061
+Silas, mesmo com experimentos e alterações de ÉREBO durante o cárcere, **não começa equipado nem dominante**: inicia fuga com inventário vazio e poderes/recursos acessíveis limitados. Ele adquire armas e melhorias durante a aventura; novas peças implantáveis devem ser **simples de colocar** na ficção, sem operações longas no meio do combate. Conservar cabelo preto curto, identidade de Silas e liberdade do jogador em escolher tecnologia interna ou externa. A aparência de cada estágio e habilidades iniciais ainda não foram aprovadas.

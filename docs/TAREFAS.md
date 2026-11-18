@@ -169,3 +169,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — mentor escolhe o sacrifício (18/11/2026)
 **PZ-DEC-060 APROVADO:** mentor se sacrifica conscientemente durante fuga, salvando Silas; o plano foi construído pelos dois (059). Próximo passo: definir dinâmica jogável da fuga, ponto de ameaça crítica e entrada de NEX, com uma pergunta objetiva de cada vez. Sem código/arte/gastos nesta atualização. Manter tarefa aberta.
+
+
+## PZ-T-008 — fuga C e progressão inicial aprovadas (18/11/2026)
+**PZ-DEC-061:** sabotagem → combate → perseguição, e Silas começa sem armas/equipamentos/upgrades; evolui gradualmente coletando novas armas, itens e tecnologias. Implantes opcionais com instalação de baixa complexidade. Compatibilizar com transformações ÉREBO existentes e escolhas de equipamentos externos. **Próximo passo:** escolher primeiro recurso da fuga; depois articular sequência jogável curta até morte do mentor e chegada de NEX, com crescimento controlado. Sem implementação.

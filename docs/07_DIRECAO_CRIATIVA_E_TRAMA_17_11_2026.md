@@ -185,3 +185,8 @@ Resposta: “Mas eu acho que fica legal o que ele planeja a fuga mesmo. Não tem
 
 ## Vigésima nona escolha do dono — 18/11/2026 (Brasília)
 Resposta literal: **“Escolho C: o mentor escolhe conscientemente se sacrificar para salvar Silas.”** **PZ-DEC-060 APROVADO.** A alternativa C também dizia que ambos sabiam dos riscos e que a decisão ocorre no momento decisivo. Não canonizar as opções de morte premeditada, acidente puro ou troca de destinos obrigatória. Realizar 034 (mentor morre na fuga, deixa NEX) e 059 (plano deliberado de Silas e mentor) mantendo Silas como protagonista ativo. **Próxima pergunta curta e voltada ao gameplay:** como o jogador participa da fuga (infiltração, combate ou alternância)? Não retornar à sequência burocrática da médica. Meta de campanha ~2–3h.
+
+
+## Trigésima escolha do dono — PZ-DEC-061 (18/11/2026)
+Resposta livre: prefere a **opção C** para a fuga (sabotagem, luta e perseguição), mas insiste que **Silas sai do cárcere sem armas/itens, não é poderoso e precisa encontrar armas e melhorias gradualmente**. Quer opções de novos implantes **sem procedimentos complexos** e progressão típica de jogo: itens encontrados no começo, depois evolução visível do poder. Não confundir “começa sem itens” com “nunca sofreu aprimoramentos ÉREBO”: a transformação pela prisão está aprovada (033). NÃO canonizar uso de espada, pistola, exobraço ou NEX antes da primeira escolha de aquisição. NÃO obrigar implantes internos: preservar rota externa (008).
+**Próxima pergunta curta de gameplay:** qual a primeira ferramenta/arma encontrada na fuga?

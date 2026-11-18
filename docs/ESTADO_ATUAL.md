@@ -165,3 +165,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 29ª escolha aprovada — PZ-DEC-060 (18/11/2026)
 **VIGENTE:** mentor e Silas planejam a fuga; **no momento crítico o mentor escolhe conscientemente morrer para salvar Silas**. Morte e legado NEX estavam fixados (034), sem mecanismo ou momento de entrada de NEX ainda decidido. Princípios de história: Silas busca justiça e tem agência (059), campanha de ~2–3h (057), ação rápida e investigação condensada (056). **Próxima pergunta:** qual deve ser a experiência jogável da fuga? Nenhuma cena, implementação ou mídia aprovada nesta decisão.
+
+
+## 30ª escolha aprovada — PZ-DEC-061 (18/11/2026)
+**Fuga C:** plano de sabotagem, combates e perseguição cinematográfica, sem remover agência de Silas. **Começa sem armas/itens/equipamentos e sem upgrades disponíveis**; Silas ainda não é poderoso, mesmo com modificações de ÉREBO prévias, e cresce aos poucos com armas, itens e tecnologia. Implantes novos com instalação breve/não complexa; rota externa continua possível. Campanha-alvo 2–3h (057). **Próxima pergunta:** qual primeiro item Silas encontra na fuga? Sem código, arte ou build produzidos.

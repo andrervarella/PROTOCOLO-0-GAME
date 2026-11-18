@@ -168,3 +168,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 29ª escolha: sacrifício consciente — PZ-DEC-060 (18/11/2026)
 **APROVADO:** durante a fuga planejada por Silas e mentor, os dois sabem dos riscos; no momento decisivo, o mentor escolhe dar sua vida para Silas escapar. O mentor morre e deixa NEX (034), mas **a forma da morte e o momento da entrada do robô ainda não foram definidos**. Seguir para perguntas de gameplay da fuga, sem prolongar investigação. 3 anos na prisão, campanha-alvo 2–3h, namoro da médica (não casamento).
+
+
+## 30ª escolha — PZ-DEC-061 (18/11/2026)
+**APROVADO:** fuga opção **C** (sabotagem planejada, combate e perseguição). Silas **começa sem arma, item ou equipamento**, não poderoso; adquire primeiras ferramentas e evolui com armas/itens/melhorias ao longo do game. Experimentos ÉREBO anteriores permanecem, mas sem liberar poderes completos no começo. Implantes adicionais devem ser simples e rápidos de instalar, sem obrigação; opções externas seguem válidas. O primeiro item ainda será escolhido. Campanha ~2–3h (meta). Próxima pergunta: primeiro recurso da fuga.
