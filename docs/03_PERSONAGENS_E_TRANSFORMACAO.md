@@ -84,3 +84,7 @@ A abertura aprovada apresenta Silas durante a fuga em 2054, depois retorna três
 
 ## Melhor amigo na operação secreta — PZ-DEC-045
 **APROVADO:** Silas solicita ajuda ao melhor amigo para uma infiltração destinada a obter provas definitivas sobre ÉREBO, após a investigação conjunta com a médica. Este é o contexto da manipulação pelo comandante (030). O amigo não é traidor deliberado por definição: acredita estar ajudando Silas. Seu conhecimento da operação, a mentira usada pelo comandante, seus atos concretos, remorso e destino permanecem pendentes.
+
+
+## Traição através de morte encenada — PZ-DEC-046
+O melhor amigo de Silas aceita o plano do comandante de **fingir a morte de Silas para salvá-lo de suposta execução por traição**; acredita que ele será levado a um esconderijo seguro, mas o entrega involuntariamente ao ÉREBO. A atitude dele tem motivação protetora, sem apagar sua responsabilidade e eventual culpa. A companheira de Silas acreditou em sua morte (036), mas como a farsa chegou até ela ainda é uma cena a decidir. Identidade, nomes, participação da médica, estado da consciência do amigo e descoberta da mentira permanecem pendentes.

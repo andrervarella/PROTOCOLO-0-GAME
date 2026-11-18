@@ -108,3 +108,7 @@
 
 ## Décimo nono marco narrativo aprovado — 18/11/2026 (Brasília)
 **PZ-DEC-045:** Silas organiza operação secreta para obter provas definitivas e pede ajuda ao melhor amigo. Complementa 044 e conecta-se à traição definida em 030/031. Próxima decisão: o pretexto usado pelo comandante para manipular o amigo. Locais, detalhes da missão, provas, captura e mecânica jogável pendentes. Todos os marcos 026–045 vigentes, exceto 038 substituído por 039; sem código, imagem ou cutscene nova.
+
+
+## Vigésimo marco narrativo aprovado — 18/11/2026 (Brasília)
+**PZ-DEC-046:** o comandante convence o melhor amigo a **encenar a morte de Silas para evitar suposta execução**, prometendo escondê-lo em local seguro; entrega real a ÉREBO. Complementa 030/031/036/045. Marcos 026–046 aprovados, com a duração de 038 substituída por 039. Próxima decisão: prova da morte que a companheira recebe; mecanismo da farsa e consequências para o amigo ainda abertos. Nenhuma arte, mídia, gameplay ou teste executados.

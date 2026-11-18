@@ -198,3 +198,11 @@ Não confundir descoberta parcial com revelação final da conspiração. Não r
 | PZ-DEC-045 | **APROVADO PELO DONO** | Opção C: **Silas organiza uma operação secreta de infiltração para obter provas definitivas e pede ajuda ao melhor amigo**, que será manipulado pelo comandante, conforme PZ-DEC-030. | Local/instalação, provas, quem participa, como comandante interfere, mentira contada ao amigo, dinâmica da captura e cenas |
 
 A operação conecta PZ-DEC-044 (investigação conjunta) a PZ-DEC-030/031 (manipulação, captura e objetivo do comandante). A ideia de a infiltração ser uma armadilha que leva à própria prisão é proposta de encenação; não confundir com uma sequência aprovada. **Próxima pergunta:** como o comandante convence o melhor amigo a entregar Silas pensando estar salvando-o?
+
+
+## PZ-DEC-046 — a morte encenada (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-046 | **APROVADO PELO DONO** | Opção D: **o comandante convence o melhor amigo de Silas a encenar sua morte para supostamente salvá-lo de uma execução**. O amigo pensa entregá-lo a uma instalação segura, mas o entrega ao Projeto ÉREBO. | Como Silas é capturado, qual prova de morte é apresentada à companheira, alcance da notícia, conhecimento posterior do amigo e como o engano será revelado |
+
+A decisão especifica a manipulação aprovada em PZ-DEC-030 e conecta-se à operação secreta (045) e à crença da médica na morte de Silas (036). **Não repetir a pergunta de qual mentira o comandante contou.** Próxima pergunta: por que a companheira acreditou concretamente na morte encenada?

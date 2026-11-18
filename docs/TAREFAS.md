@@ -117,3 +117,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — décimo nono marco aprovado (18/11/2026)
 **AVANÇO PARCIAL:** Silas planeja operação secreta para buscar provas definitivas e pede ajuda ao melhor amigo (045). Próxima decisão: a mentira do comandante que converte o plano em entrega de Silas a ÉREBO. Em aberto: local, roteiro da infiltração, provas, cena da captura, desdobramentos com médica e amigo e retorno cronológico do prólogo. Manter tarefa aberta.
+
+
+## PZ-T-008 — vigésimo marco aprovado (18/11/2026)
+**AVANÇO PARCIAL:** comandante manipula amigo por plano de morte encenada para supostamente salvar Silas de execução por traição (046), mas o entrega a ÉREBO. Próxima decisão: como a médica foi convencida da morte; depois como o amigo percebe a verdade, operações da prisão e reconciliações posteriores. Não implementar cenas sem validação. Manter tarefa aberta.

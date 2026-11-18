@@ -114,3 +114,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Décima nona decisão aprovada — PZ-DEC-045 (18/11/2026)
 **VIGENTE:** Silas organiza operação secreta para obter provas definitivas e chama o melhor amigo. É o contexto para o comandante manipular esse amigo e fazê-lo entregar Silas ao Projeto ÉREBO. Motivo do comandante aprovado em 031. Próxima pergunta: qual pretexto convence o amigo de que está protegendo Silas? Não presumir local nem cena de captura como canônicos.
+
+
+## Vigésima decisão aprovada — PZ-DEC-046 (18/11/2026)
+**VIGENTE:** o comandante convenceu melhor amigo a encenar a morte de Silas para supostamente evitar execução por traição; o amigo pensava entregá-lo a instalação segura, mas na verdade o levou ao ÉREBO. Explica por que a companheira o considerava morto, sem fixar qual prova ou relato ela recebeu. Próxima pergunta: qual evidência a fez acreditar na morte? Nenhum asset/gameplay produzido.
