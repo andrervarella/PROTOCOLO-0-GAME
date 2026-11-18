@@ -125,3 +125,7 @@ A companheira médica encontra registro de **transferência recente do paciente 
 
 ## Próximo movimento da médica — PZ-DEC-058 (18/11/2026)
 **APROVADO:** depois de encontrar a assinatura digital de executivo de NEXUS na ordem de transferência (055), a médica **investiga autorizações anteriores do mesmo executivo**, tentando descobrir se ele também participou da falsa morte de Silas. Ainda não encontra prova conclusiva nem confirma culpa dele. Desenvolver a investigação em cenas breves, encaixadas na campanha de aproximadamente até 2–3 horas (057), sem atrasar a fuga e o início do gameplay. O novo homem é **namorado honesto**, não marido (050).
+
+
+## Silas e o mentor: a decisão de fugir — PZ-DEC-059
+**VIGENTE:** Silas **quer sair e buscar justiça**; ele e o mentor preparam a fuga de ÉREBO de maneira planejada, utilizando a transformação intelectual, emocional, física e estratégica já aprovada (033). O mentor não é o único estrategista que resgata um Silas passivo: Silas toma iniciativa e participa ativamente do plano. O mentor morrerá na fuga e deixará NEX a Silas (034); se antecipou a própria morte continua **em aberto**. O desejo de justiça deve ser posto à prova, não confundido automaticamente com vingança contra qualquer pessoa associada à conspiração. Preservar aparência de Silas nas transformações.

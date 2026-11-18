@@ -161,3 +161,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — campanha compacta e resolução da pergunta 27 (18/11/2026)
 **PZ-DEC-057:** meta de campanha até aproximadamente 2–3 horas com suspense e reviravoltas, evitando investigação burocrática; priorizar capítulos jogáveis, fuga e progressão. **PZ-DEC-058:** a médica investiga autorizações anteriores do executivo NEXUS para buscar elo com a falsa morte; resultado ainda aberto. **Próximo passo:** escolher gatilho da fuga, encenar sacrifício do mentor e legar NEX, depois construir primeiro trecho principal. Não tratar minigame, cutscene, boss ou duração cronometrada como já implementados.
+
+
+## PZ-T-008 — fuga estratégica aprovada (18/11/2026)
+**PZ-DEC-059:** Silas e mentor desenvolvem a fuga deliberadamente, com Silas motivado pela injustiça e busca de justiça. Não depender de gatilho externo puramente casual. Próximo passo: escolher se o mentor previa seu próprio sacrifício; depois consolidar um roteiro enxuto da fuga com ação/jogabilidade, morte do mentor e NEX. Meta de ~2–3h (057). Não implementar uma cena como canônica antes de aprovação específica.

@@ -160,3 +160,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 ## Mudança de foco e 27ª decisão — PZ-DEC-057/058 (18/11/2026)
 **VIGENTE:** PROTOCOLO ZERO deverá ser uma **campanha curta, aproximadamente até 2–3 horas**, com reviravoltas e perguntas narrativas **objetivas**. Investigações da médica em cortes curtos, não perguntas burocráticas em sequência. **27ª pergunta foi respondida A:** médica investiga autorizações anteriores do executivo da NEXUS por possível relação com falsa morte (058), sem resultado confirmado.
 **PRÓXIMA PERGUNTA:** o que desencadeia a fuga de Silas em 2054? Preservar 034 mentor morre na fuga, deixa NEX; 039 três anos; 040 abertura não linear; 050 namoro não casamento. Duração apenas alvo até testes.
+
+
+## 28ª pergunta respondida — PZ-DEC-059 (18/11/2026)
+**VIGENTE:** Silas, inconformado com a traição e querendo justiça, **planeja intencionalmente fugir com ajuda do mentor**, aplicando o que ele lhe ensinou, com referência dramática a *O Conde de Monte Cristo*. Silas não aguarda passivamente uma rebelião ou resgate. **Não canonizar** procedimento irreversível como gatilho. Morte do mentor e legado NEX (034) já aprovados, mecanismo e premeditação ainda abertos. Próxima pergunta objetiva: ele sabia que o plano custaria sua vida? Meta ~2–3h (057).

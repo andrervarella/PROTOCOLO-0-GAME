@@ -298,3 +298,11 @@ Preservar PZ-DEC-056 (investigação em cenas curtas) e 040 (abertura não linea
 |---|---|---|---|
 | PZ-DEC-058 | **APROVADO PELO DONO** | Na 27ª pergunta, opção **A**: **a médica investiga autorizações anteriores assinadas pelo executivo da NEXUS**, procurando indícios de envolvimento na falsa morte de Silas. | O que encontra, se o executivo tem culpa, momento da descoberta e consequências. |
 **Não canonizar descoberta de culpa, conexão efetiva com a morte ou arquivo específico.** Essa investigação passa a evoluir em cenas breves durante a aventura e não gera nova sequência longa de perguntas. **Próxima decisão: qual acontecimento inicia a fuga jogável de Silas em 2054?** Preservar decisão 034: o mentor morre durante a fuga e deixa NEX como legado. Três anos de prisão (039), namorado honesto sem casamento (050).
+
+
+## PZ-DEC-059 — fuga planejada por Silas com o mentor (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-059 | **APROVADO PELO DONO — VIGENTE** | **Silas está inconformado com a traição e quer sair da prisão para buscar justiça; ele planeja ativamente a fuga com a ajuda e os ensinamentos estratégicos do mentor**, em clima de conspiração e superação inspirado pelo *Conde de Monte Cristo*. A fuga não ocorre somente por acaso, rebelião espontânea nem por ataque externo oportunista. | Como o plano é executado; participação de NEX; qual obstáculo inesperado surge; como ocorre a morte do mentor; se o mentor previa o próprio sacrifício. |
+A pergunta 28 sobre o início da fuga foi respondida em texto livre como **correção criativa da alternativa de plano do mentor**: ambos desenvolvem a estratégia e **Silas tem agência central**. **Não canonizar** que a fuga só começa por um procedimento irreversível (detalhe da opção A anterior que o dono não endossou) nem que a vontade de fugir surgiu apenas naquele momento. Preservar 034 (mentor morre durante a fuga e deixa NEX), 039 (três anos de cárcere), 040 (abertura fuga 2054 → flashback 2051), 057 (campanha ~2–3h, ritmo forte).
+**Próxima pergunta objetiva:** o mentor sabia que sacrificaria sua vida no plano?

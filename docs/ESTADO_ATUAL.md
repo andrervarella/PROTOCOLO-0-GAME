@@ -157,3 +157,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 **057:** meta de conclusão em aproximadamente até **2–3 horas**, com reviravoltas e perguntas objetivas; condensar investigação, acelerar fuga e introduzir gameplay.
 **058:** médica investiga **autorizações anteriores de executivo da NEXUS** para verificar possível participação na falsa morte de Silas, sem descoberta conclusiva aprovada. Pergunta 27 **respondida**.
 **Próxima escolha:** o acontecimento que dispara a fuga em 2054. Após isso, priorizar ação, mentor e NEX, primeiros cenários, combate e progressão. Três anos de prisão (039) e namoro sem casamento (050) vigentes; nenhuma implementação, material visual ou áudio novos.
+
+
+## 28ª decisão narrativa aprovada — PZ-DEC-059 (18/11/2026, Brasília)
+**VIGENTE:** Silas **planejou a fuga com a ajuda do mentor** durante a prisão, está inconformado com a traição e quer **justiça**. Início da fuga não depende de rebelião casual, ataque oportunista nem NEX agindo sozinho. Método da fuga e papel operacional de NEX pendentes. Mentor morre durante fuga e deixa NEX (034); se previa morrer, ainda não decidido. **Próxima decisão:** sacrifício previsto ou imprevisto do mentor. Meta de campanha de 2–3h (057), sem prolongar investigação. Sem implementação de arte/jogo.
