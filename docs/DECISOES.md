@@ -253,3 +253,11 @@ O dono afirmou: “Melhor essa pq vai justificar a certeza de que ele morreu e e
 | PZ-DEC-052 | **APROVADO — VIGENTE** | Opção A: **a médica investiga secretamente os registros do paciente codificado de ÉREBO e os compara com o histórico médico de Silas**, sem contar a ninguém inicialmente. Busca uma prova mais forte antes de agir. | Qual comparação/indício encontra, quando ocorre, quem descobre sua investigação, se obtém confirmação e quando conta a terceiros |
 
 Complementa 051 (primeira pista biométrica), 048 (fraude documental) e 050 (**namoro, não casamento**). **Não repetir a pergunta sobre a primeira atitude da médica.** Próxima decisão: que característica concreta encontrada nos registros se torna a segunda pista?
+
+
+## PZ-DEC-053 — segunda pista médica: fratura antiga (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-053 | **APROVADO — VIGENTE** | Opção A: **os exames do paciente de ÉREBO mostram sinais de antiga fratura de Silas em missão militar**, com localização e padrão de cicatrização muito semelhantes ao histórico dele. | Local anatômico, data da lesão, acesso ao prontuário original, confirmação da identidade, riscos à médica e consequências |
+
+Complementa 051/052 e não equivale a confirmação da sobrevivência. As demais alternativas (assinatura neurológica, implante instalado por ela e anomalia genética rara) não foram escolhidas. Preservar namoro sem casamento (050). **Próxima decisão:** o que acontece ao tentar acessar o prontuário completo?

@@ -109,3 +109,7 @@ A médica, que trabalha em NEXUS e investiga ÉREBO em segredo, encontra dados r
 
 ## Investigação discreta — PZ-DEC-052
 **VIGENTE:** a médica escolhe **investigar sozinha e em segredo**, confrontando os dados do paciente codificado com o histórico de Silas. Não compartilha a suspeita imediatamente com namorado, melhor amigo de Silas ou colegas. Ela ainda não identificou conclusivamente o paciente nem confirmou a sobrevivência. O conteúdo médico encontrado e o risco da investigação dependem de próximas escolhas; não presumir quebra do namoro nem intenção de voltar a Silas.
+
+
+## Segunda pista clínica: a lesão antiga — PZ-DEC-053
+**VIGENTE:** uma fratura antiga de Silas, sofrida em missão militar, apresenta localização e padrão de cicatrização muito semelhantes aos encontrados nos exames do paciente de ÉREBO. A médica reconhece a correspondência ao investigar sozinha (052). Não determinar qual osso, lado, mecanismo da fratura, intervenção médica, habilidade perdida ou reação emocional específica. A correspondência é forte, mas não encerra o mistério. Ela segue namorando, sem casamento (050).

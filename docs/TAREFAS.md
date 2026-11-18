@@ -141,3 +141,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — vigésimo terceiro marco aprovado (18/11/2026)
 **AVANÇO PARCIAL:** a médica investiga secretamente registros do paciente de ÉREBO, comparando-os com histórico clínico de Silas para buscar prova mais forte (052). Próxima decisão: segundo indício biométrico/clínico e o quanto confirma a identidade. Ação externa, compartilhamento de dados e reencontro ainda pendentes. Manter tarefa aberta.
+
+
+## PZ-T-008 — segunda pista clínica aprovada (18/11/2026)
+**AVANÇO PARCIAL:** segunda pista (053) é uma lesão/fratura antiga de Silas em missão militar cujas características aparecem nos exames do paciente misterioso. Em aberto: localização anatômica, documentos originais, verificação independente, risco de vigilância e descoberta da fraude. Próximo passo: definir obstáculo ou revelação ao solicitar dados completos. Manter tarefa aberta; não produzir cenas sem aprovação.

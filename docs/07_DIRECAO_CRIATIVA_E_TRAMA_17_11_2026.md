@@ -153,3 +153,7 @@ Resposta literal: **“Escolho a pista C: a médica encontra registros de um pac
 
 ## Vigésima terceira escolha do dono — 18/11/2026 (Brasília)
 Resposta literal: **“Escolho A: a médica investiga secretamente os registros.”** **PZ-DEC-052 APROVADO.** A alternativa A oferecida era investigar sem contar inicialmente a ninguém, comparando registros biométricos do paciente com histórico clínico de Silas, buscando prova mais forte antes de agir. Não avançar automaticamente para rastrear instalação, consultar o melhor amigo ou conversar com o namorado; eram alternativas não escolhidas. Não tratar a investigação como confirmação ou descoberta de localização. Próxima decisão: que característica nos dados desperta confiança adicional ou maior estranhamento?
+
+
+## Vigésima quarta escolha do dono — 18/11/2026 (Brasília)
+Resposta literal: **“Escolho A: os exames mostram uma lesão antiga de Silas.”** **PZ-DEC-053 APROVADO.** A opção A apresentada detalhava sinais de fratura sofrida em missão militar, com localização e cicatrização semelhantes ao histórico de Silas. Esse achado vem depois da pista biométrica (051) e da investigação secreta (052). Não canonizar implante pessoal, assinatura neurológica ou anomalia genética rara, pois eram alternativas não escolhidas. Não inferir confirmação definitiva, local de detenção ou encontro. Próximo ponto: o que ocorre quando ela procura acessar os registros completos do paciente?

@@ -135,3 +135,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## Vigésimo terceiro marco narrativo — 18/11/2026 (Brasília)
 **PZ-DEC-052:** a médica mantém sigilo e compara registros do paciente codificado de ÉREBO com o histórico clínico de Silas, buscando prova mais forte. Nada de confirmação ou acesso ao local por ora. Marcos 026–052 aprovados, exceto 038 superada por 039 e 049 superada por 050; 047 superada na exclusividade por 048. **Próxima pergunta:** qual é a segunda evidência encontrada na comparação? Sem código, arte, gameplay ou cutscene nova.
+
+
+## Vigésimo quarto marco narrativo aprovado — 18/11/2026 (Brasília)
+**PZ-DEC-053:** médica encontra sinais de antiga fratura de Silas em missão militar nos exames de paciente codificado de ÉREBO; localização e cicatrização correspondem. Pista forte, não prova definitiva. Permanecem 051 (semelhança biométrica), 052 (investigação secreta), 048 (provas de morte falsas em etapas), 050 (namoro, não casamento). Próxima pergunta: o que acontece quando ela tenta consultar o prontuário completo? Sem geração de mídia ou implementação.

@@ -139,3 +139,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Vigésima terceira escolha — PZ-DEC-052 (18/11/2026)
 **VIGENTE:** a médica pesquisa os registros do paciente de ÉREBO sozinha e em segredo, comparando com prontuários de Silas; não conta de imediato a ninguém. Ainda não confirmou identidade/localização. Namorado honesto (050), provas falsas em etapas (048) e três anos de prisão (039) permanecem. **Próxima pergunta:** que nova pista aparece na comparação?
+
+
+## Vigésima quarta decisão — PZ-DEC-053 (18/11/2026)
+**VIGENTE:** médica compara exames de paciente codificado de ÉREBO ao histórico de Silas e reconhece lesão/fratura antiga sofrida em missão militar, com padrão e localização semelhantes. É forte indício, não identificação definitiva. PZ-DEC-051/052 mantidas; PZ-DEC-050 determina **namoro sem casamento**. Próxima pergunta: o que ela encontra ou enfrenta ao tentar acessar prontuário completo?
