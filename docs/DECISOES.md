@@ -95,3 +95,10 @@ A decisão define o núcleo da traição de PZ-DEC-026/029. Cenas, nomes, partic
 | PZ-DEC-031 | **APROVADO PELO DONO** | Opção D: o comandante queria **silenciar Silas e transformá-lo em uma arma capaz de impedir uma guerra mundial**. A combinação reúne eliminar a testemunha, aproveitar seu potencial excepcional para ÉREBO e perseguir a ideia de prevenir uma guerra entre potências. | A ameaça real de guerra, dados de compatibilidade, mandantes/aliados, plano exato, nome e destino do comandante |
 
 O antagonista acredita na necessidade da arma; a eficácia e legitimidade desse plano não são fatos estabelecidos. A decisão complementa PZ-DEC-030. As falas dadas como exemplo e os eventos concretos seguem não aprovados. Não repetir pergunta sobre motivação.
+
+## PZ-DEC-032 — identidade do mentor do cárcere (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-032 | **APROVADO PELO DONO** | Opção D: o mentor que Silas conhece na prisão é **um dos criadores de LIMIAR e idealizador original de ÉREBO**, cientista que desenvolveu as tecnologias com finalidade humanitária, resistiu à sua apropriação por interesses militares/políticos e foi aprisionado. | Nome, passado detalhado, eventual culpa por concessões, relação com NEX, conhecimento da conspiração, formação de Silas, fuga e destino |
+
+A decisão resolve a identidade narrativa do mentor, não todos os aspectos de sua biografia. Não canonizar a sugestão adicional sobre compromissos com corporações nem falas propostas. Não afirmar que é o criador exclusivo de LIMIAR. Não repetir a pergunta sobre sua identidade.

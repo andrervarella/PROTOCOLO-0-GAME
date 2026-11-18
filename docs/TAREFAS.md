@@ -62,3 +62,6 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — sexto marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** definida motivação do comandante (PZ-DEC-031): silenciar Silas e transformá-lo em arma para impedir uma guerra mundial, conforme sua crença. Próxima decisão: identidade e passado do mentor do cárcere. Ainda abertos nomes, ameaça real de guerra, projeto específico, manipulação do amigo, descoberta pela médica, prisão/fuga, conspiração e desfecho. Não encerrar tarefa.
+
+## PZ-T-008 — sétimo marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** identidade do mentor aprovada, um dos criadores de LIMIAR e idealizador original do Projeto ÉREBO (032). Próxima decisão: como ele orienta Silas no cárcere e o que lhe ensina. Ainda abertas biografia, responsabilidades passadas, revelações, ligação com NEX, transformação, fuga, destino do mentor e conspiração. Não encerrar tarefa.

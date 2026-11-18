@@ -59,3 +59,6 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Sexta decisão aprovada — 17/11/2026
 **PZ-DEC-031:** o comandante queria silenciar Silas e transformá-lo numa arma capaz de impedir uma guerra mundial. Trata-se da intenção/crença do comandante, não da certeza de eficácia do plano. Marcos 026–031 aprovados. Próxima pergunta: quem era o mentor do cárcere? Não repetir decisões anteriores.
+
+## Sétima decisão aprovada — 17/11/2026
+**PZ-DEC-032:** mentor de Silas na prisão é um dos criadores de LIMIAR e idealizador original de ÉREBO. Foi preso ao se opor à apropriação política/militar das tecnologias. Marcos 026–032 aprovados. Próxima pergunta: qual será o papel do mentor na formação de Silas dentro da prisão? Nome, passado detalhado, NEX, fuga e destino ainda pendentes. Não repetir decisões anteriores.

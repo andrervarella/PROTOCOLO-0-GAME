@@ -53,3 +53,6 @@
 
 ## Sexto marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-031:** o comandante pretendia silenciar Silas e transformá-lo numa arma que, em sua crença, impediria uma guerra mundial. Marcos aprovados 026 a 031: origem moral, companheira, profissão médica, capturas de cobaias, traição por manipulação do amigo e motivação do comandante. Próxima decisão com o dono: identidade/papel do mentor do cárcere. Ainda pendentes ameaça de guerra exata, provas da descoberta, prisão, fuga, nome e situação dos envolvidos. Sem novos assets ou implementação.
+
+## Sétimo marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-032:** mentor do cárcere é um dos criadores de LIMIAR e idealizador original de ÉREBO, preso por resistir ao uso militar/político de suas invenções. Marcos 026–032 aprovados. Próxima decisão: o que ele ensina e como participa da transformação de Silas durante o cárcere. Nome, responsabilidade passada, conexão NEX, cena de encontro, fuga, destino da companheira e revelação da conspiração ainda não fechados. Atualização documental apenas.
