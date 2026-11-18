@@ -26,3 +26,6 @@
 ## Personagens ainda não consolidados
 
 Líderes das corporações, aliados civis, informantes, rivais secundários e a forma-personagem final de LIMIAR. Não inventar nomes como cânone.
+
+## Companheira de Silas — vínculo aprovado em 17/11/2026
+**APROVADO (PZ-DEC-027):** sua companheira era o vínculo emocional mais importante antes da queda. Nome, idade, aparência, profissão, personalidade, história do relacionamento, sobrevivência e papel no gameplay são **PENDENTES**. Diretriz editorial proposta: dar-lhe agência, interesses e convicções próprios, evitando reduzir sua existência a interesse amoroso ou vítima. Não gerar arte ou ficha definitiva sem aprovação.

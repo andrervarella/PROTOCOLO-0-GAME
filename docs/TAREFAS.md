@@ -47,3 +47,6 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## Atualização PZ-T-008 — opção B escolhida (17/11/2026)
 **PARCIALMENTE AVANÇADA:** origem moral de Silas foi aprovada: agente cumpriu ordens erradas, acreditou estar certo, tentou reparação e foi traído (PZ-DEC-026). **Permanecem ABERTOS:** vínculo emocional e passado anterior, quem deu ordens, o que foi feito, a descoberta do erro, a traição, mentor, prisão, conspiração e desfecho. Não marcar PZ-T-008 como concluída até o dono aprovar os detalhes.
+
+## PZ-T-008 — segundo marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** vínculo emocional central de Silas definido como sua companheira (PZ-DEC-027). Ainda determinar profissão, história, motivações e destino dela, missão, ordens injustas, vítimas, mecanismo da traição, cárcere, mentor e conspiração. Manter tarefa aberta até aprovação dos detalhes.

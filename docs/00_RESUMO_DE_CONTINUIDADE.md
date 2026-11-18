@@ -44,3 +44,6 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Decisão mais recente do dono — Silas Venn (17/11/2026)
 **PZ-DEC-026 APROVADO:** Silas cumpriu ordens erradas acreditando estar fazendo o certo. Depois tentou corrigir seus erros e foi traído. A opção **B foi escolhida**; A e C não são a origem vigente. Quem ele amava, o que fez, quem foi prejudicado, quem o traiu e por quê ainda serão desenvolvidos com uma pergunta por vez. Não confundir com os exemplos narrativos não aprovados em docs 07/10.
+
+## Segunda decisão aprovada — 17/11/2026
+**PZ-DEC-027:** uma companheira era o vínculo emocional mais importante de Silas antes da queda. PZ-DEC-026 e PZ-DEC-027 são decisões aprovadas; os acontecimentos específicos ainda não. Nome, ocupação, destino e participação da companheira permanecem pendentes; próxima pergunta: quem ela era/qual era sua profissão.

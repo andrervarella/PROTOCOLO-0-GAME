@@ -60,3 +60,10 @@ Detalhes, modelos de conflito e sugestões de infraestrutura **não aprovados** 
 | PZ-DEC-026 | **APROVADO PELO DONO** | Origem moral de **Silas Venn = opção B**: cumpriu ordens erradas acreditando que fazia o certo; descobriu o erro, tentou corrigi-lo e **foi traído**. A história deve tratar culpa, responsabilidade e reparação, sem absolvê-lo automaticamente. | Quem emitiu ordens, vítimas, ligação afetiva, missão, mecanismo da descoberta, autor da traição e motivo do cárcere |
 
 **Prevalência:** esta escolha SUPERA a redação anterior em PZ-DEC-019 e nos docs 07/HANDOFF/ESTADO_ATUAL que indicavam “Silas moralmente culpado” como mera proposta ou a opção moral ainda pendente. Apenas a estrutura descrita em PZ-DEC-026 foi aprovada; exemplos específicos anteriores não foram aprovados. Não perguntar novamente A/B/C.
+
+## PZ-DEC-027 — vínculo afetivo de Silas (17/11/2026)
+| ID | Estado | Registro | Pendente |
+|---|---|---|---|
+| PZ-DEC-027 | **APROVADO PELO DONO** | Opção A: **uma companheira era o vínculo emocional mais importante de Silas Venn** antes da traição e prisão. | Nome, profissão, personalidade, história do relacionamento, situação após a prisão, agência e participação na trama/finais |
+
+Esta decisão resolve a pendência de vínculo afetivo de PZ-DEC-026. Não implica aprovação de romance específico, casamento, morte ou sacrifício, nem de cenas anteriores propostas. Não voltar a perguntar qual vínculo o dono escolhe.

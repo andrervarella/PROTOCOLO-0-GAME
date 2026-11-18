@@ -38,3 +38,6 @@
 
 ## Marco narrativo aprovado — 17/11/2026
 **PZ-DEC-026, APROVADO:** Silas cumpriu ordens injustas sem saber toda a verdade, acreditando estar fazendo o certo. Ao compreender as consequências, tentou corrigir os erros e foi traído. A origem moral **não está mais pendente**; os eventos específicos, personagens e mecanismos da traição continuam em desenvolvimento. Próximo passo: definir o principal vínculo emocional de Silas antes da queda, uma pergunta por vez; depois operação, autor e motivo da traição. Material documental apenas, sem mídia/build.
+
+## Segundo marco narrativo aprovado — 17/11/2026
+**PZ-DEC-027:** Silas tinha uma companheira, seu vínculo emocional mais importante. Junto a PZ-DEC-026 (agente que cumpriu ordens erradas, tentou reparar e foi traído), é base aprovada para desenvolver seu passado. Profissão, nome, destino e agência da companheira ainda estão em aberto. **Próxima pergunta ao dono:** quem ela era e qual era sua atuação profissional. Sem novos assets ou gameplay.
