@@ -68,3 +68,7 @@ O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉRE
 
 ## Cronologia de Silas — PZ-DEC-038
 **APROVADO:** Silas permaneceu preso por cinco anos, período em que o mentor promove sua transformação completa (033) e a companheira reconstrói sua vida acreditando em sua morte (035–037). A ambientação principal em 2054 sugere prisão em 2049. Não fixar idades, datas de nascimento, tempo de relacionamento, envelhecimento visual, detalhes físicos adicionais ou duração de cada etapa de treinamento sem aprovação.
+
+
+## Correção de cronologia — PZ-DEC-039
+**VIGENTE: três anos de prisão**, substituindo cinco anos de PZ-DEC-038. Adequar a evolução física/intelectual/estratégica/emocional de Silas e a reconstrução da vida da médica ao novo intervalo, preservando os marcos já aprovados. Cronologia de trabalho ~2051–2054. Idades, etapas do treinamento e datas precisas não definidas.

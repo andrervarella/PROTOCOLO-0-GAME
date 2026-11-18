@@ -80,3 +80,7 @@
 
 ## Décimo terceiro marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-038:** Silas ficou preso por cinco anos. Marcos 026–038 aprovados. Cronologia de trabalho: queda por volta de 2049, fuga em 2054. Próxima decisão: estrutura da abertura (prólogo do passado, início na fuga com flashbacks ou outro formato). Nomes, idades, calendário preciso, cenas, gameplay e detalhes da conspiração ainda em aberto. Documentação apenas.
+
+
+## Correção mais recente — 17/11/2026 (Brasília)
+**PZ-DEC-039 vigente:** três anos de prisão (não cinco); cronologia de trabalho ~2051–2054. PZ-DEC-038 superada nessa matéria. Os demais marcos 026–037 continuam aprovados. A estrutura da abertura permanece pendente: próxima pergunta ao dono. Nenhuma cena, asset ou implementação nova.

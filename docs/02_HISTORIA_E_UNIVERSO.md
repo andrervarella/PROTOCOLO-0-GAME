@@ -81,3 +81,7 @@ Antes da queda, **a pessoa mais importante na vida de Silas era sua companheira*
 
 ## Décima terceira decisão narrativa aprovada — 17/11/2026 (Brasília)
 **PZ-DEC-038:** Silas ficou preso durante **cinco anos**. Considerando a ambientação já registrada em 2054, a cronologia de trabalho situa sua prisão por volta de 2049 e sua fuga em 2054; datas precisas e calendário dos eventos ainda não definidos. O intervalo explica a formação pelo mentor, a evolução de ÉREBO, a reconstrução da vida da médica e possíveis mudanças políticas/tecnológicas. Não presumir idades, durações de operações, cronologia de todas as crises ou quanto tempo da prisão será jogável. Próxima decisão: estrutura de abertura do jogo, inclusive se apresentar a vida antes da traição em prólogo jogável, flashbacks ou montagem.
+
+
+## Correção da duração do cárcere — PZ-DEC-039 (17/11/2026, Brasília)
+**APROVADO E VIGENTE:** o dono corrigiu a duração da prisão de Silas para **três anos**. Esta decisão substitui os cinco anos de PZ-DEC-038. Mantendo a ambientação principal e fuga em 2054, a cronologia de trabalho passa a ser prisão ~2051 e fuga em 2054, com datas precisas ainda abertas. A formação pelo mentor, o novo relacionamento da médica, sua investigação em NEXUS e as mudanças políticas durante a ausência continuam aprovados; ajustar seu ritmo a três anos. A resposta textual não escolhe uma estrutura de abertura, embora use a letra A. Próxima decisão: estrutura do começo do jogo.

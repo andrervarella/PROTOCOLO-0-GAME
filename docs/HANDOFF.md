@@ -80,3 +80,7 @@ O dono escolheu B na décima segunda pergunta: **ela encontrou um novo amor, um 
 
 ## Atualização prioritária para Cláudio — PZ-DEC-038 (17/11/2026, Brasília)
 O dono escolheu B na décima terceira pergunta: **Silas ficou preso por cinco anos.** Marcos 026–038 aprovados. A ambientação em 2054 oferece cronologia de trabalho prisão ~2049/fuga 2054, sem datas precisas fechadas. O tempo justifica formação com mentor e nova vida da companheira, não autoriza inventar idades, casamento, campanhas, crises ou acontecimentos. Não repetir duração. Próxima pergunta: estrutura da abertura do jogo; prólogo jogável antes da prisão e flashbacks ainda são propostas. Sem mídia, gastos ou código.
+
+
+## Atualização prioritária para Cláudio — PZ-DEC-039 (17/11/2026, Brasília)
+O dono corrigiu a duração: **“Escolho A: Silas ficou preso durante três anos.”** Usar três anos como cânone vigente e tratar os cinco anos de PZ-DEC-038 e referências a 2049–2054 como histórico superado. Cronologia de trabalho: queda ~2051, fuga 2054. Preservar mentor, morte, legado de NEX, profissão, investigação e novo relacionamento da médica. Não interpretar a letra A como aprovação da abertura antes da traição. **Próxima pergunta:** estrutura da abertura, com opções ajustadas a três anos. Sem mídia, gastos ou implementação.

@@ -145,3 +145,10 @@ Esta decisão complementa 035/036. O novo companheiro não é automaticamente vi
 |---|---|---|---|
 | PZ-DEC-038 | **APROVADO PELO DONO** | Opção B: **Silas ficou preso durante cinco anos**. A data principal de 2054 permite cronologia de trabalho 2049–2054. | Datas exatas, idades, cronologia de eventos, estrutura do prólogo, duração jogável e cenas |
 A duração está decidida. O ano preciso da prisão/fuga decorre da hipótese de manter a fuga em 2054, coerente com o universo já registrado, mas não fixa todos os eventos. Não repetir a pergunta sobre duração. Não canonizar abertura cinematográfica ou tutorial sem nova decisão.
+
+
+## PZ-DEC-039 — correção da duração do cárcere (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-039 | **APROVADO PELO DONO — VIGENTE** | **Silas ficou preso durante três anos.** Substitui expressamente os cinco anos de PZ-DEC-038. Cronologia de trabalho ~2051–2054, mantendo 2054 como referência principal. | Datas exatas, cronologia de treinamento e reencontro, estrutura da abertura |
+A resposta textual prevalece sobre a letra A; não equivale a escolher o começo do jogo antes da traição. **PZ-DEC-038 fica SUPERADA quanto à duração e à cronologia 2049–2054.** Todos os demais marcos aprovados continuam vigentes. Não perguntar novamente sobre a duração; retomar a abertura.

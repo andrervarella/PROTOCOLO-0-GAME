@@ -99,3 +99,7 @@ Resposta: **“Escolho B: ela encontrou um novo amor, um homem honesto.”** PZ-
 
 ## Décima terceira escolha do dono — 17/11/2026 (Brasília)
 Resposta: **“Escolho B: Silas ficou preso durante cinco anos.”** PZ-DEC-038 APROVADO. Cinco anos permitem que sua formação, as mudanças no mundo e a reconstrução afetiva da companheira tenham verossimilhança. Cronologia de trabalho: 2049 → 2054, derivada da ambientação vigente; confirmar datas precisas depois. A sugestão de um prólogo jogável antes da prisão é **PROPOSTA**, não parte automaticamente aprovada. Não repetir a pergunta sobre duração. Próxima pergunta: como iniciar a experiência jogável, mostrando passado, traição, prisão/fuga e informações em ritmo adequado?
+
+
+## Correção do dono após a décima quarta pergunta — 17/11/2026 (Brasília)
+Resposta literal: **“Escolho A: Silas ficou preso durante três anos.”** PZ-DEC-039 APROVADO como revisão da duração anteriormente escolhida. O conteúdo textual prevalece: três anos, não cinco. A opção A da pergunta imediatamente anterior sobre a abertura tinha outro conteúdo; portanto, não registrar automaticamente um prólogo antes da traição. Manter 2054 como referência principal e revisar a queda para ~2051. Retomar somente a questão da estrutura da abertura, apresentando alternativas compatíveis com três anos.

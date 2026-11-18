@@ -86,3 +86,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Décima terceira decisão aprovada — 17/11/2026
 **PZ-DEC-038:** Silas ficou preso durante cinco anos. Marcos 026–038 aprovados. Cronologia de trabalho ~2049–2054, datas precisas ainda em aberto. Próxima pergunta: como começa a experiência jogável? Não repetir escolhas anteriores; prólogo jogável ainda não aprovado.
+
+
+## Correção mais recente — PZ-DEC-039 (17/11/2026)
+**VIGENTE: Silas ficou preso durante três anos.** Supera PZ-DEC-038 (cinco anos). Cronologia de trabalho ~2051–2054, não 2049–2054. Demais escolhas aprovadas preservadas. A resposta não aprova a opção A da abertura; próxima pergunta: como começar o jogo?
