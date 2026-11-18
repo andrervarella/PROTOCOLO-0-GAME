@@ -245,3 +245,11 @@ O dono afirmou: “Melhor essa pq vai justificar a certeza de que ele morreu e e
 | PZ-DEC-051 | **APROVADO — VIGENTE** | Opção C: **a médica encontra registros recentes de um paciente misterioso de ÉREBO, identificado apenas por código, com dados biométricos muito semelhantes aos de Silas**. É a primeira pista escolhida de que ele pode estar vivo. | Quais dados correspondem, código, datas, prova definitiva, localização do paciente e primeira ação da médica |
 
 **Não transformar pista em confirmação imediata.** Não canonizar testemunha, erro em horário do laudo ou dados biométricos duplicados como gatilho primário. Preservar provas falsas construídas em etapas (048) e o **NAMORO sem casamento** (050; 049 superada). Próxima decisão: que providência ela toma diante dos registros?
+
+
+## PZ-DEC-052 — investigação secreta dos registros (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-052 | **APROVADO — VIGENTE** | Opção A: **a médica investiga secretamente os registros do paciente codificado de ÉREBO e os compara com o histórico médico de Silas**, sem contar a ninguém inicialmente. Busca uma prova mais forte antes de agir. | Qual comparação/indício encontra, quando ocorre, quem descobre sua investigação, se obtém confirmação e quando conta a terceiros |
+
+Complementa 051 (primeira pista biométrica), 048 (fraude documental) e 050 (**namoro, não casamento**). **Não repetir a pergunta sobre a primeira atitude da médica.** Próxima decisão: que característica concreta encontrada nos registros se torna a segunda pista?

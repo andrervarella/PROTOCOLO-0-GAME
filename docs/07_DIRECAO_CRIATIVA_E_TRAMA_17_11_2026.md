@@ -149,3 +149,7 @@ O dono corrigiu imediatamente a interpretação do diálogo: **“Não não eu q
 
 ## Vigésima segunda escolha do dono — 18/11/2026 (Brasília)
 Resposta literal: **“Escolho a pista C: a médica encontra registros de um paciente misterioso de ÉREBO com dados semelhantes aos de Silas.”** **PZ-DEC-051 APROVADO.** A opção C oferecida descrevia registros recentes, paciente identificado apenas por código e correspondência biométrica impressionante. A descoberta levanta suspeita forte sobre a morte encenada e as provas falsas (048), mas não deve revelar imediatamente toda a verdade, o local nem a identidade confirmada. Não confundir com a alternativa D (testemunha) nem A/B (erro direto no laudo ou nos horários). A médica continua namorando outro homem (050). Próxima pergunta: o que ela faz com a descoberta?
+
+
+## Vigésima terceira escolha do dono — 18/11/2026 (Brasília)
+Resposta literal: **“Escolho A: a médica investiga secretamente os registros.”** **PZ-DEC-052 APROVADO.** A alternativa A oferecida era investigar sem contar inicialmente a ninguém, comparando registros biométricos do paciente com histórico clínico de Silas, buscando prova mais forte antes de agir. Não avançar automaticamente para rastrear instalação, consultar o melhor amigo ou conversar com o namorado; eram alternativas não escolhidas. Não tratar a investigação como confirmação ou descoberta de localização. Próxima decisão: que característica nos dados desperta confiança adicional ou maior estranhamento?

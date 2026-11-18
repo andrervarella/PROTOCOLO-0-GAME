@@ -135,3 +135,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Vigésima segunda decisão aprovada — PZ-DEC-051 (18/11/2026)
 **VIGENTE:** a médica encontra registros recentes de paciente misterioso de ÉREBO, sob código, cujos dados biométricos se parecem muito com os de Silas. Pista inicial de sobrevivência; não confirmação nem localização. Ela continua em NEXUS investigando ÉREBO e **namorando** outro homem (050), não casada. A morte foi sustentada por falsas provas em etapas (048). Próxima pergunta: primeira reação/ação dela após a descoberta.
+
+
+## Vigésima terceira escolha — PZ-DEC-052 (18/11/2026)
+**VIGENTE:** a médica pesquisa os registros do paciente de ÉREBO sozinha e em segredo, comparando com prontuários de Silas; não conta de imediato a ninguém. Ainda não confirmou identidade/localização. Namorado honesto (050), provas falsas em etapas (048) e três anos de prisão (039) permanecem. **Próxima pergunta:** que nova pista aparece na comparação?

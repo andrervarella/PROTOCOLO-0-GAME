@@ -131,3 +131,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## Primeira pista aprovada — 18/11/2026 (Brasília)
 **PZ-DEC-051:** a companheira encontra registros recentes de paciente codificado de ÉREBO com dados biométricos muito semelhantes aos de Silas. Primeira pista da fraude, não confirmação de identidade. Preservar 048 (várias provas falsas) e 050 (namoro, não casamento). **Próxima decisão:** como ela reage/age após a descoberta. Código, acesso a provas, cronologia relativa à fuga e consequências seguem abertos. Marcos até 051 aprovados, exceto 038 e 049 superados e exclusividade de 047 revista. Documentação apenas.
+
+
+## Vigésimo terceiro marco narrativo — 18/11/2026 (Brasília)
+**PZ-DEC-052:** a médica mantém sigilo e compara registros do paciente codificado de ÉREBO com o histórico clínico de Silas, buscando prova mais forte. Nada de confirmação ou acesso ao local por ora. Marcos 026–052 aprovados, exceto 038 superada por 039 e 049 superada por 050; 047 superada na exclusividade por 048. **Próxima pergunta:** qual é a segunda evidência encontrada na comparação? Sem código, arte, gameplay ou cutscene nova.

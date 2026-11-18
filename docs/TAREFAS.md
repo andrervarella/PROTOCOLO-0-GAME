@@ -137,3 +137,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — primeira pista da farsa aprovada (18/11/2026)
 **AVANÇO PARCIAL:** médica encontra registros de paciente de ÉREBO com dados biométricos semelhantes aos de Silas (051). Próximo passo: escolher sua primeira ação e como garantir ou perder acesso às provas. Pendentes código, características biométricas, cronologia, segurança dos sistemas, perseguição/revelação e reencontro. Preservar namoro, não casamento (050). Manter tarefa aberta.
+
+
+## PZ-T-008 — vigésimo terceiro marco aprovado (18/11/2026)
+**AVANÇO PARCIAL:** a médica investiga secretamente registros do paciente de ÉREBO, comparando-os com histórico clínico de Silas para buscar prova mais forte (052). Próxima decisão: segundo indício biométrico/clínico e o quanto confirma a identidade. Ação externa, compartilhamento de dados e reencontro ainda pendentes. Manter tarefa aberta.

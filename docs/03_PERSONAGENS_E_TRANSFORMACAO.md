@@ -105,3 +105,7 @@ A médica acreditou na morte de Silas por **uma sequência de evidências falsas
 
 ## A investigação biométrica da médica — PZ-DEC-051
 A médica, que trabalha em NEXUS e investiga ÉREBO em segredo, encontra dados recentes de um paciente sob identificação codificada com correspondências biométricas fortes ao histórico de Silas. **APROVADO como pista inicial**, não como reconhecimento confirmado. Ela pode suspeitar que Silas não morreu, mas sua reação, o grau de certeza, as verificações e se compartilha com alguém ainda são decisões abertas. Preservar o namorado honesto (050), sem casamento ou presunção de que ele sabe dessa descoberta.
+
+
+## Investigação discreta — PZ-DEC-052
+**VIGENTE:** a médica escolhe **investigar sozinha e em segredo**, confrontando os dados do paciente codificado com o histórico de Silas. Não compartilha a suspeita imediatamente com namorado, melhor amigo de Silas ou colegas. Ela ainda não identificou conclusivamente o paciente nem confirmou a sobrevivência. O conteúdo médico encontrado e o risco da investigação dependem de próximas escolhas; não presumir quebra do namoro nem intenção de voltar a Silas.
