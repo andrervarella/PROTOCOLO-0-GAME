@@ -73,3 +73,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — nono marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** destino do mentor definido (morre durante a fuga) e legado digital de NEX aprovado (034). Próxima decisão: situação da companheira durante a prisão de Silas. Em aberto: causa/método da morte, eventos da fuga, origem técnica de NEX, cronologia, biografias, conspiração e repercussões nos finais. Não encerrar tarefa.
+
+
+## PZ-T-008 — décimo marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** atuação clandestina da companheira em NEXUS aprovada (035). Próxima decisão: conhecimento mútuo de Silas e da médica na fuga e preparação do reencontro. Ainda abertos cargo/nome, provas, mecanismo da investigação, fuga, cronologia, antagonistas, conspiração e repercussões cumulativas nos finais. Não encerrar tarefa.

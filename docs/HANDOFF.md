@@ -64,3 +64,7 @@ O dono escolheu D na oitava pergunta: **o mentor promove uma transformação fí
 
 ## Atualização prioritária para Cláudio — PZ-DEC-034 (17/11/2026, Brasília)
 O dono escolheu C na nona pergunta: **o mentor morre durante a fuga e deixa NEX como seu legado digital**, com conhecimentos, ensinamentos e mensagens gravadas. Não reabrir destino do mentor nem inventar que sobreviveu. NEX permanece o companheiro bípede, com identidade própria; o legado não autoriza presumir transferência de consciência. Decisões 026–034 aprovadas. Não fixar causa da morte, sacrifício explícito, última fala, mecanismo de entrega ou construção do robô. Próxima pergunta: o que ocorreu com a companheira de Silas enquanto ele esteve preso? Sem mídia, gastos, código ou build.
+
+
+## Atualização prioritária para Cláudio — PZ-DEC-035 (17/11/2026, Brasília)
+O dono escolheu D na décima pergunta: **a companheira de Silas trabalha para NEXUS, mas secretamente investiga e combate o Projeto ÉREBO.** Ela protege pacientes e reúne provas; o cargo concreto continua pendente. Decisões 026–035 aprovadas. Não perguntar novamente sobre sua atuação durante o cárcere. Não presumir morte, romance novo, conhecimento da prisão, falsa traição, reencontro específico ou participação em determinada rota final. A próxima decisão trata do conhecimento mútuo de Silas e da médica após a fuga. NEX permanece bípede, legado do mentor falecido (034). Preservar demais regras e propostas não aprovadas. Sem mídia, gastos, código ou build.

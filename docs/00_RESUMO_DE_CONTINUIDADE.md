@@ -70,3 +70,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Nona decisão aprovada — 17/11/2026
 **PZ-DEC-034:** o mentor morre durante a fuga e deixa NEX como seu legado digital, com conhecimentos, ensinamentos e mensagens gravadas. Marcos 026–034 aprovados. Não transformar NEX em cópia de consciência por inferência; preservar robô bípede. Causa da morte e cena ainda pendentes. Próxima pergunta: o que ocorreu com a companheira de Silas durante a prisão?
+
+
+## Décima decisão aprovada — 17/11/2026
+**PZ-DEC-035:** a companheira médica de Silas trabalha para NEXUS, mas secretamente investiga e combate ÉREBO. Protege pacientes e reúne provas. Marcos 026–035 aprovados. Próxima pergunta: o que cada um sabe sobre o outro quando Silas escapa? Suspeita de traição no reencontro, nomes, cargo e cenas permanecem pendentes.

@@ -64,3 +64,7 @@
 
 ## Nono marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-034:** o mentor morre durante a fuga e deixa NEX como legado digital. Marcos 026–034 aprovados. Próximo passo: definir o que ocorreu com a companheira médica durante a prisão de Silas. Ainda pendentes causa/cena da morte do mentor, origem técnica e aparência final de NEX, cronologia, fuga, situação do amigo e conspiração. Sem novos assets ou implementação.
+
+
+## Décimo marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-035:** a companheira médica trabalha para NEXUS e investiga/combate ÉREBO secretamente. Marcos 026–035 aprovados. Próxima decisão: o que ela e Silas sabem um do outro quando ele escapa, preparando o reencontro. Ainda abertas identidade da médica, provas, mecanismo da fuga, circunstâncias da morte do mentor, NEX e estrutura da conspiração. Atualização documental, sem mídia ou build.

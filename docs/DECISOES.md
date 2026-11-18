@@ -117,3 +117,10 @@ A prisão como tutorial é proposta ainda não aprovada em detalhe. Não repetir
 | PZ-DEC-034 | **APROVADO PELO DONO** | Opção C: **o mentor morre durante a fuga e deixa NEX como seu legado digital**, com seus conhecimentos, ensinamentos e mensagens gravadas. | Circunstâncias da morte, causa, eventual sacrifício, entrega, implementação do legado, origem técnica de NEX e cenas |
 
 O mentor não permanece vivo por padrão; as alternativas anteriores não prevalecem. Preservar NEX bípede, sua autonomia e identidade própria, sem presumir transferência da consciência do cientista. Não fixar diálogo nem método da fuga. Próxima decisão: destino da companheira.
+
+
+## PZ-DEC-035 — atuação clandestina da companheira (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-035 | **APROVADO PELO DONO** | Opção D: a companheira médica trabalha para **NEXUS**, mas **secretamente investiga e combate o Projeto ÉREBO**, protegendo pacientes e reunindo provas enquanto mantém posição pública importante. | Cargo, provas, contatos, conhecimento sobre Silas, reencontro, relação futura e destino |
+Esta decisão resolve a atuação da companheira durante a prisão; não estabelece que ela conhecia o paradeiro de Silas, que acreditava em sua morte ou que ele a julgou traidora. Essas possibilidades ainda serão discutidas. Não repetir a décima pergunta.

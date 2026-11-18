@@ -52,3 +52,7 @@ O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉRE
 
 ## Destino do mentor e legado de NEX — PZ-DEC-034
 **APROVADO:** mentor morre durante a fuga e deixa NEX como legado digital, contendo seus conhecimentos, ensinamentos e mensagens gravadas. Preservar NEX como pequeno robô bípede (004), companheiro com personalidade própria e funções de assistência, análise e hack já registradas. Não confundir legado de conhecimentos com transferência de consciência; detalhes sobre arquitetura de NEX, origem de sua inteligência, autoria material, memória, comportamento e primeira apresentação ainda são pendentes. O mentor morreu; causa, sacrifício voluntário ou involuntário, últimas palavras e circunstâncias da fuga não foram definidos. Não alterar design aprovado.
+
+
+## Companheira de Silas — atuação em NEXUS (PZ-DEC-035)
+**APROVADO:** A companheira médica de Silas trabalha publicamente para NEXUS, mas secretamente investiga e combate o Projeto ÉREBO. Na opção D apresentada e aprovada, ocupa uma posição importante, protege pacientes e reúne provas contra os responsáveis pelos experimentos. A médica é uma personagem ativa na luta contra o projeto, não apenas alguém a ser resgatado. Preservar profissão e vínculo afetivo aprovados (027/028). Nome, design, cargo, meios da investigação, riscos, aliados, conhecimento sobre a prisão de Silas, reencontro e destino não definidos. Não transformar a hipótese de falsa traição em fato canônico.

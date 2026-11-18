@@ -83,3 +83,7 @@ Resposta: **“Escolho D: o mentor promove uma transformação física, intelect
 
 ## Nona escolha do dono — 17/11/2026 (Brasília)
 Resposta: **“Escolho C: o mentor morre durante a fuga e deixa NEX como seu legado digital.”** PZ-DEC-034 APROVADO. A opção escolhida inclui conhecimentos, ensinamentos e mensagens gravadas no robô. A escolha encerra a questão do destino do mentor e fornece origem emocional para o vínculo Silas–NEX. A recomendação de não transformar NEX numa cópia de consciência é consistente com sua identidade como IA própria, mas não define a tecnologia exata. Não estabelecer como canônicos diálogos sugeridos, morte por sacrifício ou cenas de fuga sem aprovação. Próxima pergunta: destino da companheira durante o cárcere de Silas.
+
+
+## Décima escolha do dono — 17/11/2026 (Brasília)
+Resposta: **“Escolho D: a companheira de Silas trabalha para NEXUS, mas secretamente investiga e combate o Projeto ÉREBO.”** PZ-DEC-035 APROVADO. A alternativa incluía posição pública importante, proteção de pacientes e coleta de provas. Não repetir a pergunta sobre o destino dela durante o cárcere. O reencontro com suspeita de traição é uma sugestão, não aprovação da cena. Próxima pergunta: o que cada um sabe sobre o outro no momento da fuga? Não confundir conhecimento da conspiração com conhecimento automático da sobrevivência ou localização de Silas.
