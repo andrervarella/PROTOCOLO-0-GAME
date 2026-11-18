@@ -151,3 +151,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Vigésima sexta decisão — PZ-DEC-055 (18/11/2026)
 **VIGENTE:** ordem de transferência do paciente codificado de ÉREBO (054) tem assinatura digital de **executivo importante da NEXUS**. Pista de possível envolvimento da alta direção, não confirmação de culpa nem do paradeiro/identidade do paciente. A médica continua investigando em segredo (052). Namoro sem casamento (050). Próxima pergunta: o que ela faz com a assinatura?
+
+
+## Nova diretriz de ritmo — PZ-DEC-056 (18/11/2026)
+**DONO QUER RITMO MAIS RÁPIDO:** investigação longa ficou maçante. Condensar pistas da médica em poucas cenas breves e espaçadas; priorizar fuga jogável, morte do mentor, NEX, início da jornada principal, combate/exploração/evolução. Manter abertura não linear 2054 → missão 2051 → retorno rápido a 2054 (040), prisão três anos (039) e fatos 041–055. **27ª pergunta sobre ação da médica diante da assinatura do executivo segue aberta**, pois o dono disse que responderia, mas não escolheu ainda. Após essa escolha, não insistir em microperguntas investigativas: retomar ação e gameplay.

@@ -147,3 +147,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## Vigésimo sexto marco narrativo — 18/11/2026 (Brasília)
 **PZ-DEC-055:** ordem de transferência do paciente misterioso de ÉREBO contém **assinatura digital de um executivo importante da NEXUS**. Pista de possível envolvimento da alta direção, não prova conclusiva de cumplicidade nem identidade de Silas. Decisões 051–054 seguem vigentes; 050 afirma namoro, não casamento. Próxima questão: ação imediata da médica diante da autorização, mantendo o suspense. Sem nova arte, código, mídia ou build.
+
+
+## Prioridade de ritmo e jogabilidade — PZ-DEC-056 (18/11/2026, Brasília)
+**VIGENTE:** dono pediu interromper sequência maçante de microdecisões investigativas e fazer Silas **escapar e começar logo a aventura jogável**. Condensar investigação da médica em cenas curtas durante a aventura. Preservar fatos aprovados e a abertura não linear (040). Próxima resposta esperada: opção A/B/C/D da 27ª pergunta sobre a reação da médica ao executivo, caso queira concluí-la; **depois mudar imediatamente o foco para a fuga e gameplay**. Não assumir opção da pergunta 27; seguir canônico até PZ-DEC-055 e diretriz 056. Nenhum novo código, build ou asset aprovado.

@@ -165,3 +165,8 @@ Resposta literal: **“Escolho B: os registros mostram que o paciente foi transf
 
 ## Vigésima sexta escolha do dono — 18/11/2026 (Brasília)
 Resposta literal: **“Escolho C: a ordem de transferência foi autorizada por um executivo importante da NEXUS.”** **PZ-DEC-055 APROVADO.** A alternativa apresentada explicava que a médica encontra a **assinatura digital de um executivo importante de NEXUS** no documento de transferência do paciente misterioso. É um indício de alcance da conspiração na alta direção, **não prova final** de autoria dos crimes ou da identidade do paciente. Não definir o executivo como chefe de ÉREBO, comandante, assassino, namorado da médica ou conspirador voluntário por inferência. Não incluir outros rastros da questão anterior (suprimentos, transporte ou enfermeira) como aprovados. Próxima pergunta: o que ela faz diante da assinatura?
+
+
+## Correção de foco do dono — PZ-DEC-056 (18/11/2026, Brasília)
+Comentário explícito: **“já tá ficando muito maçante ... essa parte investigativa, pode ser um pouco mais rápida ... pra ter o desfecho dele já sair da cadeia, escapar e começar o jogo mesmo em si”**. **APROVADO COMO DIRETRIZ DE RITMO.**
+Consolidar descobertas da médica em poucos cortes significativos. Reduzir perguntas sobre cada pista, arquivo e burocracia. Ao concluir a 27ª pergunta, se ele a responder, saltar para escolhas sobre a **fuga, morte do mentor, NEX, primeiro estágio principal, combate e progressão jogável**. Ação desde a abertura de 2054 e retorno rápido após flashback em 2051 (040). Não exigir nova aprovação para reduzir exposição e número de perguntas; detalhes de cenas e mecânicas novos ainda precisam ser apresentados como propostas. A 27ª pergunta estava aberta e **nenhuma opção foi escolhida** nesta mensagem.

@@ -277,3 +277,11 @@ Complementa PZ-DEC-051 a 053. Não canonizar prontuário apagado (A), assinatura
 | PZ-DEC-055 | **APROVADO — VIGENTE** | Opção C: **a ordem de transferência do paciente misterioso de ÉREBO traz a assinatura digital de um executivo importante da NEXUS**. A descoberta sugere envolvimento da alta direção, mas não determina a culpa individual do signatário. | Identidade e intenção do executivo, autenticidade operacional da assinatura, ligações com ÉREBO e o comandante, medida seguinte da médica, destino do paciente |
 
 Complementa 051–054 e preserva o sigilo da investigação (052). **Não é confirmação da identidade de Silas ou do destino da transferência**. Não canonizar as alternativas A, B e D da pergunta sobre rastros. Preservar namoro sem casamento (050). Próxima decisão: como a médica age após encontrar essa autorização?
+
+
+## PZ-DEC-056 — prioridade ao ritmo e à jogabilidade (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-056 | **DIRETRIZ CRIATIVA APROVADA PELO DONO** | **A parte investigativa ficou longa e maçante**: condensar suas etapas, encerrar rapidamente o prólogo, retornar à fuga de Silas em 2054 e começar o jogo com **ação, exploração, combate, NEX e progressão**. A investigação da médica deve avançar em cenas curtas integradas à aventura, e não por uma cadeia extensa de perguntas/documentos. | Montagem exata do prólogo, duração de cenas, ritmo jogável da fuga, primeiros combates e detalhes da fuga/mentor/NEX |
+**Não descartar nem contradizer as decisões 041–055**: revolta na mina, infiltração, traição, falsa morte e investigação continuam canônicas; devem ser apresentadas com economia dramática, preferindo revelações futuras ao prolongamento da abertura. Estrutura de abertura não linear (040) e três anos de prisão (039) continuam.
+**A 27ª pergunta (o que a médica faz após encontrar assinatura de executivo NEXUS) ainda NÃO foi respondida.** O dono disse que responderá esta última, mas quer parar a sequência minuciosa de investigação imediatamente depois e **mudar o foco para a fuga e a experiência principal**. Não registrar A/B/C/D sem resposta textual. A partir dali, priorizar escolhas de gameplay e fuga, uma por vez, com opções que alterem ação e narrativa.

@@ -153,3 +153,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — vigésimo sexto marco aprovado (18/11/2026)
 **AVANÇO PARCIAL:** ordem de transferência codificada autorizada digitalmente por executivo importante de NEXUS (055). Próximo passo: decidir estratégia da médica diante de pista de alto escalão. Em aberto identidade/cargo do signatário, extensão da conspiração, destino do paciente e confirmação de que seja Silas. Não produzir cenas sem aprovação. Manter tarefa aberta.
+
+
+## PZ-T-008 — cortar investigação longa e priorizar fuga/gameplay (18/11/2026)
+**NOVO FOCO PZ-DEC-056:** compactar a investigação da médica em poucos cortes e usar pistas já escolhidas; evitar novas etapas minuciosas. Após a resposta opcional à 27ª pergunta ainda aberta, **definir o clímax da fuga, introdução do NEX e gameplay das primeiras áreas**, com agência real do jogador e desenvolvimento das mecânicas. Não descartar história aprovada, mas evitar exposição e perguntas em excesso. **Sem implementação ou geração de mídia nesta atualização.**
