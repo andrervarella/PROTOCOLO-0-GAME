@@ -104,3 +104,7 @@
 
 ## Descoberta conjunta aprovada — 18/11/2026 (Brasília)
 **PZ-DEC-044:** Silas reconhece um infiltrado e a médica trata um sobrevivente de ÉREBO; juntos descobrem parte da conspiração. Marcos 026–044 aprovados, com 038 superada por 039. Próxima decisão: o que fazem com as provas antes da traição. Ainda pendentes nomes, provas, mecanismo da traição, circunstâncias, cronologia, roteiro detalhado e finais. Atualização documental apenas.
+
+
+## Décimo nono marco narrativo aprovado — 18/11/2026 (Brasília)
+**PZ-DEC-045:** Silas organiza operação secreta para obter provas definitivas e pede ajuda ao melhor amigo. Complementa 044 e conecta-se à traição definida em 030/031. Próxima decisão: o pretexto usado pelo comandante para manipular o amigo. Locais, detalhes da missão, provas, captura e mecânica jogável pendentes. Todos os marcos 026–045 vigentes, exceto 038 substituído por 039; sem código, imagem ou cutscene nova.

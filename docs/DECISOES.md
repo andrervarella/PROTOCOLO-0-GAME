@@ -190,3 +190,11 @@ Complementa 041/042. Não incluir automaticamente a alternativa D (IA manipulada
 |---|---|---|---|
 | PZ-DEC-044 | **APROVADO PELO DONO** | Opção D: **Silas reconhece um infiltrado e sua companheira atende um sobrevivente de ÉREBO; os dois juntam as informações e descobrem parte da conspiração.** | Identidades, provas, cronologia, extensão da descoberta, reação e ação antes da traição |
 Não confundir descoberta parcial com revelação final da conspiração. Não repetir esta pergunta. Próxima decisão: o que o casal faz com as provas?
+
+
+## PZ-DEC-045 — operação secreta para obter provas (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-045 | **APROVADO PELO DONO** | Opção C: **Silas organiza uma operação secreta de infiltração para obter provas definitivas e pede ajuda ao melhor amigo**, que será manipulado pelo comandante, conforme PZ-DEC-030. | Local/instalação, provas, quem participa, como comandante interfere, mentira contada ao amigo, dinâmica da captura e cenas |
+
+A operação conecta PZ-DEC-044 (investigação conjunta) a PZ-DEC-030/031 (manipulação, captura e objetivo do comandante). A ideia de a infiltração ser uma armadilha que leva à própria prisão é proposta de encenação; não confundir com uma sequência aprovada. **Próxima pergunta:** como o comandante convence o melhor amigo a entregar Silas pensando estar salvando-o?

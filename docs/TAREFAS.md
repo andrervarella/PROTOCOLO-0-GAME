@@ -113,3 +113,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — descoberta parcial definida (18/11/2026)
 **AVANÇO PARCIAL:** descoberta conjunta de Silas e da médica aprovada (044). Próxima decisão: o que fazem com as provas e como a tentativa de impedir ÉREBO leva à traição. Ainda abertos testemunhas, evidências, nomes, cronologia, fuga e conspiração completa. Manter tarefa aberta.
+
+
+## PZ-T-008 — décimo nono marco aprovado (18/11/2026)
+**AVANÇO PARCIAL:** Silas planeja operação secreta para buscar provas definitivas e pede ajuda ao melhor amigo (045). Próxima decisão: a mentira do comandante que converte o plano em entrega de Silas a ÉREBO. Em aberto: local, roteiro da infiltração, provas, cena da captura, desdobramentos com médica e amigo e retorno cronológico do prólogo. Manter tarefa aberta.

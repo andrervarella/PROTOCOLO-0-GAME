@@ -80,3 +80,7 @@ A abertura aprovada apresenta Silas durante a fuga em 2054, depois retorna três
 
 ## A descoberta de Silas e da médica — PZ-DEC-044
 **APROVADO:** Silas reconhece um infiltrado da revolta em outra operação, enquanto sua companheira atende um sobrevivente de ÉREBO. Ambos juntam informações que revelam parte da conspiração. Preservar a participação ativa de ambos e não definir o sobrevivente, as evidências, o grau de conhecimento de cada um ou a reação emocional específica como fatos antes de aprovação.
+
+
+## Melhor amigo na operação secreta — PZ-DEC-045
+**APROVADO:** Silas solicita ajuda ao melhor amigo para uma infiltração destinada a obter provas definitivas sobre ÉREBO, após a investigação conjunta com a médica. Este é o contexto da manipulação pelo comandante (030). O amigo não é traidor deliberado por definição: acredita estar ajudando Silas. Seu conhecimento da operação, a mentira usada pelo comandante, seus atos concretos, remorso e destino permanecem pendentes.

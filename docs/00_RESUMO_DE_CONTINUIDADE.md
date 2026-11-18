@@ -110,3 +110,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Descoberta aprovada — PZ-DEC-044 (18/11/2026)
 **VIGENTE:** Silas reconhece um infiltrado e sua companheira atende um sobrevivente de ÉREBO; juntos descobrem parte da conspiração. Não antecipar a verdade completa sobre LIMIAR. Próxima pergunta: o que os dois fazem com as provas antes da traição? Identidades, documentos, cenas e mecanismo da traição permanecem em aberto.
+
+
+## Décima nona decisão aprovada — PZ-DEC-045 (18/11/2026)
+**VIGENTE:** Silas organiza operação secreta para obter provas definitivas e chama o melhor amigo. É o contexto para o comandante manipular esse amigo e fazê-lo entregar Silas ao Projeto ÉREBO. Motivo do comandante aprovado em 031. Próxima pergunta: qual pretexto convence o amigo de que está protegendo Silas? Não presumir local nem cena de captura como canônicos.

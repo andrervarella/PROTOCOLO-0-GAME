@@ -123,3 +123,7 @@ Resposta: **“Escolho C: agentes infiltrados provocaram um ataque para justific
 
 ## Décima oitava escolha do dono — 18/11/2026 (Brasília)
 Resposta: **“Escolho D: Silas reconhece um infiltrado e sua companheira atende um sobrevivente de ÉREBO, permitindo que descubram parte da conspiração.”** PZ-DEC-044 APROVADO. A opção reúne duas investigações complementares, sem revelar todo o segredo de LIMIAR. Não canonizar a assinatura de Silas no registro médico, a fotografia, falas ilustrativas, identidade do paciente nem vínculo direto deste com a mina. Próximo ponto: decidir o que o casal tenta fazer com as provas e como isso leva à traição já aprovada (030/031).
+
+
+## Décima nona escolha do dono — 18/11/2026 (Brasília)
+Resposta: **“Escolho C: Silas organiza uma operação secreta e pede ajuda ao melhor amigo.”** **PZ-DEC-045 APROVADO.** Na opção C apresentada, Silas pretende invadir uma instalação para conseguir provas definitivas, e o amigo será manipulado pelo comandante (030). A escolha liga a descoberta de Silas e da médica (044) à queda posterior, sem fechar o modo da armadilha. A proposta cinematográfica de o jogador entrar na própria prisão é **PROPOSTA NÃO APROVADA**; não antecipar isso como cena obrigatória. Próxima pergunta: qual é o pretexto/mentira usado pelo comandante para que o amigo entregue Silas acreditando salvá-lo? Não repetir a pergunta sobre o que fazer com as provas.
