@@ -59,3 +59,6 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — quinto marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** definida a traição (PZ-DEC-030), comandante manipula o melhor amigo de Silas e o faz entregá-lo ao Projeto ÉREBO. Próximo passo: motivação do comandante. Ainda abertos o pretexto da manipulação, investigação da médica, prisão, mentor, fuga, antagonistas concretos e conspiração. Manter tarefa aberta.
+
+## PZ-T-008 — sexto marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** definida motivação do comandante (PZ-DEC-031): silenciar Silas e transformá-lo em arma para impedir uma guerra mundial, conforme sua crença. Próxima decisão: identidade e passado do mentor do cárcere. Ainda abertos nomes, ameaça real de guerra, projeto específico, manipulação do amigo, descoberta pela médica, prisão/fuga, conspiração e desfecho. Não encerrar tarefa.

@@ -50,3 +50,6 @@
 
 ## Quinto marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-030:** o comandante manipulou o melhor amigo de Silas para entregá-lo ao Projeto ÉREBO. Origem moral (026), companheira (027), profissão médica (028), capturas de cobaias (029) e natureza da traição (030) estão aprovadas. Próxima decisão: motivação do comandante. Ainda pendentes mecanismo da manipulação, prisão, mentor, relações e conspiração. Atualização documental, sem mídia ou build.
+
+## Sexto marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-031:** o comandante pretendia silenciar Silas e transformá-lo numa arma que, em sua crença, impediria uma guerra mundial. Marcos aprovados 026 a 031: origem moral, companheira, profissão médica, capturas de cobaias, traição por manipulação do amigo e motivação do comandante. Próxima decisão com o dono: identidade/papel do mentor do cárcere. Ainda pendentes ameaça de guerra exata, provas da descoberta, prisão, fuga, nome e situação dos envolvidos. Sem novos assets ou implementação.

@@ -38,3 +38,6 @@ A companheira de Silas Venn, seu vínculo afetivo central (PZ-DEC-027), é **mé
 
 ## Comandante e melhor amigo de Silas — PZ-DEC-030
 **APROVADO:** o comandante manipulou o melhor amigo de Silas, levando-o a entregar o protagonista ao Projeto ÉREBO acreditando ajudá-lo. Preservar o amigo como personagem distinto, com agência e responsabilidade próprias; a manipulação explica sua conduta, mas não elimina necessariamente suas consequências. O comandante é um antagonista humano associado à traição. Nomes, visuais, histórias, posições políticas, carreira, objetivos e destino permanecem pendentes. Não confirmar identidade do comandante com o mentor sábio da prisão, nem sua inclusão entre os seis chefes.
+
+## Motivação do comandante — PZ-DEC-031
+**APROVADO:** o comandante queria silenciar Silas e transformá-lo em uma arma capaz de impedir uma guerra mundial, acreditando no potencial dele para o ÉREBO. Manipulou o melhor amigo do protagonista para entregá-lo ao projeto (030). É um antagonista cuja crença no bem maior explica, mas não absolve, os experimentos e a traição. Não presumir que seja um dos seis chefes ou o mentor de prisão. Nome, design, trajetória, rede de comando, compatibilidade tecnológica e destino permanecem pendentes.

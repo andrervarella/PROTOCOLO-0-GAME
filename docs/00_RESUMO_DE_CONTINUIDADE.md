@@ -56,3 +56,6 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Quinta decisão aprovada — 17/11/2026
 **PZ-DEC-030:** o comandante manipulou o melhor amigo de Silas para entregá-lo ao Projeto ÉREBO. O amigo pensava estar ajudando Silas. Os marcos 026–030 estão aprovados. Próxima pergunta: por que o comandante fez isso? Identidades, mecanismos da traição e destino dos envolvidos ainda pendentes.
+
+## Sexta decisão aprovada — 17/11/2026
+**PZ-DEC-031:** o comandante queria silenciar Silas e transformá-lo numa arma capaz de impedir uma guerra mundial. Trata-se da intenção/crença do comandante, não da certeza de eficácia do plano. Marcos 026–031 aprovados. Próxima pergunta: quem era o mentor do cárcere? Não repetir decisões anteriores.

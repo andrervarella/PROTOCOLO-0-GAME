@@ -88,3 +88,10 @@ PZ-DEC-029 resolve o tipo de injustiça cometido por Silas. A destruição de um
 | PZ-DEC-030 | **APROVADO PELO DONO** | Opção D: o comandante manipulou o melhor amigo de Silas Venn para que o entregasse ao Projeto ÉREBO, fazendo-o acreditar que ajudava/salvava Silas. | Motivação do comandante, mentira contada ao amigo, identidades, circunstâncias, momento da revelação e consequências |
 
 A decisão define o núcleo da traição de PZ-DEC-026/029. Cenas, nomes, participação nos seis chefes, vínculo com o mentor da prisão e eventual dilema de perdão ainda não aprovados. Não repetir a pergunta sobre quem traiu Silas.
+
+## PZ-DEC-031 — motivação do comandante (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-031 | **APROVADO PELO DONO** | Opção D: o comandante queria **silenciar Silas e transformá-lo em uma arma capaz de impedir uma guerra mundial**. A combinação reúne eliminar a testemunha, aproveitar seu potencial excepcional para ÉREBO e perseguir a ideia de prevenir uma guerra entre potências. | A ameaça real de guerra, dados de compatibilidade, mandantes/aliados, plano exato, nome e destino do comandante |
+
+O antagonista acredita na necessidade da arma; a eficácia e legitimidade desse plano não são fatos estabelecidos. A decisão complementa PZ-DEC-030. As falas dadas como exemplo e os eventos concretos seguem não aprovados. Não repetir pergunta sobre motivação.
