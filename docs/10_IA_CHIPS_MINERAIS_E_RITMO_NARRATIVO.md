@@ -57,3 +57,7 @@ Modelo de distribuição territorial da cadeia de IA; como funcionam as redes el
 
 ## Gancho aprovado na origem da história — PZ-DEC-042 (18/11/2026)
 O dono escolheu substituição dos trabalhadores por máquinas como causa da revolta na mina de 2051 (041). Milhares perdem seus empregos após automação por IA. Usar linguagem simples para explorar quem recebe os ganhos de produtividade e quem arca com os custos sociais. A acusação de terrorismo contra os líderes já está registrada (041), mas ainda precisamos decidir se decorre de incidente real, manipulação de provas ou outro acontecimento. Não associar automaticamente essa automação à LIMIAR ou determinar autoria/culpa antes da aprovação. Exemplos de cena, diálogo e descobertas são propostas.
+
+
+## Gancho narrativo aprovado — PZ-DEC-043 (18/11/2026)
+Agentes infiltrados contratados pela corporação provocaram um ataque durante a revolta na mina para justificar a intervenção militar. **APROVADO.** A descoberta posterior da autoria humana pode recontextualizar a primeira missão jogável. Plantar pistas justas e discretas, sem revelar a solução do mistério principal ou pressupor envolvimento de LIMIAR. Detalhes do ataque, provas específicas, descoberta pela médica e eventual retorno à mina continuam em aberto.

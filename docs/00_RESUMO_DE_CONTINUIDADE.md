@@ -102,3 +102,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Causa da revolta aprovada — PZ-DEC-042 (18/11/2026)
 **VIGENTE:** trabalhadores da mina se revoltam porque milhares perderam seus empregos após substituição por máquinas/IA. Primeira missão de 2051 (041). Não incluir contaminação/desaparecimentos como causas aprovadas. Próxima pergunta: como os líderes foram acusados de terrorismo? Local, cenas, vítimas e ligação específica com ÉREBO continuam pendentes.
+
+
+## Origem da intervenção aprovada — PZ-DEC-043 (18/11/2026)
+**VIGENTE:** agentes infiltrados contratados pela corporação provocam um ataque durante a revolta na mina para justificar intervenção militar. A revolta decorre da substituição de trabalhadores por máquinas/IA (042). Próxima pergunta: o que faz Silas desconfiar da versão oficial? Autores específicos, vítimas, provas, conexão com ÉREBO/LIMIAR e cenas ainda pendentes.

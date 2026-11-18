@@ -49,3 +49,7 @@ A primeira missão jogável do flashback de 2051 será **a revolta na mina**, nu
 
 ## Aplicação aprovada: automação e desemprego — PZ-DEC-042 (18/11/2026)
 A revolta na mina de 2051 nasce da perda de milhares de empregos após substituição de trabalhadores por máquinas e automação por inteligência artificial. **APROVADO pelo dono.** A missão pode explorar visualmente o contraste entre máquinas produtivas e famílias privadas de sustento, além da disputa por materiais estratégicos. A crítica pode recair sobre decisões humanas de gestão e distribuição de ganhos, não sobre a mera existência de máquinas. Localização em ATLAS, mineral, propriedade, salários, compensação, política de automação, características dos robôs e manipulação do protesto ainda serão definidos. Não ampliar a causa para contaminação/desaparecimentos por inferência.
+
+
+## Manipulação do conflito trabalhista — PZ-DEC-043 (18/11/2026)
+**APROVADO:** a corporação contratou agentes infiltrados que provocaram um ataque durante a revolta na mina para justificar a intervenção militar. A origem do conflito social segue sendo automação e desemprego (042). Esse episódio ilustra o uso de narrativas oficiais para proteger interesses humanos e econômicos. A participação de agentes de HELION, NEXUS ou ATLAS, o proprietário da mina, o mineral, a relação com LIMIAR e os acontecimentos específicos não estão definidos. Tratar o episódio ficcionalmente, sem instruções operacionais.

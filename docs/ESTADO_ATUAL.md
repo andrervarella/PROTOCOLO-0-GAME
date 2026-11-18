@@ -96,3 +96,7 @@
 
 ## Causa da primeira missão aprovada — 18/11/2026 (Brasília)
 **PZ-DEC-042:** a revolta na mina de 2051 decorre da substituição de milhares de trabalhadores por máquinas/IA. Marcos 026–042 aprovados, com 038 superada por 039. Próxima decisão: como os líderes do protesto passaram a ser acusados de terrorismo? Ainda pendentes local, mineral, ordens, vítimas, ligação com ÉREBO e cenas. Apenas documentação, sem assets ou implementação.
+
+
+## Origem da intervenção aprovada — 18/11/2026 (Brasília)
+**PZ-DEC-043:** agentes infiltrados contratados pela corporação provocam um ataque durante a revolta na mina para justificar intervenção militar. Marcos 026–043 aprovados, exceto duração de 038 superada por 039. Próxima decisão: primeiro indício que desperta a suspeita de Silas. Ainda pendentes localização da mina, vítimas, mandantes, momento da revelação, ligações precisas com ÉREBO e LIMIAR. Apenas documentação.

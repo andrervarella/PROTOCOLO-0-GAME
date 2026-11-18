@@ -115,3 +115,7 @@ Resposta: **“Escolho a missão B: a revolta na mina.”** PZ-DEC-041 APROVADO.
 
 ## Décima sexta escolha do dono — 18/11/2026 (Brasília)
 Resposta: **“Escolho a causa A: a substituição dos trabalhadores por máquinas.”** PZ-DEC-042 APROVADO. Os trabalhadores se revoltam após automação das minas por IA e perda de milhares de empregos. Não acrescentar contaminação ou desaparecimentos como causas aprovadas. Conectar a crise à distribuição de benefícios da tecnologia e à temática da responsabilidade humana; não presumir que todos os trabalhadores sejam pacíficos, que haja uma sabotagem forjada ou que um personagem específico tenha sido capturado nesta missão. Como proposta de roteiro, explorar a diferença entre protesto legítimo e narrativa terrorista. Próxima pergunta: de onde surge a acusação de terrorismo?
+
+
+## Décima sétima escolha do dono — 18/11/2026 (Brasília)
+Resposta: **“Escolho C: agentes infiltrados provocaram um ataque para justificar a intervenção militar.”** PZ-DEC-043 APROVADO. A alternativa escolhida incluía agentes contratados pela corporação infiltrados entre manifestantes. O primeiro capítulo pode apresentar a versão oficial antes de revelar a manipulação; o momento preciso da revelação permanece em aberto. Não presumir que todos os trabalhadores sejam inocentes, somar manipulação de classificação por IA (alternativa D), definir tecnologia ou método de ataque, vítimas, ordens detalhadas ou falas por inferência. Próxima decisão: qual descoberta desperta a suspeita de Silas?

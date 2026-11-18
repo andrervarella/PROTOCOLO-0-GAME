@@ -175,3 +175,11 @@ A escolha complementa 040 (abertura não linear) e 029 (capturas para ÉREBO). A
 | PZ-DEC-042 | **APROVADO PELO DONO** | Causa A: **substituição dos trabalhadores por máquinas**. Milhares perdem seus empregos após automatização das minas por inteligência artificial e se revoltam. | Política de substituição, localização, mineral, natureza da acusação terrorista, ordens, vítimas e ligação concreta com ÉREBO |
 
 A decisão complementa PZ-DEC-041. As alternativas de contaminação, desaparecimentos e combinação de causas não foram escolhidas. Não voltar a perguntar o motivo da revolta. O mecanismo da acusação terrorista é a próxima decisão.
+
+
+## PZ-DEC-043 — origem da intervenção militar (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-043 | **APROVADO PELO DONO** | Opção C: **agentes infiltrados provocaram um ataque para justificar a intervenção militar** durante a revolta na mina. A opção apresentada estabelece contratação pela corporação. | Mandantes, vítimas, provas, cronologia da revelação, consequências e conexão com ÉREBO |
+
+Complementa 041/042. Não incluir automaticamente a alternativa D (IA manipulada) ou outras causas. Não repetir a pergunta sobre a acusação de terrorismo. A próxima decisão é o primeiro indício que leva Silas a questionar suas ordens.

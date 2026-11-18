@@ -105,3 +105,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — causa da primeira missão (18/11/2026)
 **AVANÇO PARCIAL:** causa da revolta aprovada (042): automação das minas por IA e perda de milhares de empregos. Próximo passo: definir a acusação de terrorismo e como Silas acredita estar cumprindo uma missão legítima. Ainda abertos local, mineral, sequência de ações, personagens, capturas, consequências e conexão concreta com a investigação da médica. Sem protótipo; manter tarefa aberta.
+
+
+## PZ-T-008 — intervenção militar definida (18/11/2026)
+**AVANÇO PARCIAL:** mecanismo narrativo da intervenção na mina aprovado (043): agentes infiltrados provocam um ataque para justificá-la. Próximo passo: decidir o primeiro indício que leva Silas a desconfiar e organizar a ligação da missão com as capturas de cobaias e a investigação da médica. Ainda sem cenas definitivas ou protótipo. Manter tarefa aberta.
