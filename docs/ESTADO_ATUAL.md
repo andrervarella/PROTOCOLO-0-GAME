@@ -60,3 +60,7 @@
 
 ## Oitavo marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-033:** mentor promove transformação física, intelectual, estratégica e emocional completa de Silas durante o cárcere. Marcos 026–033 aprovados. Próximo passo: definir o destino do mentor durante a fuga; depois a origem de NEX e o destino da companheira, um ponto por vez. Tutorial na prisão permanece proposta, sem código, arte ou vídeo.
+
+
+## Nono marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-034:** o mentor morre durante a fuga e deixa NEX como legado digital. Marcos 026–034 aprovados. Próximo passo: definir o que ocorreu com a companheira médica durante a prisão de Silas. Ainda pendentes causa/cena da morte do mentor, origem técnica e aparência final de NEX, cronologia, fuga, situação do amigo e conspiração. Sem novos assets ou implementação.

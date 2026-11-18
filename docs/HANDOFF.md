@@ -60,3 +60,7 @@ O dono escolheu D na sétima pergunta: **o mentor do cárcere é um dos criadore
 
 ## Atualização prioritária para Cláudio — PZ-DEC-033 (17/11/2026, Brasília)
 O dono escolheu D na oitava pergunta: **o mentor promove uma transformação física, intelectual, estratégica e emocional completa em Silas**. Combina domínio inicial da tecnologia ÉREBO, autonomia de pensamento, compreensão política/filosófica e estratégia. Decisões 026–033 estão aprovadas; não repetir escolhas. O tutorial jogável no cárcere é possibilidade, não implementação. Não liberar todos os poderes, não alterar cabelo ou regras de progressão. Próxima pergunta: destino do mentor durante a fuga. Ainda pendentes duração da prisão, plano de fuga, vínculo com NEX, nome e destino do mentor e da médica. Sem mídia, gastos ou gameplay.
+
+
+## Atualização prioritária para Cláudio — PZ-DEC-034 (17/11/2026, Brasília)
+O dono escolheu C na nona pergunta: **o mentor morre durante a fuga e deixa NEX como seu legado digital**, com conhecimentos, ensinamentos e mensagens gravadas. Não reabrir destino do mentor nem inventar que sobreviveu. NEX permanece o companheiro bípede, com identidade própria; o legado não autoriza presumir transferência de consciência. Decisões 026–034 aprovadas. Não fixar causa da morte, sacrifício explícito, última fala, mecanismo de entrega ou construção do robô. Próxima pergunta: o que ocorreu com a companheira de Silas enquanto ele esteve preso? Sem mídia, gastos, código ou build.

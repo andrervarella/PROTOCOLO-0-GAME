@@ -69,3 +69,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — oitavo marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** formação de Silas pelo mentor aprovada (033), abrangendo evolução física, intelectual, estratégica e emocional. Próxima decisão: destino do mentor durante a fuga. Em aberto: métodos, cronologia, biografia, revelações, NEX e conspiração. Tutorial da prisão é proposta aguardando validação. Não encerrar tarefa.
+
+
+## PZ-T-008 — nono marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** destino do mentor definido (morre durante a fuga) e legado digital de NEX aprovado (034). Próxima decisão: situação da companheira durante a prisão de Silas. Em aberto: causa/método da morte, eventos da fuga, origem técnica de NEX, cronologia, biografias, conspiração e repercussões nos finais. Não encerrar tarefa.

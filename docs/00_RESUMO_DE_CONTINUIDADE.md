@@ -66,3 +66,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Oitava decisão aprovada — 17/11/2026
 **PZ-DEC-033:** o mentor promove transformação física, intelectual, estratégica e emocional completa em Silas durante o cárcere. Marcos 026–033 aprovados. Próxima pergunta: qual o destino do mentor durante a fuga? Não repetir perguntas anteriores. Tutorial na prisão é proposta; não há implementação.
+
+
+## Nona decisão aprovada — 17/11/2026
+**PZ-DEC-034:** o mentor morre durante a fuga e deixa NEX como seu legado digital, com conhecimentos, ensinamentos e mensagens gravadas. Marcos 026–034 aprovados. Não transformar NEX em cópia de consciência por inferência; preservar robô bípede. Causa da morte e cena ainda pendentes. Próxima pergunta: o que ocorreu com a companheira de Silas durante a prisão?

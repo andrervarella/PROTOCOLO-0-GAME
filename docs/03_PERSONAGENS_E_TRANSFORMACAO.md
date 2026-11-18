@@ -48,3 +48,7 @@ O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉRE
 
 ## Transformação de Silas no cárcere — PZ-DEC-033
 **APROVADO:** o mentor promove evolução física (domínio dos implantes ÉREBO), intelectual (compreensão das estruturas de poder e da informação), estratégica (observação, antecipação e planejamento) e emocional (autonomia, responsabilidade e amadurecimento). A evolução não altera a regra canônica do cabelo preto curto de Silas nem obriga implantes adicionais. Não definir poderes concretos, nível inicial, técnica de treinamento ou falas do mentor sem aprovação. O destino do mentor continua pendente.
+
+
+## Destino do mentor e legado de NEX — PZ-DEC-034
+**APROVADO:** mentor morre durante a fuga e deixa NEX como legado digital, contendo seus conhecimentos, ensinamentos e mensagens gravadas. Preservar NEX como pequeno robô bípede (004), companheiro com personalidade própria e funções de assistência, análise e hack já registradas. Não confundir legado de conhecimentos com transferência de consciência; detalhes sobre arquitetura de NEX, origem de sua inteligência, autoria material, memória, comportamento e primeira apresentação ainda são pendentes. O mentor morreu; causa, sacrifício voluntário ou involuntário, últimas palavras e circunstâncias da fuga não foram definidos. Não alterar design aprovado.

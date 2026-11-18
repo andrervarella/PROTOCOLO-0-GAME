@@ -79,3 +79,7 @@ Resposta: **“Escolho D: o mentor é um dos criadores de LIMIAR e idealizador o
 
 ## Oitava escolha do dono — 17/11/2026 (Brasília)
 Resposta: **“Escolho D: o mentor promove uma transformação física, intelectual, estratégica e emocional completa em Silas.”** PZ-DEC-033 APROVADO. Combina as três dimensões apresentadas: ensino intelectual/filosófico, domínio de ÉREBO e preparação estratégica, acrescidas do amadurecimento emocional. A ideia adicional de integrar essa formação ao tutorial jogável é **PROPOSTA**. Preservar progressão posterior por chefes, evitar longas exposições ou ensinar tudo antes da fuga. Não canonizar a frase ilustrativa sobre aprender a obedecer/pensar. Próxima pergunta: qual é o destino do mentor durante a fuga?
+
+
+## Nona escolha do dono — 17/11/2026 (Brasília)
+Resposta: **“Escolho C: o mentor morre durante a fuga e deixa NEX como seu legado digital.”** PZ-DEC-034 APROVADO. A opção escolhida inclui conhecimentos, ensinamentos e mensagens gravadas no robô. A escolha encerra a questão do destino do mentor e fornece origem emocional para o vínculo Silas–NEX. A recomendação de não transformar NEX numa cópia de consciência é consistente com sua identidade como IA própria, mas não define a tecnologia exata. Não estabelecer como canônicos diálogos sugeridos, morte por sacrifício ou cenas de fuga sem aprovação. Próxima pergunta: destino da companheira durante o cárcere de Silas.

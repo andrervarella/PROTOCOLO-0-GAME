@@ -109,3 +109,11 @@ A decisão resolve a identidade narrativa do mentor, não todos os aspectos de s
 |---|---|---|---|
 | PZ-DEC-033 | **APROVADO PELO DONO** | Opção D: durante o cárcere, o mentor promove uma **transformação física, intelectual, estratégica e emocional completa** em Silas, com domínio de ÉREBO, autonomia de pensamento, leitura de manipulação/poder e preparação estratégica. | Duração, métodos, desbloqueios, cenas, fuga e destino do mentor |
 A prisão como tutorial é proposta ainda não aprovada em detalhe. Não repetir a pergunta sobre formação. Não confundir transformação narrativa com liberação imediata de todos os upgrades ou obrigatoriedade de novos implantes.
+
+
+## PZ-DEC-034 — morte do mentor e legado de NEX (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-034 | **APROVADO PELO DONO** | Opção C: **o mentor morre durante a fuga e deixa NEX como seu legado digital**, com seus conhecimentos, ensinamentos e mensagens gravadas. | Circunstâncias da morte, causa, eventual sacrifício, entrega, implementação do legado, origem técnica de NEX e cenas |
+
+O mentor não permanece vivo por padrão; as alternativas anteriores não prevalecem. Preservar NEX bípede, sua autonomia e identidade própria, sem presumir transferência da consciência do cientista. Não fixar diálogo nem método da fuga. Próxima decisão: destino da companheira.
