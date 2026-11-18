@@ -137,3 +137,7 @@ A companheira médica encontra registro de **transferência recente do paciente 
 
 ## Começo vulnerável e ascensão gradual — PZ-DEC-061
 Silas, mesmo com experimentos e alterações de ÉREBO durante o cárcere, **não começa equipado nem dominante**: inicia fuga com inventário vazio e poderes/recursos acessíveis limitados. Ele adquire armas e melhorias durante a aventura; novas peças implantáveis devem ser **simples de colocar** na ficção, sem operações longas no meio do combate. Conservar cabelo preto curto, identidade de Silas e liberdade do jogador em escolher tecnologia interna ou externa. A aparência de cada estágio e habilidades iniciais ainda não foram aprovadas.
+
+
+## Silas vulnerável na fuga — PZ-DEC-062
+**Primeiro item aprovado:** ferramenta de manutenção encontrada durante a fuga, utilizável tanto para manipular/sabotar sistemas quanto para defesa improvisada. Silas continua começando sem arsenal, sem equipamentos e com acesso limitado aos aprimoramentos ÉREBO (061). O objeto é um símbolo inicial de engenhosidade e planejamento, sem definir detalhes de arma, implante ou habilidades avançadas. NEX chega como legado do mentor após o sacrifício, conforme 034/060; função jogável específica ainda em aberto.

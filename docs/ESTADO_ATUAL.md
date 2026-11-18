@@ -169,3 +169,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 30ª escolha aprovada — PZ-DEC-061 (18/11/2026)
 **Fuga C:** plano de sabotagem, combates e perseguição cinematográfica, sem remover agência de Silas. **Começa sem armas/itens/equipamentos e sem upgrades disponíveis**; Silas ainda não é poderoso, mesmo com modificações de ÉREBO prévias, e cresce aos poucos com armas, itens e tecnologia. Implantes novos com instalação breve/não complexa; rota externa continua possível. Campanha-alvo 2–3h (057). **Próxima pergunta:** qual primeiro item Silas encontra na fuga? Sem código, arte ou build produzidos.
+
+
+## 31ª escolha aprovada — PZ-DEC-062 (18/11/2026)
+**VIGENTE:** Silas encontra **ferramenta de manutenção** como primeiro item da fuga; sabota/abre mecanismos e se defende nos primeiros encontros. Começa sem itens e cresce gradualmente (061). Fuga planejada (059) e sacrifício do mentor (060) permanecem. **Próxima decisão:** que papel NEX desempenha ativamente no gameplay após ser legado do mentor (034)? Campanha-alvo ~2–3h; sem asset, build ou implementação nova.

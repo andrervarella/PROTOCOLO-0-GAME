@@ -173,3 +173,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — fuga C e progressão inicial aprovadas (18/11/2026)
 **PZ-DEC-061:** sabotagem → combate → perseguição, e Silas começa sem armas/equipamentos/upgrades; evolui gradualmente coletando novas armas, itens e tecnologias. Implantes opcionais com instalação de baixa complexidade. Compatibilizar com transformações ÉREBO existentes e escolhas de equipamentos externos. **Próximo passo:** escolher primeiro recurso da fuga; depois articular sequência jogável curta até morte do mentor e chegada de NEX, com crescimento controlado. Sem implementação.
+
+
+## PZ-T-008 — primeiro item aprovado (18/11/2026)
+**PZ-DEC-062:** Silas encontra ferramenta de manutenção para sabotagem/abertura de mecanismos e defesa improvisada. Próximo ponto: definir função de NEX no gameplay; depois detalhar primeiro bloco jogável e adquirir arma melhor de forma gradual. Não iniciar com itens, não liberar poder total, não exigir implantes. Sem implementação nesta etapa.

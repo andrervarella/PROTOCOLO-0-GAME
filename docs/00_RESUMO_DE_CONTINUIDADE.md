@@ -172,3 +172,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 30ª escolha — PZ-DEC-061 (18/11/2026)
 **APROVADO:** fuga opção **C** (sabotagem planejada, combate e perseguição). Silas **começa sem arma, item ou equipamento**, não poderoso; adquire primeiras ferramentas e evolui com armas/itens/melhorias ao longo do game. Experimentos ÉREBO anteriores permanecem, mas sem liberar poderes completos no começo. Implantes adicionais devem ser simples e rápidos de instalar, sem obrigação; opções externas seguem válidas. O primeiro item ainda será escolhido. Campanha ~2–3h (meta). Próxima pergunta: primeiro recurso da fuga.
+
+
+## 31ª escolha — PZ-DEC-062 (18/11/2026)
+**APROVADO:** primeiro item obtido **durante a fuga** é uma ferramenta de manutenção para **sabotar/abrir mecanismos e se defender**. Começa sem inventário e pouco poderoso (061), plano do mentor e Silas (059), sacrifício do mentor e legado NEX (034/060). Primeiro item específico aprovado; forma/design/dano/local pendentes. **Próxima pergunta:** papel de NEX durante o gameplay depois da fuga; meta de ~2–3h.
