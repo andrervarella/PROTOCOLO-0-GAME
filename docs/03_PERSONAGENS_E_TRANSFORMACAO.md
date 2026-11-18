@@ -113,3 +113,7 @@ A médica, que trabalha em NEXUS e investiga ÉREBO em segredo, encontra dados r
 
 ## Segunda pista clínica: a lesão antiga — PZ-DEC-053
 **VIGENTE:** uma fratura antiga de Silas, sofrida em missão militar, apresenta localização e padrão de cicatrização muito semelhantes aos encontrados nos exames do paciente de ÉREBO. A médica reconhece a correspondência ao investigar sozinha (052). Não determinar qual osso, lado, mecanismo da fratura, intervenção médica, habilidade perdida ou reação emocional específica. A correspondência é forte, mas não encerra o mistério. Ela segue namorando, sem casamento (050).
+
+
+## Rastro da transferência — PZ-DEC-054
+A companheira médica encontra registro de **transferência recente do paciente codificado de ÉREBO a uma instalação não identificada**, sem conseguir localizar o destino. Isso aumenta seu interesse em verificar a identidade, mas ainda não prova que seja Silas nem quando ocorreu o transporte. Ela mantém a investigação confidencial e o relacionamento com namorado honesto; não há casamento (050).

@@ -145,3 +145,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — segunda pista clínica aprovada (18/11/2026)
 **AVANÇO PARCIAL:** segunda pista (053) é uma lesão/fratura antiga de Silas em missão militar cujas características aparecem nos exames do paciente misterioso. Em aberto: localização anatômica, documentos originais, verificação independente, risco de vigilância e descoberta da fraude. Próximo passo: definir obstáculo ou revelação ao solicitar dados completos. Manter tarefa aberta; não produzir cenas sem aprovação.
+
+
+## PZ-T-008 — vigésimo quinto marco aprovado (18/11/2026)
+**AVANÇO PARCIAL:** registros indicam transferência recente do paciente de ÉREBO para instalação desconhecida (054). Próxima decisão: rastro investigável da transferência. Pendentes data precisa, rota, destino, identidade confirmada, proteção dos dados e ligação exata com fuga da prisão. Manter tarefa aberta.

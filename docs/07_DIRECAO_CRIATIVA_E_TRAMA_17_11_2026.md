@@ -157,3 +157,7 @@ Resposta literal: **“Escolho A: a médica investiga secretamente os registros.
 
 ## Vigésima quarta escolha do dono — 18/11/2026 (Brasília)
 Resposta literal: **“Escolho A: os exames mostram uma lesão antiga de Silas.”** **PZ-DEC-053 APROVADO.** A opção A apresentada detalhava sinais de fratura sofrida em missão militar, com localização e cicatrização semelhantes ao histórico de Silas. Esse achado vem depois da pista biométrica (051) e da investigação secreta (052). Não canonizar implante pessoal, assinatura neurológica ou anomalia genética rara, pois eram alternativas não escolhidas. Não inferir confirmação definitiva, local de detenção ou encontro. Próximo ponto: o que ocorre quando ela procura acessar os registros completos do paciente?
+
+
+## Vigésima quinta escolha do dono — 18/11/2026 (Brasília)
+Resposta literal: **“Escolho B: os registros mostram que o paciente foi transferido para uma instalação desconhecida.”** **PZ-DEC-054 APROVADO.** A opção B da pergunta sobre prontuário completo apontava uma transferência recente e um destino ainda inacessível. Registrar isso como pista documental, **não** localização, confirmação de que o paciente é Silas ou informação sobre o ponto temporal exato em relação à fuga. Nenhum alerta de segurança, arquivo apagado ou assinatura de médico misterioso foi aprovado. Próximo ponto: por qual evidência adicional ela pode rastrear a transferência, sem resolver cedo demais a identidade?

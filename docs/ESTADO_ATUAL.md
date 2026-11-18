@@ -139,3 +139,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## Vigésimo quarto marco narrativo aprovado — 18/11/2026 (Brasília)
 **PZ-DEC-053:** médica encontra sinais de antiga fratura de Silas em missão militar nos exames de paciente codificado de ÉREBO; localização e cicatrização correspondem. Pista forte, não prova definitiva. Permanecem 051 (semelhança biométrica), 052 (investigação secreta), 048 (provas de morte falsas em etapas), 050 (namoro, não casamento). Próxima pergunta: o que acontece quando ela tenta consultar o prontuário completo? Sem geração de mídia ou implementação.
+
+
+## Vigésimo quinto marco narrativo — 18/11/2026 (Brasília)
+**PZ-DEC-054:** ao acessar o prontuário, a médica encontra **registro de transferência recente para instalação desconhecida**, sem obter endereço nem confirmação de que o paciente seja Silas. Preservar 051 (biometria), 052 (pesquisa secreta), 053 (fratura antiga), 048 (provas falsas em etapas) e 050 (namoro, não casamento). **Próxima decisão:** qual pista logística ou documental foi deixada pela transferência? Ainda não definir cronologia exata da movimentação nem vínculo ao local da fuga. Nenhum material produzido além da documentação.
