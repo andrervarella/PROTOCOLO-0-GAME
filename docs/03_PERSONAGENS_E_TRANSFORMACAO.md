@@ -32,3 +32,6 @@ Líderes das corporações, aliados civis, informantes, rivais secundários e a 
 
 ## Companheira — profissão aprovada (PZ-DEC-028)
 A companheira de Silas Venn, seu vínculo afetivo central (PZ-DEC-027), é **médica especializada em aprimoramentos cibernéticos**. A profissão foi escolhida expressamente pelo dono. Ela possui potencial para abordar o impacto humano dos implantes, saúde, acesso desigual a tratamento e autonomia corporal. Nome, clínica, pacientes, aparência, personalidade, convicções, relação com os projetos secretos e destino são PENDENTES. Não canonizar os exemplos de diálogo nem deduzir que seja funcionária de NEXUS. Preservar agência própria e evitar reduzi-la a vítima ou prêmio de final.
+
+## Passado de Silas — conexão direta com ÉREBO (PZ-DEC-029)
+**APROVADO:** no exercício de suas antigas funções, Silas capturava pessoas posteriormente utilizadas como cobaias no Projeto ÉREBO. Cumpria ordens acreditando estar certo (PZ-DEC-026). A médica que era sua companheira é um elo possível da descoberta e uma personagem com interesses próprios. Não definir o número de vítimas, patentes, nomes, diagnóstico dos pacientes ou técnica experimental sem aprovação. A responsabilidade moral de Silas e as consequências humanas dos aprimoramentos são centrais.

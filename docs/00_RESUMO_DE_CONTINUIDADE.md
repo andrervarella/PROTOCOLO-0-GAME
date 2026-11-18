@@ -50,3 +50,6 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Terceira decisão aprovada — 17/11/2026
 **PZ-DEC-028:** a companheira de Silas é médica especializada em aprimoramentos cibernéticos. Sua profissão está definida; identidade, clínica, pacientes e destino ainda não. Próxima pergunta: qual foi a missão injusta de Silas antes da traição? Não voltar a perguntar as opções já escolhidas em PZ-DEC-026/027/028.
+
+## Quarta decisão aprovada — 17/11/2026
+**PZ-DEC-029:** Silas capturava pessoas que eram utilizadas como cobaias no Projeto ÉREBO. Cumpriu ordens achando que fazia o certo; tentou reparar e foi traído. Companheira médica já aprovada. Próxima decisão: quem o traiu e por quê? Ainda não há autoria, vítimas específicas, cenas, nomes ou destino da companheira definidos.

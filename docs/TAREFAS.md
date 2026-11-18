@@ -53,3 +53,6 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — terceiro marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** profissão da companheira definida: médica especializada em aprimoramentos cibernéticos (PZ-DEC-028). Próxima decisão: operação injusta de Silas e suas consequências. Ainda ABERTOS: nome, vínculo profissional com instituições, descoberta, traição, prisão, mentor e papel dos acontecimentos na conspiração e nos finais. Não encerrar a tarefa.
+
+## PZ-T-008 — quarto marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** o grande erro de Silas foi capturar pessoas usadas como cobaias do Projeto ÉREBO (PZ-DEC-029). Próxima decisão: quem o traiu ao tentar reparar os erros? Ainda abertos os detalhes da investigação da médica, ordens, vítimas, prisão, mentor, fuga, antagonistas e conspiração. Não encerrar tarefa.

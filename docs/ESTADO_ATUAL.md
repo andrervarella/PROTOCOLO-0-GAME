@@ -44,3 +44,6 @@
 
 ## Terceiro marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-028:** a companheira de Silas é médica especializada em aprimoramentos cibernéticos. Origem moral (026), vínculo afetivo (027) e profissão (028) estão aprovados. As circunstâncias da vida da personagem permanecem em desenvolvimento. **Próxima pergunta:** qual operação levou Silas a prejudicar inocentes acreditando cumprir uma missão legítima? Depois definir descoberta, traição e prisão. Sem novos assets ou implementação.
+
+## Quarto marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-029:** Silas capturava pessoas que eram utilizadas como cobaias no Projeto ÉREBO. Com 026/027/028, temos quatro decisões aprovadas: origem moral, companheira como vínculo afetivo, profissão médica e injustiça praticada. **Próxima pergunta:** quem o traiu quando tentou reparar o erro? Elaboração de nomes, circunstâncias, autoria da conspiração, mentor e prisão pendente. Documentação apenas.

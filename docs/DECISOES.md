@@ -74,3 +74,10 @@ Esta decisão resolve a pendência de vínculo afetivo de PZ-DEC-026. Não impli
 | PZ-DEC-028 | **APROVADO PELO DONO** | A companheira de Silas Venn é **médica especializada em aprimoramentos cibernéticos** (opção B da terceira pergunta). | Nome, especialização clínica detalhada, local de trabalho, pacientes, história pessoal, participação na conspiração e destino |
 
 Esta decisão resolve a pendência de profissão de PZ-DEC-027. Não aprova automaticamente atendimento a pobres, participação no Projeto ÉREBO, trabalho em NEXUS, morte, captura ou falas sugeridas. Não voltar a perguntar qual profissão o dono escolhe.
+
+## PZ-DEC-029 — o grande erro de Silas (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-029 | **APROVADO PELO DONO** | Opção C: Silas Venn **capturava pessoas que eram utilizadas como cobaias no Projeto ÉREBO**, acreditando cumprir ordens legítimas; posteriormente tentou corrigir seus erros e foi traído. | Ordens, mandantes, vítimas, papel exato da companheira na descoberta, traidor e motivação, prisão e mentor |
+
+PZ-DEC-029 resolve o tipo de injustiça cometido por Silas. A destruição de uma comunidade e o apagão eram opções alternativas para essa decisão, não são seu erro principal aprovado. Não confundir com possíveis eventos secundários. A médica como agente da descoberta é um elo a desenvolver; cenas, nomes e destinos ainda exigem aprovação.
