@@ -269,3 +269,11 @@ Complementa 051/052 e não equivale a confirmação da sobrevivência. As demais
 | PZ-DEC-054 | **APROVADO — VIGENTE** | Opção B: **o prontuário indica que o paciente misterioso de ÉREBO foi transferido recentemente para uma instalação desconhecida**; a médica encontra o registro, mas não consegue acessar a localização. | Destino real, autoria e motivo da transferência, data exata, relação com a fuga, próximo rastro e confirmação de identidade |
 
 Complementa PZ-DEC-051 a 053. Não canonizar prontuário apagado (A), assinatura de médico desaparecido (C) nem alerta de segurança (D). Preservar sigilo da investigação (052) e **namoro sem casamento** (050). **Próxima decisão:** qual rastro deixou a transferência para permitir que a médica continue investigando?
+
+
+## PZ-DEC-055 — autorização da alta direção de NEXUS (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-055 | **APROVADO — VIGENTE** | Opção C: **a ordem de transferência do paciente misterioso de ÉREBO traz a assinatura digital de um executivo importante da NEXUS**. A descoberta sugere envolvimento da alta direção, mas não determina a culpa individual do signatário. | Identidade e intenção do executivo, autenticidade operacional da assinatura, ligações com ÉREBO e o comandante, medida seguinte da médica, destino do paciente |
+
+Complementa 051–054 e preserva o sigilo da investigação (052). **Não é confirmação da identidade de Silas ou do destino da transferência**. Não canonizar as alternativas A, B e D da pergunta sobre rastros. Preservar namoro sem casamento (050). Próxima decisão: como a médica age após encontrar essa autorização?

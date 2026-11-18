@@ -161,3 +161,7 @@ Resposta literal: **“Escolho A: os exames mostram uma lesão antiga de Silas.�
 
 ## Vigésima quinta escolha do dono — 18/11/2026 (Brasília)
 Resposta literal: **“Escolho B: os registros mostram que o paciente foi transferido para uma instalação desconhecida.”** **PZ-DEC-054 APROVADO.** A opção B da pergunta sobre prontuário completo apontava uma transferência recente e um destino ainda inacessível. Registrar isso como pista documental, **não** localização, confirmação de que o paciente é Silas ou informação sobre o ponto temporal exato em relação à fuga. Nenhum alerta de segurança, arquivo apagado ou assinatura de médico misterioso foi aprovado. Próximo ponto: por qual evidência adicional ela pode rastrear a transferência, sem resolver cedo demais a identidade?
+
+
+## Vigésima sexta escolha do dono — 18/11/2026 (Brasília)
+Resposta literal: **“Escolho C: a ordem de transferência foi autorizada por um executivo importante da NEXUS.”** **PZ-DEC-055 APROVADO.** A alternativa apresentada explicava que a médica encontra a **assinatura digital de um executivo importante de NEXUS** no documento de transferência do paciente misterioso. É um indício de alcance da conspiração na alta direção, **não prova final** de autoria dos crimes ou da identidade do paciente. Não definir o executivo como chefe de ÉREBO, comandante, assassino, namorado da médica ou conspirador voluntário por inferência. Não incluir outros rastros da questão anterior (suprimentos, transporte ou enfermeira) como aprovados. Próxima pergunta: o que ela faz diante da assinatura?

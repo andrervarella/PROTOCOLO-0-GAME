@@ -143,3 +143,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## Vigésimo quinto marco narrativo — 18/11/2026 (Brasília)
 **PZ-DEC-054:** ao acessar o prontuário, a médica encontra **registro de transferência recente para instalação desconhecida**, sem obter endereço nem confirmação de que o paciente seja Silas. Preservar 051 (biometria), 052 (pesquisa secreta), 053 (fratura antiga), 048 (provas falsas em etapas) e 050 (namoro, não casamento). **Próxima decisão:** qual pista logística ou documental foi deixada pela transferência? Ainda não definir cronologia exata da movimentação nem vínculo ao local da fuga. Nenhum material produzido além da documentação.
+
+
+## Vigésimo sexto marco narrativo — 18/11/2026 (Brasília)
+**PZ-DEC-055:** ordem de transferência do paciente misterioso de ÉREBO contém **assinatura digital de um executivo importante da NEXUS**. Pista de possível envolvimento da alta direção, não prova conclusiva de cumplicidade nem identidade de Silas. Decisões 051–054 seguem vigentes; 050 afirma namoro, não casamento. Próxima questão: ação imediata da médica diante da autorização, mantendo o suspense. Sem nova arte, código, mídia ou build.

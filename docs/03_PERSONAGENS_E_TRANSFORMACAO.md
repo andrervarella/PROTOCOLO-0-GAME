@@ -117,3 +117,7 @@ A médica, que trabalha em NEXUS e investiga ÉREBO em segredo, encontra dados r
 
 ## Rastro da transferência — PZ-DEC-054
 A companheira médica encontra registro de **transferência recente do paciente codificado de ÉREBO a uma instalação não identificada**, sem conseguir localizar o destino. Isso aumenta seu interesse em verificar a identidade, mas ainda não prova que seja Silas nem quando ocorreu o transporte. Ela mantém a investigação confidencial e o relacionamento com namorado honesto; não há casamento (050).
+
+
+## NEXUS e a assinatura de alto escalão — PZ-DEC-055
+**APROVADO:** um executivo importante da NEXUS aparece como autorizador digital da transferência do paciente codificado de ÉREBO. A médica encontra a assinatura durante sua investigação sigilosa. **Não confundir assinatura com confirmação de culpa ou com prova de que o paciente é Silas.** Identidade, cargo, intenções, relação com comandante e eventuais vínculos afetivos ou hierárquicos não foram decididos. A médica continua namorando um homem honesto, não casada (050).

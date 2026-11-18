@@ -147,3 +147,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Vigésima quinta decisão — PZ-DEC-054 (18/11/2026)
 **VIGENTE:** a médica encontra registro de transferência recente do paciente misterioso de ÉREBO para instalação desconhecida, sem localização acessível nem confirmação da identidade. Investigação sigilosa (052), semelhança biométrica (051) e fratura antiga (053) preservadas. **Namoro sem casamento** (050). Próxima pergunta: qual rastro da transferência ela consegue investigar?
+
+
+## Vigésima sexta decisão — PZ-DEC-055 (18/11/2026)
+**VIGENTE:** ordem de transferência do paciente codificado de ÉREBO (054) tem assinatura digital de **executivo importante da NEXUS**. Pista de possível envolvimento da alta direção, não confirmação de culpa nem do paradeiro/identidade do paciente. A médica continua investigando em segredo (052). Namoro sem casamento (050). Próxima pergunta: o que ela faz com a assinatura?

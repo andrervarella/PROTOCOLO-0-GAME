@@ -149,3 +149,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — vigésimo quinto marco aprovado (18/11/2026)
 **AVANÇO PARCIAL:** registros indicam transferência recente do paciente de ÉREBO para instalação desconhecida (054). Próxima decisão: rastro investigável da transferência. Pendentes data precisa, rota, destino, identidade confirmada, proteção dos dados e ligação exata com fuga da prisão. Manter tarefa aberta.
+
+
+## PZ-T-008 — vigésimo sexto marco aprovado (18/11/2026)
+**AVANÇO PARCIAL:** ordem de transferência codificada autorizada digitalmente por executivo importante de NEXUS (055). Próximo passo: decidir estratégia da médica diante de pista de alto escalão. Em aberto identidade/cargo do signatário, extensão da conspiração, destino do paciente e confirmação de que seja Silas. Não produzir cenas sem aprovação. Manter tarefa aberta.
