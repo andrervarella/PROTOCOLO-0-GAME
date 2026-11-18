@@ -133,3 +133,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — corrigir estado afetivo para namoro (18/11/2026)
 **PZ-DEC-050 VIGENTE:** a companheira de Silas **NAMORA** o novo homem honesto, **não casou**. PZ-DEC-049 superada por correção textual do dono. Atualizar quaisquer referências criativas futuras: “namorado”, nunca “marido”. Continuam aprovadas 048 (provas falsas em etapas) e 039 (prisão de três anos). Pendente: primeira pista contra a farsa, nomes, reencontro e decisões afetivas. Manter tarefa aberta.
+
+
+## PZ-T-008 — primeira pista da farsa aprovada (18/11/2026)
+**AVANÇO PARCIAL:** médica encontra registros de paciente de ÉREBO com dados biométricos semelhantes aos de Silas (051). Próximo passo: escolher sua primeira ação e como garantir ou perder acesso às provas. Pendentes código, características biométricas, cronologia, segurança dos sistemas, perseguição/revelação e reencontro. Preservar namoro, não casamento (050). Manter tarefa aberta.

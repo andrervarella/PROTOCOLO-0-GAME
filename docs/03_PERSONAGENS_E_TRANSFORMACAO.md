@@ -101,3 +101,7 @@ A médica acreditou na morte de Silas por **uma sequência de evidências falsas
 
 ## Estado correto do relacionamento — PZ-DEC-050 (18/11/2026, Brasília)
 **CORREÇÃO EXPLÍCITA E VIGENTE:** o homem honesto é **NAMORADO** da companheira de Silas, **não marido**. O dono esclareceu “ela só estava namorando o homem não casou não”. Toda afirmação histórica de PZ-DEC-049 de que eles casaram é **SUPERADA**. Ela seguiu a vida acreditando na morte de Silas após várias provas falsas em etapas (048), formou relação de namoro com o novo parceiro e continua investigando ÉREBO na NEXUS. Não presumir filhos, casamento, noivado, infidelidade ou como reagirá ao reencontro com Silas.
+
+
+## A investigação biométrica da médica — PZ-DEC-051
+A médica, que trabalha em NEXUS e investiga ÉREBO em segredo, encontra dados recentes de um paciente sob identificação codificada com correspondências biométricas fortes ao histórico de Silas. **APROVADO como pista inicial**, não como reconhecimento confirmado. Ela pode suspeitar que Silas não morreu, mas sua reação, o grau de certeza, as verificações e se compartilha com alguém ainda são decisões abertas. Preservar o namorado honesto (050), sem casamento ou presunção de que ele sabe dessa descoberta.

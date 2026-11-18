@@ -237,3 +237,11 @@ O dono afirmou: “Melhor essa pq vai justificar a certeza de que ele morreu e e
 | PZ-DEC-050 | **APROVADO — VIGENTE; substitui PZ-DEC-049** | **A companheira de Silas está NAMORANDO o homem honesto, sem ter se casado com ele.** Resposta textual final do dono: “Não não eu quero dizer que ela só estava namorando o homem não casou não”. | Identidade do namorado, início e detalhes do namoro, reencontro com Silas e consequências afetivas |
 
 **PZ-DEC-049 está formalmente SUPERADA:** foi uma interpretação equivocada, corrigida pelo dono. Não há casamento, cônjuge nem marido canônicos. Permanecem válidas a decisão 037 (novo amor honesto), 048 (provas falsas da morte em etapas), 035/036 (médica trabalha na NEXUS, investiga ÉREBO e acredita na morte) e 039 (três anos de cárcere). **A próxima pergunta ainda é sobre a primeira pista que desmonta a fraude.**
+
+
+## PZ-DEC-051 — pista biométrica de um paciente de ÉREBO (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-051 | **APROVADO — VIGENTE** | Opção C: **a médica encontra registros recentes de um paciente misterioso de ÉREBO, identificado apenas por código, com dados biométricos muito semelhantes aos de Silas**. É a primeira pista escolhida de que ele pode estar vivo. | Quais dados correspondem, código, datas, prova definitiva, localização do paciente e primeira ação da médica |
+
+**Não transformar pista em confirmação imediata.** Não canonizar testemunha, erro em horário do laudo ou dados biométricos duplicados como gatilho primário. Preservar provas falsas construídas em etapas (048) e o **NAMORO sem casamento** (050; 049 superada). Próxima decisão: que providência ela toma diante dos registros?

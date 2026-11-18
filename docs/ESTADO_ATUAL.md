@@ -127,3 +127,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 ## CORREÇÃO MAIS RECENTE — PZ-DEC-050 (18/11/2026, Brasília)
 **VIGENTE:** a companheira de Silas **NAMORA**, **NÃO É CASADA**, com o novo homem honesto. Foi erro de interpretação registrar casamento na decisão 049: essa decisão está **SUPERADA** por 050. O engano sobre a morte continua sustentado por várias provas falsas em etapas (048), e a prisão dura três anos (039).
 **Próxima decisão:** escolher o primeiro indício de que a suposta morte foi forjada. Sem mídia, gameplay, build nem cena implementada.
+
+
+## Primeira pista aprovada — 18/11/2026 (Brasília)
+**PZ-DEC-051:** a companheira encontra registros recentes de paciente codificado de ÉREBO com dados biométricos muito semelhantes aos de Silas. Primeira pista da fraude, não confirmação de identidade. Preservar 048 (várias provas falsas) e 050 (namoro, não casamento). **Próxima decisão:** como ela reage/age após a descoberta. Código, acesso a provas, cronologia relativa à fuga e consequências seguem abertos. Marcos até 051 aprovados, exceto 038 e 049 superados e exclusividade de 047 revista. Documentação apenas.

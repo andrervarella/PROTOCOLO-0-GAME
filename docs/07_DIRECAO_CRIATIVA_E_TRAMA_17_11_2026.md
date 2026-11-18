@@ -145,3 +145,7 @@ Próxima pergunta: qual pista primeiro derruba a farsa? Não inventar que ela j�
 
 ## Correção definitiva do dono — PZ-DEC-050 (18/11/2026, Brasília)
 O dono corrigiu imediatamente a interpretação do diálogo: **“Não não eu quero dizer que ela só estava namorando o homem não casou não”**. Portanto, a médica está **NAMORANDO** o homem honesto, sem casamento. PZ-DEC-049 é um mal-entendido **SUPERADO**. A fala anterior sobre “casando com outro” não autorizava canonizar casamento e foi explicitamente desmentida. Não repetir o erro nem tratá-lo como casal casado. Mantém-se 048: vários indícios falsos da morte em etapas. Continua pendente a pergunta sobre a primeira pista que desmontará a farsa.
+
+
+## Vigésima segunda escolha do dono — 18/11/2026 (Brasília)
+Resposta literal: **“Escolho a pista C: a médica encontra registros de um paciente misterioso de ÉREBO com dados semelhantes aos de Silas.”** **PZ-DEC-051 APROVADO.** A opção C oferecida descrevia registros recentes, paciente identificado apenas por código e correspondência biométrica impressionante. A descoberta levanta suspeita forte sobre a morte encenada e as provas falsas (048), mas não deve revelar imediatamente toda a verdade, o local nem a identidade confirmada. Não confundir com a alternativa D (testemunha) nem A/B (erro direto no laudo ou nos horários). A médica continua namorando outro homem (050). Próxima pergunta: o que ela faz com a descoberta?

@@ -131,3 +131,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## CORREÇÃO FINAL — PZ-DEC-050 (18/11/2026, Brasília)
 **ÚLTIMA DECISÃO VIGENTE:** companheira de Silas **SÓ NAMORA** o homem honesto; **NÃO É CASADA**. O dono corrigiu: “ela só estava namorando o homem não casou não”. PZ-DEC-049 (casamento) foi registro equivocado e está **SUPERADO**. A morte encenada ainda é sustentada por provas falsas em etapas (048). Retomar pergunta sobre o primeiro indício que desfaz a mentira; nenhuma pista específica foi aprovada.
+
+
+## Vigésima segunda decisão aprovada — PZ-DEC-051 (18/11/2026)
+**VIGENTE:** a médica encontra registros recentes de paciente misterioso de ÉREBO, sob código, cujos dados biométricos se parecem muito com os de Silas. Pista inicial de sobrevivência; não confirmação nem localização. Ela continua em NEXUS investigando ÉREBO e **namorando** outro homem (050), não casada. A morte foi sustentada por falsas provas em etapas (048). Próxima pergunta: primeira reação/ação dela após a descoberta.
