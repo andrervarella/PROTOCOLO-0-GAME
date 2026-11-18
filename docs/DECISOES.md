@@ -328,3 +328,11 @@ A restrição de inventário vazio se refere ao **equipamento utilizável e às 
 |---|---|---|---|
 | PZ-DEC-062 | **APROVADO PELO DONO** | **Opção C:** Silas encontra uma **ferramenta de manutenção** durante a fuga; usa-a **para sabotar mecanismos, abrir passagens/portas e se defender nos primeiros confrontos**. É o primeiro recurso conquistado, não equipamento inicial. | Aparência exata, funções, durabilidade, danos, local onde encontra, primeira situação jogável e substituição por arma posterior. |
 Compatível com PZ-DEC-059 (fuga planejada por Silas e mentor), 060 (sacrifício consciente), 061 (fuga cinematográfica, começo sem itens, crescimento gradual). **Não transformar a ferramenta em arma poderosa**, nem atribuir características específicas de pistola, bastão ou barra metálica. **Próxima decisão:** qual função principal o robô NEX deve exercer durante o gameplay, após se tornar legado do mentor?
+
+
+## PZ-DEC-063 — NEX como companheiro multifuncional (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-063 | **APROVADO PELO DONO** | **Opção D:** NEX será um **companheiro multifuncional**, com **comandos simples**, atuando em **invasão de sistemas**, **exploração** e **apoio limitado em combate**. Preserva sua personalidade e identidade de IA própria como legado do mentor (034). | Interface/inputs, cooldowns, autonomia, disponibilidade de ações, limites da IA, evolução, apresentação inicial e tutorial. |
+**Não tornar NEX um segundo protagonista controlado integralmente**, nem dar apoio de combate poderoso ou capacidades ilimitadas desde a fuga; comando simples e papel de suporte são essenciais. A instalação de NEX após sacrifício do mentor, primeiro acesso às funções e balanço ainda não estão definidos. Continuar priorizando campanha curta de aproximadamente 2–3 horas (057), progressão gradual de Silas (061) e ferramenta de manutenção inicial (062).
+**Próxima pergunta:** qual é a primeira região jogável após a fuga de ÉREBO?

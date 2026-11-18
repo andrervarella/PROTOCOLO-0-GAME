@@ -55,3 +55,7 @@ Fuga cinematográfica **com sabotagem intencional, combate e perseguição** est
 
 ## Ferramenta de manutenção: primeiro item funcional — PZ-DEC-062 (18/11/2026)
 **APROVADO:** recurso encontrado durante a fuga que une **sabotagem/interação com portas ou mecanismos** e **defesa improvisada em combate**. Priorizar tutorial simples em que o jogador aplica a ferramenta em pelo menos um bloqueio ambiental e um confronto, como **ideia de implementação** ainda sujeita a aprovação técnica. Evitar que o item entregue poder excessivo ou complexidade de menus; seu papel é abrir caminho para crescimento posterior e contraste com armas de verdade. Local, sprite, animações, número de usos, dano e inputs continuam abertos. Próximo passo conceitual: função principal de NEX no gameplay.
+
+
+## NEX: comando simples, três funções úteis — PZ-DEC-063
+**APROVADO:** NEX tem apoio em (1) invasão/ativação de sistemas, (2) exploração/detecção e (3) suporte limitado em confronto, sem controle completo como segundo personagem. **Proposta de implementação sujeita a protótipo:** um único comando contextual para interagir com alvos e um recurso de assistência curta em combate, com capacidades desbloqueadas aos poucos. Evitar menus complicados, excesso de automação e poderes ilimitados. Manter identidade de robô bípede e vínculo com legado do mentor; nenhum input, cooldown, efeito ou habilidade foi codificado/validado.

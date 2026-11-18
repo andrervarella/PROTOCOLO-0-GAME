@@ -194,3 +194,7 @@ Resposta livre: prefere a **opção C** para a fuga (sabotagem, luta e persegui�
 
 ## Trigésima primeira escolha do dono — PZ-DEC-062 (18/11/2026)
 Resposta literal: **“Escolho C: Silas encontra uma ferramenta de manutenção para sabotar e combater.”** **APROVADO.** A opção C apresentada inclui **abrir mecanismos/portas, sabotar e defender-se nos primeiros confrontos**. Não acrescentar automaticamente equipamento especial, arma de fogo, bastão de choque ou barra improvisada das outras opções. A ferramenta é encontrada ao longo da fuga, preservando começo sem itens (061). **Próxima pergunta curta, de grande impacto em gameplay:** qual é a função de NEX como companheiro ativo após a morte do mentor? Não voltar a microperguntas de investigação; campanha-alvo 2–3h e foco na jogabilidade.
+
+
+## 32ª escolha do dono — PZ-DEC-063 (18/11/2026)
+Resposta literal: **“Escolho D: NEX será um companheiro multifuncional, com comandos simples.”** **APROVADO.** A opção D inclui invasão de sistemas, exploração e apoio limitado em combate, sem comandos numerosos nem segundo personagem difícil de administrar. Manter NEX com IA e personalidade próprias (034), bípede, como legado do mentor. Não inventar tipo específico de ataque, dano, controle por smartphone ou resgate automático de Silas. **Próxima pergunta curta de grande efeito na aventura:** qual a primeira região visitada após escapar? Campanha 2–3h, fuga C, progressão começando com ferramenta (062).

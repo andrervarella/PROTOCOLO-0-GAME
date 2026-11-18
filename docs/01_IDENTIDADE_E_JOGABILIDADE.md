@@ -27,3 +27,7 @@ Engine/versão, plataforma final, layout de controles, resolução-base, número
 
 ## Primeiro item da campanha — PZ-DEC-062 (18/11/2026)
 **APROVADO:** Silas começa sem inventário/equipamento; durante a fuga planejada de ÉREBO, **encontra uma ferramenta de manutenção**. Ela tem **uso duplo**: interagir com mecanismos/portas e executar sabotagens simples, além de permitir defesa básica nos primeiros combates. É uma ferramenta improvisada de sobrevivência, não arma de alto dano nem upgrade cibernético. Especificação, animação, tipo, disponibilidade de usos e primeiro obstáculo ainda dependem de decisão/protótipo. Evolução seguinte deve substituir ou complementar esse recurso com armas e tecnologias mais eficazes ao longo da campanha compacta de aproximadamente 2–3h (057/061).
+
+
+## NEX multifuncional e simples — PZ-DEC-063 (18/11/2026)
+**APROVADO:** NEX, pequeno robô **bípede** de inteligência artificial própria e legado do mentor, será um companheiro de Silas com funções em **hacking de portas/sistemas**, **exploração/detecção** e **ajuda limitada em combate**. Interação por **comandos simples** e sem administração complexa de segundo personagem. Preservar agência do jogador com Silas e evitar solução automática para todo obstáculo; capacidade inicial e progressão de NEX ainda precisam ser balanceadas. Formato concreto de botões, recursos, habilidades e comportamento autônomo são **propostas não aprovadas**. Campanha-alvo 2–3 horas.

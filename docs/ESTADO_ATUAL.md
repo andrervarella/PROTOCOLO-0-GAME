@@ -173,3 +173,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 31ª escolha aprovada — PZ-DEC-062 (18/11/2026)
 **VIGENTE:** Silas encontra **ferramenta de manutenção** como primeiro item da fuga; sabota/abre mecanismos e se defende nos primeiros encontros. Começa sem itens e cresce gradualmente (061). Fuga planejada (059) e sacrifício do mentor (060) permanecem. **Próxima decisão:** que papel NEX desempenha ativamente no gameplay após ser legado do mentor (034)? Campanha-alvo ~2–3h; sem asset, build ou implementação nova.
+
+
+## 32ª escolha aprovada — PZ-DEC-063 (18/11/2026)
+**VIGENTE:** NEX será companheiro multifuncional de Silas, com **comandos simples**, hacking de sistemas, exploração e apoio limitado no combate. É robô bípede de IA própria, legado do mentor; sem cópia literal da consciência do mentor. Preservar fuga cinematográfica (061), primeiro item de manutenção (062) e progressão gradual. **Próxima decisão:** primeira região jogável depois da prisão. Objetivo campanha ~2–3h. Sem build/arte nova.

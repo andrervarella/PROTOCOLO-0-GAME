@@ -177,3 +177,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — primeiro item aprovado (18/11/2026)
 **PZ-DEC-062:** Silas encontra ferramenta de manutenção para sabotagem/abertura de mecanismos e defesa improvisada. Próximo ponto: definir função de NEX no gameplay; depois detalhar primeiro bloco jogável e adquirir arma melhor de forma gradual. Não iniciar com itens, não liberar poder total, não exigir implantes. Sem implementação nesta etapa.
+
+
+## PZ-T-008 — NEX multifuncional aprovado (18/11/2026)
+**PZ-DEC-063:** NEX terá hacking, exploração/detecção e suporte limitado ao combate via comandos simples. Não implementar controle complexo ou habilidades irrestritas. **Próximo passo:** escolher primeira região após fuga, conectar objetivos narrativos a exploração e primeiro confronto de ação, sem prolongar prólogo. Inputs e habilidades específicas de NEX ainda pendentes. Manter tarefa aberta.

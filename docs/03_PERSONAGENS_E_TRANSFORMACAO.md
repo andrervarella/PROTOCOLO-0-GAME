@@ -141,3 +141,7 @@ Silas, mesmo com experimentos e alterações de ÉREBO durante o cárcere, **nã
 
 ## Silas vulnerável na fuga — PZ-DEC-062
 **Primeiro item aprovado:** ferramenta de manutenção encontrada durante a fuga, utilizável tanto para manipular/sabotar sistemas quanto para defesa improvisada. Silas continua começando sem arsenal, sem equipamentos e com acesso limitado aos aprimoramentos ÉREBO (061). O objeto é um símbolo inicial de engenhosidade e planejamento, sem definir detalhes de arma, implante ou habilidades avançadas. NEX chega como legado do mentor após o sacrifício, conforme 034/060; função jogável específica ainda em aberto.
+
+
+## NEX: companheiro multifuncional aprovado — PZ-DEC-063
+NEX é o pequeno robô **bípede** com identidade artificial própria, legado do mentor (034). **É parceiro multifuncional de Silas**: hacking/sistemas, exploração/identificação e ajuda **limitada** durante combates, tudo acessível por **comandos simples**. Não tratar como robô quadrúpede K-9, consciência do mentor implantada ou personagem que joga sozinho. Personalidade, voz, inputs, árvore de habilidades e detalhes do encontro ainda em aberto.

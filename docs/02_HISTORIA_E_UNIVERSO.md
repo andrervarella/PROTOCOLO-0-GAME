@@ -183,3 +183,7 @@ O mentor morrerá durante a fuga e deixará NEX como legado (034), porém **não
 
 ## Primeiro recurso da fuga — PZ-DEC-062 (18/11/2026)
 **APROVADO:** Silas encontra **ferramenta de manutenção** no complexo de ÉREBO durante a execução de seu plano de fuga com o mentor. Usa-a inicialmente **para sabotar estruturas de segurança/abrir mecanismos** e como recurso improvisado **para se defender**, reforçando que começa vulnerável e sem armas próprias (061). Não supor que já possuía o item na cela, que tenha sido escondido pelo mentor ou que seja uma arma especializada: o momento e a proveniência exatos seguem abertos. Preservar sabotagem → combate → perseguição da fuga (061) e sacrifício do mentor (060), concluindo o prólogo sem extensão investigativa.
+
+
+## Papel de NEX na aventura — PZ-DEC-063 (18/11/2026)
+**APROVADO:** NEX auxilia Silas com sistemas, exploração e apoio limitado em combate, sem exigir controle complexo. Surge como **legado do mentor após seu sacrifício consciente na fuga** (034/060) e deve preservar sua própria identidade como IA, sem ser automaticamente cópia da consciência do mentor. Não criar habilidades onipotentes que resolvam a conspiração ou todos os conflitos; seu crescimento e a forma de entrada após a fuga permanecem pendentes. A campanha passa em primeiro plano à exploração jogável após escapar, sem voltar a uma sequência de pequenas perguntas investigativas.

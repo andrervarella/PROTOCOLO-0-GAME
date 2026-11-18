@@ -176,3 +176,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 31ª escolha — PZ-DEC-062 (18/11/2026)
 **APROVADO:** primeiro item obtido **durante a fuga** é uma ferramenta de manutenção para **sabotar/abrir mecanismos e se defender**. Começa sem inventário e pouco poderoso (061), plano do mentor e Silas (059), sacrifício do mentor e legado NEX (034/060). Primeiro item específico aprovado; forma/design/dano/local pendentes. **Próxima pergunta:** papel de NEX durante o gameplay depois da fuga; meta de ~2–3h.
+
+
+## 32ª escolha — PZ-DEC-063 (18/11/2026)
+**APROVADO:** NEX é companheiro bípede com IA própria, legado do mentor; atuação **multifuncional** em hacking, exploração e apoio limitado no combate por **comandos simples**. Não um segundo personagem complexo nem consciência literal do mentor. Campanha alvo 2–3h; Silas começa sem itens, encontra ferramenta durante a fuga (062). **Próxima pergunta:** primeira região após escapar de ÉREBO.
