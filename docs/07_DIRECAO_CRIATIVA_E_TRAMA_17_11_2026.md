@@ -119,3 +119,7 @@ Resposta: **“Escolho a causa A: a substituição dos trabalhadores por máquin
 
 ## Décima sétima escolha do dono — 18/11/2026 (Brasília)
 Resposta: **“Escolho C: agentes infiltrados provocaram um ataque para justificar a intervenção militar.”** PZ-DEC-043 APROVADO. A alternativa escolhida incluía agentes contratados pela corporação infiltrados entre manifestantes. O primeiro capítulo pode apresentar a versão oficial antes de revelar a manipulação; o momento preciso da revelação permanece em aberto. Não presumir que todos os trabalhadores sejam inocentes, somar manipulação de classificação por IA (alternativa D), definir tecnologia ou método de ataque, vítimas, ordens detalhadas ou falas por inferência. Próxima decisão: qual descoberta desperta a suspeita de Silas?
+
+
+## Décima oitava escolha do dono — 18/11/2026 (Brasília)
+Resposta: **“Escolho D: Silas reconhece um infiltrado e sua companheira atende um sobrevivente de ÉREBO, permitindo que descubram parte da conspiração.”** PZ-DEC-044 APROVADO. A opção reúne duas investigações complementares, sem revelar todo o segredo de LIMIAR. Não canonizar a assinatura de Silas no registro médico, a fotografia, falas ilustrativas, identidade do paciente nem vínculo direto deste com a mina. Próximo ponto: decidir o que o casal tenta fazer com as provas e como isso leva à traição já aprovada (030/031).

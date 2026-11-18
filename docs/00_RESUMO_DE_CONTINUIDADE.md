@@ -106,3 +106,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Origem da intervenção aprovada — PZ-DEC-043 (18/11/2026)
 **VIGENTE:** agentes infiltrados contratados pela corporação provocam um ataque durante a revolta na mina para justificar intervenção militar. A revolta decorre da substituição de trabalhadores por máquinas/IA (042). Próxima pergunta: o que faz Silas desconfiar da versão oficial? Autores específicos, vítimas, provas, conexão com ÉREBO/LIMIAR e cenas ainda pendentes.
+
+
+## Descoberta aprovada — PZ-DEC-044 (18/11/2026)
+**VIGENTE:** Silas reconhece um infiltrado e sua companheira atende um sobrevivente de ÉREBO; juntos descobrem parte da conspiração. Não antecipar a verdade completa sobre LIMIAR. Próxima pergunta: o que os dois fazem com as provas antes da traição? Identidades, documentos, cenas e mecanismo da traição permanecem em aberto.

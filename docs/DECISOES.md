@@ -183,3 +183,10 @@ A decisão complementa PZ-DEC-041. As alternativas de contaminação, desapareci
 | PZ-DEC-043 | **APROVADO PELO DONO** | Opção C: **agentes infiltrados provocaram um ataque para justificar a intervenção militar** durante a revolta na mina. A opção apresentada estabelece contratação pela corporação. | Mandantes, vítimas, provas, cronologia da revelação, consequências e conexão com ÉREBO |
 
 Complementa 041/042. Não incluir automaticamente a alternativa D (IA manipulada) ou outras causas. Não repetir a pergunta sobre a acusação de terrorismo. A próxima decisão é o primeiro indício que leva Silas a questionar suas ordens.
+
+
+## PZ-DEC-044 — descoberta conjunta (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-044 | **APROVADO PELO DONO** | Opção D: **Silas reconhece um infiltrado e sua companheira atende um sobrevivente de ÉREBO; os dois juntam as informações e descobrem parte da conspiração.** | Identidades, provas, cronologia, extensão da descoberta, reação e ação antes da traição |
+Não confundir descoberta parcial com revelação final da conspiração. Não repetir esta pergunta. Próxima decisão: o que o casal faz com as provas?

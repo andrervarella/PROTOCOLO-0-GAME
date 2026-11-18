@@ -76,3 +76,7 @@ O mentor de Silas é **um dos criadores de LIMIAR e idealizador original de ÉRE
 
 ## Apresentação de Silas ao jogador — PZ-DEC-040
 A abertura aprovada apresenta Silas durante a fuga em 2054, depois retorna três anos à missão jogável de 2051. Esse contraste permite mostrar quem era antes e depois do cárcere. Preservar cabelo preto curto e identidade já aprovada. Ainda não fixar aparência da versão de 2051, armas iniciais, momento de ativação de ÉREBO nem habilidades disponíveis em cada época.
+
+
+## A descoberta de Silas e da médica — PZ-DEC-044
+**APROVADO:** Silas reconhece um infiltrado da revolta em outra operação, enquanto sua companheira atende um sobrevivente de ÉREBO. Ambos juntam informações que revelam parte da conspiração. Preservar a participação ativa de ambos e não definir o sobrevivente, as evidências, o grau de conhecimento de cada um ou a reação emocional específica como fatos antes de aprovação.

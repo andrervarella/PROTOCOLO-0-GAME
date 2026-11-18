@@ -61,3 +61,7 @@ O dono escolheu substituição dos trabalhadores por máquinas como causa da rev
 
 ## Gancho narrativo aprovado — PZ-DEC-043 (18/11/2026)
 Agentes infiltrados contratados pela corporação provocaram um ataque durante a revolta na mina para justificar a intervenção militar. **APROVADO.** A descoberta posterior da autoria humana pode recontextualizar a primeira missão jogável. Plantar pistas justas e discretas, sem revelar a solução do mistério principal ou pressupor envolvimento de LIMIAR. Detalhes do ataque, provas específicas, descoberta pela médica e eventual retorno à mina continuam em aberto.
+
+
+## Descoberta parcial aprovada — PZ-DEC-044 (18/11/2026)
+Silas reconhece um infiltrado em outra operação e sua companheira médica atende um sobrevivente de ÉREBO. As duas descobertas se conectam e revelam parte da conspiração. **APROVADO.** Estruturar pistas compreensíveis antes de sua resolução, sem antecipar a verdade completa sobre LIMIAR. A documentação encontrada, testemunhas, cenas e decisão sobre como agir ainda aguardam aprovação.

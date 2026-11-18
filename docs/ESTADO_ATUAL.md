@@ -100,3 +100,7 @@
 
 ## Origem da intervenção aprovada — 18/11/2026 (Brasília)
 **PZ-DEC-043:** agentes infiltrados contratados pela corporação provocam um ataque durante a revolta na mina para justificar intervenção militar. Marcos 026–043 aprovados, exceto duração de 038 superada por 039. Próxima decisão: primeiro indício que desperta a suspeita de Silas. Ainda pendentes localização da mina, vítimas, mandantes, momento da revelação, ligações precisas com ÉREBO e LIMIAR. Apenas documentação.
+
+
+## Descoberta conjunta aprovada — 18/11/2026 (Brasília)
+**PZ-DEC-044:** Silas reconhece um infiltrado e a médica trata um sobrevivente de ÉREBO; juntos descobrem parte da conspiração. Marcos 026–044 aprovados, com 038 superada por 039. Próxima decisão: o que fazem com as provas antes da traição. Ainda pendentes nomes, provas, mecanismo da traição, circunstâncias, cronologia, roteiro detalhado e finais. Atualização documental apenas.

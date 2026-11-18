@@ -109,3 +109,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — intervenção militar definida (18/11/2026)
 **AVANÇO PARCIAL:** mecanismo narrativo da intervenção na mina aprovado (043): agentes infiltrados provocam um ataque para justificá-la. Próximo passo: decidir o primeiro indício que leva Silas a desconfiar e organizar a ligação da missão com as capturas de cobaias e a investigação da médica. Ainda sem cenas definitivas ou protótipo. Manter tarefa aberta.
+
+
+## PZ-T-008 — descoberta parcial definida (18/11/2026)
+**AVANÇO PARCIAL:** descoberta conjunta de Silas e da médica aprovada (044). Próxima decisão: o que fazem com as provas e como a tentativa de impedir ÉREBO leva à traição. Ainda abertos testemunhas, evidências, nomes, cronologia, fuga e conspiração completa. Manter tarefa aberta.
