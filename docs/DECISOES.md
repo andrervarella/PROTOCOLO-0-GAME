@@ -223,9 +223,17 @@ Complementa 046 (morte encenada) e 036/037 (companheira reconstruindo a vida). N
 
 Esta decisão substitui a **exclusividade** do laudo falsificado (047); ele pode continuar entre os registros médicos falsos, mas não é a prova única. A resposta D refere-se à pergunta anterior sobre a prova da morte, não à pergunta seguinte sobre a pista médica posterior. **Não foi aprovada nenhuma pista específica da fraude.** Não supor funeral, corpo trocado ou vídeo.
 
-## PZ-DEC-049 — casamento da médica após a suposta morte de Silas (18/11/2026, Brasília)
+## PZ-DEC-049 — REGISTRO EQUIVOCADO, SUPERADO por PZ-DEC-050: casamento (18/11/2026, Brasília)
 | ID | Estado | Registro | Em aberto |
 |---|---|---|---|
-| PZ-DEC-049 | **APROVADO — VIGENTE** | A companheira de Silas, certa de sua morte devido às provas fabricadas, **CASOU-SE COM OUTRO HOMEM**, o novo amor honesto de 037. **É um casamento, não apenas namoro.** | Nome do marido, ocupação, data do casamento dentro dos três anos, filhos, conhecimento sobre ÉREBO, reencontro e destino do casamento. |
+| PZ-DEC-049 | **SUPERADO POR PZ-DEC-050** | A companheira de Silas, certa de sua morte devido às provas fabricadas, **CASOU-SE COM OUTRO HOMEM**, o novo amor honesto de 037. **É um casamento, não apenas namoro.** | Nome do marido, ocupação, data do casamento dentro dos três anos, filhos, conhecimento sobre ÉREBO, reencontro e destino do casamento. |
 
 O dono afirmou: “Melhor essa pq vai justificar a certeza de que ele morreu e ela seguiu a vida casando com outro entende”, e reforçou “Casar não namorar só”. Preservar o caráter honesto do marido e a agência de todos; não inventar separação, infidelidade, morte nem final romântico. Próxima questão: qual pista começa a revelar a mentira?
+
+
+## PZ-DEC-050 — correção final: namoro, SEM casamento (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-050 | **APROVADO — VIGENTE; substitui PZ-DEC-049** | **A companheira de Silas está NAMORANDO o homem honesto, sem ter se casado com ele.** Resposta textual final do dono: “Não não eu quero dizer que ela só estava namorando o homem não casou não”. | Identidade do namorado, início e detalhes do namoro, reencontro com Silas e consequências afetivas |
+
+**PZ-DEC-049 está formalmente SUPERADA:** foi uma interpretação equivocada, corrigida pelo dono. Não há casamento, cônjuge nem marido canônicos. Permanecem válidas a decisão 037 (novo amor honesto), 048 (provas falsas da morte em etapas), 035/036 (médica trabalha na NEXUS, investiga ÉREBO e acredita na morte) e 039 (três anos de cárcere). **A próxima pergunta ainda é sobre a primeira pista que desmonta a fraude.**

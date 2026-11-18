@@ -127,5 +127,9 @@ O trabalho desta atualização é só documentação, não construção nem test
 **AVANÇO PARCIAL:** laudo médico falsificado convence companheira da morte de Silas (047). Próximo passo: escolher detalhe clínico/tecnológico que revele fraude em algum ponto posterior da investigação, sem antecipar descoberta nem fixar o autor do laudo. Permanecem abertas cenas, identidade dos envolvidos, modo de captura, duração da investigação e reencontro. Manter tarefa aberta.
 
 
-## PZ-T-008 — correções 048/049 (18/11/2026)
+## PZ-T-008 — correções 048/049 — HISTÓRICO: CASAMENTO SUPERADO POR PZ-DEC-050 (18/11/2026)
 **AVANÇO PARCIAL:** morte de Silas comprovada falsamente por vários indícios apresentados em etapas (048), e **casamento oficial** da médica com novo marido honesto durante o cárcere (049). Atualizar fichas e cronologia mantendo três anos. Próxima decisão: pista que começa a desfazer a fraude. Pendentes: identidade do marido, filhos (se houver), data do casamento, primeiro sinal de falsificação, reencontro e consequências afetivas. Não executar cenas sem validação.
+
+
+## PZ-T-008 — corrigir estado afetivo para namoro (18/11/2026)
+**PZ-DEC-050 VIGENTE:** a companheira de Silas **NAMORA** o novo homem honesto, **não casou**. PZ-DEC-049 superada por correção textual do dono. Atualizar quaisquer referências criativas futuras: “namorado”, nunca “marido”. Continuam aprovadas 048 (provas falsas em etapas) e 039 (prisão de três anos). Pendente: primeira pista contra a farsa, nomes, reencontro e decisões afetivas. Manter tarefa aberta.

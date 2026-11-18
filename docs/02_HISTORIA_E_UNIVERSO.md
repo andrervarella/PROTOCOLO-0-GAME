@@ -121,7 +121,12 @@ Antes da queda, **a pessoa mais importante na vida de Silas era sua companheira*
 **Mecanismo narrativo em aberto:** uma inconsistência clínica discreta poderá revelar a falsificação em momento posterior, mas o tipo exato da discrepância, seu descobridor, a origem dos exames, a pessoa que falsificou o laudo e quando a médica passa a suspeitar ainda não estão definidos. Não presumir corpo substituído, vídeo de execução, funeral, imagens manipuladas ou vários documentos adicionais; essas eram outras alternativas não escolhidas. Próxima pergunta: que detalhe no laudo poderá revelar a fraude?
 
 
-## Correções narrativas aprovadas — PZ-DEC-048/049 (18/11/2026, Brasília)
+## Correções narrativas aprovadas — PZ-DEC-048/049 — HISTÓRICO: CASAMENTO SUPERADO POR PZ-DEC-050 (18/11/2026, Brasília)
 **PZ-DEC-048 — PROVAS EM ETAPAS:** a morte encenada por ordem do comandante (046) foi sustentada por notícia oficial da execução, registros médicos falsificados e objetos pessoais de Silas. As evidências pareciam coerentes entre si e convenciam sua companheira. O laudo aprovado inicialmente em 047 pode existir como parte desses registros, **não como única razão para a certeza da morte**.
 **PZ-DEC-049 — CASAMENTO:** durante os **três anos** em que Silas permaneceu preso (039), a companheira médica **casou-se oficialmente com outro homem, honesto**, após acreditar que Silas morrera. Não tratar o novo homem como mero namorado; ele é **marido**. Ela continua trabalhando em NEXUS e investigando ÉREBO clandestinamente (035), sem pressupor que já descobriu que Silas vive. A condição de esposa não define automaticamente sentimentos, separação ou reencontro. Não presumir filhos, detalhes da cerimônia, participação do marido na conspiração ou desfecho amoroso.
 **Em aberto:** qual primeira evidência desperta dúvida sobre as provas falsas, autoria concreta da falsificação e reação à volta de Silas.
+
+
+## Retificação final sobre o novo relacionamento — PZ-DEC-050 (18/11/2026, Brasília)
+**ÚLTIMA INSTRUÇÃO DO DONO, VIGENTE:** “Não não eu quero dizer que ela só estava namorando o homem não casou não”.
+A companheira de Silas **NAMORA** o novo homem honesto (037); **NUNCA foi estabelecido casamento entre eles**. A interpretação de casamento em PZ-DEC-049 foi equivocada e fica **SUPERADA**. Durante os três anos de prisão de Silas, ela acreditou que ele morreu porque recebeu provas falsas construídas em etapas (048), e seguiu a vida iniciando o namoro com esse homem. Ele é **namorado**, não marido. Não presumir noivado, união civil, filhos, coabitação, separação ou futuro casamento. A investigação dela na NEXUS (035) continua. A dúvida sobre qual pista revelará a fraude permanece aberta.

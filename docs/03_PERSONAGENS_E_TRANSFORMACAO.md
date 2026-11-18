@@ -94,6 +94,10 @@ O melhor amigo de Silas aceita o plano do comandante de **fingir a morte de Sila
 **APROVADO:** um laudo médico falsificado, acompanhado de exames de identificação aparentemente legítimos, convenceu a companheira médica de que Silas havia morrido. A informação era falsa: ele foi encaminhado a ÉREBO após encenação planejada pelo comandante (046). A formação médica dela ajuda a tornar uma futura descoberta técnica plausível, mas não a torna ingênua: a documentação foi preparada para parecer autêntica. A inconsistência específica, o momento em que ela a percebe e a reação dela não foram escolhidos. Não tratar qualquer revelação como já ocorrida durante sua investigação clandestina.
 
 
-## A médica e seu marido — PZ-DEC-048/049 (18/11/2026)
+## A médica e seu marido — PZ-DEC-048/049 — HISTÓRICO: CASAMENTO SUPERADO POR PZ-DEC-050 (18/11/2026)
 A médica acreditou na morte de Silas por **uma sequência de evidências falsas**: notícia oficial de execução, registros médicos e objetos pessoais. O laudo falso de 047 integra, se útil, o conjunto, mas sozinho não explica a convicção (048).
 **Ela se CASOU com o novo amor honesto (037)** enquanto Silas esteve preso, não está apenas namorando (049). É agora **marido** dela. Os dois construíram uma vida real baseada na convicção de que Silas estava morto. Preservar a honestidade do marido e o fato de ela continuar sua investigação secreta em NEXUS. Não presumir casamento infeliz, filhos, infidelidade, identidade ou que o marido saiba tudo sobre ÉREBO. A reação de cada personagem ao retorno de Silas segue aberta.
+
+
+## Estado correto do relacionamento — PZ-DEC-050 (18/11/2026, Brasília)
+**CORREÇÃO EXPLÍCITA E VIGENTE:** o homem honesto é **NAMORADO** da companheira de Silas, **não marido**. O dono esclareceu “ela só estava namorando o homem não casou não”. Toda afirmação histórica de PZ-DEC-049 de que eles casaram é **SUPERADA**. Ela seguiu a vida acreditando na morte de Silas após várias provas falsas em etapas (048), formou relação de namoro com o novo parceiro e continua investigando ÉREBO na NEXUS. Não presumir filhos, casamento, noivado, infidelidade ou como reagirá ao reencontro com Silas.

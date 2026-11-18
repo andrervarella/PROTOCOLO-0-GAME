@@ -137,7 +137,11 @@ Resposta literal: **“Escolho D: o comandante convence o melhor amigo a encenar
 Resposta literal: **“Escolho A: a companheira acreditou em um laudo médico falsificado.”** **PZ-DEC-047 APROVADO.** A alternativa A previa um registro oficial de morte com exames de identificação aparentemente legítimos e a possibilidade de uma pequena inconsistência posterior. O laudo explica a crença dela na morte de Silas sem precisar confirmar corpo trocado, gravação ou mentira em múltiplas etapas. Sem escolher ainda a natureza da falha, se ela foi intencional, quando é identificada, quem forjou o documento ou quando o amigo descobre que foi enganado. Próxima pergunta: qual detalhe discreto pode contradizer o laudo?
 
 
-## Correção do dono — PZ-DEC-048/049 (18/11/2026, Brasília)
+## Correção do dono — PZ-DEC-048/049 — HISTÓRICO: CASAMENTO SUPERADO POR PZ-DEC-050 (18/11/2026, Brasília)
 Resposta: “Escolho D: a companheira recebeu várias provas falsas da morte de Silas, construídas em etapas.” Refere-se à **alternativa D da pergunta 21**, alterando a preferência anterior por um único laudo (047), **não** à pergunta 22 sobre registros clínicos posteriores.
 Complemento explícito do dono: “Melhor essa pq vai justificar a certeza de que ele morreu e ela seguiu a vida casando com outro entende” e “Casar não namorar só”. **VIGENTE: ela CASOU oficialmente com o novo homem honesto.** A história deve retratar a legitimidade desse casamento; não chamar o marido de mero namorado. Como as provas foram entregues, a primeira pista de fraude e o reencontro com Silas ainda não foram aprovados.
 Próxima pergunta: qual pista primeiro derruba a farsa? Não inventar que ela já descobriu registro de Silas após a suposta morte.
+
+
+## Correção definitiva do dono — PZ-DEC-050 (18/11/2026, Brasília)
+O dono corrigiu imediatamente a interpretação do diálogo: **“Não não eu quero dizer que ela só estava namorando o homem não casou não”**. Portanto, a médica está **NAMORANDO** o homem honesto, sem casamento. PZ-DEC-049 é um mal-entendido **SUPERADO**. A fala anterior sobre “casando com outro” não autorizava canonizar casamento e foi explicitamente desmentida. Não repetir o erro nem tratá-lo como casal casado. Mantém-se 048: vários indícios falsos da morte em etapas. Continua pendente a pergunta sobre a primeira pista que desmontará a farsa.

@@ -118,7 +118,12 @@
 **PZ-DEC-047:** a companheira médica acreditou num laudo médico falsificado, com exames de identificação aparentemente legítimos. Explica sua crença na morte encenada de Silas (046). Marcos 026–047 aprovados, exceto duração de 038 superada por 039. Próxima decisão: tipo de inconsistência técnica que poderia revelar a falsificação, sem fixar ainda quando é descoberta. Nenhuma cena, mídia ou implementação nova.
 
 
-## Correções mais recentes — 18/11/2026 (Brasília)
+## Correções mais recentes — 18/11/2026 (Brasília) — HISTÓRICO: CASAMENTO SUPERADO POR PZ-DEC-050
 **PZ-DEC-048:** a crença na morte foi criada por **provas falsas em etapas**, não apenas um laudo. O laudo pode integrar os registros falsos, mas 047 fica superada na exclusividade.
 **PZ-DEC-049:** a médica **CASOU-SE COM OUTRO HOMEM HONESTO** enquanto Silas estava preso; é seu **marido**, não apenas namorado. Três anos de prisão permanecem vigentes (039). A investigação secreta em NEXUS continua.
 Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 superada por 048. **Próxima decisão:** qual será a primeira pista de que a morte foi forjada? Nenhum gameplay ou material visual implementado.
+
+
+## CORREÇÃO MAIS RECENTE — PZ-DEC-050 (18/11/2026, Brasília)
+**VIGENTE:** a companheira de Silas **NAMORA**, **NÃO É CASADA**, com o novo homem honesto. Foi erro de interpretação registrar casamento na decisão 049: essa decisão está **SUPERADA** por 050. O engano sobre a morte continua sustentado por várias provas falsas em etapas (048), e a prisão dura três anos (039).
+**Próxima decisão:** escolher o primeiro indício de que a suposta morte foi forjada. Sem mídia, gameplay, build nem cena implementada.
