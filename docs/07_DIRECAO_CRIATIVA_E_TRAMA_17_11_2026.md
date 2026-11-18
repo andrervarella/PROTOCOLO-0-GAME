@@ -111,3 +111,7 @@ Resposta: **“Escolho a abertura D: começamos com a fuga e retornamos três an
 
 ## Décima quinta escolha do dono — 18/11/2026 (Brasília)
 Resposta: **“Escolho a missão B: a revolta na mina.”** PZ-DEC-041 APROVADO. A missão jogável de 2051 envolve uma revolta numa instalação de extração de minerais estratégicos; Silas é enviado para controlá-la e os líderes do protesto são acusados de terrorismo. Conecta a geopolítica dos recursos ao passado do protagonista. Não repetir a pergunta sobre a primeira missão. Não canonizar localização em ATLAS, material específico, motivo do protesto, participação do amigo, ações do comandante, inocência de indivíduos, prisões, mortes ou falas sem aprovação. Próximo ponto: causa concreta do protesto, que será compreensível em linguagem simples e poderá sustentar descoberta posterior.
+
+
+## Décima sexta escolha do dono — 18/11/2026 (Brasília)
+Resposta: **“Escolho a causa A: a substituição dos trabalhadores por máquinas.”** PZ-DEC-042 APROVADO. Os trabalhadores se revoltam após automação das minas por IA e perda de milhares de empregos. Não acrescentar contaminação ou desaparecimentos como causas aprovadas. Conectar a crise à distribuição de benefícios da tecnologia e à temática da responsabilidade humana; não presumir que todos os trabalhadores sejam pacíficos, que haja uma sabotagem forjada ou que um personagem específico tenha sido capturado nesta missão. Como proposta de roteiro, explorar a diferença entre protesto legítimo e narrativa terrorista. Próxima pergunta: de onde surge a acusação de terrorismo?

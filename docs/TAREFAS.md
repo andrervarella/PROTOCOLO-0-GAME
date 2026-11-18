@@ -101,3 +101,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — primeira missão definida (18/11/2026)
 **AVANÇO PARCIAL:** revolta na mina aprovada como primeira missão jogável de 2051 (041). Próximo passo: determinar causa da revolta e, depois, objetivos, ordem de eventos e relação com capturas para ÉREBO. Ainda sem roteiro detalhado, mecânicas implementadas ou protótipo. Manter tarefa aberta.
+
+
+## PZ-T-008 — causa da primeira missão (18/11/2026)
+**AVANÇO PARCIAL:** causa da revolta aprovada (042): automação das minas por IA e perda de milhares de empregos. Próximo passo: definir a acusação de terrorismo e como Silas acredita estar cumprindo uma missão legítima. Ainda abertos local, mineral, sequência de ações, personagens, capturas, consequências e conexão concreta com a investigação da médica. Sem protótipo; manter tarefa aberta.

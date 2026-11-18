@@ -167,3 +167,11 @@ Não repetir a pergunta sobre a estrutura da abertura. Três anos de prisão con
 | PZ-DEC-041 | **APROVADO PELO DONO** | Missão B, **a revolta na mina**: em 2051, Silas é enviado para controlar revolta em instalação de extração de minerais estratégicos, cujos líderes são acusados de terrorismo. | Causa da revolta, localização, mineral, ordens, pessoas envolvidas, capturas, provas e consequências |
 
 A escolha complementa 040 (abertura não linear) e 029 (capturas para ÉREBO). As outras missões oferecidas não são o prólogo aprovado. Atribuição a ATLAS e detalhes sobre inocência ou sabotagem são propostas, não fatos fechados. Próxima pergunta: motivo da revolta.
+
+
+## PZ-DEC-042 — causa da revolta na mina (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-042 | **APROVADO PELO DONO** | Causa A: **substituição dos trabalhadores por máquinas**. Milhares perdem seus empregos após automatização das minas por inteligência artificial e se revoltam. | Política de substituição, localização, mineral, natureza da acusação terrorista, ordens, vítimas e ligação concreta com ÉREBO |
+
+A decisão complementa PZ-DEC-041. As alternativas de contaminação, desaparecimentos e combinação de causas não foram escolhidas. Não voltar a perguntar o motivo da revolta. O mecanismo da acusação terrorista é a próxima decisão.

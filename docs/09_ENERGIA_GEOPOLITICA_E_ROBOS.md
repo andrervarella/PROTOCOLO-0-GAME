@@ -45,3 +45,7 @@ Fontes atuais para consulta: IEA 2026 `https://www.iea.org/reports/global-critic
 
 ## Aplicação narrativa aprovada — PZ-DEC-041 (18/11/2026)
 A primeira missão jogável do flashback de 2051 será **a revolta na mina**, numa instalação de extração de minerais estratégicos. Silas recebe a missão de controlar a revolta e seus líderes são acusados de terrorismo. A escolha oferece um elo concreto entre recursos e desigualdade. Ainda NÃO definir qual potência, mineral, causa do protesto, reação de Silas ou destino dos trabalhadores; o modelo industrial ATLAS/NEXUS/HELION detalhado acima continua proposta.
+
+
+## Aplicação aprovada: automação e desemprego — PZ-DEC-042 (18/11/2026)
+A revolta na mina de 2051 nasce da perda de milhares de empregos após substituição de trabalhadores por máquinas e automação por inteligência artificial. **APROVADO pelo dono.** A missão pode explorar visualmente o contraste entre máquinas produtivas e famílias privadas de sustento, além da disputa por materiais estratégicos. A crítica pode recair sobre decisões humanas de gestão e distribuição de ganhos, não sobre a mera existência de máquinas. Localização em ATLAS, mineral, propriedade, salários, compensação, política de automação, características dos robôs e manipulação do protesto ainda serão definidos. Não ampliar a causa para contaminação/desaparecimentos por inferência.

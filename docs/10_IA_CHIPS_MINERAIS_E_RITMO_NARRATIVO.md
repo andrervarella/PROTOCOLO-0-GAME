@@ -53,3 +53,7 @@ Cada dilema exige apresentação prévia dos envolvidos, duas opções viáveis,
 
 ## PENDÊNCIAS
 Modelo de distribuição territorial da cadeia de IA; como funcionam as redes elétricas em 2054; poderes e acordos; relação com projeto ÉREBO e mentor; quem fabricou/treinou a IA; quem sabotou o quê; agentes paramilitares e governantes; cenas e finais. Requerem desenvolvimento conjunto e aprovação do dono.
+
+
+## Gancho aprovado na origem da história — PZ-DEC-042 (18/11/2026)
+O dono escolheu substituição dos trabalhadores por máquinas como causa da revolta na mina de 2051 (041). Milhares perdem seus empregos após automação por IA. Usar linguagem simples para explorar quem recebe os ganhos de produtividade e quem arca com os custos sociais. A acusação de terrorismo contra os líderes já está registrada (041), mas ainda precisamos decidir se decorre de incidente real, manipulação de provas ou outro acontecimento. Não associar automaticamente essa automação à LIMIAR ou determinar autoria/culpa antes da aprovação. Exemplos de cena, diálogo e descobertas são propostas.

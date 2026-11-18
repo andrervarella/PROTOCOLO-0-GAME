@@ -98,3 +98,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Primeira missão aprovada — PZ-DEC-041 (18/11/2026)
 **VIGENTE:** missão B, revolta na mina. Em 2051, Silas é enviado para controlar revolta numa instalação de extração de minerais estratégicos, cujos líderes são acusados de terrorismo. Abertura 040 e duração de três anos 039 preservadas. Próxima pergunta: causa da revolta. Local, mineral, vítimas, cenas e ligação exata com ÉREBO ainda pendentes.
+
+
+## Causa da revolta aprovada — PZ-DEC-042 (18/11/2026)
+**VIGENTE:** trabalhadores da mina se revoltam porque milhares perderam seus empregos após substituição por máquinas/IA. Primeira missão de 2051 (041). Não incluir contaminação/desaparecimentos como causas aprovadas. Próxima pergunta: como os líderes foram acusados de terrorismo? Local, cenas, vítimas e ligação específica com ÉREBO continuam pendentes.

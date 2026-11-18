@@ -92,3 +92,7 @@
 
 ## Primeira missão aprovada — 18/11/2026 (Brasília)
 **PZ-DEC-041:** revolta na mina, missão jogável de 2051. Silas recebe ordem de controlar revolta numa instalação de minerais estratégicos; líderes do protesto acusados de terrorismo. Marcos 026–041 aprovados, exceto duração de 038 superada por 039. Próxima decisão: motivo da revolta. Localização, mineral, ordens específicas, vítimas, mecânicas e consequências ainda não fechados. Sem novas artes ou implementação.
+
+
+## Causa da primeira missão aprovada — 18/11/2026 (Brasília)
+**PZ-DEC-042:** a revolta na mina de 2051 decorre da substituição de milhares de trabalhadores por máquinas/IA. Marcos 026–042 aprovados, com 038 superada por 039. Próxima decisão: como os líderes do protesto passaram a ser acusados de terrorismo? Ainda pendentes local, mineral, ordens, vítimas, ligação com ÉREBO e cenas. Apenas documentação, sem assets ou implementação.
