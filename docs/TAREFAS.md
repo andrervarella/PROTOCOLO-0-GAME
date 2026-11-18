@@ -50,3 +50,6 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — segundo marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** vínculo emocional central de Silas definido como sua companheira (PZ-DEC-027). Ainda determinar profissão, história, motivações e destino dela, missão, ordens injustas, vítimas, mecanismo da traição, cárcere, mentor e conspiração. Manter tarefa aberta até aprovação dos detalhes.
+
+## PZ-T-008 — terceiro marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** profissão da companheira definida: médica especializada em aprimoramentos cibernéticos (PZ-DEC-028). Próxima decisão: operação injusta de Silas e suas consequências. Ainda ABERTOS: nome, vínculo profissional com instituições, descoberta, traição, prisão, mentor e papel dos acontecimentos na conspiração e nos finais. Não encerrar a tarefa.

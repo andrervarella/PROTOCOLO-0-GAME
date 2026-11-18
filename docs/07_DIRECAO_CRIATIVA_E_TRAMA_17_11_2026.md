@@ -60,3 +60,6 @@ O proprietário respondeu: **“Escolho B: Silas cumpriu ordens erradas acredita
 
 ## Segunda decisão narrativa aprovada — 17/11/2026
 O dono respondeu: **“Escolho A: uma companheira era o vínculo emocional mais importante de Silas.”** A escolha do vínculo está encerrada. Não voltar a perguntar A/B/C sobre essa relação. Com PZ-DEC-026, Silas cumpriu ordens injustas acreditando fazer o certo, tentou corrigi-las e foi traído; com PZ-DEC-027, sua companheira é o vínculo emocional central anterior à queda. Não presumir destino, casamento ou profissão. Próxima pergunta: qual era a atuação profissional da companheira, para costurar seu papel à crise, preservando sua autonomia.
+
+## Terceira escolha do proprietário — 17/11/2026 (Brasília)
+O proprietário respondeu: **“Escolho B: a companheira de Silas é uma médica especializada em aprimoramentos cibernéticos.”** A profissão está APROVADA (PZ-DEC-028). A alternativa B desta pergunta é distinta da opção B sobre a origem moral de Silas (PZ-DEC-026). Não repetir a pergunta sobre profissão. Atendimento a comunidades pobres, implantes defeituosos, experimentos ilegais, diálogos e participação na conspiração foram elementos sugeridos, não circunstâncias fechadas. Próxima pergunta: qual ordem Silas executou acreditando estar protegendo pessoas, e que consequências o levaram a desconfiar de seus superiores?

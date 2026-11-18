@@ -42,3 +42,6 @@ O dono quer usar a disputa contemporânea por **chips de IA, terras raras, proce
 
 ## Vínculo emocional aprovado — PZ-DEC-027 (17/11/2026, horário de Brasília)
 Antes da queda, **a pessoa mais importante na vida de Silas era sua companheira**. Ela é um vínculo afetivo central e pode dar peso à culpa, à traição e aos dilemas posteriores. Acompanhante amorosa com objetivos e convicções próprios; não assumir casamento, profissão, envolvimento na conspiração, morte, captura ou destino. A ligação com a trama e os quatro finais ainda exige aprovação. Próxima decisão: quem ela era e qual era sua atuação profissional antes da prisão de Silas.
+
+## Terceira decisão narrativa aprovada — 17/11/2026 (horário de Brasília)
+**PZ-DEC-028:** a companheira de Silas é **médica especializada em aprimoramentos cibernéticos**. Somada às decisões 026 e 027, sua profissão permite conectar o drama pessoal às consequências humanas da tecnologia, aos implantes e ao Projeto ÉREBO. A clínica, pacientes, posição ética, participação em experimentos, relação concreta com NEXUS/ÉREBO/LIMIAR e destino dela continuam em aberto. Não presumir que trate apenas pessoas pobres ou que trabalhe para uma corporação específica. Próxima decisão: definir a ordem injusta executada por Silas e como ela se relaciona com sua descoberta.

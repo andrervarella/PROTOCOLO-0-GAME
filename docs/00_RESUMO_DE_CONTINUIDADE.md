@@ -47,3 +47,6 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Segunda decisão aprovada — 17/11/2026
 **PZ-DEC-027:** uma companheira era o vínculo emocional mais importante de Silas antes da queda. PZ-DEC-026 e PZ-DEC-027 são decisões aprovadas; os acontecimentos específicos ainda não. Nome, ocupação, destino e participação da companheira permanecem pendentes; próxima pergunta: quem ela era/qual era sua profissão.
+
+## Terceira decisão aprovada — 17/11/2026
+**PZ-DEC-028:** a companheira de Silas é médica especializada em aprimoramentos cibernéticos. Sua profissão está definida; identidade, clínica, pacientes e destino ainda não. Próxima pergunta: qual foi a missão injusta de Silas antes da traição? Não voltar a perguntar as opções já escolhidas em PZ-DEC-026/027/028.

@@ -67,3 +67,10 @@ Detalhes, modelos de conflito e sugestões de infraestrutura **não aprovados** 
 | PZ-DEC-027 | **APROVADO PELO DONO** | Opção A: **uma companheira era o vínculo emocional mais importante de Silas Venn** antes da traição e prisão. | Nome, profissão, personalidade, história do relacionamento, situação após a prisão, agência e participação na trama/finais |
 
 Esta decisão resolve a pendência de vínculo afetivo de PZ-DEC-026. Não implica aprovação de romance específico, casamento, morte ou sacrifício, nem de cenas anteriores propostas. Não voltar a perguntar qual vínculo o dono escolhe.
+
+## PZ-DEC-028 — profissão da companheira de Silas (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-028 | **APROVADO PELO DONO** | A companheira de Silas Venn é **médica especializada em aprimoramentos cibernéticos** (opção B da terceira pergunta). | Nome, especialização clínica detalhada, local de trabalho, pacientes, história pessoal, participação na conspiração e destino |
+
+Esta decisão resolve a pendência de profissão de PZ-DEC-027. Não aprova automaticamente atendimento a pobres, participação no Projeto ÉREBO, trabalho em NEXUS, morte, captura ou falas sugeridas. Não voltar a perguntar qual profissão o dono escolhe.

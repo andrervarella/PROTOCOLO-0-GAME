@@ -29,3 +29,6 @@ Líderes das corporações, aliados civis, informantes, rivais secundários e a 
 
 ## Companheira de Silas — vínculo aprovado em 17/11/2026
 **APROVADO (PZ-DEC-027):** sua companheira era o vínculo emocional mais importante antes da queda. Nome, idade, aparência, profissão, personalidade, história do relacionamento, sobrevivência e papel no gameplay são **PENDENTES**. Diretriz editorial proposta: dar-lhe agência, interesses e convicções próprios, evitando reduzir sua existência a interesse amoroso ou vítima. Não gerar arte ou ficha definitiva sem aprovação.
+
+## Companheira — profissão aprovada (PZ-DEC-028)
+A companheira de Silas Venn, seu vínculo afetivo central (PZ-DEC-027), é **médica especializada em aprimoramentos cibernéticos**. A profissão foi escolhida expressamente pelo dono. Ela possui potencial para abordar o impacto humano dos implantes, saúde, acesso desigual a tratamento e autonomia corporal. Nome, clínica, pacientes, aparência, personalidade, convicções, relação com os projetos secretos e destino são PENDENTES. Não canonizar os exemplos de diálogo nem deduzir que seja funcionária de NEXUS. Preservar agência própria e evitar reduzi-la a vítima ou prêmio de final.

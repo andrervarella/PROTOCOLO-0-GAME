@@ -41,3 +41,6 @@
 
 ## Segundo marco narrativo aprovado — 17/11/2026
 **PZ-DEC-027:** Silas tinha uma companheira, seu vínculo emocional mais importante. Junto a PZ-DEC-026 (agente que cumpriu ordens erradas, tentou reparar e foi traído), é base aprovada para desenvolver seu passado. Profissão, nome, destino e agência da companheira ainda estão em aberto. **Próxima pergunta ao dono:** quem ela era e qual era sua atuação profissional. Sem novos assets ou gameplay.
+
+## Terceiro marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-028:** a companheira de Silas é médica especializada em aprimoramentos cibernéticos. Origem moral (026), vínculo afetivo (027) e profissão (028) estão aprovados. As circunstâncias da vida da personagem permanecem em desenvolvimento. **Próxima pergunta:** qual operação levou Silas a prejudicar inocentes acreditando cumprir uma missão legítima? Depois definir descoberta, traição e prisão. Sem novos assets ou implementação.
