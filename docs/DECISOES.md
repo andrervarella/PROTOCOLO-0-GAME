@@ -159,3 +159,11 @@ A resposta textual prevalece sobre a letra A; não equivale a escolher o começo
 |---|---|---|---|
 | PZ-DEC-040 | **APROVADO PELO DONO** | Abertura D: começar com a fuga em 2054, cortar no auge da tensão e retornar três anos no tempo para uma missão jogável em 2051. | Conteúdo da missão, ação e controle iniciais, ponto de corte, retorno ao presente, cenas e tutorial |
 Não repetir a pergunta sobre a estrutura da abertura. Três anos de prisão continuam vigentes (039); não usar 2049. Não tratar cenas ou mecânicas específicas como aprovadas. Preservar a revelação gradual da responsabilidade humana pela conspiração.
+
+
+## PZ-DEC-041 — primeira missão jogável (18/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-041 | **APROVADO PELO DONO** | Missão B, **a revolta na mina**: em 2051, Silas é enviado para controlar revolta em instalação de extração de minerais estratégicos, cujos líderes são acusados de terrorismo. | Causa da revolta, localização, mineral, ordens, pessoas envolvidas, capturas, provas e consequências |
+
+A escolha complementa 040 (abertura não linear) e 029 (capturas para ÉREBO). As outras missões oferecidas não são o prólogo aprovado. Atribuição a ATLAS e detalhes sobre inocência ou sabotagem são propostas, não fatos fechados. Próxima pergunta: motivo da revolta.

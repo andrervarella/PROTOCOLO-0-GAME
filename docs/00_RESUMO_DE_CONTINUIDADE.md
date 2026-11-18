@@ -94,3 +94,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Abertura aprovada — PZ-DEC-040 (18/11/2026)
 **VIGENTE:** o jogo começa com a fuga em 2054 e retorna três anos no tempo para uma missão jogável em 2051. PZ-DEC-039 estabelece três anos de prisão. Não repetir abertura/duração. Próxima pergunta: qual missão Silas realiza em 2051 e qual objetivo acredita cumprir? Detalhes de gameplay, cenas e revelações ainda pendentes.
+
+
+## Primeira missão aprovada — PZ-DEC-041 (18/11/2026)
+**VIGENTE:** missão B, revolta na mina. Em 2051, Silas é enviado para controlar revolta numa instalação de extração de minerais estratégicos, cujos líderes são acusados de terrorismo. Abertura 040 e duração de três anos 039 preservadas. Próxima pergunta: causa da revolta. Local, mineral, vítimas, cenas e ligação exata com ÉREBO ainda pendentes.

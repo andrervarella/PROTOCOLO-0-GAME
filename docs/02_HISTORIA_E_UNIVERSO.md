@@ -89,3 +89,7 @@ Antes da queda, **a pessoa mais importante na vida de Silas era sua companheira*
 
 ## Abertura aprovada — PZ-DEC-040 (18/11/2026, Brasília)
 **APROVADO:** abertura não linear. O jogo começa durante a fuga de Silas em 2054; em um momento de grande tensão, retorna três anos no tempo para uma missão jogável em 2051, mostrando o começo dos acontecimentos que o levaram ao ÉREBO. Preservar PZ-DEC-039 (três anos de cárcere). A missão, o ponto de corte, o grau de controle inicial, o momento de retorno a 2054 e a duração de cada segmento ainda serão definidos. Não revelar toda a conspiração, a verdadeira intenção da companheira ou a autoria completa da traição prematuramente. Próxima decisão: qual operação jogável abre o flashback de 2051?
+
+
+## Primeira missão aprovada — PZ-DEC-041 (18/11/2026, Brasília)
+**APROVADO:** no flashback jogável de 2051, Silas é enviado para controlar uma revolta em uma instalação de extração de minerais estratégicos. Os líderes do protesto são acusados de terrorismo. A missão B é a primeira operação do jogo, após o início da fuga em 2054 (040). Relacionar organicamente extração, desigualdade e propaganda à história de Silas e às capturas para ÉREBO (029), sem definir antecipadamente que todos os manifestantes são inocentes ou que os líderes são as cobaias específicas. Local exato, mineral, reivindicações, ordens concretas, mandantes, sequência de combate, personagens presentes, vítimas, evidências e desfecho da missão ainda pendentes. Próxima pergunta: qual é a causa da revolta?

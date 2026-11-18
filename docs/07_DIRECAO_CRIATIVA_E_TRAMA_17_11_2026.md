@@ -107,3 +107,7 @@ Resposta literal: **“Escolho A: Silas ficou preso durante três anos.”** PZ-
 
 ## Décima quarta escolha do dono — 18/11/2026 (Brasília)
 Resposta: **“Escolho a abertura D: começamos com a fuga e retornamos três anos no tempo para uma missão jogável.”** PZ-DEC-040 APROVADO. A abertura cinematográfica não linear é escolha vigente. Começar em 2054, cortar no auge da tensão e retornar a 2051. O primeiro encontro com o mentor, as etapas jogáveis de treinamento, a duração de cenas e os detalhes da fuga permanecem em aberto. Sugestão de design: introduzir controles progressivamente e diferenciar com clareza os dois períodos, sem prometer a jogabilidade ou o tutorial da prisão já implementados. Próxima pergunta: qual é a missão militar de 2051 e seu objetivo aparente?
+
+
+## Décima quinta escolha do dono — 18/11/2026 (Brasília)
+Resposta: **“Escolho a missão B: a revolta na mina.”** PZ-DEC-041 APROVADO. A missão jogável de 2051 envolve uma revolta numa instalação de extração de minerais estratégicos; Silas é enviado para controlá-la e os líderes do protesto são acusados de terrorismo. Conecta a geopolítica dos recursos ao passado do protagonista. Não repetir a pergunta sobre a primeira missão. Não canonizar localização em ATLAS, material específico, motivo do protesto, participação do amigo, ações do comandante, inocência de indivíduos, prisões, mortes ou falas sem aprovação. Próximo ponto: causa concreta do protesto, que será compreensível em linguagem simples e poderá sustentar descoberta posterior.

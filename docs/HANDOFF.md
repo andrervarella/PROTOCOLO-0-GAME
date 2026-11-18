@@ -88,3 +88,7 @@ O dono corrigiu a duração: **“Escolho A: Silas ficou preso durante três ano
 
 ## Atualização prioritária para Cláudio — PZ-DEC-040 (18/11/2026, Brasília)
 O dono escolheu a abertura D: **começar com a fuga em 2054 e retornar três anos no tempo para uma missão jogável em 2051**. A estrutura não linear está aprovada. Não reabrir a escolha da abertura nem a duração da prisão. Preservar marcos 026–040, exceto duração de 038 superada por 039. Ainda não fixar ponto de corte, objetivo da missão, quais controles aparecem antes/depois do flashback, duração, tutorial específico, participação de personagens ou cenas. Próxima pergunta: operação inicial de 2051 e seu propósito aparente. Proteger os mistérios de LIMIAR e do comandante. Sem mídia, gastos ou implementação.
+
+
+## Atualização prioritária para Cláudio — PZ-DEC-041 (18/11/2026, Brasília)
+O dono escolheu a missão B: **a revolta na mina**. No flashback jogável de 2051, após início da fuga em 2054, Silas é enviado para controlar revolta em instalação de extração de minerais estratégicos; líderes do protesto são acusados de terrorismo. Não repetir pergunta sobre a primeira missão. A causa real, localização/ATLAS, mineral, papéis concretos do amigo e comandante, destino dos manifestantes e ligação específica entre essa operação e ÉREBO ainda aguardam aprovação. Próxima pergunta: por que os trabalhadores se revoltaram? Usar linguagem simples, evitar exposição didática e preservar mistério. PZ-DEC-039, 040 e 041 são vigentes; sem mídia, gastos, código ou build.

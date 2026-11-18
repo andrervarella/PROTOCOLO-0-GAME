@@ -88,3 +88,7 @@
 
 ## Abertura aprovada — 18/11/2026 (Brasília)
 **PZ-DEC-040:** fuga em 2054 seguida de flashback três anos antes, com missão jogável em 2051. Marcos 026–040 aprovados, com 038 superada por 039 quanto à duração do cárcere. Próxima decisão: conteúdo e objetivo aparente da missão de 2051. Ponto de corte e tutorial ainda em desenvolvimento; nenhuma implementação, vídeo ou conceito visual novo.
+
+
+## Primeira missão aprovada — 18/11/2026 (Brasília)
+**PZ-DEC-041:** revolta na mina, missão jogável de 2051. Silas recebe ordem de controlar revolta numa instalação de minerais estratégicos; líderes do protesto acusados de terrorismo. Marcos 026–041 aprovados, exceto duração de 038 superada por 039. Próxima decisão: motivo da revolta. Localização, mineral, ordens específicas, vítimas, mecânicas e consequências ainda não fechados. Sem novas artes ou implementação.

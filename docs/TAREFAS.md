@@ -97,3 +97,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — abertura narrativa aprovada (18/11/2026)
 **AVANÇO PARCIAL:** abertura não linear aprovada (040), fuga de 2054 e retorno a missão jogável de 2051. Próximo passo: definir objetivo da missão e seu elo com as capturas de cobaias, depois elaborar o prólogo, ponto de corte, retorno à fuga e tutorial. Sem protótipo ou cenas aprovadas em detalhe. Manter tarefa aberta.
+
+
+## PZ-T-008 — primeira missão definida (18/11/2026)
+**AVANÇO PARCIAL:** revolta na mina aprovada como primeira missão jogável de 2051 (041). Próximo passo: determinar causa da revolta e, depois, objetivos, ordem de eventos e relação com capturas para ÉREBO. Ainda sem roteiro detalhado, mecânicas implementadas ou protótipo. Manter tarefa aberta.
