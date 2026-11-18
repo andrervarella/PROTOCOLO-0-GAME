@@ -47,3 +47,6 @@
 
 ## Quarto marco narrativo aprovado — 17/11/2026 (Brasília)
 **PZ-DEC-029:** Silas capturava pessoas que eram utilizadas como cobaias no Projeto ÉREBO. Com 026/027/028, temos quatro decisões aprovadas: origem moral, companheira como vínculo afetivo, profissão médica e injustiça praticada. **Próxima pergunta:** quem o traiu quando tentou reparar o erro? Elaboração de nomes, circunstâncias, autoria da conspiração, mentor e prisão pendente. Documentação apenas.
+
+## Quinto marco narrativo aprovado — 17/11/2026 (Brasília)
+**PZ-DEC-030:** o comandante manipulou o melhor amigo de Silas para entregá-lo ao Projeto ÉREBO. Origem moral (026), companheira (027), profissão médica (028), capturas de cobaias (029) e natureza da traição (030) estão aprovadas. Próxima decisão: motivação do comandante. Ainda pendentes mecanismo da manipulação, prisão, mentor, relações e conspiração. Atualização documental, sem mídia ou build.

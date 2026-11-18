@@ -35,3 +35,6 @@ A companheira de Silas Venn, seu vínculo afetivo central (PZ-DEC-027), é **mé
 
 ## Passado de Silas — conexão direta com ÉREBO (PZ-DEC-029)
 **APROVADO:** no exercício de suas antigas funções, Silas capturava pessoas posteriormente utilizadas como cobaias no Projeto ÉREBO. Cumpria ordens acreditando estar certo (PZ-DEC-026). A médica que era sua companheira é um elo possível da descoberta e uma personagem com interesses próprios. Não definir o número de vítimas, patentes, nomes, diagnóstico dos pacientes ou técnica experimental sem aprovação. A responsabilidade moral de Silas e as consequências humanas dos aprimoramentos são centrais.
+
+## Comandante e melhor amigo de Silas — PZ-DEC-030
+**APROVADO:** o comandante manipulou o melhor amigo de Silas, levando-o a entregar o protagonista ao Projeto ÉREBO acreditando ajudá-lo. Preservar o amigo como personagem distinto, com agência e responsabilidade próprias; a manipulação explica sua conduta, mas não elimina necessariamente suas consequências. O comandante é um antagonista humano associado à traição. Nomes, visuais, histórias, posições políticas, carreira, objetivos e destino permanecem pendentes. Não confirmar identidade do comandante com o mentor sábio da prisão, nem sua inclusão entre os seis chefes.

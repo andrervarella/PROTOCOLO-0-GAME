@@ -56,3 +56,6 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — quarto marco aprovado (17/11/2026)
 **AVANÇO PARCIAL:** o grande erro de Silas foi capturar pessoas usadas como cobaias do Projeto ÉREBO (PZ-DEC-029). Próxima decisão: quem o traiu ao tentar reparar os erros? Ainda abertos os detalhes da investigação da médica, ordens, vítimas, prisão, mentor, fuga, antagonistas e conspiração. Não encerrar tarefa.
+
+## PZ-T-008 — quinto marco aprovado (17/11/2026)
+**AVANÇO PARCIAL:** definida a traição (PZ-DEC-030), comandante manipula o melhor amigo de Silas e o faz entregá-lo ao Projeto ÉREBO. Próximo passo: motivação do comandante. Ainda abertos o pretexto da manipulação, investigação da médica, prisão, mentor, fuga, antagonistas concretos e conspiração. Manter tarefa aberta.

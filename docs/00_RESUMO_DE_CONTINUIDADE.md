@@ -53,3 +53,6 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Quarta decisão aprovada — 17/11/2026
 **PZ-DEC-029:** Silas capturava pessoas que eram utilizadas como cobaias no Projeto ÉREBO. Cumpriu ordens achando que fazia o certo; tentou reparar e foi traído. Companheira médica já aprovada. Próxima decisão: quem o traiu e por quê? Ainda não há autoria, vítimas específicas, cenas, nomes ou destino da companheira definidos.
+
+## Quinta decisão aprovada — 17/11/2026
+**PZ-DEC-030:** o comandante manipulou o melhor amigo de Silas para entregá-lo ao Projeto ÉREBO. O amigo pensava estar ajudando Silas. Os marcos 026–030 estão aprovados. Próxima pergunta: por que o comandante fez isso? Identidades, mecanismos da traição e destino dos envolvidos ainda pendentes.

@@ -81,3 +81,10 @@ Esta decisão resolve a pendência de profissão de PZ-DEC-027. Não aprova auto
 | PZ-DEC-029 | **APROVADO PELO DONO** | Opção C: Silas Venn **capturava pessoas que eram utilizadas como cobaias no Projeto ÉREBO**, acreditando cumprir ordens legítimas; posteriormente tentou corrigir seus erros e foi traído. | Ordens, mandantes, vítimas, papel exato da companheira na descoberta, traidor e motivação, prisão e mentor |
 
 PZ-DEC-029 resolve o tipo de injustiça cometido por Silas. A destruição de uma comunidade e o apagão eram opções alternativas para essa decisão, não são seu erro principal aprovado. Não confundir com possíveis eventos secundários. A médica como agente da descoberta é um elo a desenvolver; cenas, nomes e destinos ainda exigem aprovação.
+
+## PZ-DEC-030 — natureza da traição (17/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-030 | **APROVADO PELO DONO** | Opção D: o comandante manipulou o melhor amigo de Silas Venn para que o entregasse ao Projeto ÉREBO, fazendo-o acreditar que ajudava/salvava Silas. | Motivação do comandante, mentira contada ao amigo, identidades, circunstâncias, momento da revelação e consequências |
+
+A decisão define o núcleo da traição de PZ-DEC-026/029. Cenas, nomes, participação nos seis chefes, vínculo com o mentor da prisão e eventual dilema de perdão ainda não aprovados. Não repetir a pergunta sobre quem traiu Silas.
