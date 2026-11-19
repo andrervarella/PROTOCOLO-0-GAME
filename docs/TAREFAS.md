@@ -189,3 +189,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — primeira arma real aprovada (19/11/2026)
 **PZ-DEC-065:** Silas encontra lâmina industrial no complexo abandonado como primeira arma de verdade, depois de ferramenta improvisada obtida na fuga; melhora posterior possível. **Próxima decisão:** a grande surpresa narrativa no complexo e como estabelece um objetivo jogável, sem expandir duração da campanha. Combos, arte, upgrade e obtenção exata continuam abertos. Sem implementação até aqui.
+
+
+## PZ-T-008 — introdução, híbrido e escopo (19/11/2026)
+**PZ-DEC-066:** estruturar abertura curta e imersiva em cenário plausível de 2054; gerar apenas depois de aprovação e cotação de ferramenta Higgsfield. Validar conceito de combate híbrido com **protótipo pequeno (trecho de ação 2D + 1 boss tático)**, incluindo Silas e escolha de dois aliados, sem desenvolver dois sistemas inteiros. Elenco total, interface, cutscenes, custos e fidelidade visual pendentes. Continuar trama com **pergunta 35** sobre reviravolta do complexo. Campanha 2–3h e simplicidade prioritárias. Nenhuma produção executada.

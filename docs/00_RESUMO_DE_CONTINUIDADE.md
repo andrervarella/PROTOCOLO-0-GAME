@@ -188,3 +188,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 34ª escolha — PZ-DEC-065 (19/11/2026)
 **APROVADO:** primeira arma genuína = **lâmina industrial**, obtida no complexo industrial abandonado, adaptada de ferramenta de corte e aprimorável. Sequência aprovada: começa sem itens (061) → encontra ferramenta de manutenção durante fuga (062) → recebe NEX como legado (034/060), parceiro multifuncional simples (063) → explora complexo (064) e conquista lâmina (065). **Próxima pergunta:** primeira reviravolta no complexo industrial; foco na história e jogabilidade, campanha-alvo 2–3h.
+
+
+## Visão de abertura e gameplay reafirmada — PZ-DEC-066 (19/11/2026)
+**DIRETRIZ APROVADA:** introdução curta com imagens/narração/cutscenes (potencial Higgsfield) que faz mundo fictício 2054 plausível com energia, minerais, chips, IA, desigualdade e poder corporativo; não revelar culpabilidade completa de LIMIAR. Manter fuga 2054 → missão 2051 → retorno (040). Gameplay desejado: exploração/inimigos comuns **ação 2D Castlevania/Mega Man**; teste de **chefes táticos/cinematográficos Epic Seven, Silas + dois aliados escolhidos**, sem excessos de poderes/itens/controle. Sistema híbrido **não aprovado tecnicamente até protótipo**. Meta campanha 2–3h. `docs/12_ABERTURA_E_COMBATE_HIBRIDO.md` guarda conceito e exemplo de narração **não aprovado**. **Próxima pergunta:** 35ª primeira reviravolta no complexo, ainda sem escolha. Sem gastos, geração de vídeo, imagens ou código.

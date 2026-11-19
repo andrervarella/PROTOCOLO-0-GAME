@@ -185,3 +185,8 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 34ª escolha aprovada — PZ-DEC-065 (19/11/2026)
 **VIGENTE:** a primeira arma de verdade de Silas, encontrada no **complexo industrial abandonado**, é **lâmina industrial**, adaptada de ferramenta de corte, passível de melhoria. Mantém ferramenta de manutenção anterior (062), NEX multifuncional simples (063), progressão gradual (061). **Próxima escolha:** a primeira reviravolta importante do jogo fora da prisão, no complexo. Sem novas artes, código ou build.
+
+
+## Direção de abertura e híbrido reforçada — PZ-DEC-066 (19/11/2026)
+**VIGENTE:** história deve começar com narração/imagens/cutscene curta que faça 2054 parecer plausível, com temas reais de energia, minerais, chips, automação e disputa entre corporações/potências. Possível produção via Higgsfield após cotação/autorização, **não produzida**. Gameplay desejado: ação 2D Castlevania/Mega Man; chefes possivelmente táticos/cinematográficos Epic Seven, com **dois aliados selecionáveis dentre personagens encontrados**, HUD e poderes enxutos; **precisa protótipo antes de confirmar híbrido**. Campanha ~2–3h (057). Abertura não linear 040 preservada. Exemplo de narração/storyboard em `docs/12_ABERTURA_E_COMBATE_HIBRIDO.md` como PROPOSTA.
+**35ª pergunta permanece aberta:** primeira reviravolta do complexo industrial após lâmina industrial (065); nenhuma opção A–D selecionada. Próxima resposta deverá retomar essa pergunta sem começar nova longa investigação. Sem vídeos, imagens, assets, código ou gastos desta atualização.

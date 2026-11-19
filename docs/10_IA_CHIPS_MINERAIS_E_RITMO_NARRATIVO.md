@@ -65,3 +65,7 @@ Agentes infiltrados contratados pela corporação provocaram um ataque durante a
 
 ## Descoberta parcial aprovada — PZ-DEC-044 (18/11/2026)
 Silas reconhece um infiltrado em outra operação e sua companheira médica atende um sobrevivente de ÉREBO. As duas descobertas se conectam e revelam parte da conspiração. **APROVADO.** Estruturar pistas compreensíveis antes de sua resolução, sem antecipar a verdade completa sobre LIMIAR. A documentação encontrada, testemunhas, cenas e decisão sobre como agir ainda aguardam aprovação.
+
+
+## Abertura para gerar crença no mundo ficcional — PZ-DEC-066 (19/11/2026)
+O dono deseja uma introdução com hooks fortes e cortes breves que aproximem 2054 de problemas concretos: cadeia de mineração e processamento de minerais, fornecimento de chips, investimentos/IA, transição energética, automação e trabalhadores, riqueza concentrada, propaganda e forças militares. Sem afirmações factuais fictícias apresentadas como história real; conectar conceitos à ficção HELION/NEXUS/ATLAS e à acusação contra LIMIAR sem spoiler sobre sua culpa. O estilo será maduro, explicável e **não sobrecarregado de infodump**; mostrar consequências humanas, não só hologramas e logos. Sugestão não aprovada de narração/storyboard em `docs/12_ABERTURA_E_COMBATE_HIBRIDO.md`. A primeira ação jogável ainda é a fuga de 2054 (040), seguida de flashback e retorno rápido ao presente.
