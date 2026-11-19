@@ -46,3 +46,7 @@ NEX: “Sim. Mas recomendo que pare de apertar botões aleatórios.”
 
 ## 6. Primeiro aliado
 **APROVADO:** uma pessoa resgatada dentre os transportados torna-se **amigo e aliado capaz de lutar com Silas** mais adiante. **Não aprovado:** nome, gênero, origem, história, vínculos com a mina, armas, implantes, papel na equipe, motivação pessoal, aspecto físico, relação com médico ou comandante. Perguntar qual arquétipo antes de criar perfil definitivo; considerar complementaridade com Silas (lâmina), NEX (hacking) e elenco enxuto.
+
+
+## 7. Primeiro aliado escolhido — PZ-DEC-074 (19/11/2026)
+**RESPOSTA CONFIRMADA pelo dono à 40ª pergunta: OPÇÃO A, EX-LÍDER DA REVOLTA DOS MINEIROS.** Em 2051, Silas participou da repressão à revolta contra substituição de trabalhadores por máquinas; essa pessoa **era uma liderança da revolta e foi presa em razão daquela operação**. No resgate dos presos da nave em 2054, **reconhece Silas e inicialmente não confia nele**. Seu futuro como **amigo e aliado de combate** é aprovado, mas deve haver construção dramática de confiança em cenas curtas/jogáveis. O líder não foi estabelecido como autor do ataque: agentes corporativos infiltrados o provocaram (043). Não afirmar que Silas pessoalmente o capturou; não atribuir nome/gênero/arma/sistema de combate até aprovação. O objetivo da próxima escolha é definir **como começa a aliança** entre dois homens com história conflituosa, sem interromper a aventura nem alongar diálogos.

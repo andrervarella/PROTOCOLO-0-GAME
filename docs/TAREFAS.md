@@ -217,3 +217,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — centro de transferência e minigame de nave (19/11/2026)
 **PZ-DEC-072:** instalação ÉREBO da rota é centro clandestino de transferência de pessoas. **PZ-DEC-073:** infiltração entre presos, sinais NEX desativados, nave roubada, Silas não sabe pilotar e NEX sabe, diálogo cômico, cutscene curta, minigame simples e bonito de escapar de naves, resgate bem-sucedido e **um novo aliado lutador** entre vítimas. **Próxima pergunta:** escolher identidade/perfil do aliado. Depois esboçar missão jogável breve e roteiro/sprite minimal; validar mini-game com protótipo antes de VFX caro, sem crédito Higgsfield/PixelLab gasto. Não definir detalhes pendentes como fatos canônicos.
+
+
+## PZ-T-008 — primeiro aliado resgatado escolhido (19/11/2026)
+**PZ-DEC-074:** entre vítimas da nave resgatadas está ex-líder da revolta dos mineiros de 2051, capturado por causa da operação de Silas, reconhece e inicialmente desconfia dele, futuro amigo e aliado combatente. **Próximo:** definir como surge aliança apesar do passado e depois escolher seu papel em combate/visuais; roteiro condensado para campanha 2–3h. Não determinar nome, arma ou perdão sem decisão. Sem implementação.

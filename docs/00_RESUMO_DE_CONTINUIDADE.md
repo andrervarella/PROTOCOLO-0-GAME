@@ -216,3 +216,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 39ª escolha e nova sequência — PZ-DEC-072/073 (19/11/2026)
 **APROVADO:** rota de NEX (071) leva a **centro clandestino de transferência**. Silas/NEX infiltram nave entre prisioneiros, NEX silencia sinais para não ser detectado, Silas rouba nave sem saber pilotar, NEX pilota; diálogo engraçado, cutscene curta e minigame de fuga de perseguição aérea/veicular. Salva pessoas; **um novo amigo resgatado vira aliado lutador/jogável**, ainda sem identidade. A explicação técnica (compartimento isolado, piloto assistido), duração/controles e texto de fala são PROPOSTAS, não aprovados. Não confundir “nave” com veículo espacial definitivo. **Próxima pergunta:** quem é esse primeiro aliado? Meta ~2–3h, 2 aliados selecionáveis sob protótipo. Ver doc 14.
+
+
+## 40ª escolha — PZ-DEC-074 (19/11/2026)
+**APROVADO:** entre resgatados da nave está **ex-líder da revolta de mineiros de 2051**, preso em consequência da operação de Silas. Ele **reconhece e não confia inicialmente em Silas**, mas é futuro **amigo/aliado lutador**. Não imputar terrorismo ao líder nem afirmar prisão pessoal por Silas, e não dar perdão automático. Nome/arma/persona/combate abertos. **Próxima pergunta:** como começa a aliança? Preservar 2–3h, apoio NEX e chefes híbridos em protótipo.
