@@ -35,3 +35,7 @@ Engine/versão, plataforma final, layout de controles, resolução-base, número
 
 ## Primeira região principal aprovada — PZ-DEC-064 (19/11/2026)
 **Complexo industrial abandonado** é a primeira área jogável após a fuga da prisão. Silas e NEX vasculham o local à procura de equipamentos, enfrentando máquinas de segurança e patrulhas. Esta área pode introduzir progressivamente comandos simples de NEX (063), combates com ferramenta improvisada (062), obstáculos ambientais e uma arma superior encontrada durante a exploração, mas **tipo, ordem e mecânicas concretas ainda não foram aprovados**. Planejar um trecho compacto coerente com campanha-alvo de 2–3 horas (057), sem esgotar equipamentos ou poderes logo no início.
+
+
+## Primeira arma real definida — PZ-DEC-065 (19/11/2026)
+**VIGENTE:** Silas encontra no complexo industrial abandonado uma **lâmina industrial**, arma de corte adaptada do próprio ambiente. É o primeiro armamento real após a **ferramenta de manutenção** improvisada obtida na fuga (062), sem pular para equipamento militar de elite. O objetivo é apresentar combate corpo a corpo mais consistente e possibilidade de melhorar essa arma mais tarde; **animações, combos, dano, parâmetros, aparência, estação de melhoria e modo de obtenção ainda não foram aprovados**. Não tornar Silas poderoso demais na primeira área. NEX continua parceiro de exploração/hacking/suporte com comandos simples (063).

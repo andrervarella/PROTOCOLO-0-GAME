@@ -181,3 +181,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 33ª escolha aprovada — PZ-DEC-064 (19/11/2026)
 **VIGENTE:** primeira região após a fuga é o **complexo industrial abandonado**, onde Silas e NEX buscam equipamentos e enfrentam máquinas de segurança e patrulhas. Preservar 061–063 (começa sem itens, encontra ferramenta de manutenção, NEX multifuncional simples). **Próxima pergunta:** primeira arma melhor obtida nessa área. Nome, aparência, facção do complexo, mapa e reviravolta pendentes. Campanha de ~2–3h como meta, sem código ou arte produzidos.
+
+
+## 34ª escolha aprovada — PZ-DEC-065 (19/11/2026)
+**VIGENTE:** a primeira arma de verdade de Silas, encontrada no **complexo industrial abandonado**, é **lâmina industrial**, adaptada de ferramenta de corte, passível de melhoria. Mantém ferramenta de manutenção anterior (062), NEX multifuncional simples (063), progressão gradual (061). **Próxima escolha:** a primeira reviravolta importante do jogo fora da prisão, no complexo. Sem novas artes, código ou build.

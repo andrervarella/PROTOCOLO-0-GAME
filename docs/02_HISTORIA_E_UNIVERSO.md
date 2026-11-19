@@ -191,3 +191,7 @@ O mentor morrerá durante a fuga e deixará NEX como legado (034), porém **não
 
 ## Primeira área fora da prisão — PZ-DEC-064 (19/11/2026, Brasília)
 **APROVADO:** após a fuga de ÉREBO em 2054, com sacrifício do mentor e legado NEX (034/060), **Silas e NEX entram em um complexo industrial abandonado**. Ali, precisam encontrar equipamentos e superar **máquinas de segurança e patrulhas**. Preservar começo vulnerável e progressão de itens (061–062). Ainda não definir o dono do complexo, localização geográfica, se funciona secretamente, o motivo de haver patrulhas, qual é a arma encontrada, o chefe presente nem a reviravolta. Priorizar jogabilidade, descoberta e ação em uma campanha compacta.
+
+
+## Lâmina industrial — PZ-DEC-065 (19/11/2026, Brasília)
+**APROVADO:** ao explorar o **complexo industrial abandonado**, Silas obtém uma **lâmina industrial adaptada de ferramenta de corte**, sua primeira arma verdadeira. Ela o ajuda a enfrentar patrulhas e máquinas de segurança e representa a passagem de sobrevivente fugitivo para combatente progressivamente equipado. A aquisição ocorre após a ferramenta de manutenção da fuga (062) e preserva a ideia de que Silas não começa poderoso (061). Não estabelecer ainda dono, fabricação, aparência precisa, aprimoramentos ou tipo de inimigo enfrentado na cena exata. **Próximo ponto da história:** um acontecimento surpreendente no complexo que reforce a conspiração e lance o objetivo principal, sem prolongar investigação burocrática.

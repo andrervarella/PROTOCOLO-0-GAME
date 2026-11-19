@@ -343,3 +343,11 @@ Compatível com PZ-DEC-059 (fuga planejada por Silas e mentor), 060 (sacrifício
 |---|---|---|---|
 | PZ-DEC-064 | **APROVADO PELO DONO** | **Opção A:** após fugir de ÉREBO, Silas e NEX vão para um **complexo industrial abandonado**, onde **procuram equipamentos** e enfrentam **máquinas de segurança e patrulhas**. | Localização e ligação com ÉREBO, configuração do mapa, qual arma ou tecnologia encontram, identidade das patrulhas, obstáculos e possíveis reviravoltas. |
 Esta é a **primeira área jogável fora da prisão**, não uma base de resistência, distrito dos mineiros ou metrópole. Preservar o contraste entre a ferramenta improvisada da fuga (062) e aquisições graduais (061); NEX apoia sistemas/exploração/combate com comandos simples (063). Campanha-alvo de 2–3h (057); manter área curta, funcional e com ritmo de ação. **Próxima pergunta:** qual é a primeira arma de verdade que Silas encontra nesse complexo? Não inventar arma específica antes da escolha.
+
+
+## PZ-DEC-065 — primeira arma real: lâmina industrial (19/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-065 | **APROVADO PELO DONO** | **Opção A:** no **complexo industrial abandonado**, Silas encontra uma **lâmina industrial**, uma arma de combate corpo a corpo adaptada de ferramenta de corte, inicialmente simples e brutal, com possibilidade de receber melhorias ao longo do jogo. É a **primeira arma de verdade** depois da ferramenta de manutenção obtida na fuga. | Aparência precisa, golpes e combos, modo como encontra, peso/alcance/dano, upgrades específicos e relação com armamentos posteriores. |
+**Não confundir a lâmina com uma espada militar pronta, bastão elétrico ou pistola**, alternativas não escolhidas. Preservar progressão gradativa e começo vulnerável (061), NEX multifuncional simples (063), complexo como primeira região (064), campanha-alvo 2–3 horas (057) e escolhas de implantes internos versus equipamentos externos (008). Nenhuma arma foi implementada ou desenhada.
+**Próxima pergunta objetiva:** qual é a **primeira reviravolta narrativa** dentro do complexo industrial, que mova a trama além dos combates?

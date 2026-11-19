@@ -59,3 +59,7 @@ Fuga cinematográfica **com sabotagem intencional, combate e perseguição** est
 
 ## NEX: comando simples, três funções úteis — PZ-DEC-063
 **APROVADO:** NEX tem apoio em (1) invasão/ativação de sistemas, (2) exploração/detecção e (3) suporte limitado em confronto, sem controle completo como segundo personagem. **Proposta de implementação sujeita a protótipo:** um único comando contextual para interagir com alvos e um recurso de assistência curta em combate, com capacidades desbloqueadas aos poucos. Evitar menus complicados, excesso de automação e poderes ilimitados. Manter identidade de robô bípede e vínculo com legado do mentor; nenhum input, cooldown, efeito ou habilidade foi codificado/validado.
+
+
+## Lâmina industrial: primeira arma de combate — PZ-DEC-065 (19/11/2026)
+**APROVADO:** a primeira arma genuína obtida é **lâmina industrial**, adaptada de instrumento de corte da primeira região jogável. Pode ser melhorada mais tarde. **Possibilidade de protótipo ainda não aprovada:** combo leve com telegráfico rápido, golpe forte que abre guarda e feedback claro de impacto, após a ferramenta de manutenção ensinar defesa e interação. Nenhuma cadência, quantidade de frames, estatística, dano, animação ou upgrade específico está definida. Priorizar combate responsivo e legível, sem expandir a complexidade além de campanha de 2–3h. Não entregar todos os poderes ÉREBO cedo. Próxima decisão: uma reviravolta narrativa do complexo que gere objetivo e ação.

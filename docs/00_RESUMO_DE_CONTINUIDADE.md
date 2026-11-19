@@ -184,3 +184,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 33ª escolha — PZ-DEC-064 (19/11/2026)
 **APROVADO:** primeira área fora da prisão = **complexo industrial abandonado**. Silas e NEX buscam equipamentos e enfrentam máquinas de segurança/patrulhas. Silas começou sem itens, encontrou ferramenta de manutenção na fuga (062); NEX auxilia com comandos simples (063). **Próxima pergunta:** qual primeira arma de verdade é encontrada nessa área? Não definir facção, boss, mapa, upgrades nem reviravolta até aprovação. Meta de 2–3h.
+
+
+## 34ª escolha — PZ-DEC-065 (19/11/2026)
+**APROVADO:** primeira arma genuína = **lâmina industrial**, obtida no complexo industrial abandonado, adaptada de ferramenta de corte e aprimorável. Sequência aprovada: começa sem itens (061) → encontra ferramenta de manutenção durante fuga (062) → recebe NEX como legado (034/060), parceiro multifuncional simples (063) → explora complexo (064) e conquista lâmina (065). **Próxima pergunta:** primeira reviravolta no complexo industrial; foco na história e jogabilidade, campanha-alvo 2–3h.

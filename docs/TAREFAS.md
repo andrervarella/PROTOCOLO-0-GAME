@@ -185,3 +185,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — primeira área após fuga aprovada (19/11/2026)
 **PZ-DEC-064:** complexo industrial abandonado com patrulhas/máquinas de segurança, objetivo de encontrar equipamentos. Próximo passo: definir primeiro armamento de progressão e depois desenhar um trecho jogável curto com NEX, combates e descoberta narrativa. Não canonizar arma, chefe, mapa ou cutscene sem escolha e protótipo. Manter tarefa aberta.
+
+
+## PZ-T-008 — primeira arma real aprovada (19/11/2026)
+**PZ-DEC-065:** Silas encontra lâmina industrial no complexo abandonado como primeira arma de verdade, depois de ferramenta improvisada obtida na fuga; melhora posterior possível. **Próxima decisão:** a grande surpresa narrativa no complexo e como estabelece um objetivo jogável, sem expandir duração da campanha. Combos, arte, upgrade e obtenção exata continuam abertos. Sem implementação até aqui.

@@ -202,3 +202,7 @@ Resposta literal: **“Escolho D: NEX será um companheiro multifuncional, com c
 
 ## Trigésima terceira escolha do dono — PZ-DEC-064 (19/11/2026, Brasília)
 Resposta literal: **“Escolho A: complexo industrial abandonado.”** APROVADO. A opção A previa que **Silas e NEX procuram equipamentos nessa região e enfrentam máquinas de segurança e patrulhas**. A área ocorre depois da fuga de ÉREBO. Não transformar em distrito da mina ou base da resistência e não canonizar arma/upgrade, boss, dono, motivo das patrulhas ou caminho específico sem escolha. **Próxima pergunta objetiva:** qual primeira arma verdadeira o jogador consegue ali? Continuar perguntas curtas, ritmo forte e progressão gradual; meta de 2–3h.
+
+
+## Trigésima quarta escolha do dono — PZ-DEC-065 (19/11/2026)
+Resposta literal: **“Escolho A: lâmina industrial.”** **APROVADO.** A opção A era uma arma corpo a corpo adaptada de ferramenta de corte, simples, brutal e melhorável. No complexo industrial abandonado aprovado como primeira região (064), Silas encontra seu primeiro armamento real, após obter ferramenta de manutenção durante a fuga (062). Não trocar por espada militar, pistola ou bastão de choque; não definir sprite, dano, combos ou progressão de atributos sem análise do protótipo. Em atenção à duração-alvo de 2–3h (057), **próxima pergunta deve tratar de uma reviravolta importante no complexo**, não de microdetalhes de inventário.
