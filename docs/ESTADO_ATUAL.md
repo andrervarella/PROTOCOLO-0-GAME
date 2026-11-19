@@ -203,3 +203,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 36ª escolha aprovada — PZ-DEC-069 (19/11/2026)
 **VIGENTE:** ordem de capturar Silas vivo no complexo industrial aponta ao seu **antigo comandante**, responsável por parte central da traição. **Não se estabeleceu ainda autor definitivo da ordem, sua localização ou se é chefe supremo**. Próximo foco: o que ele faz ao saber que Silas escapou, e primeiro confronto jogável. Campanha 2–3h; NEX, lâmina e progressão gradual mantidos. Nada de novas artes/código/vídeos nesta atualização.
+
+
+## 37ª escolha aprovada — PZ-DEC-070 (19/11/2026)
+**VIGENTE:** primeiro mini-chefe é **soldado de elite ciberneticamente aprimorado, enviado pelo antigo comandante para capturar Silas vivo no complexo industrial**. Ordem aparente das máquinas também ligada ao comandante (068/069). Ainda não há nome, visual, ataque, arena, recompensa ou resultado aprovado. Manter separação dos seis chefes principais e combate híbrido em prototipagem. **Próxima decisão:** revelação dramática ou consequência após o primeiro mini-chefe, com uma pergunta objetiva. Sem artes/código novos.

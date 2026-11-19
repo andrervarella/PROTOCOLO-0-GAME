@@ -205,3 +205,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — comando de captura aponta ao antigo comandante (19/11/2026)
 **PZ-DEC-069:** reviravolta do complexo liga ordem de captura viva ao antigo comandante (aparente, não autoria única definitivamente comprovada). **Próxima decisão:** reação concreta do comandante e primeiro confronto ligado à ameaça; planejar situação jogável curta (sem estabelecer chefe/arena antes da escolha), preservar ritmo de 2–3h. Sem implementação aqui.
+
+
+## PZ-T-008 — soldado aprimorado como primeiro mini-chefe (19/11/2026)
+**PZ-DEC-070:** agente de elite melhorado ciberneticamente enviado pelo comandante é o primeiro mini-chefe da área industrial. Próximo: decidir consequência dramática da luta; depois estruturar curto encontro e eventual progressão/recompensa. **Não** definir ataques/arena/modelo nem implementar até alinhamento do protótipo de combate. Preservar seis chefes principais separados e meta ~2–3h.

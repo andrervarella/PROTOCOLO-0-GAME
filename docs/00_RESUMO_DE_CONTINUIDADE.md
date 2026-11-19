@@ -204,3 +204,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 36ª escolha — PZ-DEC-069 (19/11/2026)
 **APROVADO:** origem da ordem para capturar Silas vivo (068) **aponta para o antigo comandante**, envolvido em sua traição. A pista não define emissor final nem chefia absoluta do ÉREBO. Próxima pergunta: o que o comandante envia/faz para capturar Silas e gerar confronto no complexo? Sem mais investigação longa; 2–3h, NEX e lâmina iniciais.
+
+
+## 37ª escolha — PZ-DEC-070 (19/11/2026)
+**APROVADO:** antigo comandante **envia soldado ciberneticamente aprimorado como primeiro mini-chefe** para capturar Silas vivo no complexo. Não confundir com seis chefes principais, não inventar resultado da luta, motivações, origem dos implantes nem prêmio. Combate híbrido ainda precisa de protótipo; Silas começa fraco com lâmina e NEX simples. **Próxima pergunta:** qual revelação após o confronto?

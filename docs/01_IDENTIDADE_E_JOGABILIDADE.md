@@ -55,3 +55,7 @@ O dono quer **impactos, golpes e energia com presença visual semelhante à trad
 
 ## Gancho para primeiro confronto — PZ-DEC-069 (19/11/2026)
 **APROVADO:** o comando das máquinas para **capturar Silas vivo** aponta ao seu antigo comandante, que o traiu. Isso deve ser sentido na jogabilidade como ameaça crescente, não em uma sequência longa de mensagens/investigações. **Um encontro/mini-chefe ligado à ordem é proposta para decidir, não fato aprovado**. Manter Silas limitado, lâmina industrial e NEX com comandos simples (063–065); eventual confronto precisa validar legibilidade e duração numa campanha de 2–3h. O autor final da conspiração e a identidade de subordinados não estão definidos.
+
+
+## Primeiro mini-chefe confirmado — PZ-DEC-070 (19/11/2026)
+**Aprovado:** no complexo industrial, o comandante envia um **soldado de elite ciberneticamente aprimorado** para interceptar/capturar Silas. Será **primeiro mini-chefe**. É uma luta inicial, não necessariamente um dos seis grandes chefes; não presumir interface de RPG tático, pois o modo híbrido dos chefes principais depende de protótipo (066). Conceber uma luta legível e curta compatível com Silas recém-equipado com lâmina industrial (065) e ajuda simples de NEX (063), sem poderes ilimitados. Padrões de ataque, arena, dificuldade, recompensas, mecânica de captura e destino do agente em aberto.

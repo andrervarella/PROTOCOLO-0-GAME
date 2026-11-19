@@ -75,3 +75,7 @@ O dono solicita **curta introdução visual/narrada para contextualizar 2054**, 
 
 ## Gancho do complexo: captura viva — PZ-DEC-068 (19/11/2026)
 **APROVADO:** máquinas reconhecem o **código/assinatura ÉREBO** de Silas e passam a tentar **capturá-lo vivo**. **Proposta ainda não aprovada:** sinal visual legível de reconhecimento, voz eletrônica curta de ordem de contenção, um encontro/desafio rápido que ensine esquiva ou o uso contextual de NEX, fuga ou conflito contra perseguidor robótico; evitar cutscene longa. Nenhum efeito, chefe, desenho de robô ou missão foi escolhido ou implementado ainda. A ordem não revela automaticamente seu autor.
+
+
+## Batalha inicial de mini-chefe — PZ-DEC-070 (19/11/2026)
+**APROVADO:** primeiro mini-chefe será **soldado ciberneticamente aprimorado enviado pelo comandante** para capturar Silas no complexo abandonado. Recomendação técnica (PROPOSTA, não aprovação): uma luta em **ação 2D**, com até três ataques telegrafados e pequena janela de vulnerabilidade, usando os controles aprendidos com a lâmina industrial e um comando contextual de NEX; proporcionar sensação de perigo sem exigir que o jogador já tenha tecnologias avançadas. O experimento de chefe tático/cinematográfico em estilo Epic Seven pode ser **testado separadamente**: não obrigar mudança de modo neste mini-chefe nem investir em cutscene cara antes de protótipo. Animações, número de ataques, padrões, arena e recompensas são decisões pendentes.
