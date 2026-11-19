@@ -198,3 +198,7 @@ Resposta literal: **“Escolho C: Silas encontra uma ferramenta de manutenção 
 
 ## 32ª escolha do dono — PZ-DEC-063 (18/11/2026)
 Resposta literal: **“Escolho D: NEX será um companheiro multifuncional, com comandos simples.”** **APROVADO.** A opção D inclui invasão de sistemas, exploração e apoio limitado em combate, sem comandos numerosos nem segundo personagem difícil de administrar. Manter NEX com IA e personalidade próprias (034), bípede, como legado do mentor. Não inventar tipo específico de ataque, dano, controle por smartphone ou resgate automático de Silas. **Próxima pergunta curta de grande efeito na aventura:** qual a primeira região visitada após escapar? Campanha 2–3h, fuga C, progressão começando com ferramenta (062).
+
+
+## Trigésima terceira escolha do dono — PZ-DEC-064 (19/11/2026, Brasília)
+Resposta literal: **“Escolho A: complexo industrial abandonado.”** APROVADO. A opção A previa que **Silas e NEX procuram equipamentos nessa região e enfrentam máquinas de segurança e patrulhas**. A área ocorre depois da fuga de ÉREBO. Não transformar em distrito da mina ou base da resistência e não canonizar arma/upgrade, boss, dono, motivo das patrulhas ou caminho específico sem escolha. **Próxima pergunta objetiva:** qual primeira arma verdadeira o jogador consegue ali? Continuar perguntas curtas, ritmo forte e progressão gradual; meta de 2–3h.

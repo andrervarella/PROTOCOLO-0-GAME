@@ -180,3 +180,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 32ª escolha — PZ-DEC-063 (18/11/2026)
 **APROVADO:** NEX é companheiro bípede com IA própria, legado do mentor; atuação **multifuncional** em hacking, exploração e apoio limitado no combate por **comandos simples**. Não um segundo personagem complexo nem consciência literal do mentor. Campanha alvo 2–3h; Silas começa sem itens, encontra ferramenta durante a fuga (062). **Próxima pergunta:** primeira região após escapar de ÉREBO.
+
+
+## 33ª escolha — PZ-DEC-064 (19/11/2026)
+**APROVADO:** primeira área fora da prisão = **complexo industrial abandonado**. Silas e NEX buscam equipamentos e enfrentam máquinas de segurança/patrulhas. Silas começou sem itens, encontrou ferramenta de manutenção na fuga (062); NEX auxilia com comandos simples (063). **Próxima pergunta:** qual primeira arma de verdade é encontrada nessa área? Não definir facção, boss, mapa, upgrades nem reviravolta até aprovação. Meta de 2–3h.

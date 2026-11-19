@@ -187,3 +187,7 @@ O mentor morrerá durante a fuga e deixará NEX como legado (034), porém **não
 
 ## Papel de NEX na aventura — PZ-DEC-063 (18/11/2026)
 **APROVADO:** NEX auxilia Silas com sistemas, exploração e apoio limitado em combate, sem exigir controle complexo. Surge como **legado do mentor após seu sacrifício consciente na fuga** (034/060) e deve preservar sua própria identidade como IA, sem ser automaticamente cópia da consciência do mentor. Não criar habilidades onipotentes que resolvam a conspiração ou todos os conflitos; seu crescimento e a forma de entrada após a fuga permanecem pendentes. A campanha passa em primeiro plano à exploração jogável após escapar, sem voltar a uma sequência de pequenas perguntas investigativas.
+
+
+## Primeira área fora da prisão — PZ-DEC-064 (19/11/2026, Brasília)
+**APROVADO:** após a fuga de ÉREBO em 2054, com sacrifício do mentor e legado NEX (034/060), **Silas e NEX entram em um complexo industrial abandonado**. Ali, precisam encontrar equipamentos e superar **máquinas de segurança e patrulhas**. Preservar começo vulnerável e progressão de itens (061–062). Ainda não definir o dono do complexo, localização geográfica, se funciona secretamente, o motivo de haver patrulhas, qual é a arma encontrada, o chefe presente nem a reviravolta. Priorizar jogabilidade, descoberta e ação em uma campanha compacta.

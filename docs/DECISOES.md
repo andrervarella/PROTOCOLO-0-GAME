@@ -336,3 +336,10 @@ Compatível com PZ-DEC-059 (fuga planejada por Silas e mentor), 060 (sacrifício
 | PZ-DEC-063 | **APROVADO PELO DONO** | **Opção D:** NEX será um **companheiro multifuncional**, com **comandos simples**, atuando em **invasão de sistemas**, **exploração** e **apoio limitado em combate**. Preserva sua personalidade e identidade de IA própria como legado do mentor (034). | Interface/inputs, cooldowns, autonomia, disponibilidade de ações, limites da IA, evolução, apresentação inicial e tutorial. |
 **Não tornar NEX um segundo protagonista controlado integralmente**, nem dar apoio de combate poderoso ou capacidades ilimitadas desde a fuga; comando simples e papel de suporte são essenciais. A instalação de NEX após sacrifício do mentor, primeiro acesso às funções e balanço ainda não estão definidos. Continuar priorizando campanha curta de aproximadamente 2–3 horas (057), progressão gradual de Silas (061) e ferramenta de manutenção inicial (062).
 **Próxima pergunta:** qual é a primeira região jogável após a fuga de ÉREBO?
+
+
+## PZ-DEC-064 — primeira área após ÉREBO: complexo industrial abandonado (19/11/2026, Brasília)
+| ID | Estado | Registro | Em aberto |
+|---|---|---|---|
+| PZ-DEC-064 | **APROVADO PELO DONO** | **Opção A:** após fugir de ÉREBO, Silas e NEX vão para um **complexo industrial abandonado**, onde **procuram equipamentos** e enfrentam **máquinas de segurança e patrulhas**. | Localização e ligação com ÉREBO, configuração do mapa, qual arma ou tecnologia encontram, identidade das patrulhas, obstáculos e possíveis reviravoltas. |
+Esta é a **primeira área jogável fora da prisão**, não uma base de resistência, distrito dos mineiros ou metrópole. Preservar o contraste entre a ferramenta improvisada da fuga (062) e aquisições graduais (061); NEX apoia sistemas/exploração/combate com comandos simples (063). Campanha-alvo de 2–3h (057); manter área curta, funcional e com ritmo de ação. **Próxima pergunta:** qual é a primeira arma de verdade que Silas encontra nesse complexo? Não inventar arma específica antes da escolha.

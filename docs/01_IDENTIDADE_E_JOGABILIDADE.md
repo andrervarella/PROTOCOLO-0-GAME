@@ -31,3 +31,7 @@ Engine/versão, plataforma final, layout de controles, resolução-base, número
 
 ## NEX multifuncional e simples — PZ-DEC-063 (18/11/2026)
 **APROVADO:** NEX, pequeno robô **bípede** de inteligência artificial própria e legado do mentor, será um companheiro de Silas com funções em **hacking de portas/sistemas**, **exploração/detecção** e **ajuda limitada em combate**. Interação por **comandos simples** e sem administração complexa de segundo personagem. Preservar agência do jogador com Silas e evitar solução automática para todo obstáculo; capacidade inicial e progressão de NEX ainda precisam ser balanceadas. Formato concreto de botões, recursos, habilidades e comportamento autônomo são **propostas não aprovadas**. Campanha-alvo 2–3 horas.
+
+
+## Primeira região principal aprovada — PZ-DEC-064 (19/11/2026)
+**Complexo industrial abandonado** é a primeira área jogável após a fuga da prisão. Silas e NEX vasculham o local à procura de equipamentos, enfrentando máquinas de segurança e patrulhas. Esta área pode introduzir progressivamente comandos simples de NEX (063), combates com ferramenta improvisada (062), obstáculos ambientais e uma arma superior encontrada durante a exploração, mas **tipo, ordem e mecânicas concretas ainda não foram aprovados**. Planejar um trecho compacto coerente com campanha-alvo de 2–3 horas (057), sem esgotar equipamentos ou poderes logo no início.

@@ -181,3 +181,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — NEX multifuncional aprovado (18/11/2026)
 **PZ-DEC-063:** NEX terá hacking, exploração/detecção e suporte limitado ao combate via comandos simples. Não implementar controle complexo ou habilidades irrestritas. **Próximo passo:** escolher primeira região após fuga, conectar objetivos narrativos a exploração e primeiro confronto de ação, sem prolongar prólogo. Inputs e habilidades específicas de NEX ainda pendentes. Manter tarefa aberta.
+
+
+## PZ-T-008 — primeira área após fuga aprovada (19/11/2026)
+**PZ-DEC-064:** complexo industrial abandonado com patrulhas/máquinas de segurança, objetivo de encontrar equipamentos. Próximo passo: definir primeiro armamento de progressão e depois desenhar um trecho jogável curto com NEX, combates e descoberta narrativa. Não canonizar arma, chefe, mapa ou cutscene sem escolha e protótipo. Manter tarefa aberta.
