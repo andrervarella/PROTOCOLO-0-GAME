@@ -221,3 +221,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — primeiro aliado resgatado escolhido (19/11/2026)
 **PZ-DEC-074:** entre vítimas da nave resgatadas está ex-líder da revolta dos mineiros de 2051, capturado por causa da operação de Silas, reconhece e inicialmente desconfia dele, futuro amigo e aliado combatente. **Próximo:** definir como surge aliança apesar do passado e depois escolher seu papel em combate/visuais; roteiro condensado para campanha 2–3h. Não determinar nome, arma ou perdão sem decisão. Sem implementação.
+
+
+## PZ-T-008 — aliança gradual definida (19/11/2026)
+**PZ-DEC-075 aprovado:** ex-líder mineiro resgatado da nave aceita cooperar por necessidade, sem confiança nem perdão inicial; amizade por missões. Próxima decisão: estilo de combate do aliado e complementaridade com Silas/NEX, depois ritmo de apresentação e próxima missão. Não prolongar relações com microperguntas nem canonizar habilidades, nome ou eventos específicos não aprovados.

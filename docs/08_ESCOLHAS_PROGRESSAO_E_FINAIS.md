@@ -92,3 +92,7 @@ Reforçada a visão de exploração em ação 2D e **especialidades energéticas
 
 ## Primeiro aliado confirmado — PZ-DEC-074 (19/11/2026)
 **APROVADO:** entre os resgatados da nave de transferências surge um **ex-líder da revolta dos mineiros de 2051**, preso por consequência da antiga operação militar de Silas. Ele **o reconhece e desconfia inicialmente**, mas se tornará **um amigo e aliado capaz de lutar ao lado de Silas**. Isso traz conflito e escolha com consequências emocionais, não uma amizade imediata. **Kit, classe, arma, passivas, papel tático, identidade, desbloqueio jogável e condição de confiança seguem abertos.** A diretriz de selecionar dois aliados em chefes permanece visão sujeita a protótipo (066); o total de candidatos não está fechado. Para campanha 2–3h, priorizar arco curto porém convincente e estilo de combate complementar ao de Silas e ao suporte de NEX.
+
+
+## Recrutamento com desconfiança — PZ-DEC-075 (19/11/2026)
+O ex-líder mineiro resgatado da nave é **aliado combatente por necessidade desde o começo**, embora **a confiança e amizade só apareçam gradualmente durante missões**. **Não bloquear mecanicamente** a participação em luta até ocorrer perdão formal não aprovado. Seu kit de combate, equipamentos, upgrades, função (suporte/ataque/tanque) e limite de recrutáveis continuam em aberto. A ideia de até dois aliados na equipe de chefes sob protótipo (066) permanece, sem afirmar implementação. Em 2–3 horas, mostrar 2–3 atitudes significativas em vez de dezenas de cenas de diálogo é sugestão, não estrutura aprovada.

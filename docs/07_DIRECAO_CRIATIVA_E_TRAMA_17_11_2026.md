@@ -241,3 +241,7 @@ Ideia de plausibilidade **PROPOSTA**: nave de transportes mantém compartimento 
 
 ## 40ª escolha do dono — PZ-DEC-074 (19/11/2026)
 Resposta literal: **“Escolho A: ex-líder da revolta dos mineiros.”** Alternativa A especificava: preso por causa da operação de Silas em 2051, reconhece Silas e inicialmente desconfia dele. **APROVADO** como **primeiro amigo e aliado de combate** entre resgatados da nave (073). Reforçar culpa, reparação e crescimento de Silas sem afirmar perdão instantâneo; o ex-líder pode ter razão em desconfiar. Não atribuir nome, gênero, arma, poder nem acusar o personagem de terrorismo; o ataque na revolta foi provocado por infiltrados corporativos (043). **Próxima pergunta curta e significativa:** como nasce a aliança apesar desse passado? Não transformar em cadeia longa de detalhes burocráticos, preservar meta de 2–3h.
+
+
+## 41ª escolha do dono — PZ-DEC-075 (19/11/2026)
+Resposta literal: **“Escolho D: aliança por necessidade, com confiança e amizade construídas gradualmente.”** Alternativa D da pergunta anterior: mineiro **ainda não perdoa** Silas, mas **aceita lutar ao lado dele**; confiança amadurece nas missões. **APROVADO**. Evitar conversão rápida a melhor amigo, exposição longa, prova de coragem específica e confissão como precondições canônicas. Reforçar impacto de 2051 no presente e a campanha curta. **Próxima pergunta:** papel em combate do aliado, para que os dois estilos se complementem, sem engessar ainda combate estratégico de chefes em teste.

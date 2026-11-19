@@ -219,3 +219,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 40ª escolha aprovada — PZ-DEC-074 (19/11/2026)
 **VIGENTE:** primeiro aliado encontrado entre resgatados da nave é **ex-líder da revolta dos mineiros de 2051**, preso por causa da antiga operação de Silas. **Reconhece e desconfia de Silas**, mas se tornará amigo e aliado combatente ao longo da história. Nome, visual, poderes, papel e mecanismo de reconciliação ainda não definidos. **Próxima pergunta:** como a desconfiança vira aliança? Preservar jogo de 2–3h, abordagem jogável e dois aliados selecionáveis em combate de chefes ainda em teste. Nenhuma arte/código/vídeo produzidos.
+
+
+## 41ª escolha aprovada — PZ-DEC-075 (19/11/2026)
+**VIGENTE:** aliado ex-líder mineiro resgatado (074) **aceita aliança por necessidade, sem perdoar Silas de início**. Confiança e amizade surgem gradualmente nas missões. Não há perdão imediato, nem cena específica de reconciliação decidida. **Próxima escolha:** estilo de combate/função do aliado. Continuam pendentes nome, visual, habilidades, detalhes da colaboração. Sem mídia/código produzido.

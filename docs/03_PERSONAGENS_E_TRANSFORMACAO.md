@@ -161,3 +161,7 @@ NEX é o pequeno robô **bípede** com identidade artificial própria, legado do
 
 ## Primeiro aliado resgatado: ex-líder dos mineiros — PZ-DEC-074 (19/11/2026)
 **APROVADO:** primeiro novo **amigo/aliado lutador** surge entre prisioneiros libertados da nave que Silas e NEX roubam. Era **líder da revolta dos mineiros de 2051**; foi preso em razão da operação de Silas, **reconhece o ex-militar e não confia nele no começo**. A relação deve amadurecer de maneira plausível por atitudes e conflito, sem perdão automático. Sua história permite confrontar Silas com consequências da obediência anterior. **PENDENTES:** nome, idade, gênero, visual, estilo de luta e arma, personalidade, falas, o que sabe de ÉREBO, quem ordenou a prisão e como se constrói confiança. Não confundir com o antigo melhor amigo que entregou Silas (030/046).
+
+
+## Primeiro aliado: relação progressiva com Silas — PZ-DEC-075
+**Escolha D APROVADA:** ex-líder da revolta dos mineiros conhece o papel passado de Silas e inicialmente não confia nele, mas **se alia por necessidade**, tornando-se amigo aos poucos durante missões em conjunto. Ele tem agência e razões legítimas para desconfiar; confiança precisa ser conquistada por ações, sem perdão imediato. Seu nome, aparência, caráter individual, armas e função tática ainda não foram definidos. **Não confundir com antigo amigo traidor de Silas**.

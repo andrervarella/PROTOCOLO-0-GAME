@@ -220,3 +220,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 40ª escolha — PZ-DEC-074 (19/11/2026)
 **APROVADO:** entre resgatados da nave está **ex-líder da revolta de mineiros de 2051**, preso em consequência da operação de Silas. Ele **reconhece e não confia inicialmente em Silas**, mas é futuro **amigo/aliado lutador**. Não imputar terrorismo ao líder nem afirmar prisão pessoal por Silas, e não dar perdão automático. Nome/arma/persona/combate abertos. **Próxima pergunta:** como começa a aliança? Preservar 2–3h, apoio NEX e chefes híbridos em protótipo.
+
+
+## 41ª escolha — PZ-DEC-075 (19/11/2026)
+**APROVADO:** o ex-líder mineiro resgatado (074) aceita lutar com Silas **por necessidade**, apesar da desconfiança e ausência de perdão; amizade/confiabilidade surgem **gradualmente em missões**, sem reconciliação instantânea. Nome, kit de combate, motivações específicas e primeiro evento de confiança ainda abertos. **Próxima pergunta:** qual papel do mineiro na equipe? Preservar campanha 2–3h e sistema híbrido ainda em protótipo.
