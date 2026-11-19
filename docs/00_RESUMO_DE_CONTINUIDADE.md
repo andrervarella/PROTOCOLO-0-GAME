@@ -196,3 +196,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## Direção nova Guerra Fria/VFX — PZ-DEC-067 (19/11/2026)
 **VIGENTE:** mundo 2054 em **nova Guerra Fria tecnológica/cibernética**, governos e interesses tecnológicos reunidos em três blocos HELION, NEXUS, ATLAS; hackers, energia, chips, minerais, propaganda, IA, desigualdade. Intro simples e impactante sem explicar toda a conspiração LIMIAR, com referência estrutural Gundam 00, original. Golpes normais 2D com VFX de impacto tipo KOF; especiais com **cutscenes curtas de anime**, inspiradas visualmente em Epic Seven, 2D + falso 3D/3D pontual se necessário. Pesquisa: motor YUNA usa cel animation 2D; PixelLab VFX exporta pixel art animado; Godot combina partículas/shaders/SubViewport. Plano exato PixelLab ainda não verificado; sem geração/custos. Combate híbrido testável, **não confirmado como implementação final**. **35ª pergunta sobre reviravolta no complexo industrial continua aberta**, sem resposta A-D. Documento 13 detalha fontes e proposta de intro.
+
+
+## 35ª escolha respondida — PZ-DEC-068 (19/11/2026)
+**APROVADO:** no complexo abandonado, **máquinas reconhecem código ÉREBO de Silas e têm ordem de capturá-lo vivo**. É primeira reviravolta após fuga, não se sabe mandante nem razão; não fundir com outras alternativas da pergunta. Próxima pergunta objetiva: quem aparenta estar por trás da ordem? Preservar campanha 2–3h, progressão lenta, NEX simples e Guerra Fria tecnológica.

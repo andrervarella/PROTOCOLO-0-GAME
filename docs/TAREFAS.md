@@ -197,3 +197,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — Guerra Fria e pesquisa VFX (19/11/2026)
 **PZ-DEC-067:** intro sobre três blocos de poder numa Guerra Fria cibernética/geopolítica; atualizar narração e storyboard após aprovação. **Pesquisa concluída**: YUNA/Epic Seven 2D cel, PixelLab VFX Creator de pixel art (verificar plano, não presumir créditos), Godot 2D particles/shaders/3D SubViewport. **Próximo protótipo a propor, não iniciar automaticamente:** 1 golpe normal com rastro/energia, 1 especial em cutscene curta, 1 boss em ação vs versão tática com 2 aliados, testar no celular e comparar legibilidade/performance. Evitar filmagem cara ou repetitiva, corte de história e complexidade. **Próxima escolha narrativa segue 35ª pergunta**, ainda sem resposta. Documento `docs/13_GUERRA_FRIA_VFX_PIPELINE.md`.
+
+
+## PZ-T-008 — reviravolta do complexo aprovada (19/11/2026)
+**PZ-DEC-068:** máquinas reconhecem Silas pelo código ÉREBO e devem capturá-lo vivo. Próxima etapa de narrativa: decidir emissor aparente da ordem, depois integrar a informação a conflito de ação claro e possível mini-chefe, sem canonizá-lo antes de aprovação. Continuar protótipo enxuto (lâmina, NEX, efeitos) como proposta, sem execução aqui.
