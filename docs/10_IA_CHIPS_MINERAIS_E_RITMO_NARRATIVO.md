@@ -69,3 +69,7 @@ Silas reconhece um infiltrado em outra operação e sua companheira médica aten
 
 ## Abertura para gerar crença no mundo ficcional — PZ-DEC-066 (19/11/2026)
 O dono deseja uma introdução com hooks fortes e cortes breves que aproximem 2054 de problemas concretos: cadeia de mineração e processamento de minerais, fornecimento de chips, investimentos/IA, transição energética, automação e trabalhadores, riqueza concentrada, propaganda e forças militares. Sem afirmações factuais fictícias apresentadas como história real; conectar conceitos à ficção HELION/NEXUS/ATLAS e à acusação contra LIMIAR sem spoiler sobre sua culpa. O estilo será maduro, explicável e **não sobrecarregado de infodump**; mostrar consequências humanas, não só hologramas e logos. Sugestão não aprovada de narração/storyboard em `docs/12_ABERTURA_E_COMBATE_HIBRIDO.md`. A primeira ação jogável ainda é a fuga de 2054 (040), seguida de flashback e retorno rápido ao presente.
+
+
+## Gancho simples e plausível da nova Guerra Fria — PZ-DEC-067 (19/11/2026)
+A intro deverá explicar que governos se uniram em **três grandes blocos** num mundo de **confronto indireto tecnológico/cibernético**, envolvendo energia, hackers, redes, mineração e chips. A nova Guerra Fria de 2054 é **ficção inspirada em tendências reais**, não previsão literal. Narração curta, cortes de personagens afetados, uma ou duas frases memoráveis e transição veloz à fuga jogável; não saturar HUD nem revelar toda a trama sobre LIMIAR. Ver roteiro ilustrativo `docs/13_GUERRA_FRIA_VFX_PIPELINE.md`.

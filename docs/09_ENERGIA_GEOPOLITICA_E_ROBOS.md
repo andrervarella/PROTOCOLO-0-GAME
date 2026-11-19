@@ -53,3 +53,9 @@ A revolta na mina de 2051 nasce da perda de milhares de empregos após substitui
 
 ## Manipulação do conflito trabalhista — PZ-DEC-043 (18/11/2026)
 **APROVADO:** a corporação contratou agentes infiltrados que provocaram um ataque durante a revolta na mina para justificar a intervenção militar. A origem do conflito social segue sendo automação e desemprego (042). Esse episódio ilustra o uso de narrativas oficiais para proteger interesses humanos e econômicos. A participação de agentes de HELION, NEXUS ou ATLAS, o proprietário da mina, o mineral, a relação com LIMIAR e os acontecimentos específicos não estão definidos. Tratar o episódio ficcionalmente, sem instruções operacionais.
+
+
+## Nova Guerra Fria tecnológica entre três blocos — PZ-DEC-067 (19/11/2026)
+**APROVADO COMO ELEMENTO FUNDAMENTAL DA AMBIENTAÇÃO:** governos, grandes corporações e cadeias industriais organizam-se em três blocos geopolíticos de poder, nomeados HELION, NEXUS e ATLAS no universo existente. A rivalidade em 2054 **lembra uma nova Guerra Fria**, com ciberespionagem e hackers, operações secretas, ataques a infraestrutura digital/energética, propaganda, corrida por semicondutores, tecnologia de IA, cadeias de minerais e logística. Explicar por consequências concretas: empregos substituídos por máquinas, acesso desigual à energia/saúde, dependência de chips e apagões; não transformar a intro em aula de economia.
+**Não canonizar** fronteiras, composição estatal, tratados, bases militares, sistema de governo, uma guerra aberta permanente, alianças exatas nem culpar determinada potência por todos os ataques. A referência Gundam 00 é à densidade política e interdependência, sem copiar elementos específicos. LIMIAR recebe acusações públicas, mas sua responsabilidade real deve se revelar gradualmente.
+Ver `docs/13_GUERRA_FRIA_VFX_PIPELINE.md` para proposta de abertura e fontes de efeitos.

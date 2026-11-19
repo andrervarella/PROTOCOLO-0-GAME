@@ -193,3 +193,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — introdução, híbrido e escopo (19/11/2026)
 **PZ-DEC-066:** estruturar abertura curta e imersiva em cenário plausível de 2054; gerar apenas depois de aprovação e cotação de ferramenta Higgsfield. Validar conceito de combate híbrido com **protótipo pequeno (trecho de ação 2D + 1 boss tático)**, incluindo Silas e escolha de dois aliados, sem desenvolver dois sistemas inteiros. Elenco total, interface, cutscenes, custos e fidelidade visual pendentes. Continuar trama com **pergunta 35** sobre reviravolta do complexo. Campanha 2–3h e simplicidade prioritárias. Nenhuma produção executada.
+
+
+## PZ-T-008 — Guerra Fria e pesquisa VFX (19/11/2026)
+**PZ-DEC-067:** intro sobre três blocos de poder numa Guerra Fria cibernética/geopolítica; atualizar narração e storyboard após aprovação. **Pesquisa concluída**: YUNA/Epic Seven 2D cel, PixelLab VFX Creator de pixel art (verificar plano, não presumir créditos), Godot 2D particles/shaders/3D SubViewport. **Próximo protótipo a propor, não iniciar automaticamente:** 1 golpe normal com rastro/energia, 1 especial em cutscene curta, 1 boss em ação vs versão tática com 2 aliados, testar no celular e comparar legibilidade/performance. Evitar filmagem cara ou repetitiva, corte de história e complexidade. **Próxima escolha narrativa segue 35ª pergunta**, ainda sem resposta. Documento `docs/13_GUERRA_FRIA_VFX_PIPELINE.md`.
