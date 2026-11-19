@@ -59,3 +59,7 @@ O dono quer **impactos, golpes e energia com presença visual semelhante à trad
 
 ## Primeiro mini-chefe confirmado — PZ-DEC-070 (19/11/2026)
 **Aprovado:** no complexo industrial, o comandante envia um **soldado de elite ciberneticamente aprimorado** para interceptar/capturar Silas. Será **primeiro mini-chefe**. É uma luta inicial, não necessariamente um dos seis grandes chefes; não presumir interface de RPG tático, pois o modo híbrido dos chefes principais depende de protótipo (066). Conceber uma luta legível e curta compatível com Silas recém-equipado com lâmina industrial (065) e ajuda simples de NEX (063), sem poderes ilimitados. Padrões de ataque, arena, dificuldade, recompensas, mecânica de captura e destino do agente em aberto.
+
+
+## Recompensa narrativa do primeiro mini-chefe — PZ-DEC-071 (19/11/2026)
+O primeiro mini-chefe (soldado aprimorado) **é vencido** e NEX **recupera do equipamento dele uma rota secreta para outra instalação ÉREBO**, abrindo o próximo destino do jogador. O recurso é uma **pista/objetivo**, não um poder ou armamento adquirido automaticamente; a recompensa material da luta e habilidades novas permanecem indefinidas. Criar transição curta que recompense o combate e dê orientação clara ao jogador, com comandos simples de NEX e poucos menus. A função e os desafios da nova instalação ainda exigem escolha.

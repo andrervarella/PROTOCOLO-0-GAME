@@ -209,3 +209,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — soldado aprimorado como primeiro mini-chefe (19/11/2026)
 **PZ-DEC-070:** agente de elite melhorado ciberneticamente enviado pelo comandante é o primeiro mini-chefe da área industrial. Próximo: decidir consequência dramática da luta; depois estruturar curto encontro e eventual progressão/recompensa. **Não** definir ataques/arena/modelo nem implementar até alinhamento do protótipo de combate. Preservar seis chefes principais separados e meta ~2–3h.
+
+
+## PZ-T-008 — próximo objetivo após o mini-chefe (19/11/2026)
+**PZ-DEC-071:** após vencer o mini-chefe enviado pelo comandante, Silas tem nova rota: NEX recupera do equipamento do agente um **caminho secreto para instalação ligada a ÉREBO**. Próxima decisão: qual natureza da instalação e qual conflito jogável central, sem ainda fabricar armas, implantes, chefe, mapa ou cutscene. Planejar transição de fase compacta dentro da campanha de 2–3h. Sem implementação neste registro.

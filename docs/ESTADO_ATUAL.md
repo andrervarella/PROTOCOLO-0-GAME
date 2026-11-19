@@ -207,3 +207,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 37ª escolha aprovada — PZ-DEC-070 (19/11/2026)
 **VIGENTE:** primeiro mini-chefe é **soldado de elite ciberneticamente aprimorado, enviado pelo antigo comandante para capturar Silas vivo no complexo industrial**. Ordem aparente das máquinas também ligada ao comandante (068/069). Ainda não há nome, visual, ataque, arena, recompensa ou resultado aprovado. Manter separação dos seis chefes principais e combate híbrido em prototipagem. **Próxima decisão:** revelação dramática ou consequência após o primeiro mini-chefe, com uma pergunta objetiva. Sem artes/código novos.
+
+
+## 38ª escolha aprovada — PZ-DEC-071 (19/11/2026)
+**VIGENTE:** Silas vence primeiro mini-chefe (soldado aprimorado). **NEX recupera dos equipamentos dele uma rota secreta para outra instalação ÉREBO**, que passa a ser próximo objetivo. Tipo, localização e controle dessa instalação não definidos; nenhum novo poder ou recompensa material aprovado com essa escolha. **Próxima decisão:** natureza da instalação e sua função dramática/jogável. Campanha-alvo ~2–3h; NEX simples e combate híbrido ainda sob protótipo; sem arte, vídeo ou código novo.

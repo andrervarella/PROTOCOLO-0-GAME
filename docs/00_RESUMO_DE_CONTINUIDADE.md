@@ -208,3 +208,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 37ª escolha — PZ-DEC-070 (19/11/2026)
 **APROVADO:** antigo comandante **envia soldado ciberneticamente aprimorado como primeiro mini-chefe** para capturar Silas vivo no complexo. Não confundir com seis chefes principais, não inventar resultado da luta, motivações, origem dos implantes nem prêmio. Combate híbrido ainda precisa de protótipo; Silas começa fraco com lâmina e NEX simples. **Próxima pergunta:** qual revelação após o confronto?
+
+
+## 38ª escolha — PZ-DEC-071 (19/11/2026)
+**APROVADO:** após Silas **vencer o soldado aprimorado**, NEX encontra em seu equipamento **rota secreta para outra instalação do Projeto ÉREBO**; constitui próximo objetivo da aventura. Função, local, detentores e ameaça da instalação em aberto. Não conceder novos itens nem decidir morte do mini-chefe por inferência. **Próxima pergunta:** tipo e papel da instalação. Lembrar 2–3h de campanha, início sem itens, progressão de lâmina e NEX simples.
