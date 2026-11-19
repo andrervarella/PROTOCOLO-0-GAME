@@ -153,3 +153,7 @@ NEX é o pequeno robô **bípede** com identidade artificial própria, legado do
 
 ## Comandante e Silas após a fuga — PZ-DEC-069
 **APROVADO:** o primeiro rastreio da ordem para capturar Silas vivo no complexo industrial **aponta para o antigo comandante que o traiu**. Preservar as motivações ambíguas aprovadas do comandante (031): ele quis silenciar uma testemunha e transformar Silas em arma que acreditava capaz de prevenir guerra mundial. **Não** canonizar que ele atualmente controla todo ÉREBO, comanda pessoalmente cada máquina ou é o último vilão. Reação e encontro com Silas ainda por escolher.
+
+
+## NEX piloto e primeiro aliado resgatado — PZ-DEC-073 (19/11/2026)
+**APROVADO:** NEX, robô bípede de IA própria, **desliga/reduz emissões detectáveis** durante infiltração de nave com Silas, depois **consegue pilotar a nave roubada**. Silas **não sabe pilotar**, criando diálogo curto e cômico; manter personalidade própria de NEX e contraste divertido com Silas, sem transformar parceiro em caricatura. Durante fuga de naves perseguindo-os, ambos resgatam vários transportados; um **novo amigo e futuro aliado capaz de lutar ao lado de Silas** aparece. Nome, origem, histórico, aparência, classe/habilidades, motivações e vínculo com Silas ainda abertos. NEX não vira consciência do mentor e não domina todo sistema de transporte do mundo sem limitações.

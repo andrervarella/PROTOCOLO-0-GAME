@@ -212,3 +212,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 38ª escolha — PZ-DEC-071 (19/11/2026)
 **APROVADO:** após Silas **vencer o soldado aprimorado**, NEX encontra em seu equipamento **rota secreta para outra instalação do Projeto ÉREBO**; constitui próximo objetivo da aventura. Função, local, detentores e ameaça da instalação em aberto. Não conceder novos itens nem decidir morte do mini-chefe por inferência. **Próxima pergunta:** tipo e papel da instalação. Lembrar 2–3h de campanha, início sem itens, progressão de lâmina e NEX simples.
+
+
+## 39ª escolha e nova sequência — PZ-DEC-072/073 (19/11/2026)
+**APROVADO:** rota de NEX (071) leva a **centro clandestino de transferência**. Silas/NEX infiltram nave entre prisioneiros, NEX silencia sinais para não ser detectado, Silas rouba nave sem saber pilotar, NEX pilota; diálogo engraçado, cutscene curta e minigame de fuga de perseguição aérea/veicular. Salva pessoas; **um novo amigo resgatado vira aliado lutador/jogável**, ainda sem identidade. A explicação técnica (compartimento isolado, piloto assistido), duração/controles e texto de fala são PROPOSTAS, não aprovados. Não confundir “nave” com veículo espacial definitivo. **Próxima pergunta:** quem é esse primeiro aliado? Meta ~2–3h, 2 aliados selecionáveis sob protótipo. Ver doc 14.

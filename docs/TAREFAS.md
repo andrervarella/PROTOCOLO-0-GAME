@@ -213,3 +213,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — próximo objetivo após o mini-chefe (19/11/2026)
 **PZ-DEC-071:** após vencer o mini-chefe enviado pelo comandante, Silas tem nova rota: NEX recupera do equipamento do agente um **caminho secreto para instalação ligada a ÉREBO**. Próxima decisão: qual natureza da instalação e qual conflito jogável central, sem ainda fabricar armas, implantes, chefe, mapa ou cutscene. Planejar transição de fase compacta dentro da campanha de 2–3h. Sem implementação neste registro.
+
+
+## PZ-T-008 — centro de transferência e minigame de nave (19/11/2026)
+**PZ-DEC-072:** instalação ÉREBO da rota é centro clandestino de transferência de pessoas. **PZ-DEC-073:** infiltração entre presos, sinais NEX desativados, nave roubada, Silas não sabe pilotar e NEX sabe, diálogo cômico, cutscene curta, minigame simples e bonito de escapar de naves, resgate bem-sucedido e **um novo aliado lutador** entre vítimas. **Próxima pergunta:** escolher identidade/perfil do aliado. Depois esboçar missão jogável breve e roteiro/sprite minimal; validar mini-game com protótipo antes de VFX caro, sem crédito Higgsfield/PixelLab gasto. Não definir detalhes pendentes como fatos canônicos.

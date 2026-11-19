@@ -211,3 +211,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 38ª escolha aprovada — PZ-DEC-071 (19/11/2026)
 **VIGENTE:** Silas vence primeiro mini-chefe (soldado aprimorado). **NEX recupera dos equipamentos dele uma rota secreta para outra instalação ÉREBO**, que passa a ser próximo objetivo. Tipo, localização e controle dessa instalação não definidos; nenhum novo poder ou recompensa material aprovado com essa escolha. **Próxima decisão:** natureza da instalação e sua função dramática/jogável. Campanha-alvo ~2–3h; NEX simples e combate híbrido ainda sob protótipo; sem arte, vídeo ou código novo.
+
+
+## 39ª escolha e dinâmica de nave aprovadas — PZ-DEC-072/073 (19/11/2026)
+**VIGENTE:** a nova instalação é um **centro clandestino de transferência de pessoas**. Silas infiltra-se entre prisioneiros num transporte com NEX silencioso para não ser detectado, **rouba nave, não sabe pilotar, NEX pilota**, troca cômica breve, **cutscene curta e minigame de evasão contra naves perseguidoras**. Escapam, resgatam vítimas e **um sobrevivente torna-se amigo/aliado jogável**. Tecnologia de ocultação, plataforma de nave, visual/minigame detalhado, nome/identidade do aliado não aprovados. **Próxima pergunta:** quem é o aliado resgatado? Preservar meta 2–3h, poucos sistemas e combate híbrido apenas em estudo. Nenhum vídeo/asset/código/crédito produzido.
