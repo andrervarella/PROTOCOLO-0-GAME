@@ -201,3 +201,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — reviravolta do complexo aprovada (19/11/2026)
 **PZ-DEC-068:** máquinas reconhecem Silas pelo código ÉREBO e devem capturá-lo vivo. Próxima etapa de narrativa: decidir emissor aparente da ordem, depois integrar a informação a conflito de ação claro e possível mini-chefe, sem canonizá-lo antes de aprovação. Continuar protótipo enxuto (lâmina, NEX, efeitos) como proposta, sem execução aqui.
+
+
+## PZ-T-008 — comando de captura aponta ao antigo comandante (19/11/2026)
+**PZ-DEC-069:** reviravolta do complexo liga ordem de captura viva ao antigo comandante (aparente, não autoria única definitivamente comprovada). **Próxima decisão:** reação concreta do comandante e primeiro confronto ligado à ameaça; planejar situação jogável curta (sem estabelecer chefe/arena antes da escolha), preservar ritmo de 2–3h. Sem implementação aqui.

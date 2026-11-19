@@ -199,3 +199,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 35ª escolha aprovada — PZ-DEC-068 (19/11/2026)
 **VIGENTE:** no complexo industrial, máquinas reconhecem o código ÉREBO de Silas e têm ordens para **capturá-lo vivo**. Primeira grande reviravolta após fuga. A origem da ordem e o motivo específico de capturar são **desconhecidos**; não declarar culpado definitivo. Alternativas da 35ª pergunta A/C/D não escolhidas. **Próxima decisão:** quem aparenta ter emitido a ordem de captura e que pista é apresentada? Manter ritmo rápido, campanha ~2–3h, NEX simples, lâmina industrial e apresentação de Guerra Fria tecnológica. Nenhum código/assets gerados.
+
+
+## 36ª escolha aprovada — PZ-DEC-069 (19/11/2026)
+**VIGENTE:** ordem de capturar Silas vivo no complexo industrial aponta ao seu **antigo comandante**, responsável por parte central da traição. **Não se estabeleceu ainda autor definitivo da ordem, sua localização ou se é chefe supremo**. Próximo foco: o que ele faz ao saber que Silas escapou, e primeiro confronto jogável. Campanha 2–3h; NEX, lâmina e progressão gradual mantidos. Nada de novas artes/código/vídeos nesta atualização.

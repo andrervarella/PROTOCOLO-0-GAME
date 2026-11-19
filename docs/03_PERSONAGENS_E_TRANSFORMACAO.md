@@ -149,3 +149,7 @@ NEX é o pequeno robô **bípede** com identidade artificial própria, legado do
 
 ## Primeiro armamento real de Silas — PZ-DEC-065
 **Aprovado:** Silas encontra lâmina industrial no primeiro complexo após a prisão. A arma é adaptada de ferramenta de corte, simples e com possibilidade de melhoria. A progressão começa vulnerável: primeiro ferramenta de manutenção (062), depois lâmina industrial (065), sem arma de fogo ou arsenal militar como aquisição inicial. Os efeitos corporais de ÉREBO já existem, mas poderes acessíveis ainda são limitados e evoluem ao longo da campanha. Aparência final/arma na transformação ainda aberta.
+
+
+## Comandante e Silas após a fuga — PZ-DEC-069
+**APROVADO:** o primeiro rastreio da ordem para capturar Silas vivo no complexo industrial **aponta para o antigo comandante que o traiu**. Preservar as motivações ambíguas aprovadas do comandante (031): ele quis silenciar uma testemunha e transformar Silas em arma que acreditava capaz de prevenir guerra mundial. **Não** canonizar que ele atualmente controla todo ÉREBO, comanda pessoalmente cada máquina ou é o último vilão. Reação e encontro com Silas ainda por escolher.

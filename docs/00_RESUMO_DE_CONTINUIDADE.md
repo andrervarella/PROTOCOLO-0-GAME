@@ -200,3 +200,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 35ª escolha respondida — PZ-DEC-068 (19/11/2026)
 **APROVADO:** no complexo abandonado, **máquinas reconhecem código ÉREBO de Silas e têm ordem de capturá-lo vivo**. É primeira reviravolta após fuga, não se sabe mandante nem razão; não fundir com outras alternativas da pergunta. Próxima pergunta objetiva: quem aparenta estar por trás da ordem? Preservar campanha 2–3h, progressão lenta, NEX simples e Guerra Fria tecnológica.
+
+
+## 36ª escolha — PZ-DEC-069 (19/11/2026)
+**APROVADO:** origem da ordem para capturar Silas vivo (068) **aponta para o antigo comandante**, envolvido em sua traição. A pista não define emissor final nem chefia absoluta do ÉREBO. Próxima pergunta: o que o comandante envia/faz para capturar Silas e gerar confronto no complexo? Sem mais investigação longa; 2–3h, NEX e lâmina iniciais.

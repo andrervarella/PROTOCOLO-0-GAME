@@ -51,3 +51,7 @@ O dono quer **impactos, golpes e energia com presença visual semelhante à trad
 
 ## Primeiro pico de ameaça após a fuga — PZ-DEC-068 (19/11/2026)
 **APROVADO:** após Silas conseguir a lâmina industrial no complexo (065), ou em outro ponto da exploração a definir, **máquinas identificam seu código ÉREBO** e recebem instrução para **capturá-lo vivo**. É um gancho de ação e suspense adequado a uma primeira perseguição/confronto, mas **a forma mecânica, inimigos, arena, combate e duração não foram aprovados**. Evitar escalar a dificuldade ou liberar poderes demais cedo; NEX pode contribuir com comandos simples (063) e recursos recém-conquistados. Motivo da captura e mandante pendentes.
+
+
+## Gancho para primeiro confronto — PZ-DEC-069 (19/11/2026)
+**APROVADO:** o comando das máquinas para **capturar Silas vivo** aponta ao seu antigo comandante, que o traiu. Isso deve ser sentido na jogabilidade como ameaça crescente, não em uma sequência longa de mensagens/investigações. **Um encontro/mini-chefe ligado à ordem é proposta para decidir, não fato aprovado**. Manter Silas limitado, lâmina industrial e NEX com comandos simples (063–065); eventual confronto precisa validar legibilidade e duração numa campanha de 2–3h. O autor final da conspiração e a identidade de subordinados não estão definidos.
