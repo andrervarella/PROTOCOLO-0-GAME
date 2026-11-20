@@ -75,3 +75,7 @@ O primeiro mini-chefe (soldado aprimorado) **é vencido** e NEX **recupera do eq
 
 ## Refúgio da resistência: próxima missão — PZ-DEC-077 (20/11/2026)
 **APROVADO:** após resgate e minigame da nave, trio **Silas, NEX e mineiro** leva os sobreviventes a **refúgio clandestino da resistência conhecido pelo ex-líder**; descobrem que o local está **ameaçado**. Preparar próxima situação jogável de cooperação entre lâmina/mobilidade de Silas, suporte simples de NEX e força/proteção do mineiro, sem fixar o perigo antes da próxima escolha. Não acrescentar sistemas complexos de gerenciamento de refúgio nem desviar da campanha de ~2–3h. A ameaça concreta e sua resolução ainda estão em aberto.
+
+
+## Missão de defesa em andamento — PZ-DEC-078 (20/11/2026)
+**APROVADO:** o trio chega ao refúgio enquanto **máquinas militares já atacam**. A próxima seção é uma **defesa jogável imediata**, com Silas em ação 2D, o ex-líder mineiro como combatente pesado e NEX auxiliando pontualmente em sistemas e confronto. Priorizar objetivos legíveis e curtos, sem transformar o refúgio em minigame extenso de gerenciamento ou defesa de torres. A progressão de poder continua gradual, sem liberar novos upgrades sem escolha. Modelos inimigos, mecânica de proteção/evacuação e desfecho ainda aguardam aprovação.

@@ -232,3 +232,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 43ª escolha — PZ-DEC-077 (20/11/2026)
 **APROVADO:** após fugir de nave com resgatados, Silas/NEX/mineiro os levam a **refúgio da resistência conhecido pelo ex-líder**, que está **ameaçado**. O tipo/autor da ameaça **não definido**. Próxima pergunta: o que ameaça o refúgio? Mineiro combatente pesado (076), ainda não perdoou Silas (075), jogo 2–3h e combate híbrido em prototipagem.
+
+
+## 44ª escolha — PZ-DEC-078 (20/11/2026)
+**APROVADO:** Silas, NEX, ex-líder mineiro e resgatados chegam ao **refúgio durante ataque já em andamento por máquinas militares**. Segue missão de defesa jogável; resultado, motivo e mandante ainda abertos. Não misturar opções não escolhidas (nave rastreada, traidor, sabotagem). **Próxima pergunta:** desfecho da defesa e gancho da missão seguinte. Meta 2–3h, equipe com papéis distintos e amizade gradual.

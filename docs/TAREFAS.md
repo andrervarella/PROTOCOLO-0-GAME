@@ -233,3 +233,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — refúgio da resistência escolhido (20/11/2026)
 **PZ-DEC-077:** Silas, NEX e o ex-líder levam sobreviventes resgatados até refúgio da resistência conhecido pelo mineiro; o local está ameaçado. Próximo passo escolher ameaça concreta e transformá-la em objetivo jogável curto, preservando construção gradual da confiança mineiro/Silas. Localização, antagonista, batalha e resultados ainda abertos; não implementar sem detalhamento/protótipo.
+
+
+## PZ-T-008 — missão de defesa ao refúgio (20/11/2026)
+**PZ-DEC-078:** equipe chega e encontra máquinas militares atacando resistência; missão de defesa imediatamente jogável. **Próximo passo narrativo:** escolher resultado e consequência do ataque. Depois roteiro compacto de objetivos, interações Silas/mineiro/NEX, sem assumir culpado, perdas ou sistema tático. Ainda não houve implementação nem consumo de créditos.

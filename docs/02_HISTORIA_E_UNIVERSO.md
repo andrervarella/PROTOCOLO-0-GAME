@@ -241,3 +241,7 @@ Na primeira região após a fuga de ÉREBO, as máquinas identificam Silas e rec
 
 ## Do resgate ao refúgio ameaçado — PZ-DEC-077 (20/11/2026)
 **APROVADO:** depois de escapar da perseguição às naves e libertar os transferidos de ÉREBO (072–073), **Silas, NEX e o ex-líder dos mineiros conduzem as vítimas a um refúgio da resistência que o mineiro conhece**. Ao chegarem, verificam que **o lugar está sob ameaça**, o que cria o próximo desafio e oportunidade de estreitar a aliança desconfiada (075). Não determinar se a ameaça vem do rastreamento da nave, de guardas, espionagem, falta de energia ou conflito interno; isso será escolhido. O refúgio não está canonicamente destruído nem tomado. Preservar motivação por justiça, tensão de Guerra Fria tecnológica e avanço rápido da história.
+
+
+## Refúgio sob ataque militar — PZ-DEC-078 (20/11/2026)
+Depois de resgatarem os prisioneiros e levá-los ao esconderijo conhecido pelo ex-líder mineiro (077), **Silas, NEX e o mineiro chegam enquanto máquinas militares atacam o refúgio da resistência**. Este é o início da missão de defesa, colocando Silas para proteger pessoas em vez de cumprir ordens repressivas como na revolta de 2051. O ataque cria oportunidade para que a confiança entre Silas e o mineiro cresça por ações durante a luta (075), mas **não confirma reconciliação, vitória ou qualquer resultado**. O mandante, o motivo do ataque, as perdas e o estado final do refúgio continuam indefinidos. Não presumir que a nave foi rastreada, que houve traição interna ou que a energia foi sabotada.

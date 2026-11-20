@@ -231,3 +231,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 43ª escolha aprovada — PZ-DEC-077 (20/11/2026)
 **VIGENTE:** após fuga de nave com prisioneiros, Silas/NEX/mineiro **levam sobreviventes ao refúgio da resistência conhecido pelo mineiro**, e **encontram o local ameaçado**. Próxima decisão: natureza e origem da ameaça. Não foram definidos ataque, responsável, localização, destino dos sobreviventes, novo aliado ou recompensa. Campanha 2–3h; novo conteúdo apenas documental.
+
+
+## 44ª decisão aprovada — PZ-DEC-078 (20/11/2026)
+**VIGENTE:** trio e sobreviventes chegam ao **refúgio da resistência durante ataque de máquinas militares**; missão de defesa com ação imediata. Causa/mandante do ataque, resultado, perdas e consequência narrativa ainda abertos. **Próxima pergunta:** qual desfecho/virada dessa defesa? Preservar meta 2–3h, aliança mineiro/Silas em formação e NEX multifuncional. Nenhuma arte, código ou vídeo gerados.

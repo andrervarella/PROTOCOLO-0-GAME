@@ -253,3 +253,7 @@ Resposta literal: **“Escolho A: combatente pesado com equipamentos industriais
 
 ## 43ª escolha — PZ-DEC-077 (20/11/2026)
 Resposta literal: **“Escolho A: a equipe leva os sobreviventes ao refúgio da resistência.”** Alternativa A oferecida: **o ex-líder mineiro conhece um esconderijo para sobreviventes; quando chegam, o local está ameaçado**. **APROVADO**. Esta é a missão seguinte à fuga de nave, com Silas, NEX e mineiro. O caráter exato da ameaça permanece em aberto; não inventar perseguidor, infiltrado, bombardeio nem colapso energético como fato. **Próxima pergunta curta e com impacto no gameplay:** qual ameaça encontram no refúgio? Preservar 2–3h, história com reviravoltas e aliança mineiro/Silas ainda em construção.
+
+
+## 44ª escolha do dono — PZ-DEC-078 (20/11/2026)
+Resposta literal: **“Escolho B: máquinas militares estão atacando o refúgio.”** **APROVADO.** A opção B afirmava: a equipe chega **durante ataque de máquinas militares**, entrando imediatamente em uma **missão de defesa**. É a sequência direta da escolha 077, após o resgate na nave. **Não canonizar opções A/C/D da pergunta anterior** (nave rastreada, infiltrado, sabotagem energética). Manter ritmo de campanha 2–3h, ação 2D e parceria do mineiro com Silas sem confiança instantânea, NEX apoio simples. **Próxima pergunta curta:** resultado/consequência do ataque que faça o jogo avançar e entregue uma reviravolta, sem microdetalhes de aparelhos/diálogo.

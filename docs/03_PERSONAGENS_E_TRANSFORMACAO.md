@@ -173,3 +173,7 @@ Ex-líder dos mineiros de 2051, resgatado na nave clandestina. **Combatente pesa
 
 ## Mineiro guia vítimas até resistência — PZ-DEC-077 (20/11/2026)
 **APROVADO:** o ex-líder conhece um **refúgio da resistência** e, ao lado de Silas e NEX, conduz os sobreviventes libertados da nave até lá. **O lugar está ameaçado** quando chegam, criando situação de parceria prática apesar da confiança ainda frágil (075). Não assumir que o mineiro lidera atualmente o grupo, que é proprietário da base ou que sabe quem ameaça o local. Equipamento específico do combatente pesado permanece sem escolha (076).
+
+
+## Silas, NEX e mineiro em missão de defesa — PZ-DEC-078 (20/11/2026)
+**APROVADO:** ao chegarem com sobreviventes ao refúgio, **máquinas militares já estão atacando**. Silas e o ex-líder mineiro devem lutar do mesmo lado, com NEX em papel de apoio, para enfrentar a ameaça imediata. Este é um marco para mostrar a **aliança por necessidade**, não perdão automático ou amizade plenamente estabelecida. O mineiro continua combatente pesado de equipamento industrial adaptado (076), Silas ainda evolui gradativamente, e NEX usa comandos simples. Desfecho/perdas e feitos heroicos específicos não definidos.
