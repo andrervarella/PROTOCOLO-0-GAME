@@ -223,3 +223,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 41ª escolha aprovada — PZ-DEC-075 (19/11/2026)
 **VIGENTE:** aliado ex-líder mineiro resgatado (074) **aceita aliança por necessidade, sem perdoar Silas de início**. Confiança e amizade surgem gradualmente nas missões. Não há perdão imediato, nem cena específica de reconciliação decidida. **Próxima escolha:** estilo de combate/função do aliado. Continuam pendentes nome, visual, habilidades, detalhes da colaboração. Sem mídia/código produzido.
+
+
+## 42ª escolha aprovada — PZ-DEC-076 (20/11/2026)
+**VIGENTE:** aliado ex-líder mineiro resgatado é **combatente pesado com equipamentos industriais**, forte/resistente/protetor, menos ágil. Sem nome, equipamento específico, kit e aparência definidos. Relação com Silas: necessidade primeiro, confiança depois (075). **Próxima escolha:** objetivo da equipe após fuga aérea, retomando ação e trama. Nenhum asset ou código novo.

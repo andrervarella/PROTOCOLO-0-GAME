@@ -54,3 +54,7 @@ NEX: “Sim. Mas recomendo que pare de apertar botões aleatórios.”
 
 ## 8. Como a aliança começa — PZ-DEC-075 (19/11/2026)
 **41ª resposta do dono: D, aliança por necessidade.** O ex-líder mineiro resgatado (074) **reconhece Silas, mantém desconfiança, mas aceita lutar ao lado dele por necessidade**. Confiança e amizade serão construídas **ao longo das missões** com ações, risco e escolhas, **não por perdão instantâneo**. A cena inicial pode ter tensão e humor seco, mas falas, motivação concreta de cooperação e episódios de respeito ainda **não foram aprovados**. Ele não foi confirmado como autor do ataque de 2051 nem como preso pessoalmente por Silas. **Próxima pergunta objetiva:** papel/estilo de combate desse personagem, mantendo complementaridade com lâmina de Silas e hacking de NEX.
+
+
+## 9. Perfil de combate do mineiro — PZ-DEC-076 (20/11/2026)
+**42ª escolha do dono: opção A, “combatente pesado com equipamentos industriais”.** O novo amigo de Silas usará **equipamentos industriais adaptados**, com **golpes fortes, defesa/proteção e resistência**, sendo **menos ágil**. Deve parecer alguém que aprendeu a usar ferramentas e lidar com máquinas, sem exigir implantes ou um armamento específico ainda não aprovado. Nome, visual e habilidades concretas continuam em aberto. Sua colaboração com Silas segue aliança por necessidade e confiança gradativa (075). **Próxima pergunta:** que primeira missão a equipe realiza após fugir com os prisioneiros?

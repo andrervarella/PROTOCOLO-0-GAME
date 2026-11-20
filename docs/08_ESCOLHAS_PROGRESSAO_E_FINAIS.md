@@ -96,3 +96,7 @@ Reforçada a visão de exploração em ação 2D e **especialidades energéticas
 
 ## Recrutamento com desconfiança — PZ-DEC-075 (19/11/2026)
 O ex-líder mineiro resgatado da nave é **aliado combatente por necessidade desde o começo**, embora **a confiança e amizade só apareçam gradualmente durante missões**. **Não bloquear mecanicamente** a participação em luta até ocorrer perdão formal não aprovado. Seu kit de combate, equipamentos, upgrades, função (suporte/ataque/tanque) e limite de recrutáveis continuam em aberto. A ideia de até dois aliados na equipe de chefes sob protótipo (066) permanece, sem afirmar implementação. Em 2–3 horas, mostrar 2–3 atitudes significativas em vez de dezenas de cenas de diálogo é sugestão, não estrutura aprovada.
+
+
+## Estilo do primeiro aliado definido — PZ-DEC-076 (20/11/2026)
+O primeiro aliado resgatado (ex-líder mineiro) atuará como **combatente pesado com equipamentos industriais adaptados**, forte e resistente, com **proteção e menor mobilidade**. Seu papel de frente contrasta com a mobilidade da lâmina de Silas e o apoio de NEX. **Kit final, arma concreta, progressão, custos, animações, habilidades e estatísticas não aprovados**. Manter repertório enxuto para campanha de 2–3h e eventual composição de equipe Silas + dois aliados em chefes, ainda sujeita a protótipo.

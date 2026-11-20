@@ -225,3 +225,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — aliança gradual definida (19/11/2026)
 **PZ-DEC-075 aprovado:** ex-líder mineiro resgatado da nave aceita cooperar por necessidade, sem confiança nem perdão inicial; amizade por missões. Próxima decisão: estilo de combate do aliado e complementaridade com Silas/NEX, depois ritmo de apresentação e próxima missão. Não prolongar relações com microperguntas nem canonizar habilidades, nome ou eventos específicos não aprovados.
+
+
+## PZ-T-008 — papel do primeiro aliado em combate (20/11/2026)
+**PZ-DEC-076:** ex-líder dos mineiros = combatente pesado usando equipamentos industriais adaptados; golpes fortes, proteção e resistência com menor agilidade. **Próximo:** decidir missão após a fuga de nave e incorporar o mineiro a combate/progressão sem inventar arma específica. Prototipar papel quando houver etapa de implementação, sem custo agora. Campanha de 2–3h.

@@ -245,3 +245,7 @@ Resposta literal: **“Escolho A: ex-líder da revolta dos mineiros.”** Altern
 
 ## 41ª escolha do dono — PZ-DEC-075 (19/11/2026)
 Resposta literal: **“Escolho D: aliança por necessidade, com confiança e amizade construídas gradualmente.”** Alternativa D da pergunta anterior: mineiro **ainda não perdoa** Silas, mas **aceita lutar ao lado dele**; confiança amadurece nas missões. **APROVADO**. Evitar conversão rápida a melhor amigo, exposição longa, prova de coragem específica e confissão como precondições canônicas. Reforçar impacto de 2051 no presente e a campanha curta. **Próxima pergunta:** papel em combate do aliado, para que os dois estilos se complementem, sem engessar ainda combate estratégico de chefes em teste.
+
+
+## 42ª escolha do dono — PZ-DEC-076 (20/11/2026)
+Resposta literal: **“Escolho A: combatente pesado com equipamentos industriais.”** A opção A da pergunta definia **golpes fortes, proteção, resistência e menor agilidade**. **APROVADO** para o ex-líder da revolta mineira, primeiro aliado resgatado na nave (074), com confiança construída gradualmente (075). Evitar assumir arma específica (martelo, broca, escudo, exobraço) como já escolhida. Manter estilo industrial coerente com origem e papel distinto de Silas/NEX, sem overdesign ou poder desmedido. **Próxima pergunta curta e de alto impacto:** primeiro objetivo da nova equipe depois do resgate da nave. Meta 2–3h, combate híbrido sob protótipo.

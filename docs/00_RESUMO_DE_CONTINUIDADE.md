@@ -224,3 +224,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 41ª escolha — PZ-DEC-075 (19/11/2026)
 **APROVADO:** o ex-líder mineiro resgatado (074) aceita lutar com Silas **por necessidade**, apesar da desconfiança e ausência de perdão; amizade/confiabilidade surgem **gradualmente em missões**, sem reconciliação instantânea. Nome, kit de combate, motivações específicas e primeiro evento de confiança ainda abertos. **Próxima pergunta:** qual papel do mineiro na equipe? Preservar campanha 2–3h e sistema híbrido ainda em protótipo.
+
+
+## 42ª escolha — PZ-DEC-076 (20/11/2026)
+**APROVADO:** primeiro aliado resgatado da nave, ex-líder da revolta dos mineiros, luta como **combatente pesado com equipamentos industriais adaptados**, resistente, golpes fortes e capacidade de proteção, menos ágil. Nome, item exato, kit e visual pendentes. **Próxima pergunta objetiva:** primeira missão após a nave, foco em ação e trama. Relação com Silas: parceria por necessidade, amizade gradual (075). Combate de chefes híbrido ainda sob avaliação, duração alvo 2–3h.

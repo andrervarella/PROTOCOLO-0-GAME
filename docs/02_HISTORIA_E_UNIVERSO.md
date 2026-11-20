@@ -233,3 +233,7 @@ Na primeira região após a fuga de ÉREBO, as máquinas identificam Silas e rec
 
 ## Relação entre Silas e o mineiro resgatado — PZ-DEC-075 (19/11/2026)
 **APROVADO:** ex-líder dos mineiros resgatado da nave (074) reconhece Silas como participante da repressão da revolta de 2051. **Não o perdoa no reencontro** e desconfia de suas intenções, mas **aceita colaborar por necessidade**. Confiança e amizade são conquistadas progressivamente **ao lutarem juntos em missões**, com consequências e ações concretas, evitando uma longa conversa explicativa ou reconciliação automática. Não afirmar que Silas o capturou pessoalmente, que o ex-líder provocou o ataque dos infiltrados ou que haverá necessariamente confissão formal. O objetivo comum e os passos para estreitar a confiança ainda estão abertos. Conectar 2051 a 2054 e preservar ritmo de campanha 2–3h.
+
+
+## O ex-líder mineiro luta com ferramentas industriais — PZ-DEC-076 (20/11/2026)
+**APROVADO:** ex-líder da revolta de 2051, preso após operação em que Silas esteve envolvido, resgatado da nave (074) e aliado por necessidade (075), será **combatente pesado usando equipamento industrial adaptado**. Golpes de grande força, resistência e proteção refletem vivência de trabalho manual e criam contraste com a agilidade/armas de Silas, sem forçar poderes fantasiosos. Seu equipamento específico, origem, nome e como torna-se disponível estão abertos. A próxima escolha deve levar a equipe a uma missão concreta após resgatar os prisioneiros, mantendo história de justiça e guerra tecnológica em andamento.

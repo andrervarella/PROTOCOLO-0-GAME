@@ -165,3 +165,7 @@ NEX é o pequeno robô **bípede** com identidade artificial própria, legado do
 
 ## Primeiro aliado: relação progressiva com Silas — PZ-DEC-075
 **Escolha D APROVADA:** ex-líder da revolta dos mineiros conhece o papel passado de Silas e inicialmente não confia nele, mas **se alia por necessidade**, tornando-se amigo aos poucos durante missões em conjunto. Ele tem agência e razões legítimas para desconfiar; confiança precisa ser conquistada por ações, sem perdão imediato. Seu nome, aparência, caráter individual, armas e função tática ainda não foram definidos. **Não confundir com antigo amigo traidor de Silas**.
+
+
+## Primeiro aliado — perfil de combate aprovado PZ-DEC-076 (20/11/2026)
+Ex-líder dos mineiros de 2051, resgatado na nave clandestina. **Combatente pesado**, resistente, menos ágil, com **golpes fortes e capacidade de proteção** através de **equipamentos industriais adaptados**. É o contraponto ao estilo da lâmina de Silas e ao hacking de NEX. **Não fixar** ferramenta específica, armadura/exoesqueleto, próteses, nome, gênero, visual, falas ou kit de habilidades sem nova decisão. Relação com Silas: aliança por necessidade, desconfiança e amizade construída nas missões (075).
