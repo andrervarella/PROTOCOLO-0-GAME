@@ -71,3 +71,7 @@ O primeiro mini-chefe (soldado aprimorado) **é vencido** e NEX **recupera do eq
 
 ## Aliado pesado industrial — PZ-DEC-076 (20/11/2026)
 **APROVADO:** o ex-líder mineiro resgatado na nave (074) é **combatente pesado com equipamentos industriais adaptados**, golpes fortes, defesa/proteção e boa resistência, **menos ágil** que Silas. Criar complementaridade entre Silas (lâmina e mobilidade), NEX (hacking/exploração/suporte limitado) e mineiro (força/defesa). Não determinar equipamento exato, golpes/combos, sprite, poder ou estatística; prototipar sem excesso de controles. O combate tático com dois aliados para chefes ainda depende de teste de viabilidade (066).
+
+
+## Refúgio da resistência: próxima missão — PZ-DEC-077 (20/11/2026)
+**APROVADO:** após resgate e minigame da nave, trio **Silas, NEX e mineiro** leva os sobreviventes a **refúgio clandestino da resistência conhecido pelo ex-líder**; descobrem que o local está **ameaçado**. Preparar próxima situação jogável de cooperação entre lâmina/mobilidade de Silas, suporte simples de NEX e força/proteção do mineiro, sem fixar o perigo antes da próxima escolha. Não acrescentar sistemas complexos de gerenciamento de refúgio nem desviar da campanha de ~2–3h. A ameaça concreta e sua resolução ainda estão em aberto.

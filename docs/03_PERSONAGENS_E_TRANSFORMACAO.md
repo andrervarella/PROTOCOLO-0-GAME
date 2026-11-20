@@ -169,3 +169,7 @@ NEX é o pequeno robô **bípede** com identidade artificial própria, legado do
 
 ## Primeiro aliado — perfil de combate aprovado PZ-DEC-076 (20/11/2026)
 Ex-líder dos mineiros de 2051, resgatado na nave clandestina. **Combatente pesado**, resistente, menos ágil, com **golpes fortes e capacidade de proteção** através de **equipamentos industriais adaptados**. É o contraponto ao estilo da lâmina de Silas e ao hacking de NEX. **Não fixar** ferramenta específica, armadura/exoesqueleto, próteses, nome, gênero, visual, falas ou kit de habilidades sem nova decisão. Relação com Silas: aliança por necessidade, desconfiança e amizade construída nas missões (075).
+
+
+## Mineiro guia vítimas até resistência — PZ-DEC-077 (20/11/2026)
+**APROVADO:** o ex-líder conhece um **refúgio da resistência** e, ao lado de Silas e NEX, conduz os sobreviventes libertados da nave até lá. **O lugar está ameaçado** quando chegam, criando situação de parceria prática apesar da confiança ainda frágil (075). Não assumir que o mineiro lidera atualmente o grupo, que é proprietário da base ou que sabe quem ameaça o local. Equipamento específico do combatente pesado permanece sem escolha (076).

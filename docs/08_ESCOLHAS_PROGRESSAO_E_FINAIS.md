@@ -100,3 +100,7 @@ O ex-líder mineiro resgatado da nave é **aliado combatente por necessidade des
 
 ## Estilo do primeiro aliado definido — PZ-DEC-076 (20/11/2026)
 O primeiro aliado resgatado (ex-líder mineiro) atuará como **combatente pesado com equipamentos industriais adaptados**, forte e resistente, com **proteção e menor mobilidade**. Seu papel de frente contrasta com a mobilidade da lâmina de Silas e o apoio de NEX. **Kit final, arma concreta, progressão, custos, animações, habilidades e estatísticas não aprovados**. Manter repertório enxuto para campanha de 2–3h e eventual composição de equipe Silas + dois aliados em chefes, ainda sujeita a protótipo.
+
+
+## Missão de cooperação no refúgio — PZ-DEC-077 (20/11/2026)
+**APROVADO:** equipe chega ao **refúgio da resistência com sobreviventes resgatados** e encontra uma ameaça ainda não caracterizada. A próxima missão pode criar situações de cooperação de Silas/NEX/mineiro e relacionamento por necessidade, mas técnicas de combate, equipe, habilidades, recompensas e estado de alerta ainda **não foram decididos**. Não assumir modo RPG por turnos na nova área antes do protótipo (066); duração da campanha de 2–3h é prioridade.

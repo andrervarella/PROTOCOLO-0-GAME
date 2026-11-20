@@ -237,3 +237,7 @@ Na primeira região após a fuga de ÉREBO, as máquinas identificam Silas e rec
 
 ## O ex-líder mineiro luta com ferramentas industriais — PZ-DEC-076 (20/11/2026)
 **APROVADO:** ex-líder da revolta de 2051, preso após operação em que Silas esteve envolvido, resgatado da nave (074) e aliado por necessidade (075), será **combatente pesado usando equipamento industrial adaptado**. Golpes de grande força, resistência e proteção refletem vivência de trabalho manual e criam contraste com a agilidade/armas de Silas, sem forçar poderes fantasiosos. Seu equipamento específico, origem, nome e como torna-se disponível estão abertos. A próxima escolha deve levar a equipe a uma missão concreta após resgatar os prisioneiros, mantendo história de justiça e guerra tecnológica em andamento.
+
+
+## Do resgate ao refúgio ameaçado — PZ-DEC-077 (20/11/2026)
+**APROVADO:** depois de escapar da perseguição às naves e libertar os transferidos de ÉREBO (072–073), **Silas, NEX e o ex-líder dos mineiros conduzem as vítimas a um refúgio da resistência que o mineiro conhece**. Ao chegarem, verificam que **o lugar está sob ameaça**, o que cria o próximo desafio e oportunidade de estreitar a aliança desconfiada (075). Não determinar se a ameaça vem do rastreamento da nave, de guardas, espionagem, falta de energia ou conflito interno; isso será escolhido. O refúgio não está canonicamente destruído nem tomado. Preservar motivação por justiça, tensão de Guerra Fria tecnológica e avanço rápido da história.

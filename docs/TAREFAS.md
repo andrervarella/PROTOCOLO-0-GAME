@@ -229,3 +229,7 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — papel do primeiro aliado em combate (20/11/2026)
 **PZ-DEC-076:** ex-líder dos mineiros = combatente pesado usando equipamentos industriais adaptados; golpes fortes, proteção e resistência com menor agilidade. **Próximo:** decidir missão após a fuga de nave e incorporar o mineiro a combate/progressão sem inventar arma específica. Prototipar papel quando houver etapa de implementação, sem custo agora. Campanha de 2–3h.
+
+
+## PZ-T-008 — refúgio da resistência escolhido (20/11/2026)
+**PZ-DEC-077:** Silas, NEX e o ex-líder levam sobreviventes resgatados até refúgio da resistência conhecido pelo mineiro; o local está ameaçado. Próximo passo escolher ameaça concreta e transformá-la em objetivo jogável curto, preservando construção gradual da confiança mineiro/Silas. Localização, antagonista, batalha e resultados ainda abertos; não implementar sem detalhamento/protótipo.

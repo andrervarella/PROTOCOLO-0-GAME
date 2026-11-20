@@ -227,3 +227,7 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 
 ## 42ª escolha aprovada — PZ-DEC-076 (20/11/2026)
 **VIGENTE:** aliado ex-líder mineiro resgatado é **combatente pesado com equipamentos industriais**, forte/resistente/protetor, menos ágil. Sem nome, equipamento específico, kit e aparência definidos. Relação com Silas: necessidade primeiro, confiança depois (075). **Próxima escolha:** objetivo da equipe após fuga aérea, retomando ação e trama. Nenhum asset ou código novo.
+
+
+## 43ª escolha aprovada — PZ-DEC-077 (20/11/2026)
+**VIGENTE:** após fuga de nave com prisioneiros, Silas/NEX/mineiro **levam sobreviventes ao refúgio da resistência conhecido pelo mineiro**, e **encontram o local ameaçado**. Próxima decisão: natureza e origem da ameaça. Não foram definidos ataque, responsável, localização, destino dos sobreviventes, novo aliado ou recompensa. Campanha 2–3h; novo conteúdo apenas documental.

@@ -228,3 +228,7 @@ Usar o acervo como base e **aprofundar com o dono a história, os protagonistas,
 
 ## 42ª escolha — PZ-DEC-076 (20/11/2026)
 **APROVADO:** primeiro aliado resgatado da nave, ex-líder da revolta dos mineiros, luta como **combatente pesado com equipamentos industriais adaptados**, resistente, golpes fortes e capacidade de proteção, menos ágil. Nome, item exato, kit e visual pendentes. **Próxima pergunta objetiva:** primeira missão após a nave, foco em ação e trama. Relação com Silas: parceria por necessidade, amizade gradual (075). Combate de chefes híbrido ainda sob avaliação, duração alvo 2–3h.
+
+
+## 43ª escolha — PZ-DEC-077 (20/11/2026)
+**APROVADO:** após fugir de nave com resgatados, Silas/NEX/mineiro os levam a **refúgio da resistência conhecido pelo ex-líder**, que está **ameaçado**. O tipo/autor da ameaça **não definido**. Próxima pergunta: o que ameaça o refúgio? Mineiro combatente pesado (076), ainda não perdoou Silas (075), jogo 2–3h e combate híbrido em prototipagem.
