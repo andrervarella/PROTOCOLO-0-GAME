@@ -34,6 +34,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 2. Silas e mentor cercados: "Você lembra por que está aqui?" → corte para 2051 (APROVADA, 087).
 3. Mentor fica para trás passando a chave para NEX: "Cuide dele. Ele sabe o caminho." (APROVADA, 089).
 4. Na nave, o ex-líder reconhece Silas: "Você hesitou naquele dia. Eu vi." (APROVADA, 091).
+5. No refúgio, Silas vê a assinatura da médica no arquivo e descobre que ela está viva e lutando (APROVADA, 092).
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -50,3 +51,6 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-091 — Pergunta 7/20: o mineiro de 2051
 **APROVADO: opção A.** O mineiro que Silas **captura e em quem hesita** no flashback de 2051 (088) é **o mesmo ex-líder da revolta** que ele resgata da nave em 2054 (074). Ao reconhecê-lo, diz: **"Você hesitou naquele dia. Eu vi."** É por isso que aceita a aliança por necessidade (075), sem perdoar. **Supera** a ressalva de 074/075 de não afirmar que Silas o capturou pessoalmente: agora **foi Silas**. Fala exata ajustável. A ideia do filho do ex-líder como chefe (080) continua PENDENTE.
+
+## PZ-DEC-092 — Pergunta 8/20: quem escondeu o arquivo
+**APROVADO: opção B.** O arquivo do Protocolo Zero escondido no refúgio (079) foi **montado e entregue à resistência pela médica**, com as provas de sua investigação secreta sobre as transferências (051–058). Silas vê a **assinatura digital dela** e descobre que **ela está viva e lutando do mesmo lado, sem saber que ele está vivo**. Isso motiva o reencontro do meio do jogo (080). Ela segue namorando o homem honesto (050).
