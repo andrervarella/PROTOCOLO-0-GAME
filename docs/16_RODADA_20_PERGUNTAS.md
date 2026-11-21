@@ -24,3 +24,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 - Tudo deve ser **emocionante e compreensível até por uma criança de ~5 anos**, mas **sem linguagem nem gírias infantis**; no máximo um ou outro personagem com fala mais coloquial (reforça 018/020).
 - **Todos os personagens** precisam de **identidade forte e única**: rosto marcante, corpo, roupas e personalidade muito característicos. **Proibido o genérico típico de IA.** O jogo precisa ter identidade própria.
 - Uso futuro: o assistente escreverá **prompts de imagem** (fichas de personagem e referências) para o dono gerar com IA. **Nenhuma geração ou gasto sem pedido do dono.**
+
+## PZ-DEC-086 — Diretriz do dono: cutscenes de 10–20 s
+**DIRETRIZ APROVADA:** o assistente pode indicar momentos para **cutscenes narrativas de 10 a 20 segundos** sempre que forem interessantes, **sem exagero e sem pesar no jogo**. Primeira aprovada: **a notícia da execução de Silas** (abertura, 084). Diferente das microcutscenes de golpes especiais (~5 s, 080).
+**Proposta do assistente (PENDENTE):** teto de **~8–10 cutscenes narrativas** na campanha inteira; momentos menores feitos dentro do próprio jogo (engine), para controlar custo e manter consistência visual. Lista de candidatas será montada ao longo da rodada. Nenhum vídeo gerado.
