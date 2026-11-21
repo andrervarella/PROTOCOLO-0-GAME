@@ -243,6 +243,6 @@ O trabalho desta atualização é só documentação, não construção nem test
 - [x] Controles de toque, teclado e controle; exportação web sem threads.
 - [x] Teste automático completo + teste no Chrome com toque.
 - [ ] Dono jogar no celular e dar feedback (controle, ritmo, dificuldade).
-- [ ] Aprovar falas PROPOSTA do piloto (doc 20).
+- [ ] Aprovar falas PROPOSTA do piloto (doc 21).
 - [ ] Trocar arte provisória por sprites (após lotes do doc 19).
 - [ ] Sons e música.

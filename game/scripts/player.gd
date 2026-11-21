@@ -258,33 +258,38 @@ func _draw() -> void:
 	var body_main: Color
 	var body_dark: Color
 	var accent := Color("a3191f")
+	var feet := Color("151515")
 	if era == "2051":
-		body_main = Color("3b4148")
-		body_dark = Color("23272c")
+		body_main = Color("1f2024")  # tático preto (ref. PZ-SILAS-OFICIAL-03)
+		body_dark = Color("18191c")
 	else:
-		body_main = Color("70747b")
-		body_dark = Color("4c5056")
+		body_main = Color("6b6258")  # camiseta rasgada sem manga (ref. PZ-SILAS-OFICIAL-02)
+		body_dark = Color("5a534b")
+		feet = Color("c8b8a0")  # pés enfaixados
 
 	# pernas
 	draw_rect(Rect2(-5 + swing * 0.6, -14 + squash, 4, 14 - squash), body_dark)
 	draw_rect(Rect2(1 - swing * 0.6, -14 + squash, 4, 14 - squash), body_dark)
-	draw_rect(Rect2(-6 + swing * 0.6, -3, 6, 3), Color("151515"))
-	draw_rect(Rect2(0 - swing * 0.6, -3, 6, 3), Color("151515"))
+	draw_rect(Rect2(-6 + swing * 0.6, -3, 6, 3), feet)
+	draw_rect(Rect2(0 - swing * 0.6, -3, 6, 3), feet)
 	# tronco
 	draw_rect(Rect2(-6, -26 + squash, 12, 13), body_main)
 	if era == "2051":
-		draw_rect(Rect2(-6, -25 + squash, 12, 8), Color("1b1e22"))  # colete
-		draw_rect(Rect2(-6, -23 + squash, 2, 4), accent)
+		draw_rect(Rect2(-6, -25 + squash, 12, 8), Color("2c2d32"))  # colete
+		draw_rect(Rect2(-6, -24 + squash, 3, 3), accent)  # ombreira vermelha
+		draw_rect(Rect2(-1, -15 + squash, 2, 2), accent)
 	else:
-		draw_rect(Rect2(-1, -26 + squash, 2, 13), Color("5a5e64"))  # zíper do uniforme
-		draw_rect(Rect2(-6, -22 + squash, 12, 1), accent)  # faixa ÉREBO
+		draw_rect(Rect2(-6, -26 + squash, 2, 6), skin)  # ombro à mostra
+		draw_rect(Rect2(1, -18 + squash, 3, 2), Color("4a443d"))  # rasgo
+		draw_rect(Rect2(-4, -21 + squash, 1, 3), Color("b02020"))  # implante discreto
 	# cabeça
 	draw_rect(Rect2(-4, -34 + squash, 9, 9), skin)
 	draw_rect(Rect2(-5, -35 + squash, 10, 4), hair)  # cabelo preto curto
 	draw_rect(Rect2(-5, -32 + squash, 2, 3), hair)
 	draw_rect(Rect2(-3, -28 + squash, 8, 3), beard)  # barba
 	draw_rect(Rect2(2, -31 + squash, 2, 1), Color("1a1a1a"))  # olho
-	draw_rect(Rect2(3, -33 + squash, 1, 2), Color("8a5a4a"))  # cicatriz na sobrancelha
+	if era == "2054":
+		draw_rect(Rect2(3, -33 + squash, 1, 2), Color("8a5a4a"))  # cicatriz (só depois de 2051)
 	# braço / arma
 	if era == "2051":
 		var aim_up := -2.0 if aiming else 0.0
@@ -306,7 +311,7 @@ func _draw() -> void:
 				ext = 4.0
 		var shoulder := Vector2(1, -23 + squash)
 		var hand := shoulder + Vector2(7 + ext, 0).rotated(arm_ang)
-		draw_line(shoulder, hand, body_main, 3.0)
+		draw_line(shoulder, hand, skin, 3.0)
 		if has_tool:
 			var tip := hand + Vector2(10, 0).rotated(arm_ang - 0.3)
 			draw_line(hand, tip, Color("9aa0a6"), 2.0)
@@ -317,7 +322,7 @@ func _draw() -> void:
 
 
 func _draw_dodge() -> void:
-	var c := Color("70747b") if era == "2054" else Color("3b4148")
+	var c := Color("6b6258") if era == "2054" else Color("1f2024")
 	draw_rect(Rect2(-10, -12, 18, 10), c)
 	draw_rect(Rect2(6, -14, 7, 7), Color("c69878"))
 	draw_rect(Rect2(6, -15, 7, 3), Color("0d0d0f"))

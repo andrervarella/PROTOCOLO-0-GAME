@@ -237,6 +237,6 @@ Marcos 026–049 aprovados, com 038 superada por 039 e exclusividade de 047 supe
 **VIGENTE:** trio e sobreviventes chegam ao **refúgio da resistência durante ataque de máquinas militares**; missão de defesa com ação imediata. Causa/mandante do ataque, resultado, perdas e consequência narrativa ainda abertos. **Próxima pergunta:** qual desfecho/virada dessa defesa? Preservar meta 2–3h, aliança mineiro/Silas em formação e NEX multifuncional. Nenhuma arte, código ou vídeo gerados.
 
 ## Estado — 21/11/2026 (piloto)
-- **Primeiro build jogável:** piloto da fase 1 em Godot 4.3 (`game/`), jogável por link web. Ver `docs/20_PILOTO_FASE1_GODOT.md`.
+- **Primeiro build jogável:** piloto da fase 1 em Godot 4.3 (`game/`), jogável por link web. Ver `docs/21_PILOTO_FASE1_GODOT.md`.
 - **Testes:** robô completou o piloto sem erros de script; Chrome com toque OK. Celular real e dificuldade: NÃO TESTADOS.
 - **Arte e som:** provisórios (desenho em código, sem áudio).
