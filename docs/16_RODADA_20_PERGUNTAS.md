@@ -10,7 +10,7 @@ Iniciada e concluída em 20/11/2026. Ao final da rodada, consolidar em `DECISOES
 
 ## PZ-DEC-083 — Decisão final e aliados conquistados
 **APROVADO PELO DONO (diretriz + ajustes confirmados):**
-- No final, Silas toma uma decisão que leva a vários desfechos (forma final em **107**).
+- No final, Silas toma uma decisão que leva a vários desfechos (forma final em **107/108**).
 - As **escolhas ao longo do jogo** decidem **quais personagens viram aliados**. Existe um **grupo de aliados possíveis**; o jogador pode **ganhá-los ou perdê-los** e escolhe entre os conquistados.
 - **Ajustes aprovados:** (1) a decisão final escolhe o caminho; os aliados conquistados mudam como ele termina (ex.: caminho bom sem aliados suficientes vira trágico); (2) **NEX e o mineiro são aliados garantidos**, para nenhum chefe ficar impossível; (3) grupo enxuto de **~4–5 aliados possíveis** (2–3h de campanha).
 
@@ -38,7 +38,7 @@ Iniciada e concluída em 20/11/2026. Ao final da rodada, consolidar em `DECISOES
 7. Final, se MAESTRO foi poupado: ele aparece ao lado do ORÁCULO com a chave de NEX — "Eu perdi de propósito." (APROVADA, 099).
 8. Revelação do namorado como o executivo da NEXUS (candidata, 101).
 9. Revelação final: LIMIAR queria a paz (candidata, 103).
-10. Final épico: nova notícia da morte de Silas → créditos → cena pós-créditos com ela (APROVADA, 105). O épico solitário (107) reaproveita a notícia, sem a cena pós-créditos.
+10. Final épico: nova notícia da morte de Silas → créditos → cena pós-créditos com ela (APROVADA, 105). O épico solitário (107/108) reaproveita a notícia, sem a cena pós-créditos.
 **Contagem:** 10 = teto. O confronto com o comandante (106) pode ser feito dentro do jogo.
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
@@ -145,9 +145,15 @@ Primeira lista do dono com 5 finais (épico com retorno, equilibrado, trágico, 
 1. *"Devolver o mundo às pessoas"* (Silas precisa sumir):
    - **Épico com retorno** (105): parece que ele a perdeu; pós-créditos, ela volta.
    - **Épico solitário** (dono): **Silas quis ser bom, salvou o mundo, mas abriu mão do amor de verdade.** Final grandioso e mais solitário; ela não volta.
+   - O que separa os dois: **108**.
 2. *"LIMIAR aconselha, as pessoas decidem"* → **Equilibrado:** vive feliz com ela.
 3. *"Destruir LIMIAR"* → **Trágico:** a guerra continua; aliados podem morrer.
 4. *"Usar LIMIAR para mandar no mundo"* → **Mau:** vira o novo Protocolo Zero; perde a médica.
 **Aliados:** sem aliados suficientes, o épico vira trágico (083).
 **Regra do amor resultante:** perde a médica no **mau** e no **épico solitário** (2 finais, como pedido em 104); vive com ela no **equilibrado** e no **épico com retorno**; no **trágico** perde outra coisa (leitura a confirmar).
-**PENDENTE — o que separa os dois épicos.** Proposta do assistente: um último gesto antes de sumir, *"Deixar que ela saiba que você está vivo?"*. **Sim:** ela não acredita na notícia e o encontra (com retorno). **Não:** ele a protege deixando-a seguir a vida (solitário).
+
+## PZ-DEC-108 — O que separa os dois finais épicos
+**APROVADO ("Ótimo, escolher entre essas duas mesmo"):** antes de sumir, Silas faz **um último gesto**, escolhido pelo jogador: **"Deixar que ela saiba que você está vivo?"**
+- **Sim:** ela não acredita na notícia da morte e vai atrás dele → **épico com retorno** (105).
+- **Não:** ele a protege, deixando-a seguir a vida → **épico solitário**.
+A decisão é do jogador, simples e dolorosa dos dois jeitos. Fala e forma do gesto (mensagem, objeto, sinal) **PENDENTES**.

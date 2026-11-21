@@ -1,5 +1,5 @@
 # PROTOCOLO ZERO — HISTÓRIA COMPLETA v2 (após a rodada de 20 perguntas)
-**20/11/2026.** Este documento resume a história **vigente**. Base: PZ-DEC-079/080 e a rodada `docs/16_RODADA_20_PERGUNTAS.md` (PZ-DEC-081 a 107). **Em conflito, vale o doc 16.** Itens marcados PENDENTE não são cânone. Nenhum código, arte, vídeo ou crédito foi produzido.
+**20/11/2026.** Este documento resume a história **vigente**. Base: PZ-DEC-079/080 e a rodada `docs/16_RODADA_20_PERGUNTAS.md` (PZ-DEC-081 a 108). **Em conflito, vale o doc 16.** Itens marcados PENDENTE não são cânone. Nenhum código, arte, vídeo ou crédito foi produzido.
 
 ## Regras de escrita
 - Cada reviravolta cabe em **uma frase** (082). Emocionante e compreensível até por uma criança de ~5 anos, sem linguagem infantil (085).
@@ -24,7 +24,7 @@
 11. **Perto do final:** o namorado da médica é o **executivo da NEXUS** que ela investigava; foi chantageado e aceitou **por amor** (101).
 12. **Revelação final:** LIMIAR queria a paz (103).
 13. **O comandante**, desarmado diante das câmeras, quer morrer pelas mãos de Silas: "Matar é exatamente o que ele quer." (106).
-14. **Decisão final e 5 finais** (107).
+14. **Decisão final e 5 finais** (107/108).
 
 ## Chefes
 | Chefe | Bloco | Tipo | Dilema |
@@ -42,13 +42,12 @@ Ordem dos chefes: **PENDENTE**.
 - **Possíveis (4):** ex-colega (se poupado), prisioneiro (se salvar a nave), melhor amigo (se perdoado), ROOK (se trazido de volta).
 - Chefes de dilema poupados ajudam na batalha final sem lutar ao lado de Silas.
 
-## Decisão final e 5 finais (107)
+## Decisão final e 5 finais (107/108)
 **Etapa 1 — o comandante:** atirar ou abaixar a arma. Quem atira só vê as opções sombrias.
 **Etapa 2 — LIMIAR:**
-- *"Devolver o mundo às pessoas"* → Silas precisa sumir:
-  - **Épico com retorno:** notícia "Silas Venn está morto" (a mesma da abertura) → créditos → pós-créditos, ela se senta ao lado dele: "Você morreu duas vezes. Eu não acreditei nem na segunda." (105)
-  - **Épico solitário:** Silas quis ser bom, salvou o mundo, mas abriu mão do amor de verdade; ela não volta.
-  - O que separa os dois: **PENDENTE** (proposta no doc 16, PZ-DEC-107).
+- *"Devolver o mundo às pessoas"* → Silas precisa sumir. Último gesto: **"Deixar que ela saiba que você está vivo?"** (108)
+  - **Sim → Épico com retorno:** notícia "Silas Venn está morto" (a mesma da abertura) → créditos → pós-créditos, ela se senta ao lado dele: "Você morreu duas vezes. Eu não acreditei nem na segunda." (105)
+  - **Não → Épico solitário:** Silas quis ser bom, salvou o mundo, mas abriu mão do amor de verdade; ela segue a vida.
 - *"LIMIAR aconselha, as pessoas decidem"* → **Equilibrado:** vive feliz com ela.
 - *"Destruir LIMIAR"* → **Trágico:** a guerra continua; ele não perde a médica (leitura a confirmar).
 - *"Usar LIMIAR para mandar no mundo"* → **Mau:** vira o novo Protocolo Zero; perde a médica.
@@ -61,4 +60,4 @@ Protótipo primeiro (1 área + mini-chefe + 1 chefe nos dois modos); uma microcu
 - Virada do **Molde** (102). Virada "pista plantada" fundida na revelação do amigo (095). Escolha de ~30% "prisioneiros ou comandante" (substituída por 093). Final da ganância (107). Reservas de 080 continuam não aplicadas.
 
 ## Pendentes principais
-Nomes de todos os personagens; fichas visuais e de personalidade; ordem dos chefes; HÉLIX como pai; o que separa épico com retorno x solitário; destino do namorado; qual lembrança prova quem Silas é; terceira categoria de item (013); sistema híbrido (protótipo); conflito de nome na Steam.
+Nomes de todos os personagens; fichas visuais e de personalidade; ordem dos chefes; HÉLIX como pai; forma do último gesto de Silas (108); destino do namorado; qual lembrança prova quem Silas é; terceira categoria de item (013); sistema híbrido (protótipo); conflito de nome na Steam.
