@@ -67,3 +67,8 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-094 — Pergunta 10/20: reencontro com a médica (meio do jogo)
 **APROVADO: opção A.** A médica **aponta uma arma para Silas**: ela rastreava um paciente com o corpo dele e suspeita de uma cópia. Diz **"Prove que é você."** Silas prova **não pelo corpo, mas por uma lembrança que só os dois têm**. Tema: **o corpo pode ser copiado; a pessoa, não**. Prepara a virada do Molde (080) sem explicá-la. **Pendente:** qual lembrança; falas exatas.
+
+## PZ-DEC-095 — Pergunta 11/20: o papel do melhor amigo
+**APROVADO: opção A.** Na mesma fase do reencontro, **a médica revela duas verdades numa cena só**: o melhor amigo **entregou Silas** (enganado pelo comandante, 030/046) **e** é **quem a ajuda em segredo há três anos**, passando as provas usadas no arquivo. Frase-guia: **"O homem que te traiu é o mesmo que tentou te salvar."**
+- **Unifica** as viradas "revelação do amigo" e "pista plantada" de 080 numa só (aplica 082).
+- **Escolha aprovada:** mais adiante, Silas decide **perdoar ou não** o amigo; se perdoar, ele entra no grupo de **aliados possíveis** (083).
