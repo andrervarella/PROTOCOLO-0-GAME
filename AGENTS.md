@@ -4,9 +4,10 @@ Leia `README.md`, `docs/00_RESUMO_DE_CONTINUIDADE.md`, `docs/DECISOES.md`, `docs
 
 ## ⚠️ COMECE POR AQUI (21/11/2026)
 1. **`docs/17_DOCUMENTO_MESTRE.md`** — documento-mestre: jogabilidade, história amarrada, estrutura, produção, ferramentas e marketing. Contém **PZ-DEC-109** (cena do NEX antes da escolha final).
-2. **`docs/15_ARCO_COMPLETO_E_REVIRAVOLTAS.md`** — história completa v2.
-3. **`docs/16_RODADA_20_PERGUNTAS.md`** — decisões PZ-DEC-081 a 108. Revisam partes de PZ-DEC-080 e de decisões anteriores (ex.: virada do Molde cancelada; namorado da médica é o executivo da NEXUS; ex-líder mineiro foi capturado pessoalmente por Silas; 5 chefes + ORÁCULO; 5 finais). **Em conflito, vale o mais recente.**
-As decisões 081–109 ainda não foram copiadas para `DECISOES.md`, `00_RESUMO`, `HANDOFF`, `ESTADO_ATUAL` e `TAREFAS` (consolidação pendente).
+2. **`docs/18_FICHAS_DE_PERSONAGENS.md`** — nomes, personalidades, aparências e prompts de imagem. Contém **PZ-DEC-110**. Nomes decididos pelo assistente por delegação do dono.
+3. **`docs/15_ARCO_COMPLETO_E_REVIRAVOLTAS.md`** — história completa v2.
+4. **`docs/16_RODADA_20_PERGUNTAS.md`** — decisões PZ-DEC-081 a 108. Revisam partes de PZ-DEC-080 e de decisões anteriores (ex.: virada do Molde cancelada; namorado da médica é o executivo da NEXUS; ex-líder mineiro foi capturado pessoalmente por Silas; 5 chefes + ORÁCULO; 5 finais). **Em conflito, vale o mais recente.**
+As decisões 081–110 ainda não foram copiadas para `DECISOES.md`, `00_RESUMO`, `HANDOFF`, `ESTADO_ATUAL` e `TAREFAS` (consolidação pendente).
 
 ## Preservação e precisão
 
@@ -31,4 +32,4 @@ Consultar `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md` para orientar geopolítica e 
 Antes de escrever capítulos sobre IA, geopolítica, suprimentos ou trailers, ler também `docs/10_IA_CHIPS_MINERAIS_E_RITMO_NARRATIVO.md` e `docs/11_MECANICAS_E_TRAILERS_CONCEITOS.md`. **Não copiar Gundam, Death Note, Elysium ou Cyberpunk.** Não converter hipóteses em cânone; não produzir mídia/usar créditos sem autorização. Atenção: terras raras não são o principal material de fabricação de todos os chips.
 
 ## Arco completo aprovado (20/11/2026)
-PZ-DEC-079/080 em `DECISOES.md`, revisados pela rodada de 20 perguntas (doc 16) e pelo doc 17. A meta de microcutscenes de golpes é **uma por especial** (revisa 022). Itens em RESERVA, PROPOSTA e PENDENTE não são cânone.
+PZ-DEC-079/080 em `DECISOES.md`, revisados pela rodada de 20 perguntas (doc 16) e pelos docs 17 e 18. A meta de microcutscenes de golpes é **uma por especial** (revisa 022). Itens em RESERVA, PROPOSTA e PENDENTE não são cânone.
