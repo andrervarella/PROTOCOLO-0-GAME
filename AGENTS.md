@@ -23,3 +23,6 @@ Consultar `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md` para orientar geopolítica e 
 
 ## Continuidade — chips, minerais e game design de divulgação (17/11/2026)
 Antes de escrever capítulos sobre IA, geopolítica, suprimentos ou trailers, ler também `docs/10_IA_CHIPS_MINERAIS_E_RITMO_NARRATIVO.md` e `docs/11_MECANICAS_E_TRAILERS_CONCEITOS.md`. O dono pediu disputas plausíveis por recursos/semicondutores/energia, reviravoltas emocionais claras, mecânicas memoráveis e propostas de cenas que promovam o **jogo real**, não só vídeos bonitos. **Não copiar Gundam, Death Note, Elysium ou Cyberpunk.** Não converter hipóteses em cânone; não produzir mídia/usar créditos sem autorização. Atenção: terras raras não são o principal material de fabricação de todos os chips; considerar extração, refino, wafers, equipamentos, fábricas e energia.
+
+## Arco completo aprovado (20/11/2026)
+**Ler `docs/15_ARCO_COMPLETO_E_REVIRAVOLTAS.md` antes de qualquer proposta de história.** Define o que é o Protocolo Zero, LIMIAR prisioneira/ORÁCULO, chefes = cobaias capturadas por Silas (poupáveis → aliados), escolhas de ~30% e ~50%, reviravoltas aprovadas (Filtro, Molde, Vingança-gatilho, Pista plantada), quatro finais e direção de produção (PZ-DEC-079/080). A meta de microcutscenes passou a **uma por especial** (revisa 022). Itens em RESERVA e PENDENTES nesse doc não são cânone.
