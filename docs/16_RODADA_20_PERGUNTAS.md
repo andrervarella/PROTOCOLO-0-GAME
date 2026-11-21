@@ -38,7 +38,8 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 7. Final, se MAESTRO foi poupado: ele aparece ao lado do ORÁCULO com a chave de NEX — "Eu perdi de propósito." (APROVADA, 099).
 8. Revelação do namorado como o executivo da NEXUS (candidata, 101).
 9. Revelação final: LIMIAR queria a paz (candidata, 103).
-10. Final épico (candidata, 104/105).
+10. Final épico: nova notícia da morte de Silas → créditos → cena pós-créditos com ela (APROVADA, 105).
+**Contagem:** 10 candidatas = teto. Novas cenas exigem trocar uma destas ou fazer dentro do jogo.
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -123,7 +124,7 @@ Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lut
 
 ## PZ-DEC-104 — Os cinco finais (diretriz do dono)
 **APROVADO PELO DONO:** a decisão final passa a ter **5 desfechos**:
-1. **Bom e épico (sacrifício do amor):** Silas aceita **abrir mão do amor para salvar o mundo**. O jogo faz parecer que ele a perdeu e que acabou; então **algo empolgante e incrível acontece e ela aparece para ficar ao lado dele**. Forma da cena: **pergunta 18/20**.
+1. **Bom e épico (sacrifício do amor):** Silas aceita **abrir mão do amor para salvar o mundo**; parece que a perdeu e que acabou; então ela volta (forma em 105).
 2. **Equilibrado e coerente:** solução intermediária e realista; **Silas vive feliz com ela**.
 3. **Trágico.**
 4. **Mau (controle):** Silas usa LIMIAR para controlar os três blocos e vira o novo Protocolo Zero.
@@ -131,3 +132,9 @@ Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lut
 **Regra do amor (dono):** **2 finais fazem Silas perder a amada**; **1 faz ele viver feliz com ela** (equilibrado); **1 é o épico em que parece perdê-la, mas ela volta**.
 **Leitura proposta, a confirmar:** os 2 finais em que ele a perde são os **dois maus** (ela não fica ao lado de quem virou o que ela combatia). O **trágico** perde outra coisa (o mundo em guerra, aliados mortos), não a médica.
 **Os aliados conquistados** continuam mudando o resultado (083).
+
+## PZ-DEC-105 — Pergunta 18/20: como ela volta no final épico
+**APROVADO: opção A — "Morto pela segunda vez."** Para libertar LIMIAR, Silas precisa **sumir do mundo** (o ÉREBO no corpo dele é a ponte). O noticiário anuncia **"Silas Venn está morto"** — **a mesma notícia que abre o jogo** (084). Créditos. **Cena pós-créditos:** Silas sozinho num lugar simples (proposta: praia ou a mina reconstruída); alguém se senta ao lado dele: é ela. Fala-guia: **"Você morreu duas vezes. Eu não acreditei nem na segunda."**
+- O jogo **começa e termina com a mesma notícia falsa**; da primeira vez ela acreditou e perdeu três anos; da segunda, **não acreditou**.
+- A "cavalaria" de aliados (opção B) pode existir **dentro da batalha final**, para os aliados conquistados, sem ser a cena dela.
+- Local e falas exatas ajustáveis.
