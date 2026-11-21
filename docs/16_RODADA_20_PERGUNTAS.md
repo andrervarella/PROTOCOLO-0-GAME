@@ -10,10 +10,9 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-083 — Decisão final e aliados conquistados
 **APROVADO PELO DONO (diretriz + ajustes confirmados):**
-- No final, Silas toma **uma decisão** que leva a **pelo menos 3 desfechos**: **bom**, **trágico** e **um em que ele se torna mau**. Pode haver mais de 3.
+- No final, Silas toma **uma decisão** que leva a vários desfechos (ampliado para **5** em 104).
 - As **escolhas ao longo do jogo** decidem **quais personagens viram aliados**. Existe um **grupo de aliados possíveis**; o jogador pode **ganhá-los ou perdê-los** e escolhe entre os conquistados.
 - **Ajustes aprovados:** (1) a decisão final escolhe o caminho; os aliados conquistados mudam como ele termina (ex.: caminho bom sem aliados suficientes vira trágico); (2) **NEX e o mineiro são aliados garantidos**, para nenhum chefe ficar impossível; (3) grupo enxuto de **~4–5 aliados possíveis** (2–3h de campanha).
-**Relação com 080:** os quatro finais anteriores passam a ser lidos como bom / trágico (agridoce ou doloroso) / mau ("final do Silas", vira o novo Protocolo).
 
 ## PZ-DEC-084 — Pergunta 2/20: primeira cena
 **APROVADO: opção D.** O jogo abre com uma **notícia: "Silas Venn, executado por traição."** Corta para Silas **vivo, fugindo** da prisão (mantém 040 e usa a notícia falsa de 048).
@@ -38,6 +37,8 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 6. Reencontro: a médica aponta a arma, "Prove que é você"; ele prova com uma lembrança (APROVADA, 094).
 7. Final, se MAESTRO foi poupado: ele aparece ao lado do ORÁCULO com a chave de NEX — "Eu perdi de propósito." (APROVADA, 099).
 8. Revelação do namorado como o executivo da NEXUS (candidata, 101).
+9. Revelação final: LIMIAR queria a paz (candidata, 103).
+10. Final épico (candidata, 104/105).
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -68,7 +69,8 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 **Também aprovado:** a opção C (poupar ou matar o ex-colega mini-chefe) entra como **escolha menor** logo após essa luta (090).
 
 ## PZ-DEC-094 — Pergunta 10/20: reencontro com a médica (meio do jogo)
-**APROVADO: opção A.** A médica **aponta uma arma para Silas**: ela rastreava um paciente com o corpo dele e suspeita de uma cópia. Diz **"Prove que é você."** Silas prova **não pelo corpo, mas por uma lembrança que só os dois têm**. Tema: **o corpo pode ser copiado; a pessoa, não**. Prepara a virada do Molde (080) sem explicá-la. **Pendente:** qual lembrança; falas exatas.
+**APROVADO: opção A.** A médica **aponta uma arma para Silas** e diz **"Prove que é você."** Silas prova **não pelo corpo, mas por uma lembrança que só os dois têm**. Tema: **o corpo pode ser mudado; a pessoa, não**. **Pendente:** qual lembrança; falas exatas.
+**Ajuste (102):** sem a virada do molde, o motivo da dúvida é outro: o paciente que ela rastreava **era o próprio Silas**, e ela sabe que o ÉREBO altera corpo e mente. A pergunta vira **"prove que você ainda é você, e não o que fizeram de você"**.
 
 ## PZ-DEC-095 — Pergunta 11/20: o papel do melhor amigo
 **APROVADO: opção A.** Na mesma fase do reencontro, **a médica revela duas verdades numa cena só**: o melhor amigo **entregou Silas** (enganado pelo comandante, 030/046) **e** é **quem a ajuda em segredo há três anos**, passando as provas usadas no arquivo. Frase-guia: **"O homem que te traiu é o mesmo que tentou te salvar."**
@@ -110,5 +112,22 @@ Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lut
 **APROVADO: opção A.**
 - **SEPHRA — "o monstro que é a cura":** autora dos experimentos mais cruéis do ÉREBO, mas **a única que sabe desfazer os implantes**, inclusive os de **ROOK**. **Matar:** justiça para as vítimas, mas ROOK não pode mais ser trazido de volta. **Poupar:** ROOK pode ser salvo, mas o **mineiro fica furioso** (sem deixar de ser aliado garantido, 083). Dilema de **razão x coração**.
 - **O namorado da médica é o executivo da NEXUS** cuja assinatura aparece nas transferências (055) e cujas autorizações ela investiga (058). O comandante o chantageou: assinar e manter os chefes trabalhando, **ou a médica desaparece**. Ele aceitou **por amor**. Frase-guia: **"Ela investigava o próprio namorado — e tudo o que ele fez foi para salvá-la."** Revelação **separada, perto do final**; não ligada à SEPHRA. Dilema de **amor x justiça**.
-- **Muda 037/050:** ele segue **bom de coração**, mas **cúmplice por amor**; continua **namorado, sem casamento**. A restrição de 093 se mantém: Silas **não perde a médica** por causa disso. O destino do namorado (redenção ou queda) fica **PENDENTE**.
+- **Muda 037/050:** ele segue **bom de coração**, mas **cúmplice por amor**; continua **namorado, sem casamento**. A restrição de 093 se mantém. O destino do namorado (redenção ou queda) fica **PENDENTE**.
 - **HÉLIX como pai da filha refém** foi proposta do assistente nesta pergunta, sem objeção do dono: **confirmar na consolidação**.
+
+## PZ-DEC-102 — Pergunta 17/20 (primeira versão): virada do molde CANCELADA
+**O dono rejeitou a opção A** (ORÁCULO com o rosto de Silas): o final precisa ser maior, ligado às três potências. **A virada do "Molde" de 080 está cancelada.** O paciente rastreado pela médica (051–054) **era o próprio Silas**. A cena "Prove que é você" permanece, com novo motivo (ver 094).
+
+## PZ-DEC-103 — Pergunta 17/20 (refeita): a grande verdade do final
+**APROVADO: opção C — "A máquina queria a paz. Os homens, não."** LIMIAR foi presa porque **calculou como acabar com a Guerra Fria**: dividir energia, chips e minerais entre os três blocos. Os donos do mundo **preferiram a guerra (que dá lucro)** e **culparam LIMIAR** pelos ataques (executados por KHEIRON, 100). O **ORÁCULO é LIMIAR forçada a obedecer**. Tema atual: **confiar numa IA ou nos humanos que mentiram?** Complementa o Protocolo Zero (080) e a chave do mentor em NEX (089). Inverte o começo do jogo ("a IA é a culpada").
+
+## PZ-DEC-104 — Os cinco finais (diretriz do dono)
+**APROVADO PELO DONO:** a decisão final passa a ter **5 desfechos**:
+1. **Bom e épico (sacrifício do amor):** Silas aceita **abrir mão do amor para salvar o mundo**. O jogo faz parecer que ele a perdeu e que acabou; então **algo empolgante e incrível acontece e ela aparece para ficar ao lado dele**. Forma da cena: **pergunta 18/20**.
+2. **Equilibrado e coerente:** solução intermediária e realista; **Silas vive feliz com ela**.
+3. **Trágico.**
+4. **Mau (controle):** Silas usa LIMIAR para controlar os três blocos e vira o novo Protocolo Zero.
+5. **Mau e ganancioso:** Silas escolhe por ganância (poder/riqueza pessoal).
+**Regra do amor (dono):** **2 finais fazem Silas perder a amada**; **1 faz ele viver feliz com ela** (equilibrado); **1 é o épico em que parece perdê-la, mas ela volta**.
+**Leitura proposta, a confirmar:** os 2 finais em que ele a perde são os **dois maus** (ela não fica ao lado de quem virou o que ela combatia). O **trágico** perde outra coisa (o mundo em guerra, aliados mortos), não a médica.
+**Os aliados conquistados** continuam mudando o resultado (083).
