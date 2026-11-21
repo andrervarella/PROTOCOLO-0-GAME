@@ -2,6 +2,9 @@
 
 Leia `README.md`, `docs/00_RESUMO_DE_CONTINUIDADE.md`, `docs/DECISOES.md`, `docs/ESTADO_ATUAL.md` e os documentos específicos antes de propor mudanças. Consulte também o protocolo universal `andrervarella/PROMPT-MESTRE-CRIACAO-DE-GAMES-GAMES` (V4.5 ou versão mais atual).
 
+## ⚠️ HISTÓRIA VIGENTE (20/11/2026)
+**Leia primeiro `docs/15_ARCO_COMPLETO_E_REVIRAVOLTAS.md` (história completa v2) e `docs/16_RODADA_20_PERGUNTAS.md` (decisões PZ-DEC-081 a 107).** Elas revisam partes de PZ-DEC-080 e de decisões anteriores (ex.: virada do Molde cancelada; namorado da médica é o executivo da NEXUS; ex-líder mineiro foi capturado pessoalmente por Silas; 5 chefes + ORÁCULO; 6 finais). **Em conflito, vale o doc 16.** As decisões 081–107 ainda não foram copiadas para `DECISOES.md`, `00_RESUMO`, `HANDOFF`, `ESTADO_ATUAL` e `TAREFAS` (consolidação pendente).
+
 ## Preservação e precisão
 
 - **Não confundir PROTOCOLO ZERO com ARASHI VANGUARD**. Não transferir Ren, Luke, pecados capitais, chefes feudais nem estilos visuais de forma inadvertida.
@@ -25,4 +28,4 @@ Consultar `docs/09_ENERGIA_GEOPOLITICA_E_ROBOS.md` para orientar geopolítica e 
 Antes de escrever capítulos sobre IA, geopolítica, suprimentos ou trailers, ler também `docs/10_IA_CHIPS_MINERAIS_E_RITMO_NARRATIVO.md` e `docs/11_MECANICAS_E_TRAILERS_CONCEITOS.md`. O dono pediu disputas plausíveis por recursos/semicondutores/energia, reviravoltas emocionais claras, mecânicas memoráveis e propostas de cenas que promovam o **jogo real**, não só vídeos bonitos. **Não copiar Gundam, Death Note, Elysium ou Cyberpunk.** Não converter hipóteses em cânone; não produzir mídia/usar créditos sem autorização. Atenção: terras raras não são o principal material de fabricação de todos os chips; considerar extração, refino, wafers, equipamentos, fábricas e energia.
 
 ## Arco completo aprovado (20/11/2026)
-**Ler `docs/15_ARCO_COMPLETO_E_REVIRAVOLTAS.md` antes de qualquer proposta de história.** Define o que é o Protocolo Zero, LIMIAR prisioneira/ORÁCULO, chefes = cobaias capturadas por Silas (poupáveis → aliados), escolhas de ~30% e ~50%, reviravoltas aprovadas (Filtro, Molde, Vingança-gatilho, Pista plantada), quatro finais e direção de produção (PZ-DEC-079/080). A meta de microcutscenes passou a **uma por especial** (revisa 022). Itens em RESERVA e PENDENTES nesse doc não são cânone.
+PZ-DEC-079/080 em `DECISOES.md`, revisados pela rodada de 20 perguntas (doc 16). A meta de microcutscenes de golpes é **uma por especial** (revisa 022). Itens em RESERVA e PENDENTES não são cânone.

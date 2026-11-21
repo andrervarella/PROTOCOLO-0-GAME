@@ -1,59 +1,65 @@
-# PROTOCOLO ZERO — ARCO COMPLETO, REVIRAVOLTAS E DIREÇÃO DE PRODUÇÃO
-**20/11/2026 — decisões PZ-DEC-079 e PZ-DEC-080.** O dono aprovou o pacote de ajustes proposto pelo Claude ("faça todos estes ajustes que propôs"). Itens marcados PENDENTE ou RESERVA não foram aprovados. Nenhum código, arte, vídeo ou crédito pago foi produzido/autorizado.
+# PROTOCOLO ZERO — HISTÓRIA COMPLETA v2 (após a rodada de 20 perguntas)
+**20/11/2026.** Este documento resume a história **vigente**. Base: PZ-DEC-079/080 e a rodada `docs/16_RODADA_20_PERGUNTAS.md` (PZ-DEC-081 a 107). **Em conflito, vale o doc 16.** Itens marcados PENDENTE não são cânone. Nenhum código, arte, vídeo ou crédito foi produzido.
 
-## 1. Refúgio — PZ-DEC-079 (APROVADO)
-A equipe vence o ataque das máquinas militares ao refúgio (078). NEX descobre que as máquinas **não vieram atrás de Silas**: procuravam um **arquivo secreto escondido no refúgio**. O arquivo é a **lista de transferências do Protocolo Zero**, com nomes de cobaias do ÉREBO — entre elas, pessoas que **o próprio Silas capturou** no passado (029).
+## Regras de escrita
+- Cada reviravolta cabe em **uma frase** (082). Emocionante e compreensível até por uma criança de ~5 anos, sem linguagem infantil (085).
+- Personagens com **identidade forte e única** (rosto, corpo, roupa, personalidade) (085).
+- Até **10 cutscenes narrativas de 10–20 s** (086); lista no doc 16.
 
-## 2. O que é o PROTOCOLO ZERO (APROVADO)
-Pacto secreto entre elites dos **três blocos** (HELION, NEXUS, ATLAS) para manter a Guerra Fria **fria para sempre**: zero guerra aberta, medo permanente, lucro contínuo. Os ataques atribuídos a LIMIAR são **encenados**. Para sustentar o equilíbrio, o pacto precisa de **armas humanas** produzidas pelo ÉREBO. O comandante acredita sinceramente que isso evita uma guerra mundial (031) — lógica defensável, atos injustificáveis.
+## O segredo do mundo
+- **Protocolo Zero:** pacto das elites dos três blocos (HELION, NEXUS, ATLAS) para manter a Guerra Fria **fria para sempre**, porque a guerra dá lucro (080).
+- **LIMIAR queria a paz:** calculou como acabar com a Guerra Fria dividindo energia, chips e minerais; foi presa e culpada pelos ataques, executados por KHEIRON. O **ORÁCULO é LIMIAR forçada a obedecer** (103). *"A máquina queria a paz. Os homens, não."*
 
-## 3. LIMIAR e ORÁCULO (APROVADO)
-LIMIAR **não é culpada: é prisioneira**. ORÁCULO é LIMIAR usada como arma. NEX carrega uma **chave deixada pelo mentor** (cocriador de LIMIAR, 032).
+## A história em ordem
+1. **Abertura:** notícia "Silas Venn, executado por traição" → Silas vivo, fugindo (084).
+2. **Fuga 2054:** Silas e o mentor cercados; "Você lembra por que está aqui?" (087).
+3. **Flashback 2051:** Silas forte e equipado reprime a revolta na mina; captura um mineiro e **hesita** (088).
+4. **Volta a 2054:** o mentor fica para trás passando a **chave para NEX**: "Cuide dele. Ele sabe o caminho." (089).
+5. **Complexo industrial:** lâmina; máquinas querem Silas vivo; o mini-chefe é um **ex-colega do esquadrão** com implantes (090). Escolha menor: **poupar ou matar**.
+6. **Centro de transferência e nave:** o ex-líder dos mineiros é **o mesmo homem em quem Silas hesitou**: "Você hesitou naquele dia. Eu vi." (091).
+7. **Refúgio atacado:** as máquinas buscavam o **arquivo do Protocolo Zero**, montado pela **médica**; Silas descobre que ela está viva e lutando (079/092).
+8. **Escolha ~30%:** salvar a próxima nave **ou** correr atrás da médica (093). Afeta aliados, nunca o destino dela.
+9. **Meio do jogo:** reencontro — "Prove que você ainda é você" — ele prova com uma lembrança (094). Ela revela que o melhor amigo **traiu Silas e passou três anos tentando salvá-lo** (095). Escolha: perdoar ou não.
+10. **Chefes (5 + ORÁCULO):** ver abaixo.
+11. **Perto do final:** o namorado da médica é o **executivo da NEXUS** que ela investigava; foi chantageado e aceitou **por amor** (101).
+12. **Revelação final:** LIMIAR queria a paz (103).
+13. **O comandante**, desarmado diante das câmeras, quer morrer pelas mãos de Silas: "Matar é exatamente o que ele quer." (106).
+14. **Decisão final e 6 finais** (107).
 
-## 4. Chefes e aliados (APROVADO)
-- Os chefes são **cobaias do ÉREBO que Silas capturou no passado**, transformadas em armas. Cada luta materializa sua culpa.
-- Ao vencer, o jogador pode **poupar/libertar** o chefe, que pode virar **aliado selecionável**. O kit do chefe é **reaproveitado** como kit do aliado (reduz produção e define o elenco).
-- Vínculo com os blocos: **ROOK** — ATLAS/mina; **HÉLIX** e **KHEIRON** — HELION/energia; **MAESTRO** e **SEPHRA** — NEXUS; **ORÁCULO** — LIMIAR.
-- **PENDENTE:** ordem dos chefes, nomes humanos, aparências, kits.
+## Chefes
+| Chefe | Bloco | Tipo | Dilema |
+|---|---|---|---|
+| **KHEIRON** | HELION (proposto) | Mau, **não pode ser poupado** | Voluntário do ÉREBO; executa os ataques culpados em LIMIAR; mantém a filha de HÉLIX refém. "Nem todo mundo quer ser salvo." |
+| **MAESTRO** | NEXUS | Mau, **pode ser poupado** | "Perdeu de propósito": se poupado, entrega a chave ao ORÁCULO e luta ao lado dele. 3 sinais: rende-se fácil, sorri, pergunta sobre NEX. |
+| **ROOK** | ATLAS | Dilema | **Filho do mineiro**, capturado por Silas. Pode virar aliado se trazido de volta. |
+| **SEPHRA** | NEXUS | Dilema | "O monstro que é a cura": só ela desfaz os implantes de ROOK. Matar = justiça; poupar = salvar ROOK e enfurecer o mineiro. |
+| **HÉLIX** | HELION | Dilema | Pai da **filha refém** (PENDENTE de confirmação). |
+| **ORÁCULO** | LIMIAR | Final | LIMIAR forçada a obedecer. |
+Ordem dos chefes: **PENDENTE**.
 
-## 5. Prólogo e ritmo (APROVADO)
-- 2051: Silas **plenamente equipado** (arma, armadura, esquadrão). Em 2054 perde tudo: "provar o poder e perder". Justifica o começo fraco (061).
-- A **identidade do amigo traidor fica oculta** no prólogo; o jogador vê só a morte encenada. Revelação no meio do jogo.
-- **Mensagens gravadas do mentor** dentro de NEX são liberadas a cada chefe.
-- A médica aparece em **3–4 cenas curtas** entre capítulos.
+## Aliados
+- **Garantidos:** NEX e o mineiro.
+- **Possíveis (4):** ex-colega (se poupado), prisioneiro (se salvar a nave), melhor amigo (se perdoado), ROOK (se trazido de volta).
+- Chefes de dilema poupados ajudam na batalha final sem lutar ao lado de Silas.
 
-## 6. Escolhas principais (APROVADO)
-- **~30%:** salvar agora os prisioneiros da próxima transferência **ou** seguir o rastro do comandante antes que ele desapareça.
-- **~50% (meio):** reencontro com a médica (com a prova do executivo) e revelação de que o **melhor amigo participou da traição**.
-- **Escolha emocional:** um dos chefes é **familiar do mineiro** (filho ou irmã — PENDENTE), capturado por Silas em 2051. Proposto: ROOK. Pergunta simples: "Lutar contra ele, ou confiar que o mineiro consegue trazê-lo de volta?"
-- Demais escolhas de 50–100% (020) continuam a definir.
+## Decisão final e 6 finais (107)
+**Etapa 1 — o comandante:** atirar ou abaixar a arma. Quem atira só vê as opções sombrias.
+**Etapa 2 — LIMIAR:**
+- *"Devolver o mundo às pessoas"* → Silas precisa sumir:
+  - **Épico com retorno:** notícia "Silas Venn está morto" (a mesma da abertura) → créditos → pós-créditos, ela se senta ao lado dele: "Você morreu duas vezes. Eu não acreditei nem na segunda." (105)
+  - **Épico solitário:** Silas salvou o mundo, mas abriu mão do amor de verdade; ela não volta.
+  - O que separa os dois: **PENDENTE** (proposta no doc 16, PZ-DEC-107).
+- *"LIMIAR aconselha, as pessoas decidem"* → **Equilibrado:** vive feliz com ela.
+- *"Destruir LIMIAR"* → **Trágico:** a guerra continua; ele não perde a médica (leitura a confirmar).
+- *"Usar LIMIAR para mandar no mundo"* → **Mau (controle):** vira o novo Protocolo Zero; perde a médica.
+- *"Vender LIMIAR a um dos blocos"* → **Mau (ganância):** perde a médica.
+**Aliados:** sem aliados suficientes, o épico vira trágico (083).
 
-## 7. Reviravoltas aprovadas
-Mecanismos inspirados em filmes de desfecho marcante, **sem copiar cenas**. Cada uma exige **2–3 pistas plantadas antes**.
-1. **O FILTRO** (narrador não confiável): em 2051 o visor militar de Silas marcava os mineiros como "alvos armados". No ato 3, o jogador **rejoga a missão da mina sem o filtro** e vê a verdade. Base: 026/043.
-2. **O MOLDE** (o duplo): o paciente rastreado pela médica (051–055) **não é Silas**; é a **arma construída a partir do corpo e dos dados dele**. Explica a ordem de capturá-lo **vivo** (068): sem o molde, a cópia é instável. A médica acertou nos dados, errou na identidade. Qual chefe é a cópia (SEPHRA ou ORÁCULO): **PENDENTE**.
-3. **A VINGANÇA É O GATILHO**: o comandante **quer** morrer pelas mãos de Silas; sua morte, transmitida, vira o pretexto para ativar a fase final do Protocolo. Se o jogador escolher a vingança, o vilão vence. Base: 059 (justiça ≠ vingança).
-4. **A PISTA PLANTADA** (bônus): a assinatura do executivo da NEXUS (055) foi deixada **de propósito** para a médica encontrar — pelo **melhor amigo**, culpado, ajudando-a em segredo. Odiado no meio do jogo, revelado informante depois. Base: 046 (o que o amigo sabia estava em aberto).
+## Produção (de 080, vigente)
+Protótipo primeiro (1 área + mini-chefe + 1 chefe nos dois modos); uma microcutscene por especial; Steam primeiro, Play Store depois; página na Steam e demo cedo. Estilo visual final PENDENTE (recomendado: pixel art no jogo + retratos/cutscenes em anime).
 
-**Tema unificador:** "quem controla quem?" — o filtro controlava o que Silas via; o molde usou seu corpo; a vingança seria a última ordem cumprida sem perceber.
+## Cancelado ou superado
+- Virada do **Molde** (102). Virada "pista plantada" fundida na revelação do amigo (095). Escolha de ~30% "prisioneiros ou comandante" (substituída por 093). Reservas de 080 continuam não aplicadas.
 
-## 8. Quatro finais (APROVADO como direção; gatilhos PENDENTES)
-- **Positivo:** LIMIAR libertada e Protocolo Zero exposto.
-- **Agridoce:** a verdade vem à tona, mas alguém amado é perdido.
-- **Doloroso:** Silas salva o mundo e perde a médica ou o amigo para sempre.
-- **Final do Silas:** ele assume o lugar da arma e vira o novo Protocolo Zero.
-Resultam de escolhas acumuladas (020), não só da última.
-
-## 9. Produção (APROVADO)
-- **Protótipo antes de mais história:** 1 área + mini-chefe + 1 chefe testado nos dois modos (ação 2D e tático). O resultado decide o sistema híbrido (066).
-- **Uma microcutscene por especial** (revisa a meta de duas de 022).
-- **Steam primeiro**, Play Store depois. Página na Steam cedo (listas de desejo) e demo do prólogo + complexo.
-- **Estilo visual PENDENTE, recomendado:** pixel art no gameplay + retratos/cutscenes em anime.
-- Limite: **no máximo 3 grandes viradas** + 1 bônus numa campanha de 2–3h.
-
-## 10. RESERVA (propostas NÃO aplicadas)
-- **"Por que deixaram fugir?"** (estilo Oldboy): conflita com 059 (iniciativa de Silas na fuga).
-- **"O mentor também tinha um plano"**: risco de diminuir o sacrifício do mentor (060).
-
-## 11. Pendentes
-Nomes de todos os personagens, ordem dos chefes, familiar do mineiro, qual chefe é a cópia, terceira categoria de item (013), sistema híbrido (protótipo), estilo visual final, pistas concretas de cada reviravolta.
+## Pendentes principais
+Nomes de todos os personagens; fichas visuais e de personalidade; ordem dos chefes; HÉLIX como pai; o que separa épico com retorno x solitário; destino do namorado; qual lembrança prova quem Silas é; terceira categoria de item (013); sistema híbrido (protótipo); conflito de nome na Steam.
