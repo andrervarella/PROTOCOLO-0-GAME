@@ -47,10 +47,19 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 **APROVADO: opção C.** Na volta a 2054 (087), o mentor **fica para trás para terminar de passar uma chave para NEX** enquanto os guardas chegam. Última fala proposta: **"Cuide dele. Ele sabe o caminho."** Sacrifício consciente (060); NEX segue IA própria, não a consciência do mentor (034). A chave é o que permitirá libertar LIMIAR (080). Fala exata ajustável.
 
 ## PZ-DEC-090 — Pergunta 6/20: identidade do mini-chefe
-**APROVADO: opção B.** O soldado aprimorado enviado pelo comandante (070) é **um ex-colega do esquadrão de Silas em 2051**, que o jogador **conheceu lutando ao seu lado no flashback**; agora volta com **implantes do ÉREBO** para caçar Silas. Mostra que o comandante transforma até os próprios homens em armas. Reaproveita personagem do flashback. **Pendente:** nome, aparência, destino após a luta (morre, foge, pode ser poupado/virar aliado).
+**APROVADO: opção B.** O soldado aprimorado enviado pelo comandante (070) é **um ex-colega do esquadrão de Silas em 2051**, que o jogador **conheceu lutando ao seu lado no flashback**; agora volta com **implantes do ÉREBO** para caçar Silas. Mostra que o comandante transforma até os próprios homens em armas. Reaproveita personagem do flashback. **Pendente:** nome, aparência.
+**Escolha menor aprovada (093):** depois de vencê-lo, o jogador decide **poupar ou matar** o ex-colega (consequência a definir; pode afetar aliados).
 
 ## PZ-DEC-091 — Pergunta 7/20: o mineiro de 2051
 **APROVADO: opção A.** O mineiro que Silas **captura e em quem hesita** no flashback de 2051 (088) é **o mesmo ex-líder da revolta** que ele resgata da nave em 2054 (074). Ao reconhecê-lo, diz: **"Você hesitou naquele dia. Eu vi."** É por isso que aceita a aliança por necessidade (075), sem perdoar. **Supera** a ressalva de 074/075 de não afirmar que Silas o capturou pessoalmente: agora **foi Silas**. Fala exata ajustável. A ideia do filho do ex-líder como chefe (080) continua PENDENTE.
 
 ## PZ-DEC-092 — Pergunta 8/20: quem escondeu o arquivo
 **APROVADO: opção B.** O arquivo do Protocolo Zero escondido no refúgio (079) foi **montado e entregue à resistência pela médica**, com as provas de sua investigação secreta sobre as transferências (051–058). Silas vê a **assinatura digital dela** e descobre que **ela está viva e lutando do mesmo lado, sem saber que ele está vivo**. Isso motiva o reencontro do meio do jogo (080). Ela segue namorando o homem honesto (050).
+
+## PZ-DEC-093 — Pergunta 9/20: primeira grande escolha (~30%)
+**APROVADO: opção B.** Dilema: **"Salvar as pessoas da próxima nave, ou correr atrás da médica?"** Substitui a escolha de ~30% de 080 (prisioneiros ou comandante).
+- **Prisioneiros:** ganha um aliado entre eles; chega tarde e a médica já partiu.
+- **Médica:** quase a alcança; os prisioneiros são levados e esse aliado é perdido.
+- Os dois caminhos convergem: o **reencontro real acontece no meio do jogo** (duas cenas diferentes, não duas campanhas).
+**Restrição do dono:** esta escolha **NÃO pode fazer Silas perder a médica no final**, qualquer que seja a opção. Ela afeta aliados, não o destino dela.
+**Também aprovado:** a opção C (poupar ou matar o ex-colega mini-chefe) entra como **escolha menor** logo após essa luta (090).
