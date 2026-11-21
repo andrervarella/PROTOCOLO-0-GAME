@@ -248,6 +248,6 @@ O dono respondeu **“Escolho B: máquinas militares estão atacando o refúgio.
 
 ## PILOTO JOGÁVEL DA FASE 1 — Godot 4.3 + web (21/11/2026)
 - Código em `game/`; guia completo em `docs/21_PILOTO_FASE1_GODOT.md`.
-- Link para jogar no celular: projeto Vercel `protocolo-zero-piloto`, servido do branch `web-build` (só o build web, sobrescrito a cada versão).
+- Link para jogar no celular: https://protocolo-zero-piloto.vercel.app (projeto Vercel `protocolo-zero-piloto`), servido do branch `web-build` (só o build web, sobrescrito a cada versão).
 - Testado por robô do início ao fim sem erros de script e no Chrome com toque em tela de celular. **Não testado em celular real nem balanceado.**
 - Boneco provisório já segue as cores do Lote 1 oficial (prisioneiro 2054 e soldado 2051, sem cicatriz em 2051). Arte, falas novas e números são PROPOSTA/PROVISÓRIO. Próximo: feedback do dono jogando; imagens dos lotes do doc 19.
