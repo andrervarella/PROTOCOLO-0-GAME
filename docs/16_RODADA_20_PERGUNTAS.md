@@ -36,6 +36,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 4. Na nave, o ex-líder reconhece Silas: "Você hesitou naquele dia. Eu vi." (APROVADA, 091).
 5. No refúgio, Silas vê a assinatura da médica no arquivo e descobre que ela está viva e lutando (APROVADA, 092).
 6. Reencontro: a médica aponta a arma, "Prove que é você"; ele prova com uma lembrança (APROVADA, 094).
+7. Final, se MAESTRO foi poupado: ele aparece ao lado do ORÁCULO com a chave de NEX — "Eu perdi de propósito." (APROVADA, 099).
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -78,10 +79,10 @@ Registro anterior: 4 chefes + ORÁCULO, com KHEIRON cortado. **Substituído pela
 
 ## PZ-DEC-097 — Correção do dono: 5 chefes, dois maus, três dilemas
 **APROVADO PELO DONO:**
-- **5 chefes principais**, mesmo que a campanha fique um pouco mais longa. Leitura registrada: **5 chefes + ORÁCULO no final** (a confirmar se o dono quis 5 no total). KHEIRON volta ou é substituído por um conceito novo: **PENDENTE**.
+- **5 chefes principais + ORÁCULO no final** (confirmado pelo dono), mesmo que a campanha fique um pouco mais longa. KHEIRON volta ou é substituído por um conceito novo: **PENDENTE**.
 - **2 chefes são realmente maus:**
   - **um não pode ser poupado**;
-  - **um pode ser poupado, mas, se for, volta no final de forma surpreendente e luta ao lado do último chefe**, deixando o final mais difícil. Justificativa da volta: **próxima pergunta (14/20)**.
+  - **um pode ser poupado, mas, se for, volta no final e luta ao lado do último chefe**, deixando o final mais difícil (099).
 - **3 chefes são dilemas morais difíceis**: poupar ou não. Exemplo do dono: um deles **tem uma filha refém dos vilões** e por isso fazia o que fazia; os outros com motivos igualmente complexos.
 - **Regra:** cada decisão deve **tocar o jogador** e fazê-lo pensar com **razão, coração ou lógica**. Inspiração em grandes filmes, sem copiar.
 
@@ -92,3 +93,9 @@ Registro anterior: 4 chefes + ORÁCULO, com KHEIRON cortado. **Substituído pela
 - **melhor amigo**, se perdoado (095);
 - **ROOK, filho do mineiro** (capturado por Silas), se for trazido de volta — ROOK é um dos chefes de dilema.
 Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lutam com Silas. O chefe mau poupado é a exceção: volta contra ele (097).
+
+## PZ-DEC-099 — Pergunta 14/20: por que o chefe mau poupado volta
+**APROVADO: opção A — "Ele perdeu de propósito."** O chefe mau poupável é o **MAESTRO** (controle por fios; o manipulador). Mecanismo inspirado em *Seven* (o vilão que se entrega como parte do plano) e *Death Note* (prisão aceita como estratégia), sem copiar cenas.
+- Ao ser poupado, fica perto de **NEX e da chave do mentor**; no final, **entrega a chave ao ORÁCULO e luta ao lado dele**, tornando o final mais difícil.
+- **Sinais obrigatórios (2–3, aprovados pelo dono):** ele **se rende fácil demais**, **sorri ao ser poupado**, **pergunta sobre NEX**. Quem pensa com lógica desconfia; quem segue o coração paga o preço.
+- Se o jogador **não** poupar, o plano dele não acontece.
