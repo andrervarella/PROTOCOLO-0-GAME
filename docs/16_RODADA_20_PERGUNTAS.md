@@ -1,16 +1,16 @@
 # PROTOCOLO ZERO — RODADA DE 20 PERGUNTAS (revisão da história do início ao fim)
-Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, consolidar em `DECISOES.md`, `00_RESUMO`, `HANDOFF`, `ESTADO_ATUAL` e `TAREFAS`. **Esta rodada pode revisar itens de PZ-DEC-080**; em conflito, vale a resposta mais recente aqui.
+Iniciada e concluída em 20/11/2026. Ao final da rodada, consolidar em `DECISOES.md`, `00_RESUMO`, `HANDOFF`, `ESTADO_ATUAL` e `TAREFAS` (**consolidação pendente**). **Esta rodada revisa itens de PZ-DEC-080**; em conflito, vale a resposta mais recente aqui. Resumo da história vigente: `docs/15_ARCO_COMPLETO_E_REVIRAVOLTAS.md`.
 
 ## PZ-DEC-081 — Pergunta 1/20: nome do jogo
 **APROVADO: opção A — PROTOCOLO ZERO.** Motivo do dono: nome genérico que cria curiosidade. Ganha sentido com o pacto revelado (080). **Pendente:** verificar conflito de nome na Steam (inclusive "Protocol Zero").
 
 ## PZ-DEC-082 — Diretriz do dono: reviravoltas SIMPLES
 **DIRETRIZ APROVADA:** as reviravoltas devem ser fáceis de entender; o jogador só precisa entender e pensar "que sacada". Evitar camadas e explicações complexas. Inspiração citada: filmes de ação do **Clint Eastwood** com viradas marcantes (sem copiar). O dono aprova a base: Silas achava que combatia o mal e não era; o mineiro. O dono autoriza o assistente a discordar e questionar.
-**Consequência:** as viradas de PZ-DEC-080 serão revistas nesta rodada; cada uma precisa caber em **uma frase**.
+**Consequência:** as viradas de PZ-DEC-080 foram revistas nesta rodada; cada uma precisa caber em **uma frase**.
 
 ## PZ-DEC-083 — Decisão final e aliados conquistados
 **APROVADO PELO DONO (diretriz + ajustes confirmados):**
-- No final, Silas toma **uma decisão** que leva a vários desfechos (ampliado para **5** em 104).
+- No final, Silas toma uma decisão que leva a vários desfechos (forma final em **107**).
 - As **escolhas ao longo do jogo** decidem **quais personagens viram aliados**. Existe um **grupo de aliados possíveis**; o jogador pode **ganhá-los ou perdê-los** e escolhe entre os conquistados.
 - **Ajustes aprovados:** (1) a decisão final escolhe o caminho; os aliados conquistados mudam como ele termina (ex.: caminho bom sem aliados suficientes vira trágico); (2) **NEX e o mineiro são aliados garantidos**, para nenhum chefe ficar impossível; (3) grupo enxuto de **~4–5 aliados possíveis** (2–3h de campanha).
 
@@ -25,10 +25,10 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 - Uso futuro: o assistente escreverá **prompts de imagem** (fichas de personagem e referências) para o dono gerar com IA. **Nenhuma geração ou gasto sem pedido do dono.**
 
 ## PZ-DEC-086 — Diretriz do dono: cutscenes de 10–20 s
-**DIRETRIZ APROVADA:** o assistente pode indicar momentos para **cutscenes narrativas de 10 a 20 segundos** sempre que forem interessantes, **sem exagero e sem pesar no jogo**. Primeira aprovada: **a notícia da execução de Silas** (abertura, 084). Diferente das microcutscenes de golpes especiais (~5 s, 080).
-**Teto aprovado ("gostei bastante", 20/11):** **~8–10 cutscenes narrativas** na campanha inteira; momentos menores feitos dentro do próprio jogo (engine), para controlar custo e manter consistência visual. Nenhum vídeo gerado.
+**DIRETRIZ APROVADA:** o assistente pode indicar momentos para **cutscenes narrativas de 10 a 20 segundos** sempre que forem interessantes, **sem exagero e sem pesar no jogo**. Diferente das microcutscenes de golpes especiais (~5 s, 080).
+**Teto aprovado:** **~8–10 cutscenes narrativas** na campanha inteira; momentos menores feitos dentro do próprio jogo (engine). Nenhum vídeo gerado.
 
-### Lista de cutscenes candidatas
+### Lista de cutscenes
 1. Notícia da execução de Silas → Silas vivo fugindo (APROVADA, 084).
 2. Silas e mentor cercados: "Você lembra por que está aqui?" → corte para 2051 (APROVADA, 087).
 3. Mentor fica para trás passando a chave para NEX: "Cuide dele. Ele sabe o caminho." (APROVADA, 089).
@@ -38,8 +38,8 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 7. Final, se MAESTRO foi poupado: ele aparece ao lado do ORÁCULO com a chave de NEX — "Eu perdi de propósito." (APROVADA, 099).
 8. Revelação do namorado como o executivo da NEXUS (candidata, 101).
 9. Revelação final: LIMIAR queria a paz (candidata, 103).
-10. Final épico: nova notícia da morte de Silas → créditos → cena pós-créditos com ela (APROVADA, 105).
-**Contagem:** 10 candidatas = teto. Novas cenas exigem trocar uma destas ou fazer dentro do jogo. O confronto com o comandante (106) pode ser feito dentro do jogo.
+10. Final épico: nova notícia da morte de Silas → créditos → cena pós-créditos com ela (APROVADA, 105). O épico solitário (107) reaproveita a notícia, sem a cena pós-créditos.
+**Contagem:** 10 = teto. O confronto com o comandante (106) pode ser feito dentro do jogo.
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -59,7 +59,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 **APROVADO: opção A.** O mineiro que Silas **captura e em quem hesita** no flashback de 2051 (088) é **o mesmo ex-líder da revolta** que ele resgata da nave em 2054 (074). Ao reconhecê-lo, diz: **"Você hesitou naquele dia. Eu vi."** É por isso que aceita a aliança por necessidade (075), sem perdoar. **Supera** a ressalva de 074/075 de não afirmar que Silas o capturou pessoalmente: agora **foi Silas**. Fala exata ajustável. O filho do ex-líder é ROOK (098).
 
 ## PZ-DEC-092 — Pergunta 8/20: quem escondeu o arquivo
-**APROVADO: opção B.** O arquivo do Protocolo Zero escondido no refúgio (079) foi **montado e entregue à resistência pela médica**, com as provas de sua investigação secreta sobre as transferências (051–058). Silas vê a **assinatura digital dela** e descobre que **ela está viva e lutando do mesmo lado, sem saber que ele está vivo**. Isso motiva o reencontro do meio do jogo (080). Ela segue namorando o homem honesto (050).
+**APROVADO: opção B.** O arquivo do Protocolo Zero escondido no refúgio (079) foi **montado e entregue à resistência pela médica**, com as provas de sua investigação secreta sobre as transferências (051–058). Silas vê a **assinatura digital dela** e descobre que **ela está viva e lutando do mesmo lado, sem saber que ele está vivo**. Isso motiva o reencontro do meio do jogo (080). Ela segue namorando o homem honesto (050; ver 101).
 
 ## PZ-DEC-093 — Pergunta 9/20: primeira grande escolha (~30%)
 **APROVADO: opção B.** Dilema: **"Salvar as pessoas da próxima nave, ou correr atrás da médica?"** Substitui a escolha de ~30% de 080 (prisioneiros ou comandante).
@@ -71,7 +71,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-094 — Pergunta 10/20: reencontro com a médica (meio do jogo)
 **APROVADO: opção A.** A médica **aponta uma arma para Silas** e diz **"Prove que é você."** Silas prova **não pelo corpo, mas por uma lembrança que só os dois têm**. Tema: **o corpo pode ser mudado; a pessoa, não**. **Pendente:** qual lembrança; falas exatas.
-**Ajuste (102):** sem a virada do molde, o motivo da dúvida é outro: o paciente que ela rastreava **era o próprio Silas**, e ela sabe que o ÉREBO altera corpo e mente. A pergunta vira **"prove que você ainda é você, e não o que fizeram de você"**.
+**Ajuste (102):** sem a virada do molde, o paciente que ela rastreava **era o próprio Silas**, e ela sabe que o ÉREBO altera corpo e mente. A pergunta vira **"prove que você ainda é você, e não o que fizeram de você"**.
 
 ## PZ-DEC-095 — Pergunta 11/20: o papel do melhor amigo
 **APROVADO: opção A.** Na mesma fase do reencontro, **a médica revela duas verdades numa cena só**: o melhor amigo **entregou Silas** (enganado pelo comandante, 030/046) **e** é **quem a ajuda em segredo há três anos**, passando as provas usadas no arquivo. Frase-guia: **"O homem que te traiu é o mesmo que tentou te salvar."**
@@ -122,26 +122,32 @@ Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lut
 ## PZ-DEC-103 — Pergunta 17/20 (refeita): a grande verdade do final
 **APROVADO: opção C — "A máquina queria a paz. Os homens, não."** LIMIAR foi presa porque **calculou como acabar com a Guerra Fria**: dividir energia, chips e minerais entre os três blocos. Os donos do mundo **preferiram a guerra (que dá lucro)** e **culparam LIMIAR** pelos ataques (executados por KHEIRON, 100). O **ORÁCULO é LIMIAR forçada a obedecer**. Tema atual: **confiar numa IA ou nos humanos que mentiram?** Complementa o Protocolo Zero (080) e a chave do mentor em NEX (089). Inverte o começo do jogo ("a IA é a culpada").
 
-## PZ-DEC-104 — Os cinco finais (diretriz do dono)
-**APROVADO PELO DONO:** a decisão final passa a ter **5 desfechos**:
-1. **Bom e épico (sacrifício do amor):** Silas aceita **abrir mão do amor para salvar o mundo**; parece que a perdeu e que acabou; então ela volta (forma em 105).
-2. **Equilibrado e coerente:** solução intermediária e realista; **Silas vive feliz com ela**.
-3. **Trágico.**
-4. **Mau (controle):** Silas usa LIMIAR para controlar os três blocos e vira o novo Protocolo Zero.
-5. **Mau e ganancioso:** Silas escolhe por ganância (poder/riqueza pessoal).
-**Regra do amor (dono):** **2 finais fazem Silas perder a amada**; **1 faz ele viver feliz com ela** (equilibrado); **1 é o épico em que parece perdê-la, mas ela volta**.
-**Leitura proposta, a confirmar:** os 2 finais em que ele a perde são os **dois maus** (ela não fica ao lado de quem virou o que ela combatia). O **trágico** perde outra coisa (o mundo em guerra, aliados mortos), não a médica.
-**Os aliados conquistados** continuam mudando o resultado (083).
+## PZ-DEC-104 — Os finais, primeira versão (SUPERADO por 107)
+Primeira lista do dono com 5 finais (épico com retorno, equilibrado, trágico, mau por controle, mau por ganância). **Revisada em 107:** sai o final da ganância e entra o épico solitário.
 
 ## PZ-DEC-105 — Pergunta 18/20: como ela volta no final épico
 **APROVADO: opção A — "Morto pela segunda vez."** Para libertar LIMIAR, Silas precisa **sumir do mundo** (o ÉREBO no corpo dele é a ponte). O noticiário anuncia **"Silas Venn está morto"** — **a mesma notícia que abre o jogo** (084). Créditos. **Cena pós-créditos:** Silas sozinho num lugar simples (proposta: praia ou a mina reconstruída); alguém se senta ao lado dele: é ela. Fala-guia: **"Você morreu duas vezes. Eu não acreditei nem na segunda."**
 - O jogo **começa e termina com a mesma notícia falsa**; da primeira vez ela acreditou e perdeu três anos; da segunda, **não acreditou**.
-- A "cavalaria" de aliados (opção B) pode existir **dentro da batalha final**, para os aliados conquistados, sem ser a cena dela.
+- A "cavalaria" de aliados pode existir **dentro da batalha final**, para os aliados conquistados, sem ser a cena dela.
 - Local e falas exatas ajustáveis.
 
 ## PZ-DEC-106 — Pergunta 19/20: o fim do comandante
 **APROVADO: opção A + detalhe da C ("concordo com tudo").** O comandante, **desarmado e diante das câmeras**, provoca Silas: se o "traidor do ÉREBO" o matar ao vivo, o mundo terá a prova de que o Protocolo Zero é necessário. Frase-guia: **"Matar é exatamente o que ele quer."**
-- **Silas abaixa a arma:** o comandante perde. Caminho para os **finais bons** (épico/equilibrado).
-- **Silas atira:** o comandante vence mesmo morto. Caminho para os **finais maus ou o trágico**.
+- **Silas abaixa a arma:** o comandante perde. Caminho para os finais bons.
+- **Silas atira:** o comandante vence mesmo morto. Caminho para o mau ou o trágico.
 - **Se o ex-colega foi poupado (090), é ele quem prende o comandante** depois que Silas abaixa a arma.
 - Inspiração: a lição de *Gran Torino* ao contrário — a vitória está em **não** fazer o que todos esperam. Fecha o arco de Silas: de **obedecer sem pensar** a **escolher sozinho**.
+
+## PZ-DEC-107 — Pergunta 20/20: decisão final e os 5 finais
+**APROVADO: opção A (duas etapas), com dois ajustes do dono:** entra um **épico solitário** e **sai o final da ganância**.
+**Etapa 1 — o comandante (106):** atirar ou abaixar a arma. Quem atira só vê as opções sombrias.
+**Etapa 2 — LIMIAR, já libertada da prisão:**
+1. *"Devolver o mundo às pessoas"* (Silas precisa sumir):
+   - **Épico com retorno** (105): parece que ele a perdeu; pós-créditos, ela volta.
+   - **Épico solitário** (dono): **Silas quis ser bom, salvou o mundo, mas abriu mão do amor de verdade.** Final grandioso e mais solitário; ela não volta.
+2. *"LIMIAR aconselha, as pessoas decidem"* → **Equilibrado:** vive feliz com ela.
+3. *"Destruir LIMIAR"* → **Trágico:** a guerra continua; aliados podem morrer.
+4. *"Usar LIMIAR para mandar no mundo"* → **Mau:** vira o novo Protocolo Zero; perde a médica.
+**Aliados:** sem aliados suficientes, o épico vira trágico (083).
+**Regra do amor resultante:** perde a médica no **mau** e no **épico solitário** (2 finais, como pedido em 104); vive com ela no **equilibrado** e no **épico com retorno**; no **trágico** perde outra coisa (leitura a confirmar).
+**PENDENTE — o que separa os dois épicos.** Proposta do assistente: um último gesto antes de sumir, *"Deixar que ela saiba que você está vivo?"*. **Sim:** ela não acredita na notícia e o encontra (com retorno). **Não:** ele a protege deixando-a seguir a vida (solitário).
