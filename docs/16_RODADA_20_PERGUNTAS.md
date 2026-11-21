@@ -79,11 +79,11 @@ Registro anterior: 4 chefes + ORÁCULO, com KHEIRON cortado. **Substituído pela
 
 ## PZ-DEC-097 — Correção do dono: 5 chefes, dois maus, três dilemas
 **APROVADO PELO DONO:**
-- **5 chefes principais + ORÁCULO no final** (confirmado pelo dono), mesmo que a campanha fique um pouco mais longa. KHEIRON volta ou é substituído por um conceito novo: **PENDENTE**.
+- **5 chefes principais + ORÁCULO no final** (confirmado pelo dono), mesmo que a campanha fique um pouco mais longa. **KHEIRON volta** com função nova (100).
 - **2 chefes são realmente maus:**
-  - **um não pode ser poupado**;
-  - **um pode ser poupado, mas, se for, volta no final e luta ao lado do último chefe**, deixando o final mais difícil (099).
-- **3 chefes são dilemas morais difíceis**: poupar ou não. Exemplo do dono: um deles **tem uma filha refém dos vilões** e por isso fazia o que fazia; os outros com motivos igualmente complexos.
+  - **um não pode ser poupado** — KHEIRON (100);
+  - **um pode ser poupado, mas, se for, volta no final e luta ao lado do último chefe** — MAESTRO (099).
+- **3 chefes são dilemas morais difíceis**: poupar ou não. Exemplo do dono: um deles **tem uma filha refém dos vilões** e por isso fazia o que fazia; os outros com motivos igualmente complexos. ROOK é um deles (098).
 - **Regra:** cada decisão deve **tocar o jogador** e fazê-lo pensar com **razão, coração ou lógica**. Inspiração em grandes filmes, sem copiar.
 
 ## PZ-DEC-098 — Pergunta 13/20: aliados possíveis
@@ -99,3 +99,8 @@ Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lut
 - Ao ser poupado, fica perto de **NEX e da chave do mentor**; no final, **entrega a chave ao ORÁCULO e luta ao lado dele**, tornando o final mais difícil.
 - **Sinais obrigatórios (2–3, aprovados pelo dono):** ele **se rende fácil demais**, **sorri ao ser poupado**, **pergunta sobre NEX**. Quem pensa com lógica desconfia; quem segue o coração paga o preço.
 - Se o jogador **não** poupar, o plano dele não acontece.
+
+## PZ-DEC-100 — Pergunta 15/20: o chefe que não pode ser poupado
+**APROVADO: opção A — KHEIRON, o voluntário.** Único chefe que **não foi capturado: se ofereceu** ao ÉREBO. É quem **executa os ataques que o mundo culpa em LIMIAR** e quem **mantém refém a filha de outro chefe** (dilema de 097). Derrotado, **sobrecarrega o próprio corpo** para tentar levar Silas junto; não há como poupá-lo. Frase-guia: **"Nem todo mundo quer ser salvo."**
+- Vencer KHEIRON **liberta a filha refém** do outro chefe.
+- O comandante **fica fora da lista de chefes**, preservando o final "a vingança é o gatilho" (080).
