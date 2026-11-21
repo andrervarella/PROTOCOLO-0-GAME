@@ -39,7 +39,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 8. Revelação do namorado como o executivo da NEXUS (candidata, 101).
 9. Revelação final: LIMIAR queria a paz (candidata, 103).
 10. Final épico: nova notícia da morte de Silas → créditos → cena pós-créditos com ela (APROVADA, 105).
-**Contagem:** 10 candidatas = teto. Novas cenas exigem trocar uma destas ou fazer dentro do jogo.
+**Contagem:** 10 candidatas = teto. Novas cenas exigem trocar uma destas ou fazer dentro do jogo. O confronto com o comandante (106) pode ser feito dentro do jogo.
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -53,7 +53,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-090 — Pergunta 6/20: identidade do mini-chefe
 **APROVADO: opção B.** O soldado aprimorado enviado pelo comandante (070) é **um ex-colega do esquadrão de Silas em 2051**, que o jogador **conheceu lutando ao seu lado no flashback**; agora volta com **implantes do ÉREBO** para caçar Silas. Mostra que o comandante transforma até os próprios homens em armas. Reaproveita personagem do flashback. **Pendente:** nome, aparência.
-**Escolha menor aprovada (093):** depois de vencê-lo, o jogador decide **poupar ou matar** o ex-colega; se poupar, vira aliado possível (098).
+**Escolha menor aprovada (093):** depois de vencê-lo, o jogador decide **poupar ou matar** o ex-colega; se poupar, vira aliado possível (098) e é quem **prende o comandante** no final (106).
 
 ## PZ-DEC-091 — Pergunta 7/20: o mineiro de 2051
 **APROVADO: opção A.** O mineiro que Silas **captura e em quem hesita** no flashback de 2051 (088) é **o mesmo ex-líder da revolta** que ele resgata da nave em 2054 (074). Ao reconhecê-lo, diz: **"Você hesitou naquele dia. Eu vi."** É por isso que aceita a aliança por necessidade (075), sem perdoar. **Supera** a ressalva de 074/075 de não afirmar que Silas o capturou pessoalmente: agora **foi Silas**. Fala exata ajustável. O filho do ex-líder é ROOK (098).
@@ -107,7 +107,7 @@ Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lut
 ## PZ-DEC-100 — Pergunta 15/20: o chefe que não pode ser poupado
 **APROVADO: opção A — KHEIRON, o voluntário.** Único chefe que **não foi capturado: se ofereceu** ao ÉREBO. É quem **executa os ataques que o mundo culpa em LIMIAR** e quem **mantém refém a filha de outro chefe** (dilema de 097). Derrotado, **sobrecarrega o próprio corpo** para tentar levar Silas junto; não há como poupá-lo. Frase-guia: **"Nem todo mundo quer ser salvo."**
 - Vencer KHEIRON **liberta a filha refém** do outro chefe.
-- O comandante **fica fora da lista de chefes**, preservando o final "a vingança é o gatilho" (080).
+- O comandante **fica fora da lista de chefes**, preservando o final "a vingança é o gatilho" (080, 106).
 
 ## PZ-DEC-101 — Pergunta 16/20: SEPHRA e o namorado da médica
 **APROVADO: opção A.**
@@ -138,3 +138,10 @@ Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lut
 - O jogo **começa e termina com a mesma notícia falsa**; da primeira vez ela acreditou e perdeu três anos; da segunda, **não acreditou**.
 - A "cavalaria" de aliados (opção B) pode existir **dentro da batalha final**, para os aliados conquistados, sem ser a cena dela.
 - Local e falas exatas ajustáveis.
+
+## PZ-DEC-106 — Pergunta 19/20: o fim do comandante
+**APROVADO: opção A + detalhe da C ("concordo com tudo").** O comandante, **desarmado e diante das câmeras**, provoca Silas: se o "traidor do ÉREBO" o matar ao vivo, o mundo terá a prova de que o Protocolo Zero é necessário. Frase-guia: **"Matar é exatamente o que ele quer."**
+- **Silas abaixa a arma:** o comandante perde. Caminho para os **finais bons** (épico/equilibrado).
+- **Silas atira:** o comandante vence mesmo morto. Caminho para os **finais maus ou o trágico**.
+- **Se o ex-colega foi poupado (090), é ele quem prende o comandante** depois que Silas abaixa a arma.
+- Inspiração: a lição de *Gran Torino* ao contrário — a vitória está em **não** fazer o que todos esperam. Fecha o arco de Silas: de **obedecer sem pensar** a **escolher sozinho**.
