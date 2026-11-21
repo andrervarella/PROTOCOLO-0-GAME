@@ -37,6 +37,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 5. No refúgio, Silas vê a assinatura da médica no arquivo e descobre que ela está viva e lutando (APROVADA, 092).
 6. Reencontro: a médica aponta a arma, "Prove que é você"; ele prova com uma lembrança (APROVADA, 094).
 7. Final, se MAESTRO foi poupado: ele aparece ao lado do ORÁCULO com a chave de NEX — "Eu perdi de propósito." (APROVADA, 099).
+8. Revelação do namorado como o executivo da NEXUS (candidata, 101).
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -83,7 +84,7 @@ Registro anterior: 4 chefes + ORÁCULO, com KHEIRON cortado. **Substituído pela
 - **2 chefes são realmente maus:**
   - **um não pode ser poupado** — KHEIRON (100);
   - **um pode ser poupado, mas, se for, volta no final e luta ao lado do último chefe** — MAESTRO (099).
-- **3 chefes são dilemas morais difíceis**: poupar ou não. Exemplo do dono: um deles **tem uma filha refém dos vilões** e por isso fazia o que fazia; os outros com motivos igualmente complexos. ROOK é um deles (098).
+- **3 chefes são dilemas morais difíceis**: poupar ou não — **ROOK** (098), **SEPHRA** (101) e **HÉLIX** (pai da filha refém; ver 101).
 - **Regra:** cada decisão deve **tocar o jogador** e fazê-lo pensar com **razão, coração ou lógica**. Inspiração em grandes filmes, sem copiar.
 
 ## PZ-DEC-098 — Pergunta 13/20: aliados possíveis
@@ -104,3 +105,10 @@ Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lut
 **APROVADO: opção A — KHEIRON, o voluntário.** Único chefe que **não foi capturado: se ofereceu** ao ÉREBO. É quem **executa os ataques que o mundo culpa em LIMIAR** e quem **mantém refém a filha de outro chefe** (dilema de 097). Derrotado, **sobrecarrega o próprio corpo** para tentar levar Silas junto; não há como poupá-lo. Frase-guia: **"Nem todo mundo quer ser salvo."**
 - Vencer KHEIRON **liberta a filha refém** do outro chefe.
 - O comandante **fica fora da lista de chefes**, preservando o final "a vingança é o gatilho" (080).
+
+## PZ-DEC-101 — Pergunta 16/20: SEPHRA e o namorado da médica
+**APROVADO: opção A.**
+- **SEPHRA — "o monstro que é a cura":** autora dos experimentos mais cruéis do ÉREBO, mas **a única que sabe desfazer os implantes**, inclusive os de **ROOK**. **Matar:** justiça para as vítimas, mas ROOK não pode mais ser trazido de volta. **Poupar:** ROOK pode ser salvo, mas o **mineiro fica furioso** (sem deixar de ser aliado garantido, 083). Dilema de **razão x coração**.
+- **O namorado da médica é o executivo da NEXUS** cuja assinatura aparece nas transferências (055) e cujas autorizações ela investiga (058). O comandante o chantageou: assinar e manter os chefes trabalhando, **ou a médica desaparece**. Ele aceitou **por amor**. Frase-guia: **"Ela investigava o próprio namorado — e tudo o que ele fez foi para salvá-la."** Revelação **separada, perto do final**; não ligada à SEPHRA. Dilema de **amor x justiça**.
+- **Muda 037/050:** ele segue **bom de coração**, mas **cúmplice por amor**; continua **namorado, sem casamento**. A restrição de 093 se mantém: Silas **não perde a médica** por causa disso. O destino do namorado (redenção ou queda) fica **PENDENTE**.
+- **HÉLIX como pai da filha refém** foi proposta do assistente nesta pergunta, sem objeção do dono: **confirmar na consolidação**.
