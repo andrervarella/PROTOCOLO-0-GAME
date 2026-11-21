@@ -32,6 +32,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 ### Lista de cutscenes candidatas
 1. Notícia da execução de Silas → Silas vivo fugindo (APROVADA, 084).
 2. Silas e mentor cercados: "Você lembra por que está aqui?" → corte para 2051 (APROVADA, 087).
+3. Mentor fica para trás passando a chave para NEX: "Cuide dele. Ele sabe o caminho." (APROVADA, 089).
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -39,3 +40,6 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 ## PZ-DEC-088 — Pergunta 4/20: fim do flashback de 2051
 **APROVADO: opção B (o dono discordou da recomendação A).** Na mina, Silas **captura um mineiro, olha para ele e percebe que não é um terrorista: hesita**. Motivo do dono: mostrar **sensibilidade e senso de bondade**; o jogador já percebe que aquilo não é justiça, enquanto Silas ainda acha que é, criando **dualidade e empatia** quando ele descobre a verdade.
 **Leitura coerente com 026/029 (confirmar se necessário):** a hesitação é o começo da dúvida; Silas **ainda cumpre a ordem** naquele momento, e a descoberta da conspiração vem depois (044). A frase do mineiro e a manchete "herói na TV" (opção A) **não foram aprovadas**.
+
+## PZ-DEC-089 — Pergunta 5/20: morte do mentor
+**APROVADO: opção C.** Na volta a 2054 (087), o mentor **fica para trás para terminar de passar uma chave para NEX** enquanto os guardas chegam. Última fala proposta: **"Cuide dele. Ele sabe o caminho."** Sacrifício consciente (060); NEX segue IA própria, não a consciência do mentor (034). A chave é o que permitirá libertar LIMIAR (080). Fala exata ajustável.
