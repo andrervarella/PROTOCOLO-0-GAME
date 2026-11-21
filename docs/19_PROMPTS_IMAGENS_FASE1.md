@@ -1,7 +1,7 @@
 # PROTOCOLO ZERO — PROMPTS DE IMAGEM DA FASE 1 (PRÓLOGO) PARA O CHATGPT
 **21/11/2026.** Pedido do dono: criar as imagens de referência no ChatGPT, **sempre em lotes de 5 imagens**, com tudo especificado, para depois virar sprites e assets (PixelLab/Godot). Base: fichas do `docs/18_FICHAS_DE_PERSONAGENS.md`.
 **Escopo da fase 1 (piloto):** notícia da execução → fuga da prisão ÉREBO (2054) → Silas e mentor cercados → flashback da mina (2051) → volta → mentor passa a chave para NEX.
-**Nenhuma imagem foi gerada pelo assistente.** O dono gera no ChatGPT e envia de volta para conferência.
+**ATUALIZAÇÃO 21/11/2026:** as cinco imagens do LOTE 1 (SILAS) foram geradas e, por solicitação do proprietário, arquivadas como **referências oficiais** em `assets/referencias_oficiais/silas/lote_01_2026-11-21/` (branch `dev`) e em `GAMES_IA/PROTOCOLO ZERO/00_REFERENCIAS_APROVADAS/` no Drive. Para continuar no LOTE 2, abrir os **PNGs reais** aprovados; não gerar novo Silas de memória. Os demais lotes ainda não têm imagens confirmadas por esta atualização.
 
 ## Como usar (celular)
 1. Abra uma conversa nova no ChatGPT só para o PROTOCOLO ZERO (o mesmo chat ajuda a manter os rostos iguais).

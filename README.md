@@ -18,6 +18,10 @@
 10. [`docs/MANIFESTO_ASSETS.md`](docs/MANIFESTO_ASSETS.md): inventário e SHA-256 das imagens efetivamente arquivadas.
 11. [`docs/ESTADO_ATUAL.md`](docs/ESTADO_ATUAL.md), [`docs/DECISOES.md`](docs/DECISOES.md), [`docs/HANDOFF.md`](docs/HANDOFF.md) e [`docs/TAREFAS.md`](docs/TAREFAS.md): continuidade técnica e decisões.
 
+## Lote 1 de imagens oficiais do Silas (21/11/2026)
+
+O proprietário autorizou expressamente publicar no repositório público **cinco PNGs de referência oficial**: visual principal, prisioneiro 2054, soldado 2051, expressões de diálogo e poses de ação. Arquivos no [diretório de referências oficiais](assets/referencias_oficiais/silas/lote_01_2026-11-21/) e detalhes/hash no [manifesto](docs/MANIFESTO_ASSETS.md). **Não são sprites finais para Godot**. As fontes também foram preservadas no Drive, e essa duplicação é uma exceção solicitada pelo dono ao protocolo V4.5.
+
 ## Onde estão os arquivos
 
 - **Google Drive:** `GAMES_IA/PROTOCOLO ZERO/`, com seis pastas `00`–`05`; imagens originais e ideias de pré-produção.

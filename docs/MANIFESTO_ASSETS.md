@@ -1,6 +1,6 @@
 # MANIFESTO DE ASSETS — PROTOCOLO ZERO
 
-**Fonte-mestre:** Drive em `GAMES_IA/PROTOCOLO ZERO/`. **GitHub:** sem cópias dessas imagens de pré-produção porque o repositório é público e o protocolo V4.5 reserva este espaço a runtime final. Os registros abaixo são de **posters/concept art**; não são sprites finais nem conteúdo automaticamente validado em cada detalhe.
+**Fonte-mestre:** Drive em `GAMES_IA/PROTOCOLO ZERO/`. **GitHub:** código, documentação, assets finais de runtime e, **por exceção expressamente autorizada pelo proprietário em 21/11/2026**, as cinco folhas oficiais de referência do Silas. O repositório é **público**; essas folhas ficam visíveis publicamente. As imagens abaixo são concept art e folhas de referência, **não spritesheets prontos para engine**.
 
 | ID | Status | Caminho lógico no Drive | No GitHub | Dimensões px | SHA-256 do original |
 |---|---|---|---|---|---|
@@ -19,3 +19,21 @@
 - Formato: `PNG`. Versão: `resgate-v1 (17/11/2026)`. Caminhos no GitHub de runtime: **a definir quando existirem sprites finais**.
 - **Imagens do Silas de cabelo longo/claro e de robô quadrúpede são alternativas históricas**, não base para sprites finais.
 - Manter novas versões e aprovações como linhas separadas; não sobrescrever arquivos arquivados.
+
+
+## Lote 1 — Silas Venn, cinco referências oficiais (21/11/2026)
+
+**Status:** OFICIAL — referência visual autorizada para integrar o GitHub pelo proprietário. **Não confundir com** sprites finais, arquivo de animação implementado ou arte tecnicamente homologada por teste de engine.
+
+| ID / versão | Uso | Status | Caminho no Drive (fonte) | Caminho no GitHub (cópia original PNG) | Dimensão | SHA-256 |
+|---|---|---|---|---|---|---|
+| PZ-SILAS-OFICIAL-01 / v1 | Visual principal: frente, perfil direito e costas | **oficial (referência)** | `00_REFERENCIAS_APROVADAS/PZ-SILAS-OFICIAL-01_visual_principal_turnaround.png` | `assets/referencias_oficiais/silas/lote_01_2026-11-21/PZ-SILAS-OFICIAL-01_visual_principal_turnaround.png` | 1672×941 | `0a42cc6cc8e08f7b8585a8bd42f5743a82b48e294037167f56c11cf273c096c3` |
+| PZ-SILAS-OFICIAL-02 / v1 | Prisioneiro 2054: frente, perfil e costas | **oficial (referência)** | `00_REFERENCIAS_APROVADAS/PZ-SILAS-OFICIAL-02_prisioneiro_2054_turnaround.png` | `assets/referencias_oficiais/silas/lote_01_2026-11-21/PZ-SILAS-OFICIAL-02_prisioneiro_2054_turnaround.png` | 1672×941 | `14b73392186ee2210218c354f847e871e74a295a35832a8d16795df24db1d2a8` |
+| PZ-SILAS-OFICIAL-03 / v1 | Soldado 2051: frente, perfil e costas | **oficial (referência)** | `00_REFERENCIAS_APROVADAS/PZ-SILAS-OFICIAL-03_soldado_2051_turnaround.png` | `assets/referencias_oficiais/silas/lote_01_2026-11-21/PZ-SILAS-OFICIAL-03_soldado_2051_turnaround.png` | 1672×941 | `43a1e2e0fec5502aee4ff70abebdfc506a4c82ca4b0ae0390de575ce24ee0350` |
+| PZ-SILAS-OFICIAL-04 / v1 | Seis expressões para diálogo | **oficial (referência)** | `00_REFERENCIAS_APROVADAS/PZ-SILAS-OFICIAL-04_expressoes_dialogo.png` | `assets/referencias_oficiais/silas/lote_01_2026-11-21/PZ-SILAS-OFICIAL-04_expressoes_dialogo.png` | 1536×1024 | `81ed093be61b7f7f7ef503127309936911c6ccb347b4cb94aa095ccb5efb1434` |
+| PZ-SILAS-OFICIAL-05 / v1 | Cinco poses de ação do prisioneiro | **oficial (referência)** | `00_REFERENCIAS_APROVADAS/PZ-SILAS-OFICIAL-05_poses_acao_prisioneiro.png` | `assets/referencias_oficiais/silas/lote_01_2026-11-21/PZ-SILAS-OFICIAL-05_poses_acao_prisioneiro.png` | 1916×821 | `1eecc5b16a00cc1cf770a2df2cbcc92118fb4a89d58e90216c55cc87cac3a1ec` |
+
+- **Verificado:** upload dos cinco PNGs ao Drive e criação dos cinco blobs originais no GitHub; SHA-256 calculados sobre PNGs materiais e dimensões lidas dos arquivos originais.
+- A identidade canônica do Silas nas cinco folhas corresponde ao briefing do lote 1 de `docs/19_PROMPTS_IMAGENS_FASE1.md` (2051 soldado, 2054 prisioneiro, visual principal, expressões e poses).
+- **Uso na engine:** antes do Godot/PixelLab, recortar, remover fundo cinza se necessário, padronizar pivô/escala, separar poses/quadros e testar; as pranchas originais **não são** atlas operacional, não substituir os PNGs oficiais por exportações sem versionar.
+- Este lote está **deliberadamente duplicado** no GitHub apenas por autorização expressa do dono; demais conceitos e artes inéditas seguem o protocolo universal V4.5.
