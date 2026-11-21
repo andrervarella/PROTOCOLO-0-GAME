@@ -33,6 +33,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 1. Notícia da execução de Silas → Silas vivo fugindo (APROVADA, 084).
 2. Silas e mentor cercados: "Você lembra por que está aqui?" → corte para 2051 (APROVADA, 087).
 3. Mentor fica para trás passando a chave para NEX: "Cuide dele. Ele sabe o caminho." (APROVADA, 089).
+4. Na nave, o ex-líder reconhece Silas: "Você hesitou naquele dia. Eu vi." (APROVADA, 091).
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -46,3 +47,6 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-090 — Pergunta 6/20: identidade do mini-chefe
 **APROVADO: opção B.** O soldado aprimorado enviado pelo comandante (070) é **um ex-colega do esquadrão de Silas em 2051**, que o jogador **conheceu lutando ao seu lado no flashback**; agora volta com **implantes do ÉREBO** para caçar Silas. Mostra que o comandante transforma até os próprios homens em armas. Reaproveita personagem do flashback. **Pendente:** nome, aparência, destino após a luta (morre, foge, pode ser poupado/virar aliado).
+
+## PZ-DEC-091 — Pergunta 7/20: o mineiro de 2051
+**APROVADO: opção A.** O mineiro que Silas **captura e em quem hesita** no flashback de 2051 (088) é **o mesmo ex-líder da revolta** que ele resgata da nave em 2054 (074). Ao reconhecê-lo, diz: **"Você hesitou naquele dia. Eu vi."** É por isso que aceita a aliança por necessidade (075), sem perdoar. **Supera** a ressalva de 074/075 de não afirmar que Silas o capturou pessoalmente: agora **foi Silas**. Fala exata ajustável. A ideia do filho do ex-líder como chefe (080) continua PENDENTE.
