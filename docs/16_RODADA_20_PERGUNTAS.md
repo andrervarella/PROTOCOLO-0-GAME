@@ -49,10 +49,10 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-090 — Pergunta 6/20: identidade do mini-chefe
 **APROVADO: opção B.** O soldado aprimorado enviado pelo comandante (070) é **um ex-colega do esquadrão de Silas em 2051**, que o jogador **conheceu lutando ao seu lado no flashback**; agora volta com **implantes do ÉREBO** para caçar Silas. Mostra que o comandante transforma até os próprios homens em armas. Reaproveita personagem do flashback. **Pendente:** nome, aparência.
-**Escolha menor aprovada (093):** depois de vencê-lo, o jogador decide **poupar ou matar** o ex-colega (consequência a definir; pode afetar aliados).
+**Escolha menor aprovada (093):** depois de vencê-lo, o jogador decide **poupar ou matar** o ex-colega; se poupar, vira aliado possível (098).
 
 ## PZ-DEC-091 — Pergunta 7/20: o mineiro de 2051
-**APROVADO: opção A.** O mineiro que Silas **captura e em quem hesita** no flashback de 2051 (088) é **o mesmo ex-líder da revolta** que ele resgata da nave em 2054 (074). Ao reconhecê-lo, diz: **"Você hesitou naquele dia. Eu vi."** É por isso que aceita a aliança por necessidade (075), sem perdoar. **Supera** a ressalva de 074/075 de não afirmar que Silas o capturou pessoalmente: agora **foi Silas**. Fala exata ajustável. A ideia do filho do ex-líder como chefe (080) continua PENDENTE.
+**APROVADO: opção A.** O mineiro que Silas **captura e em quem hesita** no flashback de 2051 (088) é **o mesmo ex-líder da revolta** que ele resgata da nave em 2054 (074). Ao reconhecê-lo, diz: **"Você hesitou naquele dia. Eu vi."** É por isso que aceita a aliança por necessidade (075), sem perdoar. **Supera** a ressalva de 074/075 de não afirmar que Silas o capturou pessoalmente: agora **foi Silas**. Fala exata ajustável. O filho do ex-líder é ROOK (098).
 
 ## PZ-DEC-092 — Pergunta 8/20: quem escondeu o arquivo
 **APROVADO: opção B.** O arquivo do Protocolo Zero escondido no refúgio (079) foi **montado e entregue à resistência pela médica**, com as provas de sua investigação secreta sobre as transferências (051–058). Silas vê a **assinatura digital dela** e descobre que **ela está viva e lutando do mesmo lado, sem saber que ele está vivo**. Isso motiva o reencontro do meio do jogo (080). Ela segue namorando o homem honesto (050).
@@ -73,8 +73,22 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 - **Unifica** as viradas "revelação do amigo" e "pista plantada" de 080 numa só (aplica 082).
 - **Escolha aprovada:** mais adiante, Silas decide **perdoar ou não** o amigo; se perdoar, ele entra no grupo de **aliados possíveis** (083).
 
-## PZ-DEC-096 — Pergunta 12/20: número de chefes principais
-**APROVADO: "4 chefes" (opção B, conforme apresentada: 4 chefes + ORÁCULO no final).** **KHEIRON é cortado** (eletricidade muito próxima do magnetismo de HÉLIX, mesmo bloco).
-- **ROOK** — ATLAS/mina; **HÉLIX** — HELION/energia; **MAESTRO** e **SEPHRA** — NEXUS; **ORÁCULO** — LIMIAR usada como arma (final).
-- Ritmo: ~1 chefe a cada ~25 min na campanha de 2–3h. Supera a lista de seis de 006.
-**Confirmar:** se o dono quis dizer 4 no total (3 + ORÁCULO), corrigir.
+## PZ-DEC-096 — Pergunta 12/20: número de chefes (SUPERADO por 097)
+Registro anterior: 4 chefes + ORÁCULO, com KHEIRON cortado. **Substituído pela correção do dono em 097.**
+
+## PZ-DEC-097 — Correção do dono: 5 chefes, dois maus, três dilemas
+**APROVADO PELO DONO:**
+- **5 chefes principais**, mesmo que a campanha fique um pouco mais longa. Leitura registrada: **5 chefes + ORÁCULO no final** (a confirmar se o dono quis 5 no total). KHEIRON volta ou é substituído por um conceito novo: **PENDENTE**.
+- **2 chefes são realmente maus:**
+  - **um não pode ser poupado**;
+  - **um pode ser poupado, mas, se for, volta no final de forma surpreendente e luta ao lado do último chefe**, deixando o final mais difícil. Justificativa da volta: **próxima pergunta (14/20)**.
+- **3 chefes são dilemas morais difíceis**: poupar ou não. Exemplo do dono: um deles **tem uma filha refém dos vilões** e por isso fazia o que fazia; os outros com motivos igualmente complexos.
+- **Regra:** cada decisão deve **tocar o jogador** e fazê-lo pensar com **razão, coração ou lógica**. Inspiração em grandes filmes, sem copiar.
+
+## PZ-DEC-098 — Pergunta 13/20: aliados possíveis
+**APROVADO ("Ok"): opção A.** Além de NEX e do mineiro (garantidos), **4 aliados possíveis**, cada um ganho por uma escolha:
+- **ex-colega**, se poupado (090);
+- **prisioneiro**, se o jogador salvar a nave (093);
+- **melhor amigo**, se perdoado (095);
+- **ROOK, filho do mineiro** (capturado por Silas), se for trazido de volta — ROOK é um dos chefes de dilema.
+Os demais chefes poupados **sobrevivem e ajudam na batalha final**, mas não lutam com Silas. O chefe mau poupado é a exceção: volta contra ele (097).
