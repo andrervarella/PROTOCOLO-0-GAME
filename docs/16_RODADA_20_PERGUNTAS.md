@@ -35,6 +35,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 3. Mentor fica para trás passando a chave para NEX: "Cuide dele. Ele sabe o caminho." (APROVADA, 089).
 4. Na nave, o ex-líder reconhece Silas: "Você hesitou naquele dia. Eu vi." (APROVADA, 091).
 5. No refúgio, Silas vê a assinatura da médica no arquivo e descobre que ela está viva e lutando (APROVADA, 092).
+6. Reencontro: a médica aponta a arma, "Prove que é você"; ele prova com uma lembrança (APROVADA, 094).
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
@@ -63,3 +64,6 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 - Os dois caminhos convergem: o **reencontro real acontece no meio do jogo** (duas cenas diferentes, não duas campanhas).
 **Restrição do dono:** esta escolha **NÃO pode fazer Silas perder a médica no final**, qualquer que seja a opção. Ela afeta aliados, não o destino dela.
 **Também aprovado:** a opção C (poupar ou matar o ex-colega mini-chefe) entra como **escolha menor** logo após essa luta (090).
+
+## PZ-DEC-094 — Pergunta 10/20: reencontro com a médica (meio do jogo)
+**APROVADO: opção A.** A médica **aponta uma arma para Silas**: ela rastreava um paciente com o corpo dele e suspeita de uma cópia. Diz **"Prove que é você."** Silas prova **não pelo corpo, mas por uma lembrança que só os dois têm**. Tema: **o corpo pode ser copiado; a pessoa, não**. Prepara a virada do Molde (080) sem explicá-la. **Pendente:** qual lembrança; falas exatas.
