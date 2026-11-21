@@ -6,7 +6,8 @@ Leia `README.md`, `docs/00_RESUMO_DE_CONTINUIDADE.md`, `docs/DECISOES.md`, `docs
 1. **`docs/17_DOCUMENTO_MESTRE.md`** — documento-mestre: jogabilidade, história amarrada, estrutura, produção, ferramentas e marketing. Contém **PZ-DEC-109** (cena do NEX antes da escolha final).
 2. **`docs/18_FICHAS_DE_PERSONAGENS.md`** — nomes, personalidades, aparências e prompts de imagem. Contém **PZ-DEC-110**. Nomes decididos pelo assistente por delegação do dono.
 3. **`docs/15_ARCO_COMPLETO_E_REVIRAVOLTAS.md`** — história completa v2.
-4. **`docs/16_RODADA_20_PERGUNTAS.md`** — decisões PZ-DEC-081 a 108. Revisam partes de PZ-DEC-080 e de decisões anteriores (ex.: virada do Molde cancelada; namorado da médica é o executivo da NEXUS; ex-líder mineiro foi capturado pessoalmente por Silas; 5 chefes + ORÁCULO; 5 finais). **Em conflito, vale o mais recente.**
+4. **`docs/20_PILOTO_FASE1_GODOT.md`** — piloto jogável da fase 1 (Godot 4.3, pasta `game/`, build web no branch `web-build`).
+5. **`docs/16_RODADA_20_PERGUNTAS.md`** — decisões PZ-DEC-081 a 108. Revisam partes de PZ-DEC-080 e de decisões anteriores (ex.: virada do Molde cancelada; namorado da médica é o executivo da NEXUS; ex-líder mineiro foi capturado pessoalmente por Silas; 5 chefes + ORÁCULO; 5 finais). **Em conflito, vale o mais recente.**
 As decisões 081–110 ainda não foram copiadas para `DECISOES.md`, `00_RESUMO`, `HANDOFF`, `ESTADO_ATUAL` e `TAREFAS` (consolidação pendente).
 
 ## Preservação e precisão

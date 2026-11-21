@@ -237,3 +237,12 @@ O trabalho desta atualização é só documentação, não construção nem test
 
 ## PZ-T-008 — missão de defesa ao refúgio (20/11/2026)
 **PZ-DEC-078:** equipe chega e encontra máquinas militares atacando resistência; missão de defesa imediatamente jogável. **Próximo passo narrativo:** escolher resultado e consequência do ataque. Depois roteiro compacto de objetivos, interações Silas/mineiro/NEX, sem assumir culpado, perdas ou sistema tático. Ainda não houve implementação nem consumo de créditos.
+
+## PZ-T-009 — Piloto jogável da fase 1 (21/11/2026)
+- [x] Projeto Godot 4.3 em `game/` com o prólogo inteiro (cela → corredor → laboratório → hangar → mina 2051 → galeria → sacrifício → portão).
+- [x] Controles de toque, teclado e controle; exportação web sem threads.
+- [x] Teste automático completo + teste no Chrome com toque.
+- [ ] Dono jogar no celular e dar feedback (controle, ritmo, dificuldade).
+- [ ] Aprovar falas PROPOSTA do piloto (doc 20).
+- [ ] Trocar arte provisória por sprites (após lotes do doc 19).
+- [ ] Sons e música.

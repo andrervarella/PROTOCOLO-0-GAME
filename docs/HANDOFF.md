@@ -245,3 +245,9 @@ O dono escolheu **A na 43ª pergunta**: **a equipe leva sobreviventes resgatados
 ## CANÔNICO — PZ-DEC-078: refúgio atacado por máquinas militares (20/11/2026)
 O dono respondeu **“Escolho B: máquinas militares estão atacando o refúgio.”** Quando Silas, NEX e ex-líder mineiro chegam ao refúgio levando sobreviventes (077), **máquinas militares JÁ ESTÃO atacando**. Entrar imediatamente em **missão jogável de defesa**. A defesa mostra Silas protegendo pessoas e combate cooperativo com o mineiro (pesado industrial; desconfiança e amizade gradual 075/076), NEX em suporte de comando simples. **NÃO presumir** rastreamento do transporte, infiltrado, sabotagem energética, mandante, refúgio destruído, mortos ou vitória fácil; essas opções/detalhes não foram escolhidos.
 **PRÓXIMA PERGUNTA:** consequência dramática/resultados da defesa que façam trama progredir. Evitar prolixidade, campanha 2–3h e mecânica híbrida apenas em protótipo. Nada implementado/gerado/gasto.
+
+## PILOTO JOGÁVEL DA FASE 1 — Godot 4.3 + web (21/11/2026)
+- Código em `game/`; guia completo em `docs/20_PILOTO_FASE1_GODOT.md`.
+- Link para jogar no celular: projeto Vercel `protocolo-zero-piloto`, servido do branch `web-build` (só o build web, sobrescrito a cada versão).
+- Testado por robô do início ao fim sem erros de script e no Chrome com toque em tela de celular. **Não testado em celular real nem balanceado.**
+- Arte, falas novas e números são PROPOSTA/PROVISÓRIO. Próximo: feedback do dono jogando; imagens dos lotes do doc 19.
