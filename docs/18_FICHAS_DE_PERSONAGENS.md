@@ -1,14 +1,21 @@
 # PROTOCOLO ZERO — FICHAS DE PERSONAGENS
-**Versão 1 — 21/11/2026.** Complementa `docs/17_DOCUMENTO_MESTRE.md` (§10).
+**Versão 1.1 — 21/11/2026.** Complementa `docs/17_DOCUMENTO_MESTRE.md` (§10).
 
 ## PZ-DEC-110 — Personalidades únicas e delegação dos nomes
 **APROVADO PELO DONO:**
 - Cada personagem tem **personalidade única e marcante**. Traços pedidos: **engraçado, desastrado, rabugento, focado, maluco, "meio acetinado", feioso, gordo, acelerado**.
 - Características **visuais e físicas únicas**, com **muita diversidade**.
 - O dono aprovou a distribuição proposta e **delegou ao assistente os nomes e as fichas**, "levando em consideração tudo que conversamos".
-**Interpretação a confirmar:** "meio acetinado" foi lido como **refinado/metido** (atribuído ao namorado executivo).
+- **"Meio acetinado" = refinado/metido**, atribuído ao namorado executivo (confirmado pelo dono: "Ok meio acetinado").
 **Estado dos nomes e fichas abaixo:** `DECIDIDO PELO ASSISTENTE POR DELEGAÇÃO` — valem como cânone de trabalho, mas o dono pode trocar qualquer item a qualquer momento.
 **Regras mantidas:** Silas com **cabelo preto curto** e barba (002/003); NEX **bípede** (004); nada de clichê "feio = mau" ou "gordo = piada".
+
+## PZ-DEC-111 — Destino de Julian: redenção
+**APROVADO PELO DONO:** Julian Ashford, o namorado executivo chantageado (101), tem um **arco de redenção**.
+**`[PROPOSTA]` de como acontece:** depois da revelação (cutscene #8), Julian **confessa tudo à médica** e usa o **acesso de executivo da NEXUS** para abrir o caminho até o núcleo do ORÁCULO, sabendo que isso o expõe ao comandante. Frase-guia: *"Eu fiz tudo isso para ela viver. Agora vou fazer uma coisa para ela se orgulhar."*
+- Ele **não vira aliado de combate** (o grupo continua enxuto, 083); ajuda em cena e na batalha final.
+- Nos finais em que Silas fica com a médica, Julian **aceita e sai de cena com dignidade**; no épico solitário, ele continua ao lado dela, redimido.
+- Detalhes (risco de morrer na redenção ou não, falas finais) `[PENDENTE]`.
 
 ## Teste de identidade (cada ficha passa nos 4)
 1. **Silhueta** reconhecível só pela sombra. 2. **Um traço marcante no rosto.** 3. **Paleta própria.** 4. **Jeito de falar** reconhecível numa linha.
@@ -60,7 +67,7 @@ Gerar **primeiro a folha de referência** de cada personagem e reutilizá-la com
 - **Aparência:** ~40 anos, magro, **cabelo grisalho perfeitamente penteado**, barba feita, **terno impecável**; um tique: ajeita as abotoaduras quando mente.
 - **Paleta:** cinza-pérola, azul-marinho, **prata**.
 - **Prompt:** `[estilo-base], JULIAN ASHFORD, 40-year-old slim elegant executive, perfectly combed silver-grey hair, clean shaven, flawless navy suit, silver cufflinks, polite but nervous expression, pearl grey and silver accents`
-- **Destino:** `[PENDENTE — decisão do dono]`.
+- **Destino:** **redenção** (111).
 
 ## 6. TEO BRANDT — o desastrado (melhor amigo)
 - **Papel:** entregou Silas enganado; ajudou a médica em segredo por três anos (095). Aliado possível se perdoado.
@@ -126,6 +133,5 @@ Gerar **primeiro a folha de referência** de cada personagem e reutilizá-la com
 | Refém | Alma Reyes (filha de HÉLIX) | Corajosa, ~9 anos | Moletom grande demais, segurando o desenho que o pai leva |
 
 ## Pendências
-- Confirmar o significado de "meio acetinado".
-- Destino de Julian (dono).
+- Detalhes da redenção de Julian (111).
 - Folhas de referência: gerar **só quando o dono pedir** (custo).
