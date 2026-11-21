@@ -43,3 +43,6 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-089 — Pergunta 5/20: morte do mentor
 **APROVADO: opção C.** Na volta a 2054 (087), o mentor **fica para trás para terminar de passar uma chave para NEX** enquanto os guardas chegam. Última fala proposta: **"Cuide dele. Ele sabe o caminho."** Sacrifício consciente (060); NEX segue IA própria, não a consciência do mentor (034). A chave é o que permitirá libertar LIMIAR (080). Fala exata ajustável.
+
+## PZ-DEC-090 — Pergunta 6/20: identidade do mini-chefe
+**APROVADO: opção B.** O soldado aprimorado enviado pelo comandante (070) é **um ex-colega do esquadrão de Silas em 2051**, que o jogador **conheceu lutando ao seu lado no flashback**; agora volta com **implantes do ÉREBO** para caçar Silas. Mostra que o comandante transforma até os próprios homens em armas. Reaproveita personagem do flashback. **Pendente:** nome, aparência, destino após a luta (morre, foge, pode ser poupado/virar aliado).
