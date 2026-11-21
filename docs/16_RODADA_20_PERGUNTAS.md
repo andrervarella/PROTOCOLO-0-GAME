@@ -35,3 +35,7 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
 **APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
+
+## PZ-DEC-088 — Pergunta 4/20: fim do flashback de 2051
+**APROVADO: opção B (o dono discordou da recomendação A).** Na mina, Silas **captura um mineiro, olha para ele e percebe que não é um terrorista: hesita**. Motivo do dono: mostrar **sensibilidade e senso de bondade**; o jogador já percebe que aquilo não é justiça, enquanto Silas ainda acha que é, criando **dualidade e empatia** quando ele descobre a verdade.
+**Leitura coerente com 026/029 (confirmar se necessário):** a hesitação é o começo da dúvida; Silas **ainda cumpre a ordem** naquele momento, e a descoberta da conspiração vem depois (044). A frase do mineiro e a manchete "herói na TV" (opção A) **não foram aprovadas**.
