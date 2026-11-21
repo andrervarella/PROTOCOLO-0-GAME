@@ -27,4 +27,11 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 
 ## PZ-DEC-086 — Diretriz do dono: cutscenes de 10–20 s
 **DIRETRIZ APROVADA:** o assistente pode indicar momentos para **cutscenes narrativas de 10 a 20 segundos** sempre que forem interessantes, **sem exagero e sem pesar no jogo**. Primeira aprovada: **a notícia da execução de Silas** (abertura, 084). Diferente das microcutscenes de golpes especiais (~5 s, 080).
-**Proposta do assistente (PENDENTE):** teto de **~8–10 cutscenes narrativas** na campanha inteira; momentos menores feitos dentro do próprio jogo (engine), para controlar custo e manter consistência visual. Lista de candidatas será montada ao longo da rodada. Nenhum vídeo gerado.
+**Teto aprovado ("gostei bastante", 20/11):** **~8–10 cutscenes narrativas** na campanha inteira; momentos menores feitos dentro do próprio jogo (engine), para controlar custo e manter consistência visual. Nenhum vídeo gerado.
+
+### Lista de cutscenes candidatas
+1. Notícia da execução de Silas → Silas vivo fugindo (APROVADA, 084).
+2. Silas e mentor cercados: "Você lembra por que está aqui?" → corte para 2051 (APROVADA, 087).
+
+## PZ-DEC-087 — Pergunta 3/20: corte para o flashback
+**APROVADO: opção B.** No **auge da fuga**, Silas e o mentor ficam **cercados**; o mentor pergunta **"Você lembra por que está aqui?"** e a cena corta para a missão jogável de **2051**. Ao voltar a 2054, segue **direto para o sacrifício do mentor** (060). Contraste: em 2051 Silas é forte e equipado; na volta, está fraco e perde o mentor. Fala exata ainda ajustável.
