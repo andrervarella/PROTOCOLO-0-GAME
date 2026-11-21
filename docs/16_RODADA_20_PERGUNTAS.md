@@ -72,3 +72,9 @@ Iniciada em 20/11/2026. Registro rápido por resposta; ao final da rodada, conso
 **APROVADO: opção A.** Na mesma fase do reencontro, **a médica revela duas verdades numa cena só**: o melhor amigo **entregou Silas** (enganado pelo comandante, 030/046) **e** é **quem a ajuda em segredo há três anos**, passando as provas usadas no arquivo. Frase-guia: **"O homem que te traiu é o mesmo que tentou te salvar."**
 - **Unifica** as viradas "revelação do amigo" e "pista plantada" de 080 numa só (aplica 082).
 - **Escolha aprovada:** mais adiante, Silas decide **perdoar ou não** o amigo; se perdoar, ele entra no grupo de **aliados possíveis** (083).
+
+## PZ-DEC-096 — Pergunta 12/20: número de chefes principais
+**APROVADO: "4 chefes" (opção B, conforme apresentada: 4 chefes + ORÁCULO no final).** **KHEIRON é cortado** (eletricidade muito próxima do magnetismo de HÉLIX, mesmo bloco).
+- **ROOK** — ATLAS/mina; **HÉLIX** — HELION/energia; **MAESTRO** e **SEPHRA** — NEXUS; **ORÁCULO** — LIMIAR usada como arma (final).
+- Ritmo: ~1 chefe a cada ~25 min na campanha de 2–3h. Supera a lista de seis de 006.
+**Confirmar:** se o dono quis dizer 4 no total (3 + ORÁCULO), corrigir.
